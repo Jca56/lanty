@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 70 55" width="140" height="110">
+  <defs>
+    <radialGradient id="rockG" cx="35%" cy="30%" r="65%">
+      <stop offset="0%" stop-color="#aaaaaa"/><stop offset="100%" stop-color="#555555"/>
+    </radialGradient>
+    <filter id="sh"><feDropShadow dx="2" dy="3" stdDeviation="3" flood-color="#000" flood-opacity="0.4"/></filter>
+  </defs>
+  <g filter="url(#sh)">
+    <path d="M8,48 Q5,30 18,18 Q32,6 50,10 Q64,14 65,30 Q66,46 50,50 Q30,54 8,48 Z" fill="url(#rockG)"/>
+    <path d="M15,28 Q28,20 42,26" fill="none" stroke="#888888" stroke-width="1.5" opacity="0.4" stroke-linecap="round"/>
+    <path d="M18,18 Q32,12 46,18" fill="none" stroke="#cccccc" stroke-width="3" stroke-linecap="round" opacity="0.35"/>
+  </g>
+</svg>

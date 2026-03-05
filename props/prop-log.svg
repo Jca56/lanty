@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 70" width="320" height="140">
+  <defs>
+    <linearGradient id="logG" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#996633"/><stop offset="100%" stop-color="#553311"/>
+    </linearGradient>
+    <filter id="sh"><feDropShadow dx="2" dy="4" stdDeviation="4" flood-color="#000" flood-opacity="0.35"/></filter>
+  </defs>
+  <g filter="url(#sh)">
+    <!-- Log body -->
+    <rect x="15" y="22" width="130" height="38" rx="8" fill="url(#logG)"/>
+    <!-- Bark texture -->
+    <g stroke="#553311" stroke-width="1" opacity="0.4" fill="none">
+      <path d="M30,22 Q28,30 30,60"/><path d="M50,22 Q52,35 50,60"/>
+      <path d="M70,22 Q68,35 70,60"/><path d="M90,22 Q92,35 90,60"/>
+      <path d="M110,22 Q108,35 110,60"/><path d="M130,22 Q132,35 130,60"/>
+    </g>
+    <!-- Left end face -->
+    <ellipse cx="15" cy="41" rx="10" ry="19" fill="#bb7744"/>
+    <ellipse cx="15" cy="41" rx="7"  ry="14" fill="#996633"/>
+    <ellipse cx="15" cy="41" rx="4"  ry="9"  fill="#774422"/>
+    <ellipse cx="15" cy="41" rx="2"  ry="4.5" fill="#553311"/>
+    <!-- Right end face -->
+    <ellipse cx="145" cy="41" rx="10" ry="19" fill="#bb7744"/>
+    <ellipse cx="145" cy="41" rx="7"  ry="14" fill="#996633"/>
+    <ellipse cx="145" cy="41" rx="4"  ry="9"  fill="#774422"/>
+    <ellipse cx="145" cy="41" rx="2"  ry="4.5" fill="#553311"/>
+    <!-- Moss on top -->
+    <ellipse cx="50"  cy="24" rx="12" ry="4" fill="#558844" opacity="0.5"/>
+    <ellipse cx="100" cy="23" rx="15" ry="4" fill="#448833" opacity="0.45"/>
+    <!-- Mushroom on log -->
+    <path d="M82,22 Q80,16 82,14 Q84,12 86,14 Q88,16 86,22 Z" fill="#f0ece0"/>
+    <ellipse cx="84" cy="14" rx="7" ry="4.5" fill="#cc4422"/>
+    <circle cx="82" cy="13" r="1.5" fill="#fff" opacity="0.8"/>
+    <circle cx="86" cy="12" r="1.2" fill="#fff" opacity="0.7"/>
+  </g>
+</svg>

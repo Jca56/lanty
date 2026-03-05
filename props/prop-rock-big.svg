@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 90" width="240" height="180">
+  <defs>
+    <radialGradient id="rockG" cx="35%" cy="30%" r="65%">
+      <stop offset="0%" stop-color="#999988"/><stop offset="100%" stop-color="#444433"/>
+    </radialGradient>
+    <filter id="sh"><feDropShadow dx="3" dy="5" stdDeviation="5" flood-color="#000" flood-opacity="0.4"/></filter>
+  </defs>
+  <g filter="url(#sh)">
+    <path d="M10,80 Q8,55 20,38 Q35,18 60,16 Q85,14 100,35 Q115,55 112,78 Q85,88 60,88 Q30,88 10,80 Z" fill="url(#rockG)"/>
+    <!-- Rock face details -->
+    <path d="M25,50 Q35,42 50,46 Q62,50 70,44" fill="none" stroke="#666655" stroke-width="2" opacity="0.5" stroke-linecap="round"/>
+    <path d="M55,62 Q68,58 80,62" fill="none" stroke="#666655" stroke-width="1.5" opacity="0.4" stroke-linecap="round"/>
+    <!-- Highlight -->
+    <path d="M28,32 Q50,22 72,30" fill="none" stroke="#bbbbaa" stroke-width="5" stroke-linecap="round" opacity="0.4"/>
+    <!-- Moss patch -->
+    <ellipse cx="88" cy="70" rx="12" ry="7" fill="#558844" opacity="0.4"/>
+    <ellipse cx="18" cy="68" rx="8"  ry="5" fill="#558844" opacity="0.35"/>
+  </g>
+</svg>

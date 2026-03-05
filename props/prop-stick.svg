@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 140 30" width="280" height="60">
+  <defs>
+    <filter id="sh"><feDropShadow dx="1" dy="2" stdDeviation="2" flood-color="#000" flood-opacity="0.3"/></filter>
+  </defs>
+  <g filter="url(#sh)">
+    <path d="M8,22 Q30,14 60,12 Q90,10 120,16 Q132,18 134,20" fill="none" stroke="#774422" stroke-width="7" stroke-linecap="round"/>
+    <path d="M8,22 Q30,14 60,12 Q90,10 120,16 Q132,18 134,20" fill="none" stroke="#996633" stroke-width="4" stroke-linecap="round" opacity="0.6"/>
+    <!-- Knot -->
+    <ellipse cx="72" cy="12" rx="6" ry="4" fill="#553311" opacity="0.5" transform="rotate(-5,72,12)"/>
+    <!-- Small branch stub -->
+    <path d="M95,11 Q100,5 104,3" fill="none" stroke="#774422" stroke-width="4" stroke-linecap="round"/>
+    <path d="M95,11 Q100,5 104,3" fill="none" stroke="#996633" stroke-width="2.5" stroke-linecap="round" opacity="0.5"/>
+  </g>
+</svg>

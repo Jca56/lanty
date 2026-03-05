@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60 90" width="120" height="180">
+  <defs>
+    <filter id="sh"><feDropShadow dx="1" dy="2" stdDeviation="2" flood-color="#000" flood-opacity="0.25"/></filter>
+  </defs>
+  <g filter="url(#sh)">
+    <!-- Stem -->
+    <path d="M30,88 Q28,72 30,55" fill="none" stroke="#338822" stroke-width="3.5" stroke-linecap="round"/>
+    <!-- Leaf -->
+    <path d="M29,72 Q18,66 16,58 Q22,56 30,64" fill="#44aa33"/>
+    <path d="M31,68 Q42,62 44,54 Q38,52 30,60" fill="#338822"/>
+    <!-- Petals -->
+    <g fill="#ffffff" stroke="#ddddcc" stroke-width="0.5">
+      <ellipse cx="30" cy="38" rx="5"   ry="11" transform="rotate(0,30,38)"/>
+      <ellipse cx="30" cy="38" rx="5"   ry="11" transform="rotate(45,30,28)"/>
+      <ellipse cx="30" cy="38" rx="5"   ry="11" transform="rotate(90,30,28)"/>
+      <ellipse cx="30" cy="38" rx="5"   ry="11" transform="rotate(135,30,28)"/>
+      <ellipse cx="30" cy="38" rx="5"   ry="11" transform="rotate(180,30,28)"/>
+      <ellipse cx="30" cy="38" rx="5"   ry="11" transform="rotate(225,30,28)"/>
+      <ellipse cx="30" cy="38" rx="5"   ry="11" transform="rotate(270,30,28)"/>
+      <ellipse cx="30" cy="38" rx="5"   ry="11" transform="rotate(315,30,28)"/>
+    </g>
+    <!-- Center -->
+    <circle cx="30" cy="28" r="10" fill="#ffcc00"/>
+    <circle cx="30" cy="28" r="7"  fill="#ffaa00"/>
+    <circle cx="30" cy="28" r="4"  fill="#ff8800" opacity="0.6"/>
+    <!-- Center dots -->
+    <g fill="#cc6600" opacity="0.6">
+      <circle cx="27" cy="26" r="1.2"/><circle cx="33" cy="26" r="1.2"/>
+      <circle cx="30" cy="24" r="1.2"/><circle cx="30" cy="31" r="1.2"/>
+      <circle cx="26" cy="30" r="1"/><circle cx="34" cy="30" r="1"/>
+    </g>
+  </g>
+</svg>

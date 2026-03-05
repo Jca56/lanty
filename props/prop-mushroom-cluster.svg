@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 100" width="240" height="200">
+  <defs>
+    <radialGradient id="c1" cx="38%" cy="28%" r="65%">
+      <stop offset="0%" stop-color="#ff6644"/><stop offset="100%" stop-color="#991100"/>
+    </radialGradient>
+    <radialGradient id="c2" cx="38%" cy="28%" r="65%">
+      <stop offset="0%" stop-color="#cc8844"/><stop offset="100%" stop-color="#774422"/>
+    </radialGradient>
+    <radialGradient id="c3" cx="38%" cy="28%" r="65%">
+      <stop offset="0%" stop-color="#ffaa22"/><stop offset="100%" stop-color="#885500"/>
+    </radialGradient>
+    <filter id="sh"><feDropShadow dx="2" dy="3" stdDeviation="3" flood-color="#000" flood-opacity="0.3"/></filter>
+  </defs>
+  <g filter="url(#sh)">
+    <!-- Left mushroom -->
+    <path d="M18,98 Q16,84 19,76 L31,76 Q34,84 32,98 Z" fill="#eee8d8"/>
+    <path d="M6,72 Q6,50 24,46 Q42,50 42,72 Q34,80 24,81 Q14,80 6,72 Z" fill="url(#c1)"/>
+    <circle cx="24" cy="58" r="6"  fill="#fff" opacity="0.88"/>
+    <circle cx="13" cy="66" r="4"  fill="#fff" opacity="0.8"/>
+    <circle cx="35" cy="66" r="4"  fill="#fff" opacity="0.8"/>
+    <!-- Center mushroom (tall) -->
+    <path d="M52,98 Q50,78 53,68 L67,68 Q70,78 68,98 Z" fill="#f0ece0"/>
+    <path d="M36,60 Q36,34 60,30 Q84,34 84,60 Q72,72 60,73 Q48,72 36,60 Z" fill="url(#c2)"/>
+    <circle cx="60" cy="44" r="8"  fill="#fff" opacity="0.9"/>
+    <circle cx="44" cy="56" r="5"  fill="#fff" opacity="0.85"/>
+    <circle cx="76" cy="56" r="5"  fill="#fff" opacity="0.85"/>
+    <circle cx="50" cy="36" r="3.5" fill="#fff" opacity="0.8"/>
+    <circle cx="70" cy="37" r="3.5" fill="#fff" opacity="0.8"/>
+    <!-- Right small mushroom -->
+    <path d="M88,98 Q87,88 89,82 L97,82 Q99,88 98,98 Z" fill="#eee8d8"/>
+    <path d="M80,78 Q80,62 93,60 Q106,62 106,78 Q100,84 93,85 Q86,84 80,78 Z" fill="url(#c3)"/>
+    <circle cx="93" cy="68" r="5"  fill="#fff" opacity="0.85"/>
+    <circle cx="85" cy="74" r="3"  fill="#fff" opacity="0.8"/>
+    <circle cx="101" cy="74" r="3" fill="#fff" opacity="0.8"/>
+    <!-- Moss base -->
+    <ellipse cx="60" cy="97" rx="52" ry="5" fill="#336622" opacity="0.35"/>
+  </g>
+</svg>
