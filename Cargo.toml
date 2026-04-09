@@ -1,14 +1,39 @@
 [package]
 name = "lanty"
 version = "0.1.0"
-edition = "2021"
+edition = "2024"
+description = "A from-scratch transformer language model"
+
+[[bin]]
+name = "lanty"
+path = "src/main.rs"
+
+[[bin]]
+name = "lanty-train-tokenizer"
+path = "src/bin/train_tokenizer.rs"
+
+[[bin]]
+name = "lanty-train"
+path = "src/bin/train_model.rs"
+
+[[bin]]
+name = "lanty-prepare-data"
+path = "src/bin/prepare_data.rs"
+
+[[bin]]
+name = "lanty-test-generate"
+path = "src/bin/test_generate.rs"
 
 [dependencies]
-x11rb = { version = "0.13", features = ["allow-unsafe-code"] }
-resvg = "0.47"
-usvg = "0.47"
-tiny-skia = "0.12"
+ndarray = { version = "0.16", features = ["rayon", "serde"] }
+ndarray-rand = "0.15"
 rand = "0.8"
-ureq = { version = "2", features = ["json"] }
+rand_distr = "0.4"
 serde = { version = "1", features = ["derive"] }
 serde_json = "1"
+bincode = "1"
+rayon = "1.10"
+indicatif = "0.17"
+regex = "1"
+ureq = "2"
+flate2 = "1"
