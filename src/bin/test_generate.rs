@@ -1,9 +1,11 @@
 /// Quick test of text generation (non-interactive)
 use lanty::generate::{generate, GenerateConfig};
+use lanty::tensor::init_gpu;
 use lanty::tokenizer::Tokenizer;
 use lanty::transformer::Transformer;
 
 fn main() {
+    init_gpu();
     let tokenizer = Tokenizer::load("models/tokenizer.json").expect("Failed to load tokenizer");
     let model = Transformer::load("models/model.bin").expect("Failed to load model");
 

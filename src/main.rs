@@ -1,14 +1,20 @@
-/// Lanty AI - Terminal Chat Interface
+/// Lanty AI - Terminal Chat Interface with TUI
 ///
 /// Usage: lanty [model_path] [tokenizer_path]
 /// Defaults to models/model.bin and models/tokenizer.json
-use std::io::{self, Write};
+use std::io;
+
+use crossterm::event;
 
 use lanty::generate::{generate, GenerateConfig};
+use lanty::tensor::init_gpu;
 use lanty::tokenizer::Tokenizer;
 use lanty::transformer::Transformer;
+use lanty::tui::{self, ChatMessage, Mood, TuiState};
 
 fn main() {
+    init_gpu();
+
     let args: Vec<String> = std::env::args().collect();
     let model_path = args.get(1).map(|s| s.as_str()).unwrap_or("models/model.bin");
     let tokenizer_path = args
@@ -16,86 +22,120 @@ fn main() {
         .map(|s| s.as_str())
         .unwrap_or("models/tokenizer.json");
 
-    println!("=== Lanty AI ===");
-    println!();
-
     // Load tokenizer
-    print!("Loading tokenizer...");
-    io::stdout().flush().unwrap();
     let tokenizer = match Tokenizer::load(tokenizer_path) {
-        Ok(t) => {
-            println!(" done! ({} tokens)", t.vocab_size);
-            t
-        }
+        Ok(t) => t,
         Err(e) => {
-            eprintln!("\nError loading tokenizer from '{}': {}", tokenizer_path, e);
+            eprintln!("Error loading tokenizer from '{}': {}", tokenizer_path, e);
             eprintln!("Have you trained a tokenizer yet? Run: lanty-train-tokenizer");
             std::process::exit(1);
         }
     };
 
     // Load model
-    print!("Loading model...");
-    io::stdout().flush().unwrap();
     let model = match Transformer::load(model_path) {
-        Ok(m) => {
-            println!(
-                " done! ({:.1}M parameters)",
-                m.total_params() as f64 / 1_000_000.0
-            );
-            m
-        }
+        Ok(m) => m,
         Err(e) => {
-            eprintln!("\nError loading model from '{}': {}", model_path, e);
+            eprintln!("Error loading model from '{}': {}", model_path, e);
             eprintln!("Have you trained a model yet? Run: lanty-train");
             std::process::exit(1);
         }
     };
 
-    println!();
-    println!("Type your message and press Enter. Type 'quit' to exit.");
-    println!("Commands: /temp <value> - set temperature, /topk <value> - set top-k");
-    println!();
+    let model_info = format!(
+        " {:.1}M params\n d={}  h={}  L={}",
+        model.total_params() as f64 / 1_000_000.0,
+        model.config.d_model,
+        model.config.n_heads,
+        model.config.n_layers,
+    );
 
     let mut config = GenerateConfig::default();
 
-    loop {
-        print!("You: ");
-        io::stdout().flush().unwrap();
+    // Initialize TUI
+    let mut terminal = tui::init_terminal().expect("Failed to initialize terminal");
+    let mut state = TuiState::new(model_info);
 
-        let mut input = String::new();
-        if io::stdin().read_line(&mut input).is_err() {
-            break;
-        }
-        let input = input.trim();
+    // Main loop
+    let result = run_app(&mut terminal, &mut state, &model, &tokenizer, &mut config);
 
-        if input.is_empty() {
-            continue;
-        }
-        if input == "quit" || input == "exit" {
-            println!("Goodbye!");
-            break;
-        }
+    // Restore terminal
+    tui::restore_terminal(&mut terminal).expect("Failed to restore terminal");
 
-        // Handle commands
-        if input.starts_with("/temp ") {
-            if let Ok(temp) = input[6..].trim().parse::<f32>() {
-                config.temperature = temp.max(0.1).min(2.0);
-                println!("Temperature set to {:.2}", config.temperature);
-            }
-            continue;
-        }
-        if input.starts_with("/topk ") {
-            if let Ok(k) = input[6..].trim().parse::<usize>() {
-                config.top_k = k.max(1).min(200);
-                println!("Top-k set to {}", config.top_k);
-            }
-            continue;
-        }
-
-        // Generate response
-        let response = generate(&model, &tokenizer, input, &config);
-        println!("Lanty: {}", response);
-        println!();
+    if let Err(e) = result {
+        eprintln!("Error: {}", e);
+        std::process::exit(1);
     }
+}
+
+fn run_app(
+    terminal: &mut ratatui::Terminal<ratatui::prelude::CrosstermBackend<io::Stdout>>,
+    state: &mut TuiState,
+    model: &Transformer,
+    tokenizer: &Tokenizer,
+    config: &mut GenerateConfig,
+) -> io::Result<()> {
+    loop {
+        terminal.draw(|frame| tui::draw(frame, state))?;
+
+        let ev = event::read()?;
+        match tui::handle_key(state, &ev) {
+            Err(()) => break, // quit
+            Ok(Some(input)) => {
+                // Handle commands
+                if input == "quit" || input == "exit" {
+                    break;
+                }
+                if input.starts_with("/temp ") {
+                    if let Ok(temp) = input[6..].trim().parse::<f32>() {
+                        config.temperature = temp.max(0.1).min(2.0);
+                        state.messages.push(ChatMessage {
+                            sender: "System".into(),
+                            text: format!("Temperature set to {:.2}", config.temperature),
+                        });
+                    }
+                    continue;
+                }
+                if input.starts_with("/topk ") {
+                    if let Ok(k) = input[6..].trim().parse::<usize>() {
+                        config.top_k = k.max(1).min(200);
+                        state.messages.push(ChatMessage {
+                            sender: "System".into(),
+                            text: format!("Top-k set to {}", config.top_k),
+                        });
+                    }
+                    continue;
+                }
+
+                // Add user message
+                state.messages.push(ChatMessage {
+                    sender: "You".into(),
+                    text: input.clone(),
+                });
+                state.mood = Mood::Thinking;
+
+                // Redraw with "thinking" state
+                terminal.draw(|frame| tui::draw(frame, state))?;
+
+                // Generate response
+                let response = generate(model, tokenizer, &input, config);
+
+                state.mood = Mood::Happy;
+                state.messages.push(ChatMessage {
+                    sender: "Lanty".into(),
+                    text: response,
+                });
+
+                // After a moment, go back to idle
+                // (mood resets on next input)
+            }
+            Ok(None) => {
+                // No action, just redraw on next iteration
+                if state.mood == Mood::Happy {
+                    state.mood = Mood::Idle;
+                }
+            }
+        }
+    }
+    Ok(())
 }

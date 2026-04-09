@@ -3,11 +3,13 @@
 /// Usage: lanty-train [--tiny|--small] [--epochs N] [--lr RATE]
 use std::fs;
 
+use lanty::tensor::init_gpu;
 use lanty::tokenizer::Tokenizer;
 use lanty::training::*;
 use lanty::transformer::*;
 
 fn main() {
+    init_gpu();
     let args: Vec<String> = std::env::args().collect();
 
     // Parse arguments

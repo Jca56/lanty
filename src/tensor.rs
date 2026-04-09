@@ -1,10 +1,59 @@
 /// Lightweight tensor operations built on ndarray.
 /// This module provides the math primitives the transformer needs:
 /// matrix multiply, softmax, layer norm, GELU activation, etc.
+///
+/// When the `cuda` feature is enabled, matrix multiplications are
+/// offloaded to the GPU via cuBLAS. Call `init_gpu()` at startup.
 use ndarray::{Array1, Array2, Array3, Axis, s};
 
+#[cfg(feature = "cuda")]
+use std::cell::RefCell;
+
+#[cfg(feature = "cuda")]
+use crate::gpu::GpuContext;
+
+#[cfg(feature = "cuda")]
+thread_local! {
+    static GPU: RefCell<Option<GpuContext>> = RefCell::new(None);
+}
+
+/// Initialize the GPU context for the current thread.
+/// Call this once at the start of your program.
+#[cfg(feature = "cuda")]
+pub fn init_gpu() {
+    GPU.with(|g| {
+        let mut g = g.borrow_mut();
+        if g.is_none() {
+            match GpuContext::new() {
+                Ok(ctx) => {
+                    println!("[GPU] CUDA initialized successfully");
+                    *g = Some(ctx);
+                }
+                Err(e) => {
+                    eprintln!("[GPU] Failed to initialize CUDA: {} — falling back to CPU", e);
+                }
+            }
+        }
+    });
+}
+
+/// No-op when CUDA is not compiled in.
+#[cfg(not(feature = "cuda"))]
+pub fn init_gpu() {}
+
 /// Matrix multiply: (M x K) @ (K x N) -> (M x N)
+/// Uses cuBLAS on GPU when the `cuda` feature is enabled and GPU is initialized.
 pub fn matmul(a: &Array2<f32>, b: &Array2<f32>) -> Array2<f32> {
+    #[cfg(feature = "cuda")]
+    {
+        let result = GPU.with(|g| {
+            let g = g.borrow();
+            g.as_ref().map(|gpu| gpu.matmul(a, b))
+        });
+        if let Some(c) = result {
+            return c;
+        }
+    }
     a.dot(b)
 }
 
