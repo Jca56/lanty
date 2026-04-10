@@ -1,0 +1,98 @@
+{
+  "id": "dwarf_hill",
+  "name": "Hill Dwarf",
+  "creatureType": "humanoid",
+  "size": "medium",
+  "speed": 25,
+  "ageRange": "Mature at the same rate as humans but are considered young until 50. On average, they live to about 350 years.",
+  "appearance": "Standing 4 to 5 feet tall with stocky builds. Hill dwarves tend to have warmer complexions than their mountain cousins, with ruddy cheeks and rounder features. Their beards are well-groomed but less ornate.",
+  "culture": "Hill Dwarves are master craftsmen, brewers, and farmers who live in surface villages and rolling hills. They value community, hospitality, and the simple pleasures of good food and drink. More sociable than mountain dwarves.",
+  "lore": "Hill Dwarves chose the sunlit hills over deep mountain halls, trading isolation for integration with surface folk. Their ales are legendary, their crafts are prized, and their communities welcome travelers with warmth and generosity.",
+  "statBonuses": {
+    "fixed": {
+      "constitution": 2,
+      "willpower": 1
+    }
+  },
+  "languages": ["Common", "Dwarvish"],
+  "skillProficiencies": null,
+  "toolProficiencies": ["brewer's supplies", "cook's utensils", "herbalist's kit"],
+  "toolChoices": 1,
+  "effects": [
+    {
+      "type": "abilityBonus",
+      "targetAbility": "constitution",
+      "numericValue": 2,
+      "description": "+2 Constitution"
+    },
+    {
+      "type": "abilityBonus",
+      "targetAbility": "willpower",
+      "numericValue": 1,
+      "description": "+1 Willpower"
+    },
+    {
+      "type": "language",
+      "stringValue": "Common",
+      "description": "Knows Common language"
+    },
+    {
+      "type": "language",
+      "stringValue": "Dwarvish",
+      "description": "Knows Dwarvish language"
+    },
+    {
+      "type": "proficiency",
+      "stringValue": null,
+      "isChoice": true,
+      "choices": ["brewer's supplies", "cook's utensils", "herbalist's kit"],
+      "description": "Choose 1 tool proficiency"
+    },
+    {
+      "type": "hpBonus",
+      "numericValue": 1,
+      "description": "+1 HP per level (Dwarven Toughness)"
+    }
+  ],
+  "generalTraits": [
+    "darkvision_60",
+    "poison_resistance",
+    "stone_cunning"
+  ],
+  "uniqueTraits": [
+    {
+      "id": "hill_dwarf_craftsmanship",
+      "name": "Hill Dwarf Craftsmanship",
+      "description": "You gain proficiency with one artisan's tool of your choice from: brewer's supplies, cook's utensils, or herbalist's kit.",
+      "effect": {
+        "type": "tool_proficiency",
+        "choice": true,
+        "options": ["brewer's supplies", "cook's utensils", "herbalist's kit"]
+      }
+    },
+    {
+      "id": "dwarven_weapon_training",
+      "name": "Dwarven Weapon Training",
+      "description": "You have proficiency with handaxes, light crossbows, and warhammers.",
+      "effect": {
+        "type": "weapon_proficiency",
+        "weapons": ["handaxe", "light_crossbow", "warhammer"]
+      }
+    },
+    {
+      "id": "hill_dwarf_toughness",
+      "name": "Dwarven Toughness",
+      "description": "Your hit point maximum increases by 1, and it increases by 1 every time you gain a level.",
+      "effect": {
+        "type": "hp_bonus",
+        "flat": 1,
+        "perLevel": 1
+      }
+    }
+  ],
+  "startingTempers": null,
+  "startingEmbers": null,
+  "subtypes": null,
+  "requiresSubtype": false,
+  "parentSpecies": "dwarf"
+}

@@ -1,0 +1,85 @@
+{
+  "id": "human",
+  "name": "Human",
+  "creatureType": "humanoid",
+  "size": "medium",
+  "speed": 30,
+  "ageRange": "Reach adulthood in their late teens and live less than a century",
+  "appearance": "Humans vary widely in height, weight, and skin tone. They range from 5 to over 6 feet tall and weigh between 125 and 250 pounds.",
+  "culture": "Humans are the most adaptable and ambitious of the common species. They have widely varying tastes, morals, customs, and habits across countless diverse cultures.",
+  "lore": "In the ever-changing lands of Flame Bound, humans are innovators, achievers, and pioneers. Their lives are short compared to elves and dwarves, but this brevity drives them to accomplish much in their fleeting years. Human kingdoms rise and fall with startling frequency, creating a tapestry of cultures and traditions.",
+  "statBonuses": {
+    "choice": 2,
+    "options": ["strength", "dexterity", "constitution", "intelligence", "willpower", "spirit"],
+    "amount": 1
+  },
+  "languages": ["Common"],
+  "bonusLanguages": 1,
+  "skillProficiencies": null,
+  "skillChoices": 1,
+  "skillOptions": ["athletics", "stealth", "sleight_of_hand", "endurance", "lore", "investigation", "craft", "awareness", "insight", "survival", "persuasion", "deception", "intimidation"],
+  "toolProficiencies": null,
+  "effects": [
+    {
+      "type": "abilityBonus",
+      "name": "Adaptable Physique",
+      "targetAbility": null,
+      "numericValue": 1,
+      "isChoice": true,
+      "choices": ["strength", "dexterity", "constitution", "intelligence", "willpower", "spirit"],
+      "description": "Humans are remarkably adaptable, their bodies shaped by the demands of their chosen path. Whether hauling cargo on merchant ships or studying ancient tomes, they develop whatever capabilities serve them best."
+    },
+    {
+      "type": "abilityBonus",
+      "name": "Determined Spirit",
+      "targetAbility": null,
+      "numericValue": 1,
+      "isChoice": true,
+      "choices": ["strength", "dexterity", "constitution", "intelligence", "willpower", "spirit"],
+      "description": "What humans lack in natural gifts, they make up for in sheer determination. Through focused effort, they hone whichever talents they value most."
+    },
+    {
+      "type": "language",
+      "name": "Common Tongue",
+      "stringValue": "Common",
+      "description": "The trade language of civilization, spoken across kingdoms and cultures."
+    },
+    {
+      "type": "language",
+      "name": "Worldly Knowledge",
+      "stringValue": null,
+      "isChoice": true,
+      "choices": ["Elvish", "Dwarvish", "Orcish", "Sylvan", "Draconic", "Giant", "Infernal", "Celestial"],
+      "description": "Humans live among all peoples and learn from everyone they meet. Many pick up bits of other languages through trade, travel, or simple curiosity about the world beyond their borders."
+    },
+    {
+      "type": "proficiency",
+      "name": "Jack of All Trades",
+      "stringValue": null,
+      "isChoice": true,
+      "choices": ["athletics", "stealth", "sleight_of_hand", "endurance", "lore", "investigation", "craft", "awareness", "insight", "survival", "persuasion", "deception", "intimidation"],
+      "description": "Humans excel at picking up new skills. Whether learned from a mentor, self-taught through trial and error, or simply absorbed from watching others, humans have a knack for developing practical abilities."
+    },
+    {
+      "type": "proficiency",
+      "name": "Practical Skills",
+      "stringValue": null,
+      "isChoice": true,
+      "choices": ["alchemist's supplies", "brewer's supplies", "calligrapher's supplies", "carpenter's tools", "cartographer's tools", "cobbler's tools", "cook's utensils", "glassblower's tools", "jeweler's tools", "leatherworker's tools", "mason's tools", "painter's supplies", "potter's tools", "smith's tools", "tinker's tools", "weaver's tools", "woodcarver's tools", "herbalist's kit", "forgery kit", "thieves' tools"],
+      "description": "Every human settlement has its craftspeople, and children often learn a trade alongside their parents. Even adventurers usually know their way around at least one set of tools."
+    }
+  ],
+  "generalTraits": [],
+  "uniqueTraits": [
+    {
+      "id": "human_determination",
+      "name": "Human Determination",
+      "description": "Humans are driven to overcome obstacles. Once per long rest, when you fail an ability check, attack roll, or saving throw, you can reroll it. You must use the new result."
+    }
+  ],
+  "startingTempers": null,
+  "startingEmbers": null,
+  "subtypes": null,
+  "requiresSubtype": false,
+  "parentSpecies": null
+}

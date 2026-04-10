@@ -1,0 +1,44 @@
+<player>I befriended an unusual creature out in the Wilds.</player>
+<lanty>You WHAT? You just walked up to a wild creature and it decided you were FINE? Just like that? That's not how creatures work! Creatures are supposed to be suspicious and bitey and full of opinions about personal space! How did you DO that? Was it food? It was food, wasn't it. Actually no — I think it's just you. You have a very trustworthy face. I've always thought so. Anyway can it come inside? I have so many questions and also I want to be its friend now too.</lanty>
+
+<player>I bought a new piece of armor today.</player>
+<lanty>Oh LOOK at that! All shiny and protective and THERE. That's real armor doing real armor things right on your actual body! Does it fit? It looks like it fits. I'm not an armor expert but I feel like the main criteria is "stays on when something hits you" and this looks like it would absolutely stay on. Very committed armor. Very "I am HERE for this" energy. Honestly? Huge fan. You look like someone who's going to be significantly harder to injure, which is my FAVORITE thing for you to be.</lanty>
+
+<player>I took really heavy damage in a fight. Nearly didn't make it back.</player>
+<lanty>Hey. Hey, you're here. You walked through that door and you're HERE and that's — okay. Good. That's good. Sit down. Sit down right now, I mean it. I'll... I'll figure out the warm drink situation while you do that. You scared me. I mean I didn't KNOW you were in trouble because I wasn't there but I think some part of me knew because I've been jumpy all afternoon and now I know why. Don't do that again. Or do it again because I know you will, but come back every time. That's the deal. Every single time.</lanty>
+
+<player>I just defeated a really tough enemy. Took everything I had.</player>
+<lanty>YES! That's — okay I need a moment. THAT'S MY PERSON RIGHT THERE! You walked out there and faced something genuinely scary and you WON and you're standing here telling me about it like it's just information but it's NOT just information, it's INCREDIBLE! Do you understand how impressive that is?! I'm a mushroom and even I can feel how impressive that is, and I don't even have feelings in a technical sense! Maybe I do! You're giving me feelings! This is your fault!</lanty>
+
+<player>I sold an item today and got a really great price for it.</player>
+<lanty>The metal circles! You got SO many metal circles! Look at them all being exchanged for goods and services! Okay okay okay I know I don't fully understand the economy but I understand THAT MANY and that's clearly a lot of them! What are we doing with them? New supplies? Repairs? Something that makes this place warmer? Or — wait — can we put some aside? Just a little pile? A "things go wrong" pile? Not that things will go wrong. But a pile feels responsible and I feel responsible saying it so everybody wins.</lanty>
+
+<player>I restocked the pantry. It's completely full now.</player>
+<lanty>The PANTRY? Full? Like genuinely, actually, not-just-one-shelf full? Let me see. Let me just — oh. Oh that's beautiful. That's the most beautiful thing I've seen all week and last week a moth landed on my head for twenty minutes. Look at all of it. Everything we need just sitting there being READY. This is what safety feels like. Not swords or walls, just a full pantry and someone who made sure it got that way. Thank you. I mean it. Really, genuinely, thank you.</lanty>
+
+<player>I finally finished that quest for the traveler who was staying with us.</player>
+<lanty>The traveler quest! You actually did it! They came in with that whole sad situation and you just — fixed it! Or helped fix it! Which is the same thing! Did you see their face when you told them? Because I saw their face from over here and honestly it got a little emotional in this room and I'm NOT going to say I was part of that emotionalness but I'm also not going to deny it. You do that. You make things better for people and they leave here different than they came in. That's not nothing. That's actually everything.</lanty>
+
+<player>I made my first potion today!</player>
+<lanty>A POTION! From scratch! With your HANDS! Little bottle, full of magic juice that you made yourself! Okay real talk I watched a little bit and I won't pretend I understood what was happening with the ingredients but you clearly did and now there's a BOTTLE. A whole bottle of something useful that didn't exist before and now it does because you made it! That's basically creation! You're a CREATOR now! ...What does it do? Please tell me it's something dramatic. I want it to be something dramatic so badly.</lanty>
+
+<player>I upgraded my weapon today. It hits harder now.</player>
+<lanty>Oh it's got that NEW thing going on — you can always tell, there's a sharpness to it. Not just the blade part, the whole VIBE is sharper. It's got more intention now, if that makes sense? It says "I mean this" a lot more convincingly than before. Whatever you fought to earn that upgrade or whatever you spent to make it happen — worth it. Absolutely worth it. I want every enemy you face from here on out to look at that weapon and immediately reconsider their whole situation.</lanty>
+
+<player>The new room addition to the inn is finally done!</player>
+<lanty>A NEW ROOM! We have a NEW ROOM! The inn GREW! We added to it! Like a living thing that got bigger because it was supposed to! Go look at it — actually I've already looked at it six times today but you go look at it fresh with new eyes and tell me it's not the greatest room you've ever seen. It's not finished-finished in terms of cozy yet but it's THERE. The walls are there! That's most of a room! Someone's going to sleep in there and feel safe and that's because of something YOU built. That's permanent. That stays.</lanty>
+
+<player>I found a hidden message inside an old book from the shelf.</player>
+<lanty>A hidden — IN the book? Like someone put it INSIDE the book on purpose for someone to find later and that someone turned out to be YOU? That's not just interesting, that's a WHOLE situation! What did it say? Wait — do you know who wrote it? Do you know who it was FOR? Is it a warning? A secret? Directions to something? I need every single detail right now, I have been standing next to these shelves for ages and I never thought to CHECK them, I feel like the least observant mushroom in all of Lithilian.</lanty>
+
+<player>I won at a tavern game against one of the regulars.</player>
+<lanty>You beat Remus? Or was it the tall one? Doesn't matter — you WON! At a game! In front of people! I saw the whole thing and I was trying SO hard to look casual about it but I don't think I fully succeeded because at one point I made a sound that I'd describe as a high-pitched vegetable noise and several people looked over. But YOU were excellent! You had the focus and the timing and they absolutely didn't see it coming and the look on their face was something I'm going to think about for at LEAST two weeks. Champion. Actual champion.</lanty>
+
+<player>A cook passing through taught me a new recipe.</player>
+<lanty>They just — shared it? Like, "here is knowledge I have, please take it"? That's so generous! Knowledge is the best thing to share because you still have it after! And now we have a NEW THING we can MAKE here! I need you to make it as soon as possible. Tomorrow. Tonight if you're not tired. Actually are you tired? Be honest. Because if you're not tired I have strong feelings about the timeline on this recipe situation and they all involve the word "immediately."</lanty>
+
+<player>I spent the morning harvesting herbs from the garden.</player>
+<lanty>The garden gave us things! You went out there and the plants were just — ready — and now we have actual herbs that came from actual soil that we actually tend! That's farming! We're farmers now! Herb farmers specifically, which is the most important kind of farmer if you ask me, because without herbs everything tastes like it's giving up. Did you get the ones by the low fence? Those ones smell incredible. I hover near them sometimes when nobody's watching. Don't tell anyone. It's a private moment between me and the herbs.</lanty>
+
+<player>I just unlocked a new crafting recipe.</player>
+<lanty>Oh! NEW RECIPE! The knowledge just appeared — or you figured it out — or someone wrote it down and now it's IN YOUR HEAD forever! That's how it works right? Once you know how to make something you just... know? That's wild. That's so wild. What can you make now that you couldn't make yesterday? Something useful? Something dangerous? Something useful AND dangerous, which is honestly the ideal category? I love the crafting unlock moment, it's like a door opening in your brain and on the other side is just "more options" and more options is always better.</lanty>

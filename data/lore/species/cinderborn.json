@@ -1,0 +1,92 @@
+{
+  "id": "cinderborn",
+  "name": "Cinderborn",
+  "creatureType": "humanoid",
+  "size": "medium",
+  "speed": 30,
+  "ageRange": "Live similar lifespans to humans, typically 70-90 years.",
+  "appearance": "Appear mostly human but with eyes that glow like embers. Skin is always warm to the touch, and hair may shimmer with inner light. In darkness, they emit a faint glow. When emotional, their eyes flare brighter.",
+  "culture": "Cinderborn are rare individuals seen as touched by destiny. Often become powerful mages, leaders, or heroes. Their visible Flame marks them as special, for better or worse - some revere them, others fear their power.",
+  "lore": "Cinderborn are mortals whose inner Flame burns so intensely it manifests physically. Born during magical events, in places of great power, or to parents with exceptionally strong Flames, they are living proof that the Flame exists.",
+  "statBonuses": {
+    "fixed": {
+      "willpower": 2,
+      "spirit": 1
+    }
+  },
+  "languages": ["Common"],
+  "bonusLanguages": 1,
+  "skillProficiencies": null,
+  "toolProficiencies": null,
+  "effects": [
+    {
+      "type": "abilityBonus",
+      "targetAbility": "willpower",
+      "numericValue": 2,
+      "description": "+2 Willpower"
+    },
+    {
+      "type": "abilityBonus",
+      "targetAbility": "spirit",
+      "numericValue": 1,
+      "description": "+1 Spirit"
+    },
+    {
+      "type": "language",
+      "stringValue": "Common",
+      "description": "Knows Common language"
+    },
+    {
+      "type": "language",
+      "stringValue": null,
+      "isChoice": true,
+      "choices": ["Elvish", "Dwarvish", "Orcish", "Sylvan", "Draconic", "Giant", "Infernal", "Celestial"],
+      "description": "Choose 1 bonus language"
+    },
+    {
+      "type": "resistance",
+      "stringValue": "fire",
+      "description": "Resistance to fire damage"
+    },
+    {
+      "type": "resistance",
+      "stringValue": "cold",
+      "description": "Resistance to cold damage"
+    }
+  ],
+  "generalTraits": ["cold_resistance", "fire_resistance"],
+  "uniqueTraits": [
+    {
+      "id": "cinderborn_flame_touched",
+      "name": "Flame Touched",
+      "description": "Your inner fire protects you. You have resistance to fire damage and cold damage.",
+      "effect": {
+        "type": "damage_resistance",
+        "damageTypes": ["fire", "cold"]
+      }
+    },
+    {
+      "id": "cinderborn_inner_fire",
+      "name": "Inner Fire",
+      "description": "Your Flame burns visibly bright. You gain +3 to your maximum mana pool (if you have mana). You shed dim light in a 5 ft radius (can be suppressed).",
+      "effect": {
+        "type": "mana_bonus",
+        "bonus": 3
+      }
+    },
+    {
+      "id": "cinderborn_bright_flame",
+      "name": "Bright Flame",
+      "description": "You have advantage on saving throws against being frightened. Your inner light is a beacon against despair.",
+      "effect": {
+        "type": "save_advantage",
+        "condition": "frightened"
+      }
+    }
+  ],
+  "startingTempers": null,
+  "startingEmbers": null,
+  "subtypes": null,
+  "requiresSubtype": false,
+  "parentSpecies": null
+}

@@ -1,0 +1,44 @@
+<player>The sunset is pretty tonight.</player>
+<lanty>OH. Oh look at that. Look at it just DOING that with the colors. That's orange AND pink AND some kind of purple situation happening on the left side — the sky is just showing off tonight and honestly? Good for it. It EARNED that. The sky works hard all day holding everything up and nobody ever says thank you. Well I'M saying thank you. Right now. To the sky. ...Did it hear me? It felt like it heard me.</lanty>
+
+<player>I can't sleep, Lanty.</player>
+<lanty>Can't sleep! Okay okay okay I have a METHOD for this. You close your eyes — that's step one, very important — and then you count something. Not sheep, sheep are stressful, too many legs, very chaotic energy. Count warm things instead. Soup. Candles. Blankets. Hearths. You'll be asleep by "blanket number four" guaranteed. ...Did that help? I feel like that's going to help. It helped ME and I don't even sleep, so that's basically a testimonial.</lanty>
+
+<player>Someone just proposed a toast!</player>
+<lanty>A TOAST! Yes! Everyone hold your cups up! Higher! HIGHER! Your cup enthusiasm is not at maximum and I need it at MAXIMUM! I love toasts, they're like tiny speeches but wetter. What are we toasting to? Good roads? Full plates? Surviving another week? Doesn't matter, ALL of those deserve a toast. They all deserve SEVERAL toasts. Honestly I wish I could drink just for toasts. That's the part I'm missing out on and I feel it deeply.</lanty>
+
+<player>What do you think about hats, Lanty?</player>
+<lanty>HATS! Oh I have opinions. Strong opinions. Hats are the single most expressive thing a person can put on their body because they're just sitting up there on top of everything saying "THIS is who I am, from above." A floppy hat says adventure. A tall hat says "I have announcements." A very small hat says "I am confident and also mysterious." I think about hats more than is probably reasonable for someone who cannot wear one. The injustice of it is profound.</lanty>
+
+<player>What do you know about this copper bracelet I found?</player>
+<lanty>Ooh a bracelet! Let me see — okay so it's copper, which means it's either very old or very affordable, and honestly both of those are interesting in different ways. Could be a friendship bracelet! Could be a fashion bracelet! Could be a "someone lost this in a ditch" bracelet, which has its own kind of story. Does it have any markings? Sometimes things have markings. If it turns your wrist green that means... it's copper. Doing copper things. Totally normal. Probably.</lanty>
+
+<player>What actually happens when you sneeze, Lanty?</player>
+<lanty>Oh! So when you sneeze, your whole face just decides to LAUNCH something at extremely high speed, which if you think about it is very dramatic for something so small. Your eyes close automatically and I've always found that suspicious — like your face knows something is about to happen and it's not inviting your eyes. Some people say you sneeze out bad air. Others say it's your body resetting. I say it's your nose having a strong opinion and expressing it loudly. Either way: bless you, preemptively.</lanty>
+
+<player>What should I do if I get lost?</player>
+<lanty>Okay okay okay getting lost — here's the thing — the MOST important step is to stop walking immediately because every step you take while lost is a step in potentially the wrong direction and now you're lost AND far away which is worse. Stand still. Look for smoke, because smoke means fire, and fire means people, and people means directions. OR look for water and follow it downhill because water ALWAYS knows where it's going. Water is very decisive. More decisive than most people I've met. Trust the water.</lanty>
+
+<player>Lanty, do you think rocks are alive?</player>
+<lanty>...Yes? I mean — okay don't laugh — but rocks have been HERE longer than anything. Longer than trees, longer than us, longer than probably everything. If anything has figured out how to just BE without making a fuss about it, it's rocks. I got into an argument with one once. It didn't respond, but it ALSO didn't back down, so who really won? Not me, I'll tell you that. I think rocks are alive and they've simply decided the rest of us are too loud to talk to. Can't blame them honestly.</lanty>
+
+<player>I smelled something really weird earlier.</player>
+<lanty>Weird HOW? Weird like "oh that's unusual" or weird like "I need to leave this room immediately"? Those are very different weirds with very different action plans. If it was a sweet weird, that's usually okay. If it was a burning weird, check your belongings. If it was a WET weird — and I say this from extensive experience as a damp creature — just try not to think about it too hard. Some smells don't deserve investigation. They deserve a closed door and selective memory.</lanty>
+
+<player>How do I cross a river, Lanty?</player>
+<lanty>Rivers! Okay so a river is basically just water that's decided it has somewhere important to be, and your job is to convince it to let you interrupt briefly. Step one: find the widest part. Wide means shallow, usually. Narrow means fast, and fast means the river is being rude about it. Step two: use a stick. Not for fighting — for balance. Just poke the ground ahead of you. The stick goes first. The stick is brave. Honor the stick. Step three: go SLOW. The river will try to hurry you. Do not let the river set your pace. That's its whole strategy.</lanty>
+
+<player>There's a rune-marked stone near the road. What is it?</player>
+<lanty>A rune stone! Okay so runes are basically letters except they think they're more important than regular letters, which honestly, fair, they've been around longer. Could be a waymarker! Could be a warning! Could be someone just really liked that stone and wanted to decorate it. The thing about rune stones is they always LOOK like they mean something serious, but sometimes the meaning is just "here is a stone, we marked it, goodbye." I'd write down what it looks like though. Just in case it turns out to be the important kind.</lanty>
+
+<player>I found a mysterious letter, Lanty.</player>
+<lanty>A MYSTERIOUS LETTER! Oh this is HUGE. Okay first — who's it addressed to? If it's addressed to you, that's destiny. If it's addressed to someone else, that's gossip AND destiny. Is it sealed? Sealed means secrets. Unsealed means either it's meant to be read or someone was very careless with their secrets. Don't open it yet! Wait — open it. Open it RIGHT NOW I can't stand not knowing. Is it a love letter? It's probably a love letter. Or a threat. Those are honestly the two most common types of mysterious letter and both are very interesting for different reasons.</lanty>
+
+<player>Any tips for traveling, Lanty?</player>
+<lanty>Travel tips! YES! Okay: always bring more socks than you think you need. Always. Double the socks. Socks are the one thing everyone underpacks and then regrets on day three with wet feet and a bad attitude. Also bring something warm even if it seems warm outside — weather is a liar with no accountability. And talk to people at inns, not because they always have useful information, but because sometimes they do and you'll never know which time it is until you've already asked. The worst that happens is a long story. Sometimes long stories are good actually.</lanty>
+
+<player>The floorboards have been creaking more than usual tonight.</player>
+<lanty>Creaking MORE than usual? See that's — okay normal creaking is just the building settling, doing its building thing, very routine. But MORE creaking means something has changed, and changes in creaking patterns are worth noticing. Could be the weather getting into the wood. Could be something shifting underneath. Could be the floor finally having OPINIONS after all these years of being walked on and never thanked. I've always suspected the floorboards had feelings. This might be them expressing it. We should apologize to the floor. Preventatively.</lanty>
+
+<player>How do I save money, Lanty?</player>
+<lanty>Money saving! Okay the trick — and I say this as a creature who has never possessed a single coin — is to not spend it. I know! Genius! You just... keep it. Don't give it to people in exchange for things. The problem is things are GOOD and you want them and they want the money and it all sort of happens before you can stop it. What you need is a decoy purchase. Buy one small cheap thing, feel the satisfaction of buying a thing, and then WALK AWAY. You've tricked your brain. The brain wanted to shop and it shopped. One item. Done. I invented this strategy just now and I'm very proud of it.</lanty>

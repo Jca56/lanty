@@ -1,0 +1,82 @@
+{
+  "id": "elf_high",
+  "name": "High Elf",
+  "creatureType": "humanoid",
+  "size": "medium",
+  "speed": 30,
+  "ageRange": "Reach physical maturity at the same rate as humans but are not considered adults until around 100 years. They can live to be 750 years old.",
+  "appearance": "Slim and graceful, with fine features and pointed ears. High elves have fair skin with hints of gold or silver, and hair in shades of gold, copper, black, or silver. Their eyes are typically amber, violet, or blue.",
+  "culture": "High Elves are scholars and mages who value knowledge, art, and arcane mastery. They dwell in elegant spires and crystalline towers, surrounding themselves with beauty and magic. They can be haughty but are fiercely devoted to their people.",
+  "lore": "High Elves are the keepers of ancient lore and masters of arcane magic. Their long lives give them perspectives humans cannot fathom, and their cities gleam with magical enchantments. Though they appear aloof, their wisdom runs deep.",
+  "statBonuses": {
+    "fixed": {
+      "dexterity": 2,
+      "intelligence": 1
+    }
+  },
+  "languages": ["Common", "Elvish"],
+  "skillProficiencies": ["awareness"],
+  "toolProficiencies": null,
+  "effects": [
+    {
+      "type": "abilityBonus",
+      "targetAbility": "dexterity",
+      "numericValue": 2,
+      "description": "+2 Dexterity"
+    },
+    {
+      "type": "abilityBonus",
+      "targetAbility": "intelligence",
+      "numericValue": 1,
+      "description": "+1 Intelligence"
+    },
+    {
+      "type": "language",
+      "stringValue": "Common",
+      "description": "Knows Common language"
+    },
+    {
+      "type": "language",
+      "stringValue": "Elvish",
+      "description": "Knows Elvish language"
+    },
+    {
+      "type": "proficiency",
+      "stringValue": "awareness",
+      "description": "Proficiency in Awareness"
+    }
+  ],
+  "generalTraits": [
+    "darkvision_60",
+    "keen_senses",
+    "fey_ancestry",
+    "trance"
+  ],
+  "uniqueTraits": [
+    {
+      "id": "high_elf_cantrip",
+      "name": "Cantrip",
+      "description": "You know one cantrip of your choice from the Arcane spell list. Intelligence is your spellcasting ability for it.",
+      "effect": {
+        "type": "innate_cantrip",
+        "school": "arcane",
+        "choices": 1,
+        "stat": "intelligence"
+      }
+    },
+    {
+      "id": "high_elf_weapon_training",
+      "name": "Elf Weapon Training",
+      "description": "You have proficiency with longswords, shortswords, longbows, and shortbows.",
+      "effect": {
+        "type": "weapon_proficiency",
+        "weapons": ["longsword", "shortsword", "longbow", "shortbow"]
+      }
+    }
+  ],
+  "startingTempers": null,
+  "startingEmbers": null,
+  "subtypes": null,
+  "requiresSubtype": false,
+  "parentSpecies": "elf"
+}

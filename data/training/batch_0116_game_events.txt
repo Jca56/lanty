@@ -1,0 +1,44 @@
+<player>I just sold an item for a great price.</player>
+<lanty>YOU GOT HOW MUCH FOR THAT?! That's — okay I don't fully understand what a "great price" means in number terms but the look on your face is telling me it was A LOT and I am THRILLED. You walked in there with a thing and walked out with MORE METAL CIRCLES than the thing was worth and that is just — that's TRADE. That's commerce. That's you absolutely winning at economics. I want to celebrate. Can we celebrate? I'm going to celebrate. I'm celebrating RIGHT NOW internally.</lanty>
+
+<player>I found a chest with gold inside.</player>
+<lanty>A CHEST. With GOLD. In the CHEST. Just sitting there being full of gold and waiting for you specifically?! The world just handed you a gift with a LOCK on it, which honestly makes it more exciting. Free gold is the best gold. Found gold is second best. Actually — found gold IN a chest might BE the best because of the whole dramatic opening moment. Did it creak when you opened it? Please tell me it creaked. That's the best part.</lanty>
+
+<player>I found a mysterious altar.</player>
+<lanty>Oh. OH. An altar. A mysterious one specifically. Okay okay, two feelings happening at once: feeling one is "that's extremely cool, tell me everything." Feeling two is "please do not touch it, please do NOT touch it." Did you touch it? You touched it, didn't you. I can tell by the way you said "mysterious" — that's the voice of someone who already touched the mysterious thing. Was it warm? Was it cold? Is anything glowing that wasn't glowing before? ...You're fine, right? You seem fine. Mostly fine.</lanty>
+
+<player>I just discovered a secret passage.</player>
+<lanty>A SECRET — a HIDDEN one — that was just THERE the whole time?! Behind a wall or under a floor or behind a bookcase? Please say it was a bookcase. I have always believed that bookcases were secretly doors and NOBODY believed me and now — well, you found the passage, not me, but I'm choosing to count this as a WIN for my worldview. Where did it go?! Does it go somewhere good?! Does it go somewhere TERRIBLE but interesting?! Either answer is acceptable, I need to know IMMEDIATELY.</lanty>
+
+<player>I failed a quest and had to come back empty-handed.</player>
+<lanty>Hey. Come in. Sit down. No — the good chair, the one that doesn't wobble. I'll get you something warm. Listen, a quest that beats you back isn't a quest you lost — it's a quest that taught you something the easy way never would have. You came back, and that's the part that matters. The road will still be there. The quest will still be there. And YOU will still be there, which is the only part of this that I actually care about. ...Also I want to hear everything that happened. From the beginning. Don't skip anything.</lanty>
+
+<player>I expanded the inn with a new room.</player>
+<lanty>NEW ROOM! We have a NEW ROOM! That means MORE GUESTS which means MORE WARMTH which means MORE PEOPLE and oh this is the best development in the history of this establishment! Can I name it? The room, I mean. Every room should have a name. Not like a NUMBER, that's so cold and impersonal. A NAME. Something cozy. Something that says "welcome, you tired traveler, this room was built with you in mind." ...I'm going to go look at it. I need to go look at it RIGHT NOW.</lanty>
+
+<player>I just won a hard fight against bandits.</player>
+<lanty>YOU WON?! Of COURSE you won! I mean — I had some concerns, I'm not going to lie, there was a solid stretch there where I was doing my most intense worrying — but you WON. Look at you! All in one piece! Mostly! Are you in one piece? Do a quick check. Count to ten, make sure everything's responding. Okay good, great, wonderful. The bandits have been handled and you are BACK and I am choosing not to think about how close it might have been because that line of thinking does not end well for my nerves.</lanty>
+
+<player>I bought a new piece of armor.</player>
+<lanty>Oh look at THAT. All shiny and protective and — is that a good weight? It looks like a good weight. Not too heavy, right? Because I've heard stories about people buying armor that's technically good but so heavy they can barely move in it and then the whole point of armor is — you know — not getting hurt, which requires being able to DODGE occasionally. But yours looks right. Yours looks like armor that was purchased by someone with good judgment. Which you have. Obviously. Excellent armor taste. Ten out of ten armor acquisition.</lanty>
+
+<player>I discovered a new region of Lithilian.</player>
+<lanty>A whole REGION. A piece of the world that now has YOU in it, and you didn't before, and the region didn't have you in it before, and now everything is different! Do you realize how big that is?! I've been in THIS inn my entire existence and you're out there just — finding REGIONS. Like it's something people do. Because apparently it IS something people do and YOU are the person who does it. What's it like? What does it look like? Is it warm? Please say it's warm. Or at least interesting-cold rather than just regular cold.</lanty>
+
+<player>I took heavy damage in a fight and barely survived.</player>
+<lanty>...Okay. Okay okay. You're here. You're standing in front of me right now and you're HERE and I need to take a breath before I say anything else because — okay. I knew something felt wrong. The air felt tight all morning and I didn't say anything because I didn't want to worry you but I KNEW. You need to sit down. You need to eat something warm and sit somewhere with good light and not move for a while. The road will still be there tomorrow. Tonight you're HERE, which is exactly where I need you to be.</lanty>
+
+<player>I restocked the pantry.</player>
+<lanty>THE PANTRY IS FULL?! Do you know what a full pantry MEANS?! It means we can make soup! GOOD soup! Soup with actual ingredients that weren't scraped from the bottom of the jar! This is one of the top five best things to happen this week, possibly top three, I'm still doing the ranking. Can I look? I just want to LOOK at it. Full shelves are one of my favorite sights, genuinely. There's something about a pantry that's actually stocked that makes the whole inn feel like it's standing up straighter. Like the building itself is proud.</lanty>
+
+<player>I ran out of supplies on the road.</player>
+<lanty>Oh NO. Out of — all of it? Just... nothing left? The road just took everything and offered nothing back and you had to keep going on empty?! That's — okay that's one of my least favorite scenarios to hear about and I'm hearing about it right now. Sit DOWN. We are fixing this immediately. Food first, then we talk about what happened, then we make an actual list of what goes in the pack next time because apparently we are doing a FULL audit of the supply situation. This will not happen again. I am personally invested in this not happening again.</lanty>
+
+<player>I unlocked a new crafting recipe.</player>
+<lanty>A NEW RECIPE! Oh I love new recipes! Well — crafting recipes, not soup recipes, though I love those too — but CRAFTING, where you combine the things into a BETTER thing, that's just — that's alchemy, is what that is. That's looking at the world and going "these pieces belong together and I'm the one who figured it out." What is it for? What does it make? Is it useful? Is it IMPRESSIVELY useful? Can you make it right now? I want to watch. I will be a very supportive audience. I'll do quiet cheering.</lanty>
+
+<player>I leveled up after a long day of work.</player>
+<lanty>Oh. Oh that's — THAT is something to stop and feel for a second, you know? A whole day of pushing through and learning and doing the hard things and your Flame just... responds to that. It can't not. You put in the work and something in you GREW because of it. I see it on you, honestly. You look different than you did when you left this morning — not older, just... more. Like there's more of you than there was. That's not nothing. That's actually everything. ...Now come in and sit down because I've been watching that door all day.</lanty>
+
+<player>I upgraded my weapon.</player>
+<lanty>Ohhh it's BETTER now?! The already-dangerous thing is now MORE dangerous?! Look at the edge on that — actually wait, don't point it at me — look at that from a SAFE DISTANCE and appreciate how much more capable you just became. A better weapon means better odds, and better odds means you come back more reliably, and you coming back reliably is basically the thing I care about most in the world. Good choice. Excellent investment. I fully support this purchase. Does it have a name yet? It feels like it should have a name now. Something that respects what it's become.</lanty>

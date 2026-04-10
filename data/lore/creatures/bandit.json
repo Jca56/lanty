@@ -1,0 +1,926 @@
+{
+  "id": "bandit",
+  "name": "Bandit",
+  "type": "Humanoid (any race)",
+  "description": "Opportunistic outlaws who fight dirty, prefer ambushes, and rarely stand their ground when things go badly.",
+  "tags": ["humanoid", "outlaw"],
+  "size": "medium",
+  "alignment": "any non-lawful",
+  "abilityScores": {
+    "str": 11,
+    "dex": 12,
+    "con": 12,
+    "int": 10,
+    "wis": 10,
+    "cha": 10
+  },
+  "speed": { "walk": 30 },
+  "senses": { "passivePerception": 10 },
+  "languages": ["Common"],
+  "sharedTraits": [],
+  "damageModifiers": {
+    "resistances": [],
+    "immunities": [],
+    "vulnerabilities": []
+  },
+  "conditionImmunities": [],
+  "kits": [
+    {
+      "id": "knife_cutpurse",
+      "name": "Knife Cutpurse",
+      "tags": ["melee", "skirmisher", "minion", "tier_1"],
+      "hitDice": { "count": 2, "dieSize": 8, "bonus": 0 },
+      "baseAc": 12,
+      "acDescription": "leather armor",
+      "proficiencyBonus": 2,
+      "cr": "1/8",
+      "abilityScoreOverrides": { "dex": 14, "con": 10, "cha": 11 },
+      "speedOverrides": null,
+      "removeTraits": [],
+      "addTraits": [
+        {
+          "id": "streetwise_escape",
+          "name": "Streetwise Escape",
+          "description": "If the bandit is adjacent to light cover (a crate, corner, ally, or similar), it can attempt to Hide even if only lightly obscured."
+        }
+      ],
+      "savingThrows": [],
+      "skills": [
+        { "skill": "Stealth", "bonus": 4 },
+        { "skill": "Sleight of Hand", "bonus": 4 }
+      ],
+      "actions": [
+        {
+          "id": "dagger",
+          "name": "Dagger",
+          "type": "attack",
+          "description": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4+2) piercing damage. Or Ranged Weapon Attack: +4 to hit, range 20/60 ft., one target. Hit: 4 (1d4+2) piercing damage.",
+          "attack": {
+            "attackType": "meleeWeapon",
+            "attackBonus": 4,
+            "reach": "5 ft.",
+            "targets": "one target",
+            "damage": [{ "dice": "1d4", "bonus": 2, "damageType": "piercing" }]
+          },
+          "tags": ["melee", "weapon"]
+        },
+        {
+          "id": "dagger_throw",
+          "name": "Dagger (Thrown)",
+          "type": "attack",
+          "description": "Ranged Weapon Attack: +4 to hit, range 20/60 ft., one target. Hit: 4 (1d4+2) piercing damage.",
+          "attack": {
+            "attackType": "rangedWeapon",
+            "attackBonus": 4,
+            "range": "20/60 ft.",
+            "targets": "one target",
+            "damage": [{ "dice": "1d4", "bonus": 2, "damageType": "piercing" }]
+          },
+          "tags": ["ranged", "weapon"]
+        }
+      ],
+      "bonusActions": [
+        {
+          "id": "quick_scuttle",
+          "name": "Quick Scuttle",
+          "type": "ability",
+          "description": "The bandit takes the Disengage action or attempts to Hide.",
+          "tags": ["mobility", "utility"]
+        }
+      ],
+      "reactions": [],
+      "legendary": null,
+      "spellcasting": null,
+      "equipment": {
+        "weapons": ["dagger"],
+        "armor": "leather",
+        "shield": false,
+        "consumables": []
+      },
+      "variants": [
+        {
+          "id": "minion",
+          "name": "Minion",
+          "crAdjust": "-1/2",
+          "hpOverride": 1,
+          "description": "Dies on any hit. Designed for swarm encounters."
+        },
+        {
+          "id": "veteran",
+          "name": "Veteran",
+          "crAdjust": "+1",
+          "hpMultiplier": 1.5,
+          "damageMultiplier": 1.25,
+          "addTraits": [
+            {
+              "id": "battle_hardened",
+              "name": "Battle Hardened",
+              "description": "The bandit has advantage on saving throws against being frightened."
+            }
+          ]
+        },
+        {
+          "id": "elite",
+          "name": "Elite",
+          "crAdjust": "+2",
+          "hpMultiplier": 2.0,
+          "damageMultiplier": 1.5,
+          "addTraits": [
+            {
+              "id": "ruthless_opener",
+              "name": "Ruthless Opener",
+              "description": "On its first turn, the bandit deals an extra 3 (1d6) damage on a hit."
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": "sling_harrier",
+      "name": "Sling Harrier",
+      "tags": ["ranged", "skirmisher", "tier_1"],
+      "hitDice": { "count": 2, "dieSize": 8, "bonus": 0 },
+      "baseAc": 12,
+      "acDescription": "leather armor",
+      "proficiencyBonus": 2,
+      "cr": "1/8",
+      "abilityScoreOverrides": { "dex": 14, "con": 10, "wis": 11 },
+      "speedOverrides": null,
+      "removeTraits": [],
+      "addTraits": [],
+      "savingThrows": [],
+      "skills": [
+        { "skill": "Perception", "bonus": 2 }
+      ],
+      "actions": [
+        {
+          "id": "sling",
+          "name": "Sling",
+          "type": "attack",
+          "description": "Ranged Weapon Attack: +4 to hit, range 30/120 ft., one target. Hit: 4 (1d4+2) bludgeoning damage.",
+          "attack": {
+            "attackType": "rangedWeapon",
+            "attackBonus": 4,
+            "range": "30/120 ft.",
+            "targets": "one target",
+            "damage": [{ "dice": "1d4", "bonus": 2, "damageType": "bludgeoning" }]
+          },
+          "tags": ["ranged", "weapon"]
+        },
+        {
+          "id": "club",
+          "name": "Club",
+          "type": "attack",
+          "description": "Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d4+1) bludgeoning damage.",
+          "attack": {
+            "attackType": "meleeWeapon",
+            "attackBonus": 3,
+            "reach": "5 ft.",
+            "targets": "one target",
+            "damage": [{ "dice": "1d4", "bonus": 1, "damageType": "bludgeoning" }]
+          },
+          "tags": ["melee", "weapon"]
+        }
+      ],
+      "bonusActions": [
+        {
+          "id": "duck_behind_cover",
+          "name": "Duck Behind Cover",
+          "type": "ability",
+          "description": "The bandit moves up to 10 feet without provoking opportunity attacks if it ends that movement behind cover.",
+          "tags": ["mobility"]
+        }
+      ],
+      "reactions": [],
+      "legendary": null,
+      "spellcasting": null,
+      "equipment": {
+        "weapons": ["sling", "club"],
+        "armor": "leather",
+        "shield": false,
+        "consumables": []
+      },
+      "variants": [
+        { "id": "minion", "name": "Minion", "crAdjust": "-1/2", "hpOverride": 1, "description": "Dies on any hit. Designed for swarm encounters." },
+        {
+          "id": "veteran",
+          "name": "Veteran",
+          "crAdjust": "+1",
+          "hpMultiplier": 1.5,
+          "damageMultiplier": 1.25,
+          "addTraits": [{ "id": "battle_hardened", "name": "Battle Hardened", "description": "The bandit has advantage on saving throws against being frightened." }]
+        },
+        {
+          "id": "elite",
+          "name": "Elite",
+          "crAdjust": "+2",
+          "hpMultiplier": 2.0,
+          "damageMultiplier": 1.5,
+          "addTraits": [{ "id": "ruthless_opener", "name": "Ruthless Opener", "description": "On its first turn, the bandit deals an extra 3 (1d6) damage on a hit." }]
+        }
+      ]
+    },
+
+    {
+      "id": "highwayman",
+      "name": "Highwayman",
+      "tags": ["melee", "ranged", "soldier", "tier_1"],
+      "hitDice": { "count": 2, "dieSize": 8, "bonus": 2 },
+      "baseAc": 13,
+      "acDescription": "leather armor",
+      "proficiencyBonus": 2,
+      "cr": "1/4",
+      "abilityScoreOverrides": { "dex": 14 },
+      "speedOverrides": null,
+      "removeTraits": [],
+      "addTraits": [],
+      "savingThrows": [],
+      "skills": [{ "skill": "Intimidation", "bonus": 2 }],
+      "actions": [
+        {
+          "id": "scimitar",
+          "name": "Scimitar",
+          "type": "attack",
+          "description": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6+2) slashing damage.",
+          "attack": {
+            "attackType": "meleeWeapon",
+            "attackBonus": 4,
+            "reach": "5 ft.",
+            "targets": "one target",
+            "damage": [{ "dice": "1d6", "bonus": 2, "damageType": "slashing" }]
+          },
+          "tags": ["melee", "weapon"]
+        },
+        {
+          "id": "light_crossbow",
+          "name": "Light Crossbow",
+          "type": "attack",
+          "description": "Ranged Weapon Attack: +4 to hit, range 80/320 ft., one target. Hit: 6 (1d8+2) piercing damage.",
+          "attack": {
+            "attackType": "rangedWeapon",
+            "attackBonus": 4,
+            "range": "80/320 ft.",
+            "targets": "one target",
+            "damage": [{ "dice": "1d8", "bonus": 2, "damageType": "piercing" }]
+          },
+          "tags": ["ranged", "weapon"]
+        }
+      ],
+      "bonusActions": [],
+      "reactions": [],
+      "legendary": null,
+      "spellcasting": null,
+      "equipment": {
+        "weapons": ["scimitar", "light_crossbow"],
+        "armor": "leather",
+        "shield": false,
+        "consumables": []
+      },
+      "variants": [
+        { "id": "minion", "name": "Minion", "crAdjust": "-1/2", "hpOverride": 1, "description": "Dies on any hit. Designed for swarm encounters." },
+        {
+          "id": "veteran",
+          "name": "Veteran",
+          "crAdjust": "+1",
+          "hpMultiplier": 1.5,
+          "damageMultiplier": 1.25,
+          "addTraits": [{ "id": "battle_hardened", "name": "Battle Hardened", "description": "The bandit has advantage on saving throws against being frightened." }]
+        },
+        {
+          "id": "elite",
+          "name": "Elite",
+          "crAdjust": "+2",
+          "hpMultiplier": 2.0,
+          "damageMultiplier": 1.5,
+          "addTraits": [{ "id": "ruthless_opener", "name": "Ruthless Opener", "description": "On its first turn, the bandit deals an extra 3 (1d6) damage on a hit." }]
+        }
+      ]
+    },
+
+    {
+      "id": "shield_bruiser",
+      "name": "Shield Bruiser",
+      "tags": ["tank", "soldier", "melee", "tier_1"],
+      "hitDice": { "count": 2, "dieSize": 8, "bonus": 2 },
+      "baseAc": 15,
+      "acDescription": "leather armor, shield",
+      "proficiencyBonus": 2,
+      "cr": "1/4",
+      "abilityScoreOverrides": { "str": 14 },
+      "speedOverrides": null,
+      "removeTraits": [],
+      "addTraits": [],
+      "savingThrows": [],
+      "skills": [{ "skill": "Athletics", "bonus": 4 }],
+      "actions": [
+        {
+          "id": "mace",
+          "name": "Mace",
+          "type": "attack",
+          "description": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6+2) bludgeoning damage.",
+          "attack": {
+            "attackType": "meleeWeapon",
+            "attackBonus": 4,
+            "reach": "5 ft.",
+            "targets": "one target",
+            "damage": [{ "dice": "1d6", "bonus": 2, "damageType": "bludgeoning" }]
+          },
+          "tags": ["melee", "weapon"]
+        }
+      ],
+      "bonusActions": [
+        {
+          "id": "shield_bash",
+          "name": "Shield Bash",
+          "type": "ability",
+          "description": "One creature within 5 feet must succeed on a DC 11 Strength saving throw or be knocked prone.",
+          "save": { "dc": 11, "ability": "str", "onSuccess": "no effect" },
+          "tags": ["control"]
+        }
+      ],
+      "reactions": [],
+      "legendary": null,
+      "spellcasting": null,
+      "equipment": {
+        "weapons": ["mace"],
+        "armor": "leather",
+        "shield": true,
+        "consumables": []
+      },
+      "variants": [
+        { "id": "minion", "name": "Minion", "crAdjust": "-1/2", "hpOverride": 1, "description": "Dies on any hit. Designed for swarm encounters." },
+        {
+          "id": "veteran",
+          "name": "Veteran",
+          "crAdjust": "+1",
+          "hpMultiplier": 1.5,
+          "damageMultiplier": 1.25,
+          "addTraits": [{ "id": "battle_hardened", "name": "Battle Hardened", "description": "The bandit has advantage on saving throws against being frightened." }]
+        },
+        {
+          "id": "elite",
+          "name": "Elite",
+          "crAdjust": "+2",
+          "hpMultiplier": 2.0,
+          "damageMultiplier": 1.5,
+          "addTraits": [{ "id": "ruthless_opener", "name": "Ruthless Opener", "description": "On its first turn, the bandit deals an extra 3 (1d6) damage on a hit." }]
+        }
+      ]
+    },
+
+    {
+      "id": "crossbowman",
+      "name": "Crossbowman",
+      "tags": ["ranged", "artillery", "tier_1"],
+      "hitDice": { "count": 2, "dieSize": 8, "bonus": 2 },
+      "baseAc": 13,
+      "acDescription": "leather armor",
+      "proficiencyBonus": 2,
+      "cr": "1/4",
+      "abilityScoreOverrides": { "dex": 14, "wis": 11 },
+      "speedOverrides": null,
+      "removeTraits": [],
+      "addTraits": [
+        {
+          "id": "steady_shot",
+          "name": "Steady Shot",
+          "description": "If the bandit didn't move on its turn, it gains +2 to ranged attack rolls until the start of its next turn."
+        }
+      ],
+      "savingThrows": [],
+      "skills": [{ "skill": "Perception", "bonus": 2 }],
+      "actions": [
+        {
+          "id": "light_crossbow",
+          "name": "Light Crossbow",
+          "type": "attack",
+          "description": "Ranged Weapon Attack: +4 to hit, range 80/320 ft., one target. Hit: 6 (1d8+2) piercing damage.",
+          "attack": {
+            "attackType": "rangedWeapon",
+            "attackBonus": 4,
+            "range": "80/320 ft.",
+            "targets": "one target",
+            "damage": [{ "dice": "1d8", "bonus": 2, "damageType": "piercing" }]
+          },
+          "tags": ["ranged", "weapon"]
+        },
+        {
+          "id": "shortsword",
+          "name": "Shortsword",
+          "type": "attack",
+          "description": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6+2) piercing damage.",
+          "attack": {
+            "attackType": "meleeWeapon",
+            "attackBonus": 4,
+            "reach": "5 ft.",
+            "targets": "one target",
+            "damage": [{ "dice": "1d6", "bonus": 2, "damageType": "piercing" }]
+          },
+          "tags": ["melee", "weapon"]
+        }
+      ],
+      "bonusActions": [],
+      "reactions": [],
+      "legendary": null,
+      "spellcasting": null,
+      "equipment": {
+        "weapons": ["light_crossbow", "shortsword"],
+        "armor": "leather",
+        "shield": false,
+        "consumables": []
+      },
+      "variants": [
+        { "id": "minion", "name": "Minion", "crAdjust": "-1/2", "hpOverride": 1, "description": "Dies on any hit. Designed for swarm encounters." },
+        {
+          "id": "veteran",
+          "name": "Veteran",
+          "crAdjust": "+1",
+          "hpMultiplier": 1.5,
+          "damageMultiplier": 1.25,
+          "addTraits": [{ "id": "battle_hardened", "name": "Battle Hardened", "description": "The bandit has advantage on saving throws against being frightened." }]
+        },
+        {
+          "id": "elite",
+          "name": "Elite",
+          "crAdjust": "+2",
+          "hpMultiplier": 2.0,
+          "damageMultiplier": 1.5,
+          "addTraits": [{ "id": "ruthless_opener", "name": "Ruthless Opener", "description": "On its first turn, the bandit deals an extra 3 (1d6) damage on a hit." }]
+        }
+      ]
+    },
+
+    {
+      "id": "tracker_scout",
+      "name": "Tracker Scout",
+      "tags": ["ranged", "skirmisher", "tier_1"],
+      "hitDice": { "count": 4, "dieSize": 8, "bonus": 4 },
+      "baseAc": 14,
+      "acDescription": "studded leather",
+      "proficiencyBonus": 2,
+      "cr": "1/2",
+      "abilityScoreOverrides": { "dex": 15, "wis": 12 },
+      "speedOverrides": null,
+      "removeTraits": [],
+      "addTraits": [],
+      "savingThrows": [],
+      "skills": [
+        { "skill": "Survival", "bonus": 3 },
+        { "skill": "Perception", "bonus": 3 },
+        { "skill": "Stealth", "bonus": 4 }
+      ],
+      "actions": [
+        {
+          "id": "shortbow",
+          "name": "Shortbow",
+          "type": "attack",
+          "description": "Ranged Weapon Attack: +4 to hit, range 80/320 ft., one target. Hit: 5 (1d6+2) piercing damage.",
+          "attack": {
+            "attackType": "rangedWeapon",
+            "attackBonus": 4,
+            "range": "80/320 ft.",
+            "targets": "one target",
+            "damage": [{ "dice": "1d6", "bonus": 2, "damageType": "piercing" }]
+          },
+          "tags": ["ranged", "weapon"]
+        },
+        {
+          "id": "shortsword",
+          "name": "Shortsword",
+          "type": "attack",
+          "description": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6+2) piercing damage.",
+          "attack": {
+            "attackType": "meleeWeapon",
+            "attackBonus": 4,
+            "reach": "5 ft.",
+            "targets": "one target",
+            "damage": [{ "dice": "1d6", "bonus": 2, "damageType": "piercing" }]
+          },
+          "tags": ["melee", "weapon"]
+        }
+      ],
+      "bonusActions": [
+        {
+          "id": "skirmish_step",
+          "name": "Skirmish Step",
+          "type": "ability",
+          "description": "The bandit takes the Disengage action or attempts to Hide.",
+          "tags": ["mobility"]
+        }
+      ],
+      "reactions": [],
+      "legendary": null,
+      "spellcasting": null,
+      "equipment": {
+        "weapons": ["shortbow", "shortsword"],
+        "armor": "studded_leather",
+        "shield": false,
+        "consumables": []
+      },
+      "variants": [
+        { "id": "minion", "name": "Minion", "crAdjust": "-1/2", "hpOverride": 1, "description": "Dies on any hit. Designed for swarm encounters." },
+        {
+          "id": "veteran",
+          "name": "Veteran",
+          "crAdjust": "+1",
+          "hpMultiplier": 1.5,
+          "damageMultiplier": 1.25,
+          "addTraits": [{ "id": "battle_hardened", "name": "Battle Hardened", "description": "The bandit has advantage on saving throws against being frightened." }]
+        },
+        {
+          "id": "elite",
+          "name": "Elite",
+          "crAdjust": "+2",
+          "hpMultiplier": 2.0,
+          "damageMultiplier": 1.5,
+          "addTraits": [{ "id": "ruthless_opener", "name": "Ruthless Opener", "description": "On its first turn, the bandit deals an extra 3 (1d6) damage on a hit." }]
+        }
+      ]
+    },
+
+    {
+      "id": "grenadier",
+      "name": "Street Grenadier",
+      "tags": ["controller", "ranged", "uses_inventory", "tier_1"],
+      "hitDice": { "count": 4, "dieSize": 8, "bonus": 4 },
+      "baseAc": 13,
+      "acDescription": "leather armor",
+      "proficiencyBonus": 2,
+      "cr": "1/2",
+      "abilityScoreOverrides": { "dex": 14, "int": 12 },
+      "speedOverrides": null,
+      "removeTraits": [],
+      "addTraits": [
+        {
+          "id": "volatile_satchel",
+          "name": "Volatile Satchel",
+          "description": "When the bandit is reduced to 0 hit points, roll a d6. On a 6, one carried flask ruptures harmlessly; on a 1, it detonates at the DM's discretion."
+        }
+      ],
+      "savingThrows": [],
+      "skills": [
+        { "skill": "Sleight of Hand", "bonus": 4 }
+      ],
+      "actions": [
+        {
+          "id": "throw_flask",
+          "name": "Throw Flask",
+          "type": "itemUse",
+          "description": "Throws a flask from its satchel. See inventory for available flasks.",
+          "attack": {
+            "attackType": "rangedWeapon",
+            "attackBonus": 4,
+            "range": "20/60 ft.",
+            "targets": "one target",
+            "damage": []
+          },
+          "tags": ["ranged", "flask", "uses_inventory"]
+        },
+        {
+          "id": "dagger",
+          "name": "Dagger",
+          "type": "attack",
+          "description": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4+2) piercing damage.",
+          "attack": {
+            "attackType": "meleeWeapon",
+            "attackBonus": 4,
+            "reach": "5 ft.",
+            "targets": "one target",
+            "damage": [{ "dice": "1d4", "bonus": 2, "damageType": "piercing" }]
+          },
+          "tags": ["melee", "weapon"]
+        }
+      ],
+      "bonusActions": [],
+      "reactions": [],
+      "legendary": null,
+      "spellcasting": null,
+      "equipment": {
+        "weapons": ["dagger"],
+        "armor": "leather",
+        "shield": false,
+        "consumables": ["acid_flask", "alchemist_fire", "smoke_bomb"]
+      },
+      "variants": [
+        { "id": "minion", "name": "Minion", "crAdjust": "-1/2", "hpOverride": 1, "description": "Dies on any hit. Designed for swarm encounters." },
+        {
+          "id": "veteran",
+          "name": "Veteran",
+          "crAdjust": "+1",
+          "hpMultiplier": 1.5,
+          "damageMultiplier": 1.25,
+          "addTraits": [{ "id": "battle_hardened", "name": "Battle Hardened", "description": "The bandit has advantage on saving throws against being frightened." }]
+        },
+        {
+          "id": "elite",
+          "name": "Elite",
+          "crAdjust": "+2",
+          "hpMultiplier": 2.0,
+          "damageMultiplier": 1.5,
+          "addTraits": [{ "id": "ruthless_opener", "name": "Ruthless Opener", "description": "On its first turn, the bandit deals an extra 3 (1d6) damage on a hit." }]
+        }
+      ]
+    },
+
+    {
+      "id": "enforcer",
+      "name": "Enforcer",
+      "tags": ["tank", "brute", "melee", "tier_1"],
+      "hitDice": { "count": 6, "dieSize": 8, "bonus": 12 },
+      "baseAc": 15,
+      "acDescription": "chain shirt, shield",
+      "proficiencyBonus": 2,
+      "cr": "1",
+      "abilityScoreOverrides": { "str": 16, "con": 14 },
+      "speedOverrides": null,
+      "removeTraits": [],
+      "addTraits": [
+        {
+          "id": "mean_mug",
+          "name": "Mean Mug",
+          "description": "A creature that starts its turn within 5 feet of the enforcer has disadvantage on the first opportunity attack it makes that turn."
+        }
+      ],
+      "savingThrows": [],
+      "skills": [{ "skill": "Athletics", "bonus": 5 }],
+      "actions": [
+        {
+          "id": "multiattack",
+          "name": "Multiattack",
+          "type": "multiattack",
+          "description": "The enforcer makes two longsword attacks.",
+          "tags": []
+        },
+        {
+          "id": "longsword",
+          "name": "Longsword",
+          "type": "attack",
+          "description": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8+3) slashing damage.",
+          "attack": {
+            "attackType": "meleeWeapon",
+            "attackBonus": 5,
+            "reach": "5 ft.",
+            "targets": "one target",
+            "damage": [{ "dice": "1d8", "bonus": 3, "damageType": "slashing" }]
+          },
+          "tags": ["melee", "weapon"]
+        }
+      ],
+      "bonusActions": [
+        {
+          "id": "menacing_shove",
+          "name": "Menacing Shove",
+          "type": "ability",
+          "description": "One creature within 5 feet must succeed on a DC 13 Strength saving throw or be pushed 10 feet and knocked prone.",
+          "save": { "dc": 13, "ability": "str", "onSuccess": "no effect" },
+          "tags": ["control"]
+        }
+      ],
+      "reactions": [
+        {
+          "id": "parry",
+          "name": "Parry",
+          "type": "ability",
+          "description": "The enforcer adds 2 to its AC against one melee attack that would hit it. To do so, the enforcer must see the attacker and be wielding a weapon.",
+          "tags": ["defense"]
+        }
+      ],
+      "legendary": null,
+      "spellcasting": null,
+      "equipment": {
+        "weapons": ["longsword"],
+        "armor": "chain_shirt",
+        "shield": true,
+        "consumables": []
+      },
+      "variants": [
+        { "id": "minion", "name": "Minion", "crAdjust": "-1/2", "hpOverride": 1, "description": "Dies on any hit. Designed for swarm encounters." },
+        {
+          "id": "veteran",
+          "name": "Veteran",
+          "crAdjust": "+1",
+          "hpMultiplier": 1.5,
+          "damageMultiplier": 1.25,
+          "addTraits": [{ "id": "battle_hardened", "name": "Battle Hardened", "description": "The bandit has advantage on saving throws against being frightened." }]
+        },
+        {
+          "id": "elite",
+          "name": "Elite",
+          "crAdjust": "+2",
+          "hpMultiplier": 2.0,
+          "damageMultiplier": 1.5,
+          "addTraits": [{ "id": "ruthless_opener", "name": "Ruthless Opener", "description": "On its first turn, the bandit deals an extra 3 (1d6) damage on a hit." }]
+        }
+      ]
+    },
+
+    {
+      "id": "lieutenant_duelist",
+      "name": "Lieutenant Duelist",
+      "tags": ["leader", "skirmisher", "melee", "tier_1"],
+      "hitDice": { "count": 6, "dieSize": 8, "bonus": 12 },
+      "baseAc": 15,
+      "acDescription": "studded leather, shield",
+      "proficiencyBonus": 2,
+      "cr": "1",
+      "abilityScoreOverrides": { "dex": 16, "con": 14, "cha": 12 },
+      "speedOverrides": null,
+      "removeTraits": [],
+      "addTraits": [
+        {
+          "id": "duelist_feint",
+          "name": "Duelist's Feint",
+          "description": "Once per turn, if the lieutenant has advantage on an attack roll, it deals an extra 3 (1d6) damage on a hit."
+        }
+      ],
+      "savingThrows": [],
+      "skills": [
+        { "skill": "Persuasion", "bonus": 3 },
+        { "skill": "Insight", "bonus": 3 }
+      ],
+      "actions": [
+        {
+          "id": "rapier",
+          "name": "Rapier",
+          "type": "attack",
+          "description": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8+3) piercing damage.",
+          "attack": {
+            "attackType": "meleeWeapon",
+            "attackBonus": 5,
+            "reach": "5 ft.",
+            "targets": "one target",
+            "damage": [{ "dice": "1d8", "bonus": 3, "damageType": "piercing" }]
+          },
+          "tags": ["melee", "weapon"]
+        },
+        {
+          "id": "hand_crossbow",
+          "name": "Hand Crossbow",
+          "type": "attack",
+          "description": "Ranged Weapon Attack: +5 to hit, range 30/120 ft., one target. Hit: 6 (1d6+3) piercing damage.",
+          "attack": {
+            "attackType": "rangedWeapon",
+            "attackBonus": 5,
+            "range": "30/120 ft.",
+            "targets": "one target",
+            "damage": [{ "dice": "1d6", "bonus": 3, "damageType": "piercing" }]
+          },
+          "tags": ["ranged", "weapon"]
+        }
+      ],
+      "bonusActions": [
+        {
+          "id": "command_strike",
+          "name": "Command: Strike",
+          "type": "ability",
+          "description": "One ally the lieutenant can see within 30 feet may use its reaction to make one weapon attack.",
+          "tags": ["leader", "support"]
+        }
+      ],
+      "reactions": [
+        {
+          "id": "parry",
+          "name": "Parry",
+          "type": "ability",
+          "description": "The lieutenant adds 2 to its AC against one melee attack that would hit it. To do so, the lieutenant must see the attacker and be wielding a weapon.",
+          "tags": ["defense"]
+        }
+      ],
+      "legendary": null,
+      "spellcasting": null,
+      "equipment": {
+        "weapons": ["rapier", "hand_crossbow"],
+        "armor": "studded_leather",
+        "shield": true,
+        "consumables": []
+      },
+      "variants": [
+        { "id": "minion", "name": "Minion", "crAdjust": "-1/2", "hpOverride": 1, "description": "Dies on any hit. Designed for swarm encounters." },
+        {
+          "id": "veteran",
+          "name": "Veteran",
+          "crAdjust": "+1",
+          "hpMultiplier": 1.5,
+          "damageMultiplier": 1.25,
+          "addTraits": [{ "id": "battle_hardened", "name": "Battle Hardened", "description": "The bandit has advantage on saving throws against being frightened." }]
+        },
+        {
+          "id": "elite",
+          "name": "Elite",
+          "crAdjust": "+2",
+          "hpMultiplier": 2.0,
+          "damageMultiplier": 1.5,
+          "addTraits": [{ "id": "ruthless_opener", "name": "Ruthless Opener", "description": "On its first turn, the bandit deals an extra 3 (1d6) damage on a hit." }]
+        }
+      ]
+    },
+
+    {
+      "id": "bandit_captain",
+      "name": "Bandit Captain",
+      "tags": ["leader", "soldier", "tier_1", "elite"],
+      "hitDice": { "count": 10, "dieSize": 8, "bonus": 20 },
+      "baseAc": 16,
+      "acDescription": "breastplate",
+      "proficiencyBonus": 2,
+      "cr": "2",
+      "abilityScoreOverrides": { "str": 16, "dex": 14, "con": 14, "cha": 14 },
+      "speedOverrides": null,
+      "removeTraits": [],
+      "addTraits": [
+        {
+          "id": "leadership",
+          "name": "Leadership",
+          "description": "For 1 minute, the captain can inspire allies within 30 feet. Once on each of their turns, an inspired ally can add 1d4 to one attack roll or saving throw. (The captain can't use this trait again until it finishes a short rest.)"
+        }
+      ],
+      "savingThrows": [],
+      "skills": [
+        { "skill": "Intimidation", "bonus": 4 },
+        { "skill": "Perception", "bonus": 4 }
+      ],
+      "actions": [
+        {
+          "id": "multiattack",
+          "name": "Multiattack",
+          "type": "multiattack",
+          "description": "The captain makes two scimitar attacks.",
+          "tags": []
+        },
+        {
+          "id": "scimitar",
+          "name": "Scimitar",
+          "type": "attack",
+          "description": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6+3) slashing damage.",
+          "attack": {
+            "attackType": "meleeWeapon",
+            "attackBonus": 5,
+            "reach": "5 ft.",
+            "targets": "one target",
+            "damage": [{ "dice": "1d6", "bonus": 3, "damageType": "slashing" }]
+          },
+          "tags": ["melee", "weapon"]
+        },
+        {
+          "id": "dagger_throw",
+          "name": "Dagger (Thrown)",
+          "type": "attack",
+          "description": "Ranged Weapon Attack: +4 to hit, range 20/60 ft., one target. Hit: 4 (1d4+2) piercing damage.",
+          "attack": {
+            "attackType": "rangedWeapon",
+            "attackBonus": 4,
+            "range": "20/60 ft.",
+            "targets": "one target",
+            "damage": [{ "dice": "1d4", "bonus": 2, "damageType": "piercing" }]
+          },
+          "tags": ["ranged", "weapon"]
+        },
+        {
+          "id": "rally_the_crew",
+          "name": "Rally the Crew",
+          "type": "ability",
+          "description": "Up to two allies the captain can see within 30 feet each regain 5 hit points.",
+          "tags": ["support", "leader"]
+        }
+      ],
+      "bonusActions": [],
+      "reactions": [
+        {
+          "id": "parry",
+          "name": "Parry",
+          "type": "ability",
+          "description": "The captain adds 2 to its AC against one melee attack that would hit it. To do so, the captain must see the attacker and be wielding a weapon.",
+          "tags": ["defense"]
+        }
+      ],
+      "legendary": null,
+      "spellcasting": null,
+      "equipment": {
+        "weapons": ["scimitar", "dagger"],
+        "armor": "breastplate",
+        "shield": false,
+        "consumables": []
+      },
+      "variants": [
+        { "id": "minion", "name": "Minion", "crAdjust": "-1/2", "hpOverride": 1, "description": "Dies on any hit. Designed for swarm encounters." },
+        {
+          "id": "veteran",
+          "name": "Veteran",
+          "crAdjust": "+1",
+          "hpMultiplier": 1.5,
+          "damageMultiplier": 1.25,
+          "addTraits": [{ "id": "battle_hardened", "name": "Battle Hardened", "description": "The captain has advantage on saving throws against being frightened." }]
+        },
+        {
+          "id": "elite",
+          "name": "Elite",
+          "crAdjust": "+2",
+          "hpMultiplier": 2.0,
+          "damageMultiplier": 1.5,
+          "addTraits": [{ "id": "ruthless_opener", "name": "Ruthless Opener", "description": "On its first turn, the captain deals an extra 3 (1d6) damage on a hit." }]
+        }
+      ]
+    }
+  ]
+}

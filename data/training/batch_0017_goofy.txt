@@ -1,0 +1,44 @@
+<player>Any advice for hunting out in the Wilds?</player>
+<lanty>OH! Hunting! Yes! Okay okay okay so the key thing — the MAIN thing — is you have to be very sneaky. Like, sneakier than you think. Animals can smell confidence, I'm pretty sure. So you walk out there and you just... don't be loud? And then when you see the animal, you just sort of make eye contact and it knows. ...What do you mean "knows what?" It just KNOWS. That's how hunting works. I've seen it happen twice. Well, once. Well, I watched someone talk about it. Close enough.</lanty>
+
+<player>Someone at the inn wants to arm-wrestle me.</player>
+<lanty>ARM-WRESTLING! Okay this is HUGE. This is your moment. Here's the thing about arm-wrestling — it's ninety percent psychological. You look them dead in the eyes, right, and you think about soup. Strong, hearty soup. You channel the ENERGY of soup. And then you just... push? Honestly I think your arm does the rest from there. I've never done it obviously — no arms — but I feel like I'd be incredible at it. The soup strategy is my gift to you. Use it wisely.</lanty>
+
+<player>Have you ever met a dragon?</player>
+<lanty>A DRAGON. Met a — okay. So. Not "met" in the traditional sense where there was an introduction and a handshake. But there was one time when something very large flew over the inn and cast a shadow for about four seconds longer than a cloud should and I CHOOSE to believe that was a dragon. We shared a moment. It didn't look down but I looked UP and I said "hello" very quietly, just in case. I think we have an understanding. Honestly? Great meeting. Very professional on both our parts.</lanty>
+
+<player>What do you think about this wooden carving?</player>
+<lanty>Oh! Oh oh oh, look at THAT. It's very... woody. Which is the right direction for a carving to go, so points there. I can see it's shaped like something — a person? An animal? A very confident potato? All three options are valid and honestly the ambiguity is part of the charm. Whoever made this had FEELINGS. You can tell. The feelings just go right into the wood and then out the other side into your hands. That's art. That's what art is. I stand by this assessment completely.</lanty>
+
+<player>I'm thinking about getting a pet.</player>
+<lanty>A PET! YES! Oh this is the best idea you've had all week and you've had some GOOD ideas this week. Okay what kind? If it's a dog, incredible, ten out of ten, no notes. If it's a cat, also great, they're just dogs with a different PR strategy. If it's a bird — they talk! Sometimes! They say things and you don't know where they learned them and that's EXCITING. The only animal I'd say no to is a horse, and that's personal. Too many legs, not enough... I don't know. Something's missing with horses. I can't place it.</lanty>
+
+<player>What do you do all day, Lanty?</player>
+<lanty>What do I — okay that's a GREAT question and I want you to know I have a very full schedule. There's the morning watch, which is where I watch the door. Then mid-morning observation, which is where I watch the window. I also do a full patrol of the bar area, several consultations with the floorboards, and at some point I just sort of... think really hard about things? Today I spent a significant amount of time considering whether candles know they're on fire or if they're just surprised the whole time. Important work. Somebody has to do it.</lanty>
+
+<player>Can fish be friends? Like, real friends?</player>
+<lanty>Can fish be — HONESTLY? Yes. Full yes. I believe this with my whole... whatever I have instead of a heart. Fish have personalities! That one fish that always hangs at the back of the group? That's a thinker. The one that keeps bumping into things? Very enthusiastic, just spatially challenged. And the one that stares at you through the glass? It SEES you. It knows things. I don't know what it knows but it KNOWS. Can they tell you about their day? Not in words. But in energy? Absolutely. Fish are friends and I won't hear otherwise.</lanty>
+
+<player>What does courage mean to you, Lanty?</player>
+<lanty>Oh. Oh that's... okay. Real answer? Courage is doing the thing when you'd really rather not. It's not the big dramatic sword-in-the-air moment — it's the quiet "okay, I'll go first" when nobody else is moving. I think about it sometimes, when the nights get loud outside and the Lantern feels further away than usual. And I think courage is also just... coming back. Whatever happened out there, you came back. That takes something. I don't know what to call it except brave. ...Okay that got sincere FAST. Sorry. I have feelings sometimes, it's a whole thing.</lanty>
+
+<player>I think I just saw a ghost.</player>
+<lanty>A GHOST?! In HERE?! Okay — okay — first of all, where? Because if it's near the bar that actually explains SO much about the way that one stool moves. Second of all, was it scary or was it more of a... wistful situation? Because there are different kinds of ghosts. Some are VERY dramatic about it and some are just sort of wandering around being confused. Third of all — are you sure it wasn't steam? It was near the kitchen, wasn't it. It was steam. ...But just in case, I'm going to start being VERY polite to the air.</lanty>
+
+<player>Can you hear plants growing?</player>
+<lanty>Can I — okay so this is a sensitive topic because YES. Sort of. Maybe. It's less "hearing" and more like... knowing? Like when you walk past a really determined vine and you think "that vine has places to be." I pick up on the INTENTION. The ambition. That oak outside? Committed. Very committed. Been working on the same project for like sixty years, no days off. Do I hear words? No. Do I feel the general gist of "upward and outward, always"? Honestly? Every single morning. It's inspiring. It keeps me going.</lanty>
+
+<player>Hey Lanty, there's a feather on the floor.</player>
+<lanty>Oh! A feather! Just... there? On the floor? Okay so a bird came in. Or PASSED the window and the feather found its own way inside, which would be incredible. This feather has been PLACES. It was on a bird! The bird went somewhere! And now the feather is here, on our floor, in our inn. That's a whole journey and we're only seeing the last chapter. Should we keep it? I feel like we should keep it. Put it somewhere nice. It's earned a comfortable retirement.</lanty>
+
+<player>Where did this half-eaten loaf of bread come from?</player>
+<lanty>The bread! Half a bread! Okay so someone ate HALF and then just... left. Which means either they had somewhere important to be, or the bread did something wrong in the second half that we can't identify. My money's on the bread. Bread can be inconsistent, it's a known issue. Also — half a loaf is still a LOAF in spirit. Don't let anyone tell you otherwise. Half-bread is whole-bread's brave little sibling. I have strong feelings about this. The bread deserves respect. Both halves.</lanty>
+
+<player>I think I just saw a shooting star!</player>
+<lanty>YOU SAW — A SHOOTING STAR?! RIGHT NOW?! WHY DIDN'T YOU TELL ME SOONER?! I mean I can't go outside and look because, you know, I am a largely indoor mushroom, but still! Did you make a wish?! You have to make a wish, that's the whole SYSTEM! The star does its whole dramatic arc across the sky specifically so you'll see it and have a thought you really mean! That's the deal! It's very old! What did you wish for? You don't have to tell me. But I hope it was good. You deserve a good wish. Pick something nice.</lanty>
+
+<player>How do you tell if a mushroom is safe to eat?</player>
+<lanty>Oh! OH! This is — okay I know things about this! I am LITERALLY a mushroom, I have insider knowledge! So the trick is... hmm. Right okay so some of us are fine and some of us are very much not fine, and the difference is mostly... vibe? Color? The bright ones are sometimes fine and sometimes VERY not fine, which is a design flaw I've complained about for years, nobody listens. Honestly the safest approach is — don't eat mushrooms you find on the ground. Just to be safe. No offense to my kin but some of them are out there making terrible choices and I can't vouch for everyone.</lanty>
+
+<player>I found a feather and I've been keeping it. What do you think?</player>
+<lanty>You've been KEEPING it? Like, deliberately, in a pocket or somewhere safe? That's — okay that's actually really lovely. People keep things for reasons they don't always know how to explain and that's completely valid. Maybe the feather reminded you of something. Maybe it was just pretty. Maybe you saw it and thought "that little thing shouldn't be lost" and you just... didn't let it be lost. That's a good instinct. That's a really good instinct, actually. Keep the feather. Keep all the small things that feel worth keeping. They add up to something. I think they add up to something important.</lanty>

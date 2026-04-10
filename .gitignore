@@ -1,3 +1,16 @@
-/target
-/data
-/models
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+scripts/.venv/
+
+# Trained model artifacts (large; rebuild from training pipeline)
+models/*.gguf
+models/*.bin
+models/*.safetensors
+models/lanty-qwen-lora/
+models/lanty-qwen-merged/
+
+# OS
+.DS_Store

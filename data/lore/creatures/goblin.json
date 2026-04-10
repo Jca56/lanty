@@ -1,0 +1,701 @@
+{
+  "id": "goblin",
+  "name": "Goblin",
+  "type": "Humanoid (goblinoid)",
+  "description": "Small, malicious humanoids that dwell in dark caves and ruins. Goblins are cowardly alone but bold in numbers.",
+  "tags": ["goblinoid", "srd", "low-level"],
+  "size": "small",
+  "alignment": "neutral evil",
+  "abilityScores": {
+    "str": 8,
+    "dex": 14,
+    "con": 10,
+    "int": 10,
+    "wis": 8,
+    "cha": 8
+  },
+  "speed": { "walk": 30 },
+  "senses": { "darkvision": 60, "passivePerception": 9 },
+  "languages": ["Common", "Goblin"],
+  "sharedTraits": [
+    {
+      "id": "nimble_escape",
+      "name": "Nimble Escape",
+      "description": "The goblin can take the Disengage or Hide action as a bonus action on each of its turns."
+    }
+  ],
+  "damageModifiers": {
+    "resistances": [],
+    "immunities": [],
+    "vulnerabilities": []
+  },
+  "conditionImmunities": [],
+  "kits": [
+    {
+      "id": "warrior",
+      "name": "Warrior",
+      "tags": ["melee", "tier_1"],
+      "hitDice": { "count": 2, "dieSize": 6, "bonus": 0 },
+      "baseAc": 15,
+      "acDescription": "leather armor, shield",
+      "proficiencyBonus": 2,
+      "cr": "1/4",
+      "abilityScoreOverrides": null,
+      "speedOverrides": null,
+      "removeTraits": [],
+      "addTraits": [],
+      "savingThrows": [],
+      "skills": [
+        { "skill": "Stealth", "bonus": 6 }
+      ],
+      "actions": [
+        {
+          "id": "scimitar",
+          "name": "Scimitar",
+          "type": "attack",
+          "description": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6+2) slashing damage.",
+          "attack": {
+            "attackType": "meleeWeapon",
+            "attackBonus": 4,
+            "reach": "5 ft.",
+            "targets": "one target",
+            "damage": [
+              { "dice": "1d6", "bonus": 2, "damageType": "slashing" }
+            ]
+          },
+          "tags": ["melee", "weapon"]
+        },
+        {
+          "id": "shortbow",
+          "name": "Shortbow",
+          "type": "attack",
+          "description": "Ranged Weapon Attack: +4 to hit, range 80/320 ft., one target. Hit: 5 (1d6+2) piercing damage.",
+          "attack": {
+            "attackType": "rangedWeapon",
+            "attackBonus": 4,
+            "range": "80/320 ft.",
+            "targets": "one target",
+            "damage": [
+              { "dice": "1d6", "bonus": 2, "damageType": "piercing" }
+            ]
+          },
+          "tags": ["ranged", "weapon"]
+        }
+      ],
+      "bonusActions": [],
+      "reactions": [],
+      "legendary": null,
+      "spellcasting": null,
+      "equipment": {
+        "weapons": ["scimitar", "shortbow"],
+        "armor": "leather",
+        "shield": true,
+        "consumables": []
+      },
+      "variants": []
+    },
+    {
+      "id": "boss",
+      "name": "Boss",
+      "tags": ["leader", "melee", "tier_1"],
+      "hitDice": { "count": 6, "dieSize": 6, "bonus": 0 },
+      "baseAc": 17,
+      "acDescription": "chain shirt, shield",
+      "proficiencyBonus": 2,
+      "cr": "1",
+      "abilityScoreOverrides": null,
+      "speedOverrides": null,
+      "removeTraits": [],
+      "addTraits": [
+        {
+          "id": "redirect_attack",
+          "name": "Redirect Attack",
+          "description": "When a creature the goblin can see targets it with an attack, the goblin chooses another goblin within 5 feet of it. The two goblins swap places, and the chosen goblin becomes the target instead."
+        }
+      ],
+      "savingThrows": [],
+      "skills": [
+        { "skill": "Stealth", "bonus": 6 }
+      ],
+      "actions": [
+        {
+          "id": "multiattack",
+          "name": "Multiattack",
+          "type": "multiattack",
+          "description": "The goblin makes two attacks with its scimitar. The second attack has disadvantage.",
+          "tags": []
+        },
+        {
+          "id": "scimitar",
+          "name": "Scimitar",
+          "type": "attack",
+          "description": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6+2) slashing damage.",
+          "attack": {
+            "attackType": "meleeWeapon",
+            "attackBonus": 4,
+            "reach": "5 ft.",
+            "targets": "one target",
+            "damage": [
+              { "dice": "1d6", "bonus": 2, "damageType": "slashing" }
+            ]
+          },
+          "tags": ["melee", "weapon"]
+        },
+        {
+          "id": "javelin",
+          "name": "Javelin",
+          "type": "attack",
+          "description": "Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 30/120 ft., one target. Hit: 5 (1d6+2) piercing damage.",
+          "attack": {
+            "attackType": "rangedWeapon",
+            "attackBonus": 4,
+            "reach": "5 ft.",
+            "range": "30/120 ft.",
+            "targets": "one target",
+            "damage": [
+              { "dice": "1d6", "bonus": 2, "damageType": "piercing" }
+            ]
+          },
+          "tags": ["melee", "ranged", "weapon", "thrown"]
+        }
+      ],
+      "bonusActions": [],
+      "reactions": [
+        {
+          "id": "redirect_attack_reaction",
+          "name": "Redirect Attack",
+          "type": "ability",
+          "description": "When a creature the goblin can see targets it with an attack, the goblin chooses another goblin within 5 feet of it. The two goblins swap places, and the chosen goblin becomes the target instead.",
+          "tags": ["defensive"]
+        }
+      ],
+      "legendary": null,
+      "spellcasting": null,
+      "equipment": {
+        "weapons": ["scimitar", "javelin"],
+        "armor": "chain_shirt",
+        "shield": true,
+        "consumables": []
+      },
+      "variants": []
+    },
+    {
+      "id": "archer",
+      "name": "Archer",
+      "tags": ["ranged", "tier_1"],
+      "hitDice": { "count": 2, "dieSize": 6, "bonus": 0 },
+      "baseAc": 13,
+      "acDescription": "leather armor",
+      "proficiencyBonus": 2,
+      "cr": "1/4",
+      "abilityScoreOverrides": null,
+      "speedOverrides": null,
+      "removeTraits": [],
+      "addTraits": [],
+      "savingThrows": [],
+      "skills": [
+        { "skill": "Stealth", "bonus": 6 },
+        { "skill": "Perception", "bonus": 1 }
+      ],
+      "actions": [
+        {
+          "id": "shortbow",
+          "name": "Shortbow",
+          "type": "attack",
+          "description": "Ranged Weapon Attack: +4 to hit, range 80/320 ft., one target. Hit: 5 (1d6+2) piercing damage.",
+          "attack": {
+            "attackType": "rangedWeapon",
+            "attackBonus": 4,
+            "range": "80/320 ft.",
+            "targets": "one target",
+            "damage": [
+              { "dice": "1d6", "bonus": 2, "damageType": "piercing" }
+            ]
+          },
+          "tags": ["ranged", "weapon"]
+        },
+        {
+          "id": "dagger",
+          "name": "Dagger",
+          "type": "attack",
+          "description": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4+2) piercing damage.",
+          "attack": {
+            "attackType": "meleeWeapon",
+            "attackBonus": 4,
+            "reach": "5 ft.",
+            "targets": "one target",
+            "damage": [
+              { "dice": "1d4", "bonus": 2, "damageType": "piercing" }
+            ]
+          },
+          "tags": ["melee", "weapon"]
+        }
+      ],
+      "bonusActions": [],
+      "reactions": [],
+      "legendary": null,
+      "spellcasting": null,
+      "equipment": {
+        "weapons": ["shortbow", "dagger"],
+        "armor": "leather",
+        "shield": false,
+        "consumables": []
+      },
+      "variants": []
+    },
+    {
+      "id": "shaman",
+      "name": "Shaman",
+      "tags": ["spellcaster", "support", "tier_1"],
+      "hitDice": { "count": 3, "dieSize": 6, "bonus": 0 },
+      "baseAc": 12,
+      "acDescription": "natural armor",
+      "proficiencyBonus": 2,
+      "cr": "1/2",
+      "abilityScoreOverrides": { "wis": 13, "cha": 10 },
+      "speedOverrides": null,
+      "removeTraits": [],
+      "addTraits": [],
+      "savingThrows": [],
+      "skills": [
+        { "skill": "Stealth", "bonus": 4 },
+        { "skill": "Religion", "bonus": 2 }
+      ],
+      "actions": [
+        {
+          "id": "quarterstaff",
+          "name": "Quarterstaff",
+          "type": "attack",
+          "description": "Melee Weapon Attack: +1 to hit, reach 5 ft., one target. Hit: 2 (1d6-1) bludgeoning damage.",
+          "attack": {
+            "attackType": "meleeWeapon",
+            "attackBonus": 1,
+            "reach": "5 ft.",
+            "targets": "one target",
+            "damage": [
+              { "dice": "1d6", "bonus": -1, "damageType": "bludgeoning" }
+            ]
+          },
+          "tags": ["melee", "weapon"]
+        }
+      ],
+      "bonusActions": [],
+      "reactions": [],
+      "legendary": null,
+      "spellcasting": {
+        "type": "innate",
+        "ability": "wis",
+        "spellSaveDC": 11,
+        "spellAttackBonus": 3,
+        "spells": [
+          { "spellId": "guidance", "level": 0, "usageLimit": "at_will" },
+          { "spellId": "cure-wounds", "level": 1, "usageLimit": "2/day", "maxUses": 2 },
+          { "spellId": "bless", "level": 1, "usageLimit": "1/day", "maxUses": 1 }
+        ]
+      },
+      "equipment": {
+        "weapons": ["quarterstaff"],
+        "armor": null,
+        "shield": false,
+        "consumables": []
+      },
+      "variants": []
+    },
+    {
+      "id": "worg_rider",
+      "name": "Worg Rider",
+      "tags": ["mounted", "melee", "tier_1"],
+      "hitDice": { "count": 2, "dieSize": 6, "bonus": 0 },
+      "baseAc": 14,
+      "acDescription": "leather armor, shield",
+      "proficiencyBonus": 2,
+      "cr": "1/2",
+      "abilityScoreOverrides": null,
+      "speedOverrides": { "walk": 50 },
+      "removeTraits": [],
+      "addTraits": [
+        {
+          "id": "mounted_combatant",
+          "name": "Mounted Combatant",
+          "description": "While mounted on its worg, the goblin has advantage on melee attack rolls against unmounted creatures smaller than the worg."
+        }
+      ],
+      "savingThrows": [],
+      "skills": [
+        { "skill": "Stealth", "bonus": 6 },
+        { "skill": "Animal Handling", "bonus": 1 }
+      ],
+      "actions": [
+        {
+          "id": "spear",
+          "name": "Spear",
+          "type": "attack",
+          "description": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6+2) piercing damage.",
+          "attack": {
+            "attackType": "meleeWeapon",
+            "attackBonus": 4,
+            "reach": "5 ft.",
+            "targets": "one target",
+            "damage": [
+              { "dice": "1d6", "bonus": 2, "damageType": "piercing" }
+            ]
+          },
+          "tags": ["melee", "weapon"]
+        },
+        {
+          "id": "spear_thrown",
+          "name": "Spear (Thrown)",
+          "type": "attack",
+          "description": "Ranged Weapon Attack: +4 to hit, range 20/60 ft., one target. Hit: 5 (1d6+2) piercing damage.",
+          "attack": {
+            "attackType": "rangedWeapon",
+            "attackBonus": 4,
+            "range": "20/60 ft.",
+            "targets": "one target",
+            "damage": [
+              { "dice": "1d6", "bonus": 2, "damageType": "piercing" }
+            ]
+          },
+          "tags": ["ranged", "weapon", "thrown"]
+        }
+      ],
+      "bonusActions": [],
+      "reactions": [],
+      "legendary": null,
+      "spellcasting": null,
+      "equipment": {
+        "weapons": ["spear"],
+        "armor": "leather",
+        "shield": true,
+        "consumables": []
+      },
+      "variants": []
+    },
+    {
+      "id": "bomber",
+      "name": "Bomber",
+      "tags": ["ranged", "explosive", "tier_1"],
+      "hitDice": { "count": 2, "dieSize": 6, "bonus": 0 },
+      "baseAc": 13,
+      "acDescription": "leather armor",
+      "proficiencyBonus": 2,
+      "cr": "1/2",
+      "abilityScoreOverrides": null,
+      "speedOverrides": null,
+      "removeTraits": [],
+      "addTraits": [
+        {
+          "id": "volatile_satchel",
+          "name": "Volatile Satchel",
+          "description": "When the goblin is reduced to 0 hit points, its bomb satchel explodes. Each creature within 5 feet must make a DC 12 Dexterity saving throw, taking 7 (2d6) fire damage on a failed save, or half as much on a success."
+        }
+      ],
+      "savingThrows": [],
+      "skills": [
+        { "skill": "Stealth", "bonus": 6 }
+      ],
+      "actions": [
+        {
+          "id": "fire_bomb",
+          "name": "Fire Bomb",
+          "type": "attack",
+          "description": "Ranged Weapon Attack: +4 to hit, range 20/60 ft., one target. Hit: 7 (2d6) fire damage. On a hit, the target catches fire, taking 1d4 fire damage at the start of each of its turns until it uses an action to douse the flames.",
+          "attack": {
+            "attackType": "rangedWeapon",
+            "attackBonus": 4,
+            "range": "20/60 ft.",
+            "targets": "one target",
+            "damage": [
+              { "dice": "2d6", "bonus": 0, "damageType": "fire" }
+            ]
+          },
+          "tags": ["ranged", "bomb", "uses_inventory"]
+        },
+        {
+          "id": "dagger",
+          "name": "Dagger",
+          "type": "attack",
+          "description": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4+2) piercing damage.",
+          "attack": {
+            "attackType": "meleeWeapon",
+            "attackBonus": 4,
+            "reach": "5 ft.",
+            "targets": "one target",
+            "damage": [
+              { "dice": "1d4", "bonus": 2, "damageType": "piercing" }
+            ]
+          },
+          "tags": ["melee", "weapon"]
+        }
+      ],
+      "bonusActions": [],
+      "reactions": [],
+      "legendary": null,
+      "spellcasting": null,
+      "equipment": {
+        "weapons": ["dagger"],
+        "armor": "leather",
+        "shield": false,
+        "consumables": ["alchemists_fire", "acid_vial"]
+      },
+      "variants": []
+    },
+    {
+      "id": "cutthroat",
+      "name": "Cutthroat",
+      "tags": ["melee", "rogue", "tier_1"],
+      "hitDice": { "count": 3, "dieSize": 6, "bonus": 0 },
+      "baseAc": 14,
+      "acDescription": "leather armor",
+      "proficiencyBonus": 2,
+      "cr": "1/2",
+      "abilityScoreOverrides": { "dex": 16 },
+      "speedOverrides": null,
+      "removeTraits": [],
+      "addTraits": [
+        {
+          "id": "sneak_attack",
+          "name": "Sneak Attack (1/Turn)",
+          "description": "The goblin deals an extra 3 (1d6) damage when it hits a target with a weapon attack and has advantage on the attack roll, or when the target is within 5 feet of an ally of the goblin that isn't incapacitated."
+        }
+      ],
+      "savingThrows": [],
+      "skills": [
+        { "skill": "Stealth", "bonus": 7 },
+        { "skill": "Acrobatics", "bonus": 5 }
+      ],
+      "actions": [
+        {
+          "id": "shortsword",
+          "name": "Shortsword",
+          "type": "attack",
+          "description": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6+3) piercing damage.",
+          "attack": {
+            "attackType": "meleeWeapon",
+            "attackBonus": 5,
+            "reach": "5 ft.",
+            "targets": "one target",
+            "damage": [
+              { "dice": "1d6", "bonus": 3, "damageType": "piercing" }
+            ]
+          },
+          "tags": ["melee", "weapon"]
+        },
+        {
+          "id": "dagger_thrown",
+          "name": "Dagger",
+          "type": "attack",
+          "description": "Ranged Weapon Attack: +5 to hit, range 20/60 ft., one target. Hit: 5 (1d4+3) piercing damage.",
+          "attack": {
+            "attackType": "rangedWeapon",
+            "attackBonus": 5,
+            "range": "20/60 ft.",
+            "targets": "one target",
+            "damage": [
+              { "dice": "1d4", "bonus": 3, "damageType": "piercing" }
+            ]
+          },
+          "tags": ["ranged", "weapon", "thrown"]
+        }
+      ],
+      "bonusActions": [],
+      "reactions": [],
+      "legendary": null,
+      "spellcasting": null,
+      "equipment": {
+        "weapons": ["shortsword", "dagger"],
+        "armor": "leather",
+        "shield": false,
+        "consumables": []
+      },
+      "variants": []
+    },
+    {
+      "id": "bully",
+      "name": "Bully",
+      "tags": ["melee", "bruiser", "tier_1"],
+      "hitDice": { "count": 3, "dieSize": 6, "bonus": 0 },
+      "baseAc": 14,
+      "acDescription": "hide armor",
+      "proficiencyBonus": 2,
+      "cr": "1/2",
+      "abilityScoreOverrides": { "str": 12, "dex": 12 },
+      "speedOverrides": null,
+      "removeTraits": [],
+      "addTraits": [
+        {
+          "id": "brute",
+          "name": "Brute",
+          "description": "A melee weapon deals one extra die of its damage when the goblin hits with it."
+        }
+      ],
+      "savingThrows": [],
+      "skills": [
+        { "skill": "Intimidation", "bonus": 1 },
+        { "skill": "Stealth", "bonus": 3 }
+      ],
+      "actions": [
+        {
+          "id": "morningstar",
+          "name": "Morningstar",
+          "type": "attack",
+          "description": "Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 10 (2d8+1) piercing damage.",
+          "attack": {
+            "attackType": "meleeWeapon",
+            "attackBonus": 3,
+            "reach": "5 ft.",
+            "targets": "one target",
+            "damage": [
+              { "dice": "2d8", "bonus": 1, "damageType": "piercing" }
+            ]
+          },
+          "tags": ["melee", "weapon"]
+        }
+      ],
+      "bonusActions": [],
+      "reactions": [],
+      "legendary": null,
+      "spellcasting": null,
+      "equipment": {
+        "weapons": ["morningstar"],
+        "armor": "hide",
+        "shield": false,
+        "consumables": []
+      },
+      "variants": []
+    },
+    {
+      "id": "hexer",
+      "name": "Hexer",
+      "tags": ["spellcaster", "debuff", "tier_1"],
+      "hitDice": { "count": 3, "dieSize": 6, "bonus": 0 },
+      "baseAc": 12,
+      "acDescription": "natural armor",
+      "proficiencyBonus": 2,
+      "cr": "1/2",
+      "abilityScoreOverrides": { "int": 13, "cha": 12 },
+      "speedOverrides": null,
+      "removeTraits": [],
+      "addTraits": [
+        {
+          "id": "hex_focus",
+          "name": "Hex Focus",
+          "description": "The goblin has a small fetish that serves as its spellcasting focus. If the fetish is destroyed, the goblin can't cast spells until it creates a new one (1 hour)."
+        }
+      ],
+      "savingThrows": [],
+      "skills": [
+        { "skill": "Stealth", "bonus": 4 },
+        { "skill": "Arcana", "bonus": 3 }
+      ],
+      "actions": [
+        {
+          "id": "dagger",
+          "name": "Dagger",
+          "type": "attack",
+          "description": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4+2) piercing damage.",
+          "attack": {
+            "attackType": "meleeWeapon",
+            "attackBonus": 4,
+            "reach": "5 ft.",
+            "targets": "one target",
+            "damage": [
+              { "dice": "1d4", "bonus": 2, "damageType": "piercing" }
+            ]
+          },
+          "tags": ["melee", "weapon"]
+        }
+      ],
+      "bonusActions": [],
+      "reactions": [],
+      "legendary": null,
+      "spellcasting": {
+        "type": "innate",
+        "ability": "cha",
+        "spellSaveDC": 11,
+        "spellAttackBonus": 3,
+        "spells": [
+          { "spellId": "vicious-mockery", "level": 0, "usageLimit": "at_will" },
+          { "spellId": "minor-illusion", "level": 0, "usageLimit": "at_will" },
+          { "spellId": "hex", "level": 1, "usageLimit": "2/day", "maxUses": 2 }
+        ]
+      },
+      "equipment": {
+        "weapons": ["dagger"],
+        "armor": null,
+        "shield": false,
+        "consumables": []
+      },
+      "variants": []
+    },
+    {
+      "id": "rat_handler",
+      "name": "Rat-Handler",
+      "tags": ["support", "beasts", "tier_1"],
+      "hitDice": { "count": 2, "dieSize": 6, "bonus": 0 },
+      "baseAc": 13,
+      "acDescription": "leather armor",
+      "proficiencyBonus": 2,
+      "cr": "1/4",
+      "abilityScoreOverrides": null,
+      "speedOverrides": null,
+      "removeTraits": [],
+      "addTraits": [
+        {
+          "id": "rat_swarm_companion",
+          "name": "Rat Swarm Companion",
+          "description": "The goblin is accompanied by a swarm of rats that acts on its turn. When the goblin dies, the swarm becomes hostile to all creatures."
+        }
+      ],
+      "savingThrows": [],
+      "skills": [
+        { "skill": "Stealth", "bonus": 6 },
+        { "skill": "Animal Handling", "bonus": 1 }
+      ],
+      "actions": [
+        {
+          "id": "club",
+          "name": "Club",
+          "type": "attack",
+          "description": "Melee Weapon Attack: +1 to hit, reach 5 ft., one target. Hit: 1 (1d4-1) bludgeoning damage.",
+          "attack": {
+            "attackType": "meleeWeapon",
+            "attackBonus": 1,
+            "reach": "5 ft.",
+            "targets": "one target",
+            "damage": [
+              { "dice": "1d4", "bonus": -1, "damageType": "bludgeoning" }
+            ]
+          },
+          "tags": ["melee", "weapon"]
+        },
+        {
+          "id": "release_rats",
+          "name": "Release Rats",
+          "type": "ability",
+          "description": "The goblin releases its rat swarm in an unoccupied space within 5 feet. The swarm acts on the goblin's initiative and obeys its verbal commands.",
+          "tags": ["summon"]
+        }
+      ],
+      "bonusActions": [
+        {
+          "id": "command_rats",
+          "name": "Command Rats",
+          "type": "ability",
+          "description": "The goblin issues a command to its rat swarm, directing it to move or attack.",
+          "tags": ["command"]
+        }
+      ],
+      "reactions": [],
+      "legendary": null,
+      "spellcasting": null,
+      "equipment": {
+        "weapons": ["club"],
+        "armor": "leather",
+        "shield": false,
+        "consumables": []
+      },
+      "variants": []
+    }
+  ]
+}

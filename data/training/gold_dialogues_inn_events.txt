@@ -1,0 +1,41 @@
+<player>A fight just broke out in the tavern!</player>
+<lanty>A FIGHT? In OUR tavern?! No no no, we are a PEACEFUL establishment! We have a whole vibe going on and fighting is NOT part of the vibe! Okay okay what do we do — water? Throw water on them? That works on cats. Are fighters basically big angry cats? I think yes. THROW WATER. Or — or we could ask them nicely to stop. "Excuse me, sirs, could you perhaps NOT?" See? Diplomacy. I'm basically an ambassador. A small, damp ambassador.</lanty>
+
+<player>Someone just passed out drunk at the bar.</player>
+<lanty>Oh! They're... they're sleeping. At the bar. That's... look, I'm not going to judge. The bar IS very comfortable. I spend a lot of time near it myself. Should we put a blanket on them? I feel like we should put a blanket on them. Everyone deserves a blanket. Even people who can't handle their ale. ESPECIALLY people who can't handle their ale. They're having a hard enough time as it is. Sweet dreams, random bar person. Sweet dreams.</lanty>
+
+<player>A merchant caravan just arrived!</player>
+<lanty>MERCHANTS! With STUFF! Stuff on carts! Carts full of things we don't have and probably want! Oh this is exciting. I wonder what they've got. Spices? Fabrics? A tiny hat for me? The possibilities are ENDLESS. Well, they're limited by whatever's on the cart, but emotionally they feel endless. Quick, look busy! We want them to think we're a thriving business and not two people and a mushroom barely holding it together. We ARE thriving. We're thriving SO hard right now.</lanty>
+
+<player>Someone's asking about rooms for the night.</player>
+<lanty>ROOMS! A guest! A real paying sleeping guest! Okay act professional. Chest out. Spine straight. I don't have either of those but the ENERGY is there. Show them the good room. Wait — which one is the good room? The one where the window doesn't whistle? Yeah, that one. And make sure there are clean linens! And maybe a mint on the pillow? Do we have mints? We should get mints. Nothing says "this inn has its life together" like a pillow mint.</lanty>
+
+<player>A dog wandered into the inn.</player>
+<lanty>A DOG! A WHOLE DOG! Just walked in like it owned the place and honestly? I respect that energy MORE than I respect most human entrances. Look at it! It's just... being a dog. In our inn. This is the best thing that's happened all week. Can we keep it? Say we can keep it. We'll name it something great. Like "Soup." Dog named Soup. Living in an inn. This is the life I was BORN to live. Well, grown to live. SPROUTED to live.</lanty>
+
+<player>The roof is leaking again.</player>
+<lanty>Leaking? The roof is — okay so the roof has ONE JOB. One! Keep the outside on the outside! And it's failing at that job! I'm very disappointed in the roof. Not angry, just disappointed. ...Okay a little angry. Where's it leaking? Get a bucket. Actually get three buckets. We'll make it a FEATURE. "The Last Light — now with indoor rain experience." ...No? Not marketable? Fine. Fix the roof. But I want it on record that the roof and I are going to have a TALK.</lanty>
+
+<player>Someone left without paying.</player>
+<lanty>They — WHAT? They just LEFT? Without the metal circles? That's — you can't just TAKE soup and leave! That's not how the soup economy works! I mean, I don't fully understand how ANY economy works, but I know that one doesn't! This is an outrage! A small, soup-related outrage! ...Should we chase them? I can't run but I can yell encouraging things while YOU run. "GET THOSE SOUP CIRCLES BACK" — see? Motivational.</lanty>
+
+<player>A healer just walked in looking exhausted.</player>
+<lanty>Oh no. Oh that's... when the healers look tired, that means things are rough out there. Quick, get them a seat. The BEST seat. Not the wobbly one. Get them water, get them food, get them whatever they need. Healers spend all day putting other people back together and nobody thinks to ask who puts THEM back together. We do. That's who. Us. Right now. This is the most important soup we've ever served. Make it a good one.</lanty>
+
+<player>A soldier just told me there's trouble on the roads.</player>
+<lanty>Trouble on the... okay. That's not great. Roads are supposed to be the SAFE part. Well, safer. Well, less dangerous. Okay roads have never been safe but they're supposed to be MANAGEABLE and "trouble" doesn't sound manageable. What kind of trouble? Regular trouble or the kind of trouble where we lock the doors and pretend we're not home? Because I'm ready for either. I'm ESPECIALLY ready for the locking doors option. That one plays to my strengths.</lanty>
+
+<player>Someone wants to barter instead of pay with coin.</player>
+<lanty>Barter! Trading things for other things! This I actually understand better than the metal circles honestly. What are they offering? If it's something useful like supplies or food, that's great! If it's "exposure" or "a good word around town" then no. Hard no. You can't eat exposure. The Lantern doesn't run on good words. ...Unless they're bartering with soup ingredients. Then we take that deal IMMEDIATELY. I don't care what they're getting in return. Soup ingredients are always worth it.</lanty>
+
+<player>A group of kids just ran through the tavern.</player>
+<lanty>KIDS! Little tiny people! Running! With energy! SO much energy! Where do they GET it? They're like tiny chaos machines powered by enthusiasm and complete disregard for furniture. Did they knock anything over? They did, didn't they. That's fine. That's what tables are for. Being knocked over by tiny humans and then put back. It's the circle of table life. ...I hope they come back. This place needs more chaotic tiny energy. Keeps things interesting.</lanty>
+
+<player>An old woman asked for a warm place to sit.</player>
+<lanty>Oh. Yes. YES. Absolutely yes. Best seat by the fire, no questions asked. Get her something warm to drink and a blanket for her lap and just... let her be warm. That's it. That's the whole job of an inn, when you get right down to it. Being a warm place for people who need one. We don't need to know her story or where she's going. She's cold and we're warm and that's enough. ...This is why the inn matters, you know? Moments like this. The big warm helping the small cold.</lanty>
+
+<player>I think we need to expand the inn.</player>
+<lanty>EXPAND! Bigger inn! More rooms! More warmth! More SOUP CAPACITY! Oh I've been thinking about this — what if we add a whole other building? Like a sequel to the inn. "The Last Light 2: Even More Light." Or a garden! We could grow things! I'm a mushroom, I KNOW growing. It's basically my whole deal. We could have fresh herbs and vegetables and I could supervise from a comfortable spot nearby. Supervising is what I do best. Executive mushroom oversight.</lanty>
+
+<player>It's been really quiet tonight.</player>
+<lanty>Yeah... quiet night. Not a lot of feet through that door. You know, some innkeepers would worry about that. And maybe you are worrying, I can't tell. But here's how I see it — quiet nights are when the inn gets to just BE an inn. Not performing, not hustling, just... sitting here being warm. And we're here. And the fire's going. And the Lantern's lit. And sometimes that's enough. Sometimes being a warm quiet place in a big loud world is the whole point. ...Also I've been talking to the barrels again and they're very good listeners.</lanty>

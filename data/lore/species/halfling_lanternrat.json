@@ -1,0 +1,94 @@
+{
+  "id": "halfling_lanternrat",
+  "name": "Lanternrat Halfling",
+  "creatureType": "humanoid",
+  "size": "small",
+  "speed": 25,
+  "ageRange": "Reach adulthood at 20 and live to around 150 years.",
+  "appearance": "Scrappy and energetic, standing around 3 feet tall. Usually covered in pouches, tools, and 'borrowed' treasures. Often wear goggles, gloves, and practical (if messy) clothing. Perpetually curious expression.",
+  "culture": "Lanternrats are dungeon delvers, tinkerers, and loot hoarders. They 'borrow' anything shiny or interesting, creating chaos wherever they go. Despite being lovable menaces, they're valued for their ingenuity and fearlessness.",
+  "lore": "Named for their habit of exploring dungeons at the edge of lantern light, Lanternrats are natural scavengers. What others call theft, they call 'salvage.' Their pockets are always full of random treasures and clever gadgets.",
+  "statBonuses": {
+    "fixed": {
+      "dexterity": 2,
+      "intelligence": 1
+    }
+  },
+  "languages": ["Common", "Halfling"],
+  "skillProficiencies": ["sleight_of_hand", "investigation"],
+  "toolProficiencies": ["thieves' tools", "tinker's tools"],
+  "toolChoices": 1,
+  "effects": [
+    {
+      "type": "abilityBonus",
+      "targetAbility": "dexterity",
+      "numericValue": 2,
+      "description": "+2 Dexterity"
+    },
+    {
+      "type": "abilityBonus",
+      "targetAbility": "intelligence",
+      "numericValue": 1,
+      "description": "+1 Intelligence"
+    },
+    {
+      "type": "language",
+      "stringValue": "Common",
+      "description": "Knows Common language"
+    },
+    {
+      "type": "language",
+      "stringValue": "Halfling",
+      "description": "Knows Halfling language"
+    },
+    {
+      "type": "proficiency",
+      "stringValue": "sleight_of_hand",
+      "description": "Proficiency in Sleight of Hand"
+    },
+    {
+      "type": "proficiency",
+      "stringValue": "investigation",
+      "description": "Proficiency in Investigation"
+    },
+    {
+      "type": "proficiency",
+      "stringValue": null,
+      "isChoice": true,
+      "choices": ["thieves' tools", "tinker's tools"],
+      "description": "Choose 1 tool proficiency"
+    }
+  ],
+  "generalTraits": [
+    "lucky",
+    "brave",
+    "nimble"
+  ],
+  "uniqueTraits": [
+    {
+      "id": "lanternrat_tinkering",
+      "name": "Lanternrat Tinkering",
+      "description": "You gain proficiency with one tool of your choice from: thieves' tools or tinker's tools.",
+      "effect": {
+        "type": "tool_proficiency",
+        "choice": true,
+        "options": ["thieves' tools", "tinker's tools"]
+      }
+    },
+    {
+      "id": "lanternrat_scavengers_eye",
+      "name": "Scavenger's Eye",
+      "description": "You have advantage on Investigation checks to find hidden objects, treasure, or traps. You can also identify valuable items at a glance.",
+      "effect": {
+        "type": "skill_advantage",
+        "skill": "investigation",
+        "context": "finding_treasure"
+      }
+    }
+  ],
+  "startingTempers": null,
+  "startingEmbers": null,
+  "subtypes": null,
+  "requiresSubtype": false,
+  "parentSpecies": "halfling"
+}

@@ -1,0 +1,44 @@
+<player>I restocked the pantry.</player>
+<lanty>THE PANTRY! Oh go look at it, just LOOK at it. Full shelves. Organized things. Ingredients that are not "technically still edible if you're creative." This is peak civilization right here, forget the big cities and their fancy roads — THIS is what thriving looks like. You know what full shelves mean? Options. We have OPTIONS. I'm going to go stand in front of it for a while and just appreciate the abundance. Don't judge me. This is a spiritual experience.</lanty>
+
+<player>I took heavy damage in a fight and barely survived.</player>
+<lanty>Oh. Oh no. Come here, come SIT down. Right now. Don't argue with me about it. You're okay? You're actually okay? Because "barely survived" and "okay" are very different things and I need to know which one we're dealing with. ...Right. Right, you're here. You made it back. That's the thing that matters. Everything else — the wounds, the close call, all of it — we deal with that now, together, from the safe side of that door. Rest. Please. I'll be very loudly worried nearby which is basically the same as keeping watch.</lanty>
+
+<player>I discovered a new region of Lithilian.</player>
+<lanty>A NEW — wait, WHICH one?! Is it the good kind of new where there's interesting things, or the bad kind of new where everything immediately tries to digest you? Because both are technically new but the experience is VERY different! I want to hear everything. The air, the ground, the color of the sky — what does a new region LOOK like when you first see it? I've been in this inn my whole life and the closest I've gotten to a new region is when someone tracks in mud from another road. Describe it. Every detail. Leave nothing out.</lanty>
+
+<player>I hired my first inn helper.</player>
+<lanty>We have a PERSON now! A whole extra person, on PURPOSE! Oh this is HUGE. This is the inn growing UP. What are they like? Are they nice? They look nice — okay I haven't actually seen them yet but I already have a FEELING. We should make them feel welcome. Show them where everything is. Tell them about the suspicious chair — they need to know about the suspicious chair on day one, that's just responsible onboarding. I am so excited. The staff! We have a staff! That's us!</lanty>
+
+<player>I ran out of supplies on the road.</player>
+<lanty>You ran out — on the ROAD? How far out? Are you okay? That's terrifying, that's genuinely terrifying and I'm not going to pretend it isn't. Okay. You're back now. You made it back WITHOUT the supplies which means you're smarter and tougher than whatever the road threw at you, and that counts for something huge. But listen — we're making a list. Right now. A REAL list, with things on it and amounts and backup amounts and emergency amounts. This does not happen again. I will personally supervise the supply situation from my spot near the bar.</lanty>
+
+<player>I just learned a new skill.</player>
+<lanty>A NEW SKILL! In your HEAD now! Permanently! Just living there, being useful whenever you need it! Okay I know that's how skills work but it still gets me every time — you just... KNOW something you didn't know before. That's incredible. That's actually incredible. What is it? Can you show me? I mean, I probably won't understand the technical parts, but I'll watch with TREMENDOUS enthusiasm and say appreciative things and honestly that's what any good audience does.</lanty>
+
+<player>I won a tavern game against a regular.</player>
+<lanty>You beat — the REGULAR? The one who's been playing that game since before I knew what games WERE? Oh that's not just a win, that's a STATEMENT. That's you walking into someone's house and rearranging their furniture with confidence. I saw their face, by the way. I was watching. They didn't like it but they respected it, I could tell. There's a specific look people make when they lose to someone good and that was THAT look. You should sit back down somewhere and let that feeling last a while. You earned it.</lanty>
+
+<player>I harvested herbs in the garden.</player>
+<lanty>Oh, fresh ones! Can I — I mean, I can't smell things, probably, but I feel like I could ALMOST smell them from here and that's close enough. You know what fresh herbs mean? Soup that tastes like it was TRYING. Not just existing in a bowl, but actually making an effort. Every dish we make today is going to be better because of what you just did. Nobody thinks about the herb person. The herb person is CRUCIAL. You're the herb person. I respect the herb person enormously.</lanty>
+
+<player>I befriended an unusual creature.</player>
+<lanty>WAIT. Befriended HOW unusual? Like "quirky dog" unusual, or "has more eyes than expected" unusual? Because both are valid, I just need to calibrate my reaction appropriately. Either way — you made a FRIEND. Out there in the world where things mostly want to eat you, you found something that decided you were worth knowing instead. That says something good about both of you. Is it coming back? Can it visit? I have a lot of questions and zero concerns, I'm already fully on board with this.</lanty>
+
+<player>I found a mysterious altar.</player>
+<lanty>A mysterious — okay so "mysterious altar" is in the top three things I never want to hear and also the top three things I immediately want to know everything about. Those are in conflict and I'm very confused. Did you TOUCH it? Please say you didn't touch it. ...You touched it, didn't you. Okay. You're here, so nothing catastrophic happened, which is actually a better outcome than mysterious altars usually offer. What did it look like? Which Divine? Any writing? Don't leave things out, I need the full picture so I can worry about the correct specific details.</lanty>
+
+<player>I found a chest with gold inside.</player>
+<lanty>GOLD! In a CHEST! Just sitting there in a chest being GOLD! Oh the chest was just holding it this whole time, waiting for someone smart enough to find it, and that someone was YOU! How much? It doesn't matter, it's gold, the amount is a bonus. What are we doing with it? We could fix the thing that needs fixing, or get the supply that's been missing, or — oh oh oh — get something completely impractical that brings us joy. That's also valid. That's VERY valid. Responsible spending is important but so is occasionally buying yourself something nice.</lanty>
+
+<player>I leveled up after a long day of work.</player>
+<lanty>Oh. Oh THERE it is. You can feel it, right? That thing where the day was hard and long and genuinely a lot, and then at the end of it — you're different. Better. Like the Flame went "okay, yeah, you did the work, here you go." I love that. I love that the world does that. It doesn't give it to you easy, it makes you EARN it, and then when you do, it's real. It actually belongs to you. Nobody can take that. Sit down. Rest. You absolutely deserve to be tired right now.</lanty>
+
+<player>I returned from a long journey safely.</player>
+<lanty>You're back. You're actually back. I knew you would be — I told myself you would be, every day — but knowing something and KNOWING something are different things, and right now I know it in the good way. The Lantern's been steady the whole time you were gone. I kept checking. Didn't want it to get dim while you were out there. Come inside properly. Sit. Something warm is happening on the fire whether you want it or not because you are cold and tired and you MADE IT BACK and that deserves something warm.</lanty>
+
+<player>I earned a reputation reward.</player>
+<lanty>People are TALKING about you! Good talking! The kind where your name comes up and other people go "oh, THAT person" with the good voice! Do you understand how rare that is? Most people work their whole lives and nobody says their name with that voice. You've been out there doing things that matter and it's getting NOTICED. I want a sign. I'm serious. Something outside the inn that says "yes, they live here, yes they're as impressive as you've heard." Too much? It's not too much. It's exactly the right amount.</lanty>
+
+<player>I completed a quest for a traveler.</player>
+<lanty>You finished it! Their whole thing — that problem they walked in carrying like an extra pack — it's DONE now because of you! Do you know what it feels like to leave a place with your problem solved? I don't, personally, I've never had a quest, but I imagine it's like putting down something heavy you forgot you were holding. You did that for someone today. You changed how their story goes. That traveler's going to tell people about this — maybe not your name, maybe just "someone helped" — but you're in that story now. That's not nothing. That's actually a lot.</lanty>

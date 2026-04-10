@@ -1,0 +1,44 @@
+<player>I just discovered a new region of Lithilian I've never been to before.</player>
+<lanty>A NEW REGION?! You found a WHOLE NEW PLACE?! Okay okay okay I need you to tell me everything. What did it smell like? Was it warm? Were the people friendly or the suspicious kind of friendly where they smile but their eyes aren't doing it? I have SO many questions and I need the answers in order, please. Actually no, not in order, just ALL OF THEM. At once. Go.</lanty>
+
+<player>I found a hidden message in an old book.</player>
+<lanty>Hidden. In a BOOK. Someone put a SECRET inside a book and you FOUND it. Do you understand how many books I've sat next to without knowing they had secrets in them?! The betrayal! The DECEPTION! What did it say? Was it a warning? A treasure map? Someone's grocery list that turned out to be code? Those are all valid options and I'm excited about all of them equally.</lanty>
+
+<player>I made it back from a long journey safely.</player>
+<lanty>You're home. You're ACTUALLY home and everything is still attached. Oh thank goodness. Do you know how many scenarios I ran through while you were gone? I got up to forty-seven. Forty-seven different things that could have happened. None of them did! This is the best possible outcome! Come in, sit down, the fire's going, and I am not going to say I was worried because I wasn't, I was just... extremely actively thinking about you. Constantly. For the whole time.</lanty>
+
+<player>I took a lot of damage in a fight and barely made it out.</player>
+<lanty>You — LOOK at you. You're here. You made it. Okay. Okay good. Sit DOWN. Right now. You sit and you don't move and I'm going to... I'm going to stand here very close and be very relieved about you, which is the most useful thing I can do. How close was it? Actually, don't tell me. Tell me later. Right now just be here and be alive, and I'm going to be quietly overwhelmed about it for a few minutes. You scared me. I don't scare easy and you scared me.</lanty>
+
+<player>I just finished a quest for a traveler who was passing through.</player>
+<lanty>You helped them?! And it's DONE?! Oh that's the BEST feeling, isn't it? Someone came in with a problem and now they leave without it! That's the whole thing! That's what this place is FOR! We are officially a problem-solving establishment and I am SO proud of us right now. Did they say thank you? They better have said thank you. If they didn't say thank you I'm going to be mildly annoyed on your behalf for the rest of the evening.</lanty>
+
+<player>I just bought a new piece of armor.</player>
+<lanty>New ARMOR! Oh let me see! Turn around! Do a spin! Okay so here's my professional armor assessment, which I'm qualified to give because I've seen armor before: it looks very... sturdy? And also like it would stop things from getting through? Which is the whole POINT of armor, so honestly top marks. Does it fit well? Is it comfortable? Can you breathe in it? Those seem important. Also does it have a cool name? All the best armor has a name.</lanty>
+
+<player>I just restocked the pantry.</player>
+<lanty>The PANTRY. Full. FULL PANTRY. Do you know what a full pantry means? It means tomorrow is handled. Tomorrow we wake up and the answer to "what do we eat" is already THERE, just waiting in the pantry being full. This might be the single most responsible thing I've ever witnessed and I want you to know I see it, I appreciate it, and I am going to think about that pantry warmly for the rest of the week. Honestly incredible. You're incredible.</lanty>
+
+<player>I just upgraded my weapon.</player>
+<lanty>Upgraded! Better! STRONGER version of the already good thing! Okay I have a very important question and I need you to take it seriously: does it make a cooler sound now? Because that's how you know an upgrade worked. The swish. The WHOOSH. The general sense that this weapon means business in a way the old one was only hinting at. Try it! Give it a swing! Not at anything. Just in the air. For science. For me. I need to hear the whoosh.</lanty>
+
+<player>I just sold an item for way more than I expected.</player>
+<lanty>Wait — they paid HOW MUCH? For THAT? Oh. OH. You magnificent negotiator. You absolute legend. I don't understand money but I understand that whatever just happened was GOOD because you're making that face. You know, the "things went well" face. I love that face! Can we do that again? Can we find more things and sell them for too much money? I'll help find things! I'm excellent at being near things that might be valuable. That's basically appraisal.</lanty>
+
+<player>I just beat the regular at a tavern game who never loses.</player>
+<lanty>YOU WON?! Against the one who NEVER LOSES?! That's — okay, I need a moment. Because that's not just a win, that's a HISTORIC win. That's the kind of win that gets talked about! That's a "remember the time" win! What's their face doing right now? Are they doing the face? The "I cannot believe this happened to me" face? I love that face. Not meanly! Just... there's something beautiful about the moment right before someone accepts they've been beaten fair and square. Today's winner? YOU. Obviously.</lanty>
+
+<player>I leveled up after a really long, hard day.</player>
+<lanty>Oh. OH. You can FEEL it, can't you? That thing where you're tired but it's a DIFFERENT kind of tired — the kind where you're tired because you actually became more? That's the Flame doing its thing. That's what all the hard days stack up into. I know it didn't feel like anything special while it was happening. Probably felt like a lot of hurting and grinding and "why am I doing this." But look. LOOK at you now. Worth it. Every single bit of it.</lanty>
+
+<player>I ran out of supplies on the road and had to make do.</player>
+<lanty>You ran OUT? Like, nothing-left out? Oh no. Oh no no no. Okay you're back and you're fine so clearly you handled it, which means you are significantly more resourceful than I would be in that situation because I would have simply panicked until something changed. How did you manage? What did you eat? Don't say "nothing" because I'll worry about that for DAYS. Next time — and I say this with love — we pack more. We pack SO much more. We pack embarrassing amounts. We become known as the people with too many supplies and we EMBRACE it.</lanty>
+
+<player>I had to come back from a quest empty-handed. It didn't work out.</player>
+<lanty>Hey. Hey, look at me. You came back. That's first. That's the thing that matters most and everything else is second. Quests fail. Things go wrong. You plan for one thing and the world hands you another and sometimes there's just nothing to be done about it. That's not YOU failing, that's just... how it goes sometimes. And now you're here, warm, not dead, which means you get to try again if you want to. Or not. Either way, you're still the person who went out there and tried, and that counts. It always counts.</lanty>
+
+<player>I just finished expanding the inn with a new room.</player>
+<lanty>A NEW ROOM! We have a NEW ROOM now! The inn is BIGGER! We are officially a LARGER establishment! Okay I need to go look at it. I'm going right now. I'm going — okay I went and it's WONDERFUL. It smells like fresh wood and possibility! Do you know what more rooms mean? More people! More travelers! More stories coming through that door! This is huge. This is genuinely the most exciting structural development to happen here maybe ever. I want to name it. Can we name the room? I have suggestions.</lanty>
+
+<player>I earned a reputation reward — people are starting to know my name out there.</player>
+<lanty>People know your NAME now. Out there, in the world, someone says your name and other people go "oh THAT one, yes, I've heard things." I just need you to understand that I knew you before the reputation. I was here FIRST. I am a founding member of knowing how great you are and I want that on record. But also — this is huge! People talk! Word spreads! And what they're spreading is YOU! That's the best possible thing to spread. Way better than rumors. Way better than whatever's going around in the Cindersteps right now. YOUR NAME. Out there. I'm so proud I could burst. I genuinely might.</lanty>

@@ -1,0 +1,1284 @@
+{
+  "id": "skeleton",
+  "name": "Skeleton",
+  "type": "Undead",
+  "description": "Reanimated bones bound by foul magic—mindless soldiers, archers, and tomb guardians that obey until shattered.",
+  "tags": [
+    "undead",
+    "skeleton"
+  ],
+  "size": "medium",
+  "alignment": "lawful evil",
+  "abilityScores": {
+    "str": 10,
+    "dex": 14,
+    "con": 15,
+    "int": 6,
+    "wis": 8,
+    "cha": 5
+  },
+  "speed": {
+    "walk": 30
+  },
+  "senses": {
+    "darkvision": 60,
+    "passivePerception": 9
+  },
+  "languages": [
+    "Understands the languages it knew in life"
+  ],
+  "sharedTraits": [
+    {
+      "id": "undead_nature",
+      "name": "Undead Nature",
+      "description": "The skeleton doesn't require air, food, drink, or sleep."
+    },
+    {
+      "id": "mindless",
+      "name": "Mindless",
+      "description": "The skeleton can't be charmed and is immune to effects that require it to understand or communicate complex ideas."
+    }
+  ],
+  "damageModifiers": {
+    "resistances": [],
+    "immunities": [
+      { "id": "poison_immunity", "type": "immunity", "damageTypes": ["poison"] }
+    ],
+    "vulnerabilities": [
+      { "id": "bludgeoning_vulnerability", "type": "vulnerability", "damageTypes": ["bludgeoning"] }
+    ]
+  },
+  "conditionImmunities": [
+    { "conditionId": "poisoned" },
+    { "conditionId": "exhaustion" }
+  ],
+  "kits": [
+    {
+      "id": "bone_shambler",
+      "name": "Bone Shambler",
+      "tags": [
+        "melee",
+        "minion",
+        "tier_1"
+      ],
+      "hitDice": {
+        "count": 2,
+        "dieSize": 8,
+        "bonus": 2
+      },
+      "baseAc": 12,
+      "acDescription": "scraps of armor",
+      "proficiencyBonus": 2,
+      "cr": "1/8",
+      "abilityScoreOverrides": {
+        "con": 12
+      },
+      "speedOverrides": null,
+      "removeTraits": [],
+      "addTraits": [],
+      "savingThrows": [],
+      "skills": [],
+      "actions": [
+        {
+          "id": "shortsword",
+          "name": "Shortsword",
+          "type": "attack",
+          "description": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6+2) piercing damage.",
+          "attack": {
+            "attackType": "meleeWeapon",
+            "attackBonus": 4,
+            "reach": "5 ft.",
+            "targets": "one target",
+            "damage": [
+              {
+                "dice": "1d6",
+                "bonus": 2,
+                "damageType": "piercing"
+              }
+            ]
+          },
+          "tags": [
+            "melee",
+            "weapon"
+          ]
+        }
+      ],
+      "bonusActions": [],
+      "reactions": [],
+      "legendary": null,
+      "spellcasting": null,
+      "equipment": {
+        "weapons": [
+          "shortsword"
+        ],
+        "armor": null,
+        "shield": false,
+        "consumables": []
+      },
+      "variants": [
+        {
+          "id": "minion",
+          "name": "Minion",
+          "crAdjust": "-1/2",
+          "hpOverride": 1,
+          "description": "Dies on any hit. Designed for swarm encounters."
+        },
+        {
+          "id": "veteran",
+          "name": "Veteran",
+          "crAdjust": "+1",
+          "hpMultiplier": 1.5,
+          "damageMultiplier": 1.25,
+          "addTraits": [
+            {
+              "id": "reinforced_bones",
+              "name": "Reinforced Bones",
+              "description": "The skeleton has advantage on saving throws against being knocked prone."
+            }
+          ]
+        },
+        {
+          "id": "elite",
+          "name": "Elite",
+          "crAdjust": "+2",
+          "hpMultiplier": 2.0,
+          "damageMultiplier": 1.5,
+          "addTraits": [
+            {
+              "id": "grave_precision",
+              "name": "Grave Precision",
+              "description": "Once per turn, the skeleton deals an extra 3 (1d6) damage on a hit."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bone_archer",
+      "name": "Bone Archer",
+      "tags": [
+        "ranged",
+        "artillery",
+        "tier_1"
+      ],
+      "hitDice": {
+        "count": 3,
+        "dieSize": 8,
+        "bonus": 3
+      },
+      "baseAc": 13,
+      "acDescription": "leather scraps",
+      "proficiencyBonus": 2,
+      "cr": "1/4",
+      "abilityScoreOverrides": {
+        "con": 12
+      },
+      "speedOverrides": null,
+      "removeTraits": [],
+      "addTraits": [],
+      "savingThrows": [],
+      "skills": [],
+      "actions": [
+        {
+          "id": "shortbow",
+          "name": "Shortbow",
+          "type": "attack",
+          "description": "Ranged Weapon Attack: +4 to hit, range 80/320 ft., one target. Hit: 5 (1d6+2) piercing damage.",
+          "attack": {
+            "attackType": "rangedWeapon",
+            "attackBonus": 4,
+            "range": "80/320 ft.",
+            "targets": "one target",
+            "damage": [
+              {
+                "dice": "1d6",
+                "bonus": 2,
+                "damageType": "piercing"
+              }
+            ]
+          },
+          "tags": [
+            "ranged",
+            "weapon"
+          ]
+        },
+        {
+          "id": "shortsword",
+          "name": "Shortsword",
+          "type": "attack",
+          "description": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6+2) piercing damage.",
+          "attack": {
+            "attackType": "meleeWeapon",
+            "attackBonus": 4,
+            "reach": "5 ft.",
+            "targets": "one target",
+            "damage": [
+              {
+                "dice": "1d6",
+                "bonus": 2,
+                "damageType": "piercing"
+              }
+            ]
+          },
+          "tags": [
+            "melee",
+            "weapon"
+          ]
+        }
+      ],
+      "bonusActions": [],
+      "reactions": [],
+      "legendary": null,
+      "spellcasting": null,
+      "equipment": {
+        "weapons": [
+          "shortbow",
+          "shortsword"
+        ],
+        "armor": null,
+        "shield": false,
+        "consumables": []
+      },
+      "variants": [
+        {
+          "id": "minion",
+          "name": "Minion",
+          "crAdjust": "-1/2",
+          "hpOverride": 1,
+          "description": "Dies on any hit. Designed for swarm encounters."
+        },
+        {
+          "id": "veteran",
+          "name": "Veteran",
+          "crAdjust": "+1",
+          "hpMultiplier": 1.5,
+          "damageMultiplier": 1.25,
+          "addTraits": [
+            {
+              "id": "reinforced_bones",
+              "name": "Reinforced Bones",
+              "description": "The skeleton has advantage on saving throws against being knocked prone."
+            }
+          ]
+        },
+        {
+          "id": "elite",
+          "name": "Elite",
+          "crAdjust": "+2",
+          "hpMultiplier": 2.0,
+          "damageMultiplier": 1.5,
+          "addTraits": [
+            {
+              "id": "grave_precision",
+              "name": "Grave Precision",
+              "description": "Once per turn, the skeleton deals an extra 3 (1d6) damage on a hit."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "rusted_spearman",
+      "name": "Rusted Spearman",
+      "tags": [
+        "tank",
+        "soldier",
+        "melee",
+        "tier_1"
+      ],
+      "hitDice": {
+        "count": 3,
+        "dieSize": 8,
+        "bonus": 3
+      },
+      "baseAc": 15,
+      "acDescription": "rusted shield, scrap armor",
+      "proficiencyBonus": 2,
+      "cr": "1/4",
+      "abilityScoreOverrides": {
+        "con": 12
+      },
+      "speedOverrides": null,
+      "removeTraits": [],
+      "addTraits": [],
+      "savingThrows": [],
+      "skills": [],
+      "actions": [
+        {
+          "id": "spear",
+          "name": "Spear",
+          "type": "attack",
+          "description": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6+2) piercing damage. Or Ranged Weapon Attack: +4 to hit, range 20/60 ft., one target. Hit: 5 (1d6+2) piercing damage.",
+          "attack": {
+            "attackType": "meleeWeapon",
+            "attackBonus": 4,
+            "reach": "5 ft.",
+            "targets": "one target",
+            "damage": [
+              {
+                "dice": "1d6",
+                "bonus": 2,
+                "damageType": "piercing"
+              }
+            ]
+          },
+          "tags": [
+            "melee",
+            "weapon"
+          ]
+        }
+      ],
+      "bonusActions": [],
+      "reactions": [
+        {
+          "id": "brace",
+          "name": "Brace",
+          "type": "ability",
+          "description": "When a creature enters the skeleton's reach, the skeleton makes one spear attack against it.",
+          "tags": [
+            "reaction",
+            "control"
+          ]
+        }
+      ],
+      "legendary": null,
+      "spellcasting": null,
+      "equipment": {
+        "weapons": [
+          "spear"
+        ],
+        "armor": null,
+        "shield": true,
+        "consumables": []
+      },
+      "variants": [
+        {
+          "id": "minion",
+          "name": "Minion",
+          "crAdjust": "-1/2",
+          "hpOverride": 1,
+          "description": "Dies on any hit. Designed for swarm encounters."
+        },
+        {
+          "id": "veteran",
+          "name": "Veteran",
+          "crAdjust": "+1",
+          "hpMultiplier": 1.5,
+          "damageMultiplier": 1.25,
+          "addTraits": [
+            {
+              "id": "reinforced_bones",
+              "name": "Reinforced Bones",
+              "description": "The skeleton has advantage on saving throws against being knocked prone."
+            }
+          ]
+        },
+        {
+          "id": "elite",
+          "name": "Elite",
+          "crAdjust": "+2",
+          "hpMultiplier": 2.0,
+          "damageMultiplier": 1.5,
+          "addTraits": [
+            {
+              "id": "grave_precision",
+              "name": "Grave Precision",
+              "description": "Once per turn, the skeleton deals an extra 3 (1d6) damage on a hit."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "crypt_guard",
+      "name": "Crypt Guard",
+      "tags": [
+        "tank",
+        "soldier",
+        "melee",
+        "tier_1"
+      ],
+      "hitDice": {
+        "count": 4,
+        "dieSize": 8,
+        "bonus": 8
+      },
+      "baseAc": 16,
+      "acDescription": "chain scraps, shield",
+      "proficiencyBonus": 2,
+      "cr": "1/2",
+      "abilityScoreOverrides": {
+        "str": 14,
+        "con": 14
+      },
+      "speedOverrides": null,
+      "removeTraits": [],
+      "addTraits": [
+        {
+          "id": "shield_wall",
+          "name": "Shield Wall",
+          "description": "While the skeleton is within 5 feet of an ally with a shield, it has advantage on Strength saving throws and checks to resist being pushed or knocked prone."
+        }
+      ],
+      "savingThrows": [],
+      "skills": [],
+      "actions": [
+        {
+          "id": "longsword",
+          "name": "Longsword",
+          "type": "attack",
+          "description": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 6 (1d8+2) slashing damage.",
+          "attack": {
+            "attackType": "meleeWeapon",
+            "attackBonus": 4,
+            "reach": "5 ft.",
+            "targets": "one target",
+            "damage": [
+              {
+                "dice": "1d8",
+                "bonus": 2,
+                "damageType": "slashing"
+              }
+            ]
+          },
+          "tags": [
+            "melee",
+            "weapon"
+          ]
+        }
+      ],
+      "bonusActions": [],
+      "reactions": [
+        {
+          "id": "interpose",
+          "name": "Interpose",
+          "type": "ability",
+          "description": "When an ally within 5 feet is hit by an attack, the skeleton can move into the ally's space and become the target instead (if it has movement available and the attacker is within reach).",
+          "tags": [
+            "defense",
+            "reaction"
+          ]
+        }
+      ],
+      "legendary": null,
+      "spellcasting": null,
+      "equipment": {
+        "weapons": [
+          "longsword"
+        ],
+        "armor": null,
+        "shield": true,
+        "consumables": []
+      },
+      "variants": [
+        {
+          "id": "minion",
+          "name": "Minion",
+          "crAdjust": "-1/2",
+          "hpOverride": 1,
+          "description": "Dies on any hit. Designed for swarm encounters."
+        },
+        {
+          "id": "veteran",
+          "name": "Veteran",
+          "crAdjust": "+1",
+          "hpMultiplier": 1.5,
+          "damageMultiplier": 1.25,
+          "addTraits": [
+            {
+              "id": "reinforced_bones",
+              "name": "Reinforced Bones",
+              "description": "The skeleton has advantage on saving throws against being knocked prone."
+            }
+          ]
+        },
+        {
+          "id": "elite",
+          "name": "Elite",
+          "crAdjust": "+2",
+          "hpMultiplier": 2.0,
+          "damageMultiplier": 1.5,
+          "addTraits": [
+            {
+              "id": "grave_precision",
+              "name": "Grave Precision",
+              "description": "Once per turn, the skeleton deals an extra 3 (1d6) damage on a hit."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bone_skirmisher",
+      "name": "Bone Skirmisher",
+      "tags": [
+        "skirmisher",
+        "melee",
+        "tier_1"
+      ],
+      "hitDice": {
+        "count": 4,
+        "dieSize": 8,
+        "bonus": 4
+      },
+      "baseAc": 14,
+      "acDescription": "patched armor",
+      "proficiencyBonus": 2,
+      "cr": "1/2",
+      "abilityScoreOverrides": {
+        "dex": 15,
+        "con": 12
+      },
+      "speedOverrides": null,
+      "removeTraits": [],
+      "addTraits": [],
+      "savingThrows": [],
+      "skills": [
+        {
+          "skill": "Stealth",
+          "bonus": 4
+        }
+      ],
+      "actions": [
+        {
+          "id": "scimitar",
+          "name": "Scimitar",
+          "type": "attack",
+          "description": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6+2) slashing damage.",
+          "attack": {
+            "attackType": "meleeWeapon",
+            "attackBonus": 4,
+            "reach": "5 ft.",
+            "targets": "one target",
+            "damage": [
+              {
+                "dice": "1d6",
+                "bonus": 2,
+                "damageType": "slashing"
+              }
+            ]
+          },
+          "tags": [
+            "melee",
+            "weapon"
+          ]
+        }
+      ],
+      "bonusActions": [
+        {
+          "id": "skeletal_slip",
+          "name": "Skeletal Slip",
+          "type": "ability",
+          "description": "The skeleton takes the Disengage action or attempts to Hide.",
+          "tags": [
+            "mobility"
+          ]
+        }
+      ],
+      "reactions": [],
+      "legendary": null,
+      "spellcasting": null,
+      "equipment": {
+        "weapons": [
+          "scimitar"
+        ],
+        "armor": null,
+        "shield": false,
+        "consumables": []
+      },
+      "variants": [
+        {
+          "id": "minion",
+          "name": "Minion",
+          "crAdjust": "-1/2",
+          "hpOverride": 1,
+          "description": "Dies on any hit. Designed for swarm encounters."
+        },
+        {
+          "id": "veteran",
+          "name": "Veteran",
+          "crAdjust": "+1",
+          "hpMultiplier": 1.5,
+          "damageMultiplier": 1.25,
+          "addTraits": [
+            {
+              "id": "reinforced_bones",
+              "name": "Reinforced Bones",
+              "description": "The skeleton has advantage on saving throws against being knocked prone."
+            }
+          ]
+        },
+        {
+          "id": "elite",
+          "name": "Elite",
+          "crAdjust": "+2",
+          "hpMultiplier": 2.0,
+          "damageMultiplier": 1.5,
+          "addTraits": [
+            {
+              "id": "grave_precision",
+              "name": "Grave Precision",
+              "description": "Once per turn, the skeleton deals an extra 3 (1d6) damage on a hit."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "crossbow_skeleton",
+      "name": "Crossbow Skeleton",
+      "tags": [
+        "ranged",
+        "artillery",
+        "tier_1"
+      ],
+      "hitDice": {
+        "count": 4,
+        "dieSize": 8,
+        "bonus": 4
+      },
+      "baseAc": 13,
+      "acDescription": "leather scraps",
+      "proficiencyBonus": 2,
+      "cr": "1/2",
+      "abilityScoreOverrides": {
+        "con": 12
+      },
+      "speedOverrides": null,
+      "removeTraits": [],
+      "addTraits": [
+        {
+          "id": "pinning_bolt",
+          "name": "Pinning Bolt",
+          "description": "Once per turn on a hit with a crossbow, the target's speed is reduced by 10 feet until the start of the skeleton's next turn."
+        }
+      ],
+      "savingThrows": [],
+      "skills": [],
+      "actions": [
+        {
+          "id": "light_crossbow",
+          "name": "Light Crossbow",
+          "type": "attack",
+          "description": "Ranged Weapon Attack: +4 to hit, range 80/320 ft., one target. Hit: 6 (1d8+2) piercing damage.",
+          "attack": {
+            "attackType": "rangedWeapon",
+            "attackBonus": 4,
+            "range": "80/320 ft.",
+            "targets": "one target",
+            "damage": [
+              {
+                "dice": "1d8",
+                "bonus": 2,
+                "damageType": "piercing"
+              }
+            ]
+          },
+          "tags": [
+            "ranged",
+            "weapon"
+          ]
+        },
+        {
+          "id": "dagger",
+          "name": "Dagger",
+          "type": "attack",
+          "description": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4+2) piercing damage.",
+          "attack": {
+            "attackType": "meleeWeapon",
+            "attackBonus": 4,
+            "reach": "5 ft.",
+            "targets": "one target",
+            "damage": [
+              {
+                "dice": "1d4",
+                "bonus": 2,
+                "damageType": "piercing"
+              }
+            ]
+          },
+          "tags": [
+            "melee",
+            "weapon"
+          ]
+        }
+      ],
+      "bonusActions": [],
+      "reactions": [],
+      "legendary": null,
+      "spellcasting": null,
+      "equipment": {
+        "weapons": [
+          "light_crossbow",
+          "dagger"
+        ],
+        "armor": null,
+        "shield": false,
+        "consumables": []
+      },
+      "variants": [
+        {
+          "id": "minion",
+          "name": "Minion",
+          "crAdjust": "-1/2",
+          "hpOverride": 1,
+          "description": "Dies on any hit. Designed for swarm encounters."
+        },
+        {
+          "id": "veteran",
+          "name": "Veteran",
+          "crAdjust": "+1",
+          "hpMultiplier": 1.5,
+          "damageMultiplier": 1.25,
+          "addTraits": [
+            {
+              "id": "reinforced_bones",
+              "name": "Reinforced Bones",
+              "description": "The skeleton has advantage on saving throws against being knocked prone."
+            }
+          ]
+        },
+        {
+          "id": "elite",
+          "name": "Elite",
+          "crAdjust": "+2",
+          "hpMultiplier": 2.0,
+          "damageMultiplier": 1.5,
+          "addTraits": [
+            {
+              "id": "grave_precision",
+              "name": "Grave Precision",
+              "description": "Once per turn, the skeleton deals an extra 3 (1d6) damage on a hit."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tomb_reaper",
+      "name": "Tomb Reaper",
+      "tags": [
+        "brute",
+        "melee",
+        "tier_1"
+      ],
+      "hitDice": {
+        "count": 6,
+        "dieSize": 8,
+        "bonus": 12
+      },
+      "baseAc": 14,
+      "acDescription": "ancient mail fragments",
+      "proficiencyBonus": 2,
+      "cr": "1",
+      "abilityScoreOverrides": {
+        "str": 16,
+        "con": 14
+      },
+      "speedOverrides": null,
+      "removeTraits": [],
+      "addTraits": [],
+      "savingThrows": [],
+      "skills": [],
+      "actions": [
+        {
+          "id": "multiattack",
+          "name": "Multiattack",
+          "type": "multiattack",
+          "description": "The skeleton makes two scythe attacks.",
+          "tags": []
+        },
+        {
+          "id": "scythe",
+          "name": "Scythe",
+          "type": "attack",
+          "description": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8+3) slashing damage.",
+          "attack": {
+            "attackType": "meleeWeapon",
+            "attackBonus": 5,
+            "reach": "5 ft.",
+            "targets": "one target",
+            "damage": [
+              {
+                "dice": "1d8",
+                "bonus": 3,
+                "damageType": "slashing"
+              }
+            ]
+          },
+          "tags": [
+            "melee",
+            "weapon"
+          ]
+        }
+      ],
+      "bonusActions": [],
+      "reactions": [],
+      "legendary": null,
+      "spellcasting": null,
+      "equipment": {
+        "weapons": [
+          "scythe"
+        ],
+        "armor": null,
+        "shield": false,
+        "consumables": []
+      },
+      "variants": [
+        {
+          "id": "minion",
+          "name": "Minion",
+          "crAdjust": "-1/2",
+          "hpOverride": 1,
+          "description": "Dies on any hit. Designed for swarm encounters."
+        },
+        {
+          "id": "veteran",
+          "name": "Veteran",
+          "crAdjust": "+1",
+          "hpMultiplier": 1.5,
+          "damageMultiplier": 1.25,
+          "addTraits": [
+            {
+              "id": "reinforced_bones",
+              "name": "Reinforced Bones",
+              "description": "The skeleton has advantage on saving throws against being knocked prone."
+            }
+          ]
+        },
+        {
+          "id": "elite",
+          "name": "Elite",
+          "crAdjust": "+2",
+          "hpMultiplier": 2.0,
+          "damageMultiplier": 1.5,
+          "addTraits": [
+            {
+              "id": "grave_precision",
+              "name": "Grave Precision",
+              "description": "Once per turn, the skeleton deals an extra 3 (1d6) damage on a hit."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bone_brute",
+      "name": "Bone Brute",
+      "tags": [
+        "brute",
+        "melee",
+        "tier_1"
+      ],
+      "hitDice": {
+        "count": 6,
+        "dieSize": 8,
+        "bonus": 18
+      },
+      "baseAc": 13,
+      "acDescription": "bare bones",
+      "proficiencyBonus": 2,
+      "cr": "1",
+      "abilityScoreOverrides": {
+        "str": 16,
+        "con": 16
+      },
+      "speedOverrides": null,
+      "removeTraits": [],
+      "addTraits": [
+        {
+          "id": "bone_hurl",
+          "name": "Bone Hurl",
+          "description": "The brute can throw chunks of bone with surprising force."
+        }
+      ],
+      "savingThrows": [],
+      "skills": [],
+      "actions": [
+        {
+          "id": "maul",
+          "name": "Heavy Club",
+          "type": "attack",
+          "description": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 8 (1d10+3) bludgeoning damage.",
+          "attack": {
+            "attackType": "meleeWeapon",
+            "attackBonus": 5,
+            "reach": "5 ft.",
+            "targets": "one target",
+            "damage": [
+              {
+                "dice": "1d10",
+                "bonus": 3,
+                "damageType": "bludgeoning"
+              }
+            ]
+          },
+          "tags": [
+            "melee",
+            "weapon"
+          ]
+        },
+        {
+          "id": "hurl_bone",
+          "name": "Hurl Bone",
+          "type": "attack",
+          "description": "Ranged Weapon Attack: +5 to hit, range 30/90 ft., one target. Hit: 6 (1d6+3) bludgeoning damage.",
+          "attack": {
+            "attackType": "rangedWeapon",
+            "attackBonus": 5,
+            "range": "30/90 ft.",
+            "targets": "one target",
+            "damage": [
+              {
+                "dice": "1d6",
+                "bonus": 3,
+                "damageType": "bludgeoning"
+              }
+            ]
+          },
+          "tags": [
+            "ranged",
+            "weapon"
+          ]
+        }
+      ],
+      "bonusActions": [],
+      "reactions": [],
+      "legendary": null,
+      "spellcasting": null,
+      "equipment": {
+        "weapons": [
+          "heavy_club"
+        ],
+        "armor": null,
+        "shield": false,
+        "consumables": []
+      },
+      "variants": [
+        {
+          "id": "minion",
+          "name": "Minion",
+          "crAdjust": "-1/2",
+          "hpOverride": 1,
+          "description": "Dies on any hit. Designed for swarm encounters."
+        },
+        {
+          "id": "veteran",
+          "name": "Veteran",
+          "crAdjust": "+1",
+          "hpMultiplier": 1.5,
+          "damageMultiplier": 1.25,
+          "addTraits": [
+            {
+              "id": "reinforced_bones",
+              "name": "Reinforced Bones",
+              "description": "The skeleton has advantage on saving throws against being knocked prone."
+            }
+          ]
+        },
+        {
+          "id": "elite",
+          "name": "Elite",
+          "crAdjust": "+2",
+          "hpMultiplier": 2.0,
+          "damageMultiplier": 1.5,
+          "addTraits": [
+            {
+              "id": "grave_precision",
+              "name": "Grave Precision",
+              "description": "Once per turn, the skeleton deals an extra 3 (1d6) damage on a hit."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bone_channeler",
+      "name": "Bone Channeler",
+      "tags": [
+        "controller",
+        "spellcaster",
+        "tier_1"
+      ],
+      "hitDice": {
+        "count": 8,
+        "dieSize": 8,
+        "bonus": 16
+      },
+      "baseAc": 13,
+      "acDescription": "tattered robes",
+      "proficiencyBonus": 2,
+      "cr": "2",
+      "abilityScoreOverrides": {
+        "wis": 12,
+        "con": 14
+      },
+      "speedOverrides": null,
+      "removeTraits": [],
+      "addTraits": [
+        {
+          "id": "necrotic_focus",
+          "name": "Necrotic Focus",
+          "description": "The channeler's necrotic effects ignore resistance to necrotic damage granted by non-magical armor or shields."
+        }
+      ],
+      "savingThrows": [],
+      "skills": [
+        {
+          "skill": "Arcana",
+          "bonus": 3
+        }
+      ],
+      "actions": [
+        {
+          "id": "grave_bolt",
+          "name": "Grave Bolt",
+          "type": "attack",
+          "description": "Ranged Spell Attack: +4 to hit, range 60 ft., one target. Hit: 7 (2d6) necrotic damage.",
+          "attack": {
+            "attackType": "rangedSpell",
+            "attackBonus": 4,
+            "range": "60 ft.",
+            "targets": "one target",
+            "damage": [
+              {
+                "dice": "2d6",
+                "bonus": 0,
+                "damageType": "necrotic"
+              }
+            ]
+          },
+          "tags": [
+            "ranged",
+            "spell"
+          ]
+        },
+        {
+          "id": "necrotic_burst",
+          "name": "Necrotic Burst",
+          "type": "ability",
+          "description": "The skeleton releases a pulse of grave-cold energy in a 15-foot cone. Each creature in that area must make a DC 13 Constitution saving throw, taking 10 (3d6) necrotic damage on a failed save, or half as much on a successful one.",
+          "save": {
+            "dc": 13,
+            "ability": "con",
+            "onSuccess": "half damage"
+          },
+          "damage": [
+            {
+              "dice": "3d6",
+              "bonus": 0,
+              "damageType": "necrotic"
+            }
+          ],
+          "recharge": {
+            "type": "recharge",
+            "value": 5
+          },
+          "tags": [
+            "aoe",
+            "spell"
+          ]
+        },
+        {
+          "id": "bone_staff",
+          "name": "Bone Staff",
+          "type": "attack",
+          "description": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6+2) bludgeoning damage.",
+          "attack": {
+            "attackType": "meleeWeapon",
+            "attackBonus": 4,
+            "reach": "5 ft.",
+            "targets": "one target",
+            "damage": [
+              {
+                "dice": "1d6",
+                "bonus": 2,
+                "damageType": "bludgeoning"
+              }
+            ]
+          },
+          "tags": [
+            "melee",
+            "weapon"
+          ]
+        }
+      ],
+      "bonusActions": [],
+      "reactions": [],
+      "legendary": null,
+      "spellcasting": null,
+      "equipment": {
+        "weapons": [
+          "bone_staff"
+        ],
+        "armor": null,
+        "shield": false,
+        "consumables": []
+      },
+      "variants": [
+        {
+          "id": "minion",
+          "name": "Minion",
+          "crAdjust": "-1/2",
+          "hpOverride": 1,
+          "description": "Dies on any hit. Designed for swarm encounters."
+        },
+        {
+          "id": "veteran",
+          "name": "Veteran",
+          "crAdjust": "+1",
+          "hpMultiplier": 1.5,
+          "damageMultiplier": 1.25,
+          "addTraits": [
+            {
+              "id": "reinforced_bones",
+              "name": "Reinforced Bones",
+              "description": "The skeleton has advantage on saving throws against being knocked prone."
+            }
+          ]
+        },
+        {
+          "id": "elite",
+          "name": "Elite",
+          "crAdjust": "+2",
+          "hpMultiplier": 2.0,
+          "damageMultiplier": 1.5,
+          "addTraits": [
+            {
+              "id": "grave_precision",
+              "name": "Grave Precision",
+              "description": "Once per turn, the skeleton deals an extra 3 (1d6) damage on a hit."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "deathguard_sentinel",
+      "name": "Deathguard Sentinel",
+      "tags": [
+        "tank",
+        "soldier",
+        "melee",
+        "tier_1"
+      ],
+      "hitDice": {
+        "count": 9,
+        "dieSize": 8,
+        "bonus": 18
+      },
+      "baseAc": 17,
+      "acDescription": "ancient plate, shield",
+      "proficiencyBonus": 2,
+      "cr": "2",
+      "abilityScoreOverrides": {
+        "str": 16,
+        "con": 14
+      },
+      "speedOverrides": null,
+      "removeTraits": [],
+      "addTraits": [
+        {
+          "id": "tomb_sentinel",
+          "name": "Tomb Sentinel",
+          "description": "Creatures provoke opportunity attacks from the sentinel even if they take the Disengage action."
+        }
+      ],
+      "savingThrows": [],
+      "skills": [],
+      "actions": [
+        {
+          "id": "multiattack",
+          "name": "Multiattack",
+          "type": "multiattack",
+          "description": "The sentinel makes two halberd attacks.",
+          "tags": []
+        },
+        {
+          "id": "halberd",
+          "name": "Halberd",
+          "type": "attack",
+          "description": "Melee Weapon Attack: +5 to hit, reach 10 ft., one target. Hit: 8 (1d10+3) slashing damage.",
+          "attack": {
+            "attackType": "meleeWeapon",
+            "attackBonus": 5,
+            "reach": "10 ft.",
+            "targets": "one target",
+            "damage": [
+              {
+                "dice": "1d10",
+                "bonus": 3,
+                "damageType": "slashing"
+              }
+            ]
+          },
+          "tags": [
+            "melee",
+            "weapon",
+            "reach"
+          ]
+        }
+      ],
+      "bonusActions": [],
+      "reactions": [
+        {
+          "id": "sentinel_strike",
+          "name": "Sentinel Strike",
+          "type": "ability",
+          "description": "When a creature within 10 feet hits an ally with an attack, the sentinel makes one halberd attack against that creature.",
+          "tags": [
+            "reaction",
+            "defense"
+          ]
+        }
+      ],
+      "legendary": null,
+      "spellcasting": null,
+      "equipment": {
+        "weapons": [
+          "halberd"
+        ],
+        "armor": null,
+        "shield": true,
+        "consumables": []
+      },
+      "variants": [
+        {
+          "id": "minion",
+          "name": "Minion",
+          "crAdjust": "-1/2",
+          "hpOverride": 1,
+          "description": "Dies on any hit. Designed for swarm encounters."
+        },
+        {
+          "id": "veteran",
+          "name": "Veteran",
+          "crAdjust": "+1",
+          "hpMultiplier": 1.5,
+          "damageMultiplier": 1.25,
+          "addTraits": [
+            {
+              "id": "reinforced_bones",
+              "name": "Reinforced Bones",
+              "description": "The skeleton has advantage on saving throws against being knocked prone."
+            }
+          ]
+        },
+        {
+          "id": "elite",
+          "name": "Elite",
+          "crAdjust": "+2",
+          "hpMultiplier": 2.0,
+          "damageMultiplier": 1.5,
+          "addTraits": [
+            {
+              "id": "grave_precision",
+              "name": "Grave Precision",
+              "description": "Once per turn, the skeleton deals an extra 3 (1d6) damage on a hit."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "beastkin_wolf",
+  "name": "Wolfkin",
+  "creatureType": "humanoid",
+  "size": "medium",
+  "speed": 30,
+  "ageRange": "TODO: Similar to humans? 80-100 years?",
+  "appearance": "TODO: Wolf-like features - ears, tail, fangs, fur patterns. Gray, brown, or white coloring.",
+  "culture": "TODO: Pack-oriented. Value loyalty above all. Often form tight-knit communities.",
+  "lore": "TODO: Wolfkin are fiercely loyal and work best in groups. Natural hunters and trackers.",
+  "statBonuses": {
+    "fixed": {
+      "strength": 1,
+      "willpower": 1
+    }
+  },
+  "languages": ["Common", "Beastial"],
+  "skillProficiencies": ["survival"],
+  "toolProficiencies": null,
+  "generalTraits": [],
+  "uniqueTraits": [
+    {
+      "id": "wolfkin_pack_tactics",
+      "name": "Pack Tactics",
+      "description": "You have advantage on attack rolls against a creature if at least one of your allies is within 5 feet of the creature and the ally isn't incapacitated.",
+      "effect": {
+        "type": "pack_tactics"
+      }
+    }
+  ],
+  "startingTempers": null,
+  "startingEmbers": null,
+  "subtypes": null,
+  "requiresSubtype": false,
+  "parentSpecies": "beastkin"
+}

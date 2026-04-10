@@ -1,0 +1,95 @@
+{
+  "id": "hollowed",
+  "name": "Hollowed",
+  "creatureType": "humanoid",
+  "size": "medium",
+  "speed": 30,
+  "ageRange": "Age normally but some claim to be much older than they appear. Time touches them strangely.",
+  "appearance": "Appear mostly human but with dim, hollow eyes that reflect no light. Skin is unnaturally pale and cold to the touch. A faint shadowy aura clings to them. Their presence is deeply unsettling to most.",
+  "culture": "Hollowed are outcasts and survivors, marked by Shadow but not consumed. Feared by most, rarely trusted, they wander seeking purpose or redemption. Some embrace their curse, others fight to reclaim their lost Flame.",
+  "lore": "Hollowed are mortals who survived Shadow corruption that should have destroyed them. Their Flame was dimmed but not extinguished. They walk the knife's edge between light and darkness, cursed but incredibly resilient.",
+  "statBonuses": {
+    "fixed": {
+      "constitution": 2,
+      "willpower": 1
+    }
+  },
+  "languages": ["Common", "Shadowtongue"],
+  "skillProficiencies": null,
+  "toolProficiencies": null,
+  "effects": [
+    {
+      "type": "abilityBonus",
+      "targetAbility": "constitution",
+      "numericValue": 2,
+      "description": "+2 Constitution"
+    },
+    {
+      "type": "abilityBonus",
+      "targetAbility": "willpower",
+      "numericValue": 1,
+      "description": "+1 Willpower"
+    },
+    {
+      "type": "language",
+      "stringValue": "Common",
+      "description": "Knows Common language"
+    },
+    {
+      "type": "language",
+      "stringValue": "Shadowtongue",
+      "description": "Knows Shadowtongue language"
+    },
+    {
+      "type": "resistance",
+      "stringValue": "necrotic",
+      "description": "Resistance to necrotic damage"
+    }
+  ],
+  "generalTraits": ["necrotic_resistance"],
+  "uniqueTraits": [
+    {
+      "id": "hollowed_shadow_touched",
+      "name": "Shadow Touched",
+      "description": "The Shadow that cursed you also protects you. You have resistance to necrotic damage.",
+      "effect": {
+        "type": "damage_resistance",
+        "damageType": "necrotic"
+      }
+    },
+    {
+      "id": "hollowed_shadow_cursed",
+      "name": "Shadow-Cursed",
+      "description": "\n• PENALTY: You have disadvantage on Persuasion checks against non-Hollowed creatures (your presence is unsettling).\n• BENEFIT: You have resistance to necrotic damage and advantage on saves against being frightened or possessed.",
+      "effect": {
+        "type": "mixed_curse",
+        "penalty": "social_disadvantage",
+        "benefit": "necrotic_resistance_and_mental_saves"
+      }
+    },
+    {
+      "id": "hollowed_dim_flame",
+      "name": "Dim Flame",
+      "description": "\n• PENALTY: Your maximum mana is reduced by 3 (minimum 0).\n• BENEFIT: You can see in magical darkness as if it were dim light, and you have advantage on saves against shadow/darkness magic.",
+      "effect": {
+        "type": "mixed_curse",
+        "penalty": "mana_reduction",
+        "benefit": "shadow_sight_and_resistance"
+      }
+    },
+    {
+      "id": "hollowed_death_touched",
+      "name": "Death-Touched",
+      "description": "Undead have difficulty sensing you. You have advantage on Stealth checks against undead creatures, and unintelligent undead ignore you unless you attack them or draw attention.",
+      "effect": {
+        "type": "undead_stealth",
+        "advantage_vs_undead": true
+      }
+    }
+  ],
+  "startingTempers": null,
+  "startingEmbers": null,
+  "subtypes": null,
+  "requiresSubtype": false,
+  "parentSpecies": null
+}

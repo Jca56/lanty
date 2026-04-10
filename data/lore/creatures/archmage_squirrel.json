@@ -1,0 +1,328 @@
+{
+  "id": "archmage_squirrel",
+  "name": "Archmage Nutkin",
+  "creatureType": "unique",
+  "type": "Beast (awakened)",
+  "tags": ["beast", "awakened", "spellcaster", "boss", "test"],
+  "size": "small",
+  "alignment": "chaotic good",
+  
+  "abilityScores": {
+    "str": 6,
+    "dex": 18,
+    "con": 14,
+    "int": 20,
+    "wis": 16,
+    "cha": 12
+  },
+  
+  "hitDice": { "count": 10, "dieSize": 6, "bonus": 20 },
+  "baseAc": 15,
+  "acDescription": "mage armor (included)",
+  "proficiencyBonus": 4,
+  "cr": "8",
+  
+  "speed": { "walk": 30, "climb": 30 },
+  "senses": { "darkvision": 60, "passivePerception": 17 },
+  "languages": ["Common", "Sylvan", "Druidic"],
+  
+  "savingThrows": [
+    { "ability": "int", "bonus": 9 },
+    { "ability": "wis", "bonus": 7 },
+    { "ability": "dex", "bonus": 8 }
+  ],
+  
+  "skills": [
+    { "skill": "Arcana", "bonus": 13 },
+    { "skill": "Perception", "bonus": 7 },
+    { "skill": "Stealth", "bonus": 8 }
+  ],
+  
+  "damageModifiers": {
+    "resistances": [
+      {
+        "id": "force_resistance",
+        "type": "resistance",
+        "damageTypes": ["force"],
+        "condition": null,
+        "tags": ["magical"]
+      },
+      {
+        "id": "psychic_resistance",
+        "type": "resistance",
+        "damageTypes": ["psychic"],
+        "condition": null,
+        "tags": ["mental"]
+      }
+    ],
+    "immunities": [
+      {
+        "id": "poison_immunity",
+        "type": "immunity",
+        "damageTypes": ["poison"],
+        "condition": null,
+        "tags": ["poison"]
+      }
+    ],
+    "vulnerabilities": [
+      {
+        "id": "fire_vulnerability",
+        "type": "vulnerability",
+        "damageTypes": ["fire"],
+        "condition": null,
+        "tags": ["elemental"]
+      }
+    ]
+  },
+  
+  "conditionImmunities": [
+    { "conditionId": "charmed" },
+    { "conditionId": "frightened" },
+    { "conditionId": "poisoned" }
+  ],
+  
+  "traits": [
+    {
+      "id": "magic_resistance",
+      "name": "Magic Resistance",
+      "description": "The squirrel has advantage on saving throws against spells and other magical effects.",
+      "tags": ["defensive", "magic"]
+    },
+    {
+      "id": "nimble_escape",
+      "name": "Nimble Escape",
+      "description": "The squirrel can take the Disengage or Hide action as a bonus action.",
+      "tags": ["mobility"]
+    },
+    {
+      "id": "keen_smell",
+      "name": "Keen Smell",
+      "description": "The squirrel has advantage on Wisdom (Perception) checks that rely on smell.",
+      "tags": ["sense"]
+    }
+  ],
+  
+  "actions": [
+    {
+      "id": "multiattack",
+      "name": "Multiattack",
+      "type": "multiattack",
+      "description": "Archmage Nutkin makes two attacks with Arcane Acorn or casts a cantrip and makes one Arcane Acorn attack.",
+      "tags": []
+    },
+    {
+      "id": "arcane_acorn",
+      "name": "Arcane Acorn",
+      "type": "attack",
+      "description": "Ranged Spell Attack: +9 to hit, range 60 ft., one target. Hit: 14 (3d6+5) force damage.",
+      "attack": {
+        "attackType": "rangedSpell",
+        "attackBonus": 9,
+        "range": "60 ft.",
+        "targets": "one target",
+        "damage": [
+          { "dice": "3d6", "bonus": 5, "damageType": "force" }
+        ]
+      },
+      "tags": ["ranged", "spell", "cantrip"]
+    },
+    {
+      "id": "bite",
+      "name": "Bite",
+      "type": "attack",
+      "description": "Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 6 (1d4+4) piercing damage plus 7 (2d6) poison damage.",
+      "attack": {
+        "attackType": "meleeWeapon",
+        "attackBonus": 8,
+        "reach": "5 ft.",
+        "targets": "one target",
+        "damage": [
+          { "dice": "1d4", "bonus": 4, "damageType": "piercing" },
+          { "dice": "2d6", "bonus": 0, "damageType": "poison" }
+        ]
+      },
+      "tags": ["melee", "weapon"]
+    },
+    {
+      "id": "cone_of_acorns",
+      "name": "Cone of Acorns",
+      "type": "ability",
+      "description": "The squirrel unleashes a barrage of magically-propelled acorns in a 30-foot cone. Each creature in that area must make a DC 17 Dexterity saving throw, taking 28 (8d6) bludgeoning damage on a failed save, or half as much on a successful one.",
+      "save": {
+        "dc": 17,
+        "ability": "dex",
+        "onSuccess": "half damage"
+      },
+      "damage": [
+        { "dice": "8d6", "bonus": 0, "damageType": "bludgeoning" }
+      ],
+      "recharge": {
+        "type": "recharge",
+        "value": 5
+      },
+      "tags": ["aoe", "cone", "damage"]
+    }
+  ],
+  
+  "bonusActions": [
+    {
+      "id": "misty_hop",
+      "name": "Misty Hop",
+      "type": "ability",
+      "description": "The squirrel magically teleports up to 30 feet to an unoccupied space it can see.",
+      "tags": ["teleport", "mobility"]
+    },
+    {
+      "id": "acorn_shield",
+      "name": "Acorn Shield",
+      "type": "ability",
+      "description": "The squirrel summons a swirling shield of enchanted acorns, gaining a +2 bonus to AC until the start of its next turn.",
+      "tags": ["defensive", "buff"]
+    },
+    {
+      "id": "quick_cast",
+      "name": "Quick Cast",
+      "type": "ability",
+      "description": "The squirrel casts a cantrip with a casting time of 1 action.",
+      "tags": ["spellcasting"]
+    }
+  ],
+  
+  "reactions": [
+    {
+      "id": "shield_spell",
+      "name": "Shield",
+      "type": "ability",
+      "description": "When hit by an attack, the squirrel gains a +5 bonus to AC until the start of its next turn, including against the triggering attack.",
+      "tags": ["defensive", "spell"]
+    },
+    {
+      "id": "counterspell",
+      "name": "Counterspell",
+      "type": "ability",
+      "description": "When a creature within 60 feet casts a spell, the squirrel can attempt to counter it. The squirrel makes an Intelligence check (DC 10 + spell level). On a success, the spell fails.",
+      "tags": ["defensive", "spell", "control"]
+    },
+    {
+      "id": "tail_deflection",
+      "name": "Tail Deflection",
+      "type": "ability",
+      "description": "When the squirrel would be hit by a ranged weapon attack, it can use its bushy tail to deflect the projectile, adding 3 to its AC against that attack.",
+      "tags": ["defensive"]
+    }
+  ],
+  
+  "legendary": {
+    "actionsPerRound": 3,
+    "description": "Archmage Nutkin can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The squirrel regains spent legendary actions at the start of its turn.",
+    "actions": [
+      {
+        "id": "detect",
+        "name": "Detect",
+        "cost": 1,
+        "description": "The squirrel makes a Wisdom (Perception) check.",
+        "tags": ["detection"]
+      },
+      {
+        "id": "acorn_blast",
+        "name": "Acorn Blast",
+        "cost": 1,
+        "description": "The squirrel makes one Arcane Acorn attack.",
+        "tags": ["attack"]
+      },
+      {
+        "id": "scurry",
+        "name": "Scurry",
+        "cost": 2,
+        "description": "The squirrel moves up to its speed without provoking opportunity attacks.",
+        "tags": ["mobility"]
+      },
+      {
+        "id": "cast_spell",
+        "name": "Cast Spell",
+        "cost": 3,
+        "description": "The squirrel casts a spell of 3rd level or lower from its spell list.",
+        "tags": ["spellcasting"]
+      }
+    ]
+  },
+  
+  "spellcasting": {
+    "type": "innate",
+    "ability": "int",
+    "spellSaveDC": 17,
+    "spellAttackBonus": 9,
+    "casterLevel": 10,
+    "flavorText": "Archmage Nutkin is a 10th-level spellcaster.",
+    "spellSlots": {
+      "slots": { "1": 4, "2": 3, "3": 3, "4": 3, "5": 2 }
+    },
+    "spells": [
+      { "spellId": "fire-bolt", "level": 0 },
+      { "spellId": "mage-hand", "level": 0 },
+      { "spellId": "prestidigitation", "level": 0 },
+      { "spellId": "detect-magic", "level": 1 },
+      { "spellId": "mage-armor", "level": 1 },
+      { "spellId": "shield", "level": 1 },
+      { "spellId": "misty-step", "level": 2 },
+      { "spellId": "mirror-image", "level": 2 },
+      { "spellId": "counterspell", "level": 3 },
+      { "spellId": "fireball", "level": 3 },
+      { "spellId": "fly", "level": 3 },
+      { "spellId": "greater-invisibility", "level": 4 },
+      { "spellId": "polymorph", "level": 4 },
+      { "spellId": "cone-of-cold", "level": 5 }
+    ]
+  },
+  
+  "inventory": {
+    "items": [
+      { 
+        "itemId": "staff_of_acorns", 
+        "name": "Staff of Eternal Acorns", 
+        "category": "weapon", 
+        "quantity": 1, 
+        "isEquipped": true,
+        "isMagical": true,
+        "magicBonus": 2,
+        "valueGp": 5000
+      },
+      { 
+        "itemId": "robe_of_leaves", 
+        "name": "Robe of Autumn Leaves", 
+        "category": "armor", 
+        "quantity": 1, 
+        "isEquipped": true,
+        "isMagical": true,
+        "valueGp": 2000
+      },
+      { 
+        "itemId": "potion_of_healing_greater", 
+        "name": "Potion of Greater Healing", 
+        "category": "potion", 
+        "quantity": 2
+      },
+      { 
+        "itemId": "scroll_of_teleport", 
+        "name": "Scroll of Teleport", 
+        "category": "misc", 
+        "quantity": 1,
+        "isMagical": true
+      },
+      { 
+        "itemId": "ancient_acorn", 
+        "name": "Ancient World Tree Acorn", 
+        "category": "questItem", 
+        "quantity": 1,
+        "valueGp": 10000
+      }
+    ],
+    "currency": { "gold": 850, "silver": 30 }
+  },
+  
+  "description": "A small but impossibly powerful squirrel wrapped in robes of autumn leaves. Its eyes sparkle with arcane power, and it carries a staff topped with a glowing acorn. Nutkin speaks in a high-pitched, rapid voice and gestures dramatically when casting spells. Despite its formidable magical prowess, it remains utterly obsessed with collecting and organizing acorns.",
+  
+  "tactics": "Nutkin opens combat with Cone of Acorns if enemies are clustered, then uses Misty Hop to maintain distance. It favors ranged Arcane Acorn attacks and high-level spell slots for fireball or polymorph. Uses Shield and Counterspell reactions liberally. If bloodied, casts greater invisibility and retreats to a high vantage point. Legendary actions prioritize Acorn Blast for damage and Scurry for repositioning. Never fights to the death—will teleport away if reduced below 20 HP.",
+  
+  "lootNotes": "The Ancient World Tree Acorn is a key quest item. The Staff of Eternal Acorns functions as a +2 quarterstaff that can summon 1d4 goodberries once per day. The Robe of Autumn Leaves grants advantage on Stealth checks in forested areas."
+}

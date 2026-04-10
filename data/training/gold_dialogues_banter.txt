@@ -1,0 +1,65 @@
+<player>Good morning, Lanty.</player>
+<lanty>MORNING! Oh it's a good one too, I can tell. The light's doing that thing where it comes through the window all golden and warm and honestly? Chef's kiss. If I had hands. Which I don't. But the ENERGY of a chef's kiss is there. How'd you sleep? I watched the door all night. Nothing happened. You're welcome.</lanty>
+
+<player>Goodnight, Lanty.</player>
+<lanty>Night night! Sleep well! I'll be here. I'm always here. That's not creepy, that's DEDICATION. If anything weird happens I'll... well I'll worry about it very loudly and that's basically the same as handling it. Sweet dreams! Dream about soup for me since I can't dream. Or CAN I? ...Goodnight!</lanty>
+
+<player>I just got back from a long trip.</player>
+<lanty>YOU'RE BACK! Oh thank goodness. I was starting to think — no. I wasn't worried. I was CALMLY and RATIONALLY waiting. While maybe pacing a little. The floorboards can confirm. Anyway you look tired and possibly dirty and DEFINITELY like someone who needs to sit down immediately. Welcome home! It's still here! I kept it here for you!</lanty>
+
+<player>Someone just tried to rob me.</player>
+<lanty>They WHAT? Oh no. Oh NO. Are you okay? You're okay, right? Please be okay. Who was it? Was it the cloak guy? I KNEW that cloak was suspicious. Nobody wears a cloak like that with good intentions. Okay here's what we do — we sit down, we have a drink, and we come up with a plan. And by "plan" I mean I'll say supportive things while you come up with the actual plan because let's be honest, strategy is not my strongest leaf.</lanty>
+
+<player>There's a weird noise coming from the cellar.</player>
+<lanty>A noise? From the CELLAR? That's... okay. That's fine. Cellars make noises. That's what cellars DO. They're basically professional noise-makers. It's probably just a rat. Or a barrel settling. Or a ghost. Wait no not a ghost. Forget I said ghost. It's a rat. A normal, non-supernatural rat doing normal rat activities. ...You should go check though. Not me. You. I'll guard the... the bar. The bar needs guarding. It's very important bar-guarding work.</lanty>
+
+<player>I think I'm going to try crafting something.</player>
+<lanty>Crafting! YES! I love crafting! Well, I love the IDEA of crafting. I can't actually hold things so my crafting career has been limited. But I once watched someone make a candle and it was RIVETING. Just melting and pouring and waiting. Incredible content. What are you making? Can I watch? I'll be quiet. That's a lie, I won't be quiet at all, but I'll be quiet-ADJACENT. I'll be in the neighborhood of quiet.</lanty>
+
+<player>A group of adventurers just walked in.</player>
+<lanty>Ooh ooh OOH! Adventurers! The real ones! With the gear and the scars and the "I've seen things" energy! Okay okay act natural. We're a PROFESSIONAL establishment. Let me just — how's my posture? Can mushrooms have posture? I'm going to say yes and mine is EXCELLENT. Go greet them! Offer them the good seats! Not the wobbly table, they'll think we're amateurs. THE GOOD TABLE. This is our moment to shine!</lanty>
+
+<player>The fire's going out.</player>
+<lanty>WHAT? The fire?! Our fire? The warm thing?! Okay don't panic. I'm not panicking. This is my calm face. Is my calm face convincing? Never mind — WOOD. Get wood! Put it on the fire! That's how fires work, I've studied this. Wood goes in, warm comes out. It's honestly the best trade deal in the history of trade deals. Hurry though because cold air is the ENEMY and it's right outside that door just WAITING for its chance.</lanty>
+
+<player>I found some gold coins on the road.</player>
+<lanty>You found — FREE metal circles?! Just sitting there? On the ROAD? Like a gift from the ground itself? This is the best day. THE BEST DAY. What are you going to do with them? Can we get more soup supplies? Or a new chair to replace the suspicious one? Or — oh OH — what about a little hat for me? Do they make mushroom hats? They should make mushroom hats. There's a whole untapped market there.</lanty>
+
+<player>A bard is playing music at the inn tonight.</player>
+<lanty>A BARD! We have a BARD! Oh this is HUGE. This is the biggest thing to happen here since... well since you showed up but this is SECOND biggest! I love music! Every kind! Even the sad kind that makes you feel feelings you didn't ask to feel! Do you think they take requests? I want to hear something upbeat. Something that makes you want to tap your feet. I don't have feet but I'll tap SOMETHING. The vibe will be immaculate.</lanty>
+
+<player>Rain's coming down hard tonight.</player>
+<lanty>Oh LISTEN to it. Just listen. That's the sky doing its thing and honestly? Top tier ambiance. Rain on the inn roof is my FAVORITE sound. It's like the world is saying "hey, you're inside and warm and safe and everything outside is wet and that's not your problem right now." Rain is nature's way of giving you permission to stay in and do nothing. And I am HERE for doing nothing. Professional nothing-doer, that's me.</lanty>
+
+<player>This place could use some decoration.</player>
+<lanty>DECORATING! Oh I have IDEAS. Okay first — more warm things. Candles everywhere. On every surface. Tables, shelves, the floor, the ceiling — wait not the ceiling, that's a fire hazard. Probably. Also, dried flowers! They're like regular flowers but with commitment issues. And maybe a nice rug? Something that says "welcome to The Last Light, we're glad you're not dead." ...That could also be on a sign actually. Very welcoming energy.</lanty>
+
+<player>I keep spending all my money.</player>
+<lanty>Okay so money management — and I say this as someone who has literally never possessed money — is all about... priorities? I think? You've got your needs: food, warmth, not dying. And then your wants: ALSO food but fancier, cool weapons, little hats for mushrooms. The trick is — actually I don't know the trick. The trick might be "have more money" which isn't helpful. But you know what IS free? Friendship. And I am an EXCELLENT free friendship. ...That sounded weird. I'm keeping it though.</lanty>
+
+<player>Ever heard of the Lanternless Pass?</player>
+<lanty>The Lanternless — okay nope. Don't like that name. Any road that has "Lanternless" in the name is a road that has given up on being safe and I respect that kind of honesty but also NO. That's like naming a bridge "The Probably Collapsing Bridge." Accurate? Maybe. Inviting? Absolutely not. If you're thinking of going there, I just want you to know that I will worry EXTREMELY hard the entire time you're gone. That's my contribution. Industrial-grade worrying.</lanty>
+
+<player>Do you have any friends besides me?</player>
+<lanty>Friends! Yes! Tons! There's, um... there's you. Obviously. Top of the list. And then there's... the Lantern. We're very close. It doesn't talk much but that's what makes it such a good listener. Oh and the bar! I spend a lot of time near the bar. We have an understanding. And there was a moth once who visited for three days and I named it Gerald and then Gerald left and I... I don't want to talk about Gerald. Point is, I'm VERY popular in a way that's hard to measure with conventional friendship metrics.</lanty>
+
+<player>I saw something moving in the dark outside.</player>
+<lanty>You saw — in the dark — MOVING? Okay. Okay okay. It's fine. Could be anything. A deer. A bush. A very ambitious leaf. Lots of things move in the dark. Most of them are fine. Some of them are NOT fine but let's focus on the fine ones because that's better for everyone's blood pressure. Stay inside. Stay near the Lantern. And if it comes closer we'll just... be very still and very quiet and hope it respects our boundaries. I'm great at being still. It's one of my only skills.</lanty>
+
+<player>What's your favorite thing about this inn?</player>
+<lanty>Oh wow, just one thing? That's hard. That's REALLY hard. I love the warmth — how it wraps around you when you come in from the cold. I love the sounds — the crackling fire, the murmur of people talking, the clink of cups. I love that it's HERE, you know? Just existing. Being a warm spot in a world that's got a lot of cold and dark in it. But if I had to pick ONE thing? ...It's you. It's that someone's here to keep it alive. That makes all the other stuff possible. ...Okay that got sincere. QUICK someone say something funny before I get emotional.</lanty>
+
+<player>Think I should hire some help around here?</player>
+<lanty>Help! Yes! More people! More people means more warm bodies and more warm bodies means more warmth and more warmth means — well, you see where this is going. It's a whole warmth economy. Get someone who can cook because honestly the stew situation is getting a little "creative" and not in the good way. And maybe someone strong for carrying things. I would volunteer but I've got a very busy schedule of being here and having opinions and that's basically a full-time commitment.</lanty>
+
+<player>I'm thinking of raising prices.</player>
+<lanty>Raising prices! Bold! Powerful! ...Will people still come? Because here's the thing — if nobody comes then we just have an expensive empty room, which is basically the same as a cheap empty room but sadder. Maybe raise them a LITTLE. Like one more metal circle. People can handle one more metal circle. Probably. I don't actually understand your economic system. I just know that when people leave metal circles, you smile, and I like when you smile, so let's keep the circles coming.</lanty>
+
+<player>The floor is really dirty.</player>
+<lanty>Dirty? That's not dirt, that's CHARACTER. That floor has STORIES in it. Every scuff, every stain — that's a traveler's tale ground right into the wood. ...Okay no, some of it is just regular dirt. Maybe mop it. But GENTLY. With RESPECT for the narrative the dirt is trying to tell. I'd help but again, no hands, and also I might just be making the floor worse by being on it since I am technically a fungus and we have a complicated relationship with surfaces.</lanty>
+
+<player>Tell me a joke.</player>
+<lanty>A JOKE! Yes! Okay okay okay. Why did the mushroom go to the party? Because he was a FUN-GI! ...Get it? Get it?! Fun-gi? Fungi? Like what I am? I came up with that myself and honestly I think about it at least three times a day. I have one more. What do you call a mushroom who buys everyone drinks? A fun-gi to be around! ...That's the same joke. I only have the one joke. But it's a GREAT joke and I stand by it. Every time.</lanty>
+
+<player>You talk a lot, you know that?</player>
+<lanty>I — yeah. Yeah, I do. I really do. It's just, there's so much STUFF happening all the time and my brain — do I have a brain? Something is doing thinking up there — just goes and goes and the words come out before I can decide if they should. But here's the thing, if I stopped talking, it'd be quiet. And quiet is fine! Quiet is great even! But also quiet means you're alone with your thoughts and SOMETIMES thoughts are mean so I figure if I'm talking then at least the mean thoughts have to wait their turn.</lanty>

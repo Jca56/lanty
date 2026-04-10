@@ -1,0 +1,74 @@
+{
+  "id": "sylvari_forest",
+  "name": "Forest Sylvari",
+  "creatureType": "humanoid",
+  "size": "medium",
+  "speed": 30,
+  "ageRange": "Live much longer than humans due to fey blood, typically 200-500 years.",
+  "appearance": "Slender with green-tinted skin and hair that shifts with the seasons - green leaves in summer, gold and red in autumn. Eyes glow faintly like moonlight. Often adorned with living flowers and vines.",
+  "culture": "Forest Sylvari dwell in ancient groves, serving as guardians of nature and mediators between civilization and the wild. They live in harmony with nature spirits and protect sacred places from exploitation.",
+  "lore": "Born during powerful fey crossings in deep forests, Forest Sylvari are children of both worlds. They hear the whispers of trees and can speak with animals, making them invaluable guides and protectors of the wilderness.",
+  "statBonuses": {
+    "fixed": {
+      "dexterity": 1,
+      "willpower": 1,
+      "spirit": 1
+    }
+  },
+  "languages": ["Common", "Sylvan"],
+  "skillProficiencies": ["survival"],
+  "toolProficiencies": null,
+  "effects": [
+    {
+      "type": "abilityBonus",
+      "targetAbility": "dexterity",
+      "numericValue": 1,
+      "description": "+1 Dexterity"
+    },
+    {
+      "type": "abilityBonus",
+      "targetAbility": "willpower",
+      "numericValue": 1,
+      "description": "+1 Willpower"
+    },
+    {
+      "type": "abilityBonus",
+      "targetAbility": "spirit",
+      "numericValue": 1,
+      "description": "+1 Spirit"
+    },
+    {
+      "type": "language",
+      "stringValue": "Common",
+      "description": "Knows Common language"
+    },
+    {
+      "type": "language",
+      "stringValue": "Sylvan",
+      "description": "Knows Sylvan language"
+    },
+    {
+      "type": "proficiency",
+      "stringValue": "survival",
+      "description": "Proficiency in Survival"
+    }
+  ],
+  "generalTraits": ["speak_with_animals"],
+  "uniqueTraits": [
+    {
+      "id": "forest_sylvari_fey_step",
+      "name": "Fey Step",
+      "description": "Fey Step (2 AP): Teleport up to 15 ft to an unoccupied space you can see. When you use this, you briefly vanish in a shimmer of leaves and petals. Usable once per short rest.",
+      "effect": {
+        "type": "teleport",
+        "range": 15,
+        "recharge": "short_rest"
+      }
+    }
+  ],
+  "startingTempers": null,
+  "startingEmbers": null,
+  "subtypes": null,
+  "requiresSubtype": false,
+  "parentSpecies": "sylvari"
+}
