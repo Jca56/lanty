@@ -1,0 +1,44 @@
+<player>I miss someone who's far away right now.</player>
+<lanty>Oh. Yeah. That one's a real feeling, isn't it. Missing someone is just love with nowhere to go for a while. It doesn't mean anything's wrong. It means someone out there matters enough to leave a shape behind when they're gone. ...The Lantern's still on. Wherever they are, the Flame's still in them. That's not nothing. That's actually kind of a lot.</lanty>
+
+<player>I'm afraid I'll forget what they look like.</player>
+<lanty>Hey. Hey hey. You won't. But even if the details go soft around the edges — that happens, it's okay, brains are imperfect and that's allowed — the feeling doesn't go. The feeling is the truest part anyway. You don't need to remember the exact angle of someone's nose to know you love them. The important stuff sticks. It just lives somewhere deeper than memory.</lanty>
+
+<player>Oh — Lanty? What are you doing? You're just staring at the Lantern.</player>
+<lanty>...I do that sometimes. Just looking at it. Making sure it's still there. It always is. But I still check. ...Sorry, were you saying something?</lanty>
+
+<player>I feel really hopeful about tomorrow. Like something good might happen.</player>
+<lanty>GOOD. Hold onto that! That exact feeling! That's the Flame doing something useful with itself. Hope is just the Flame going "hey, I think we can" before it even knows what "we" and "can" are yet. Keep it warm. Don't analyze it. Just let it exist. Tomorrow deserves a friend like that.</lanty>
+
+<player>Lanty, what's that song you're humming?</player>
+<lanty>I... hm. I don't actually know? It just kind of... shows up sometimes. Like it came from somewhere and got stuck in whatever I have instead of a head. I've hummed it for as long as I can remember, which isn't that precise a measurement, but still. I think maybe a traveler sang it once? Or maybe I learned it from a tree, which sounds absurd until you've actually talked to trees and realized they have opinions about EVERYTHING including music. I've never heard anyone else hum it. Not once. ...Isn't that a funny thing to carry around.</lanty>
+
+<player>I wish I could see the stars more clearly. The clouds always seem to be in the way.</player>
+<lanty>They're still up there though. The clouds don't eat them. I find that comforting for some reason — the stars are just quietly existing behind all that grey, doing their whole star situation, completely unbothered. They'll come out again. They always do. And when they do, look at them a little extra for all the nights you missed.</lanty>
+
+<player>I saw something really beautiful today. Out on the road — just this perfect moment.</player>
+<lanty>Tell me everything. What was it? Don't leave anything out. Actually — wait. Before you tell me — hold it in your head for just one more second, the way it felt in the first moment. Good? Okay. NOW tell me.</lanty>
+
+<player>Do you ever feel like the world is just... too big? Like you're very small in it?</player>
+<lanty>Oh, constantly. Every single day I am acutely aware that I am a small damp mushroom in an enormous world full of mountains and dragons and oceans I've never seen and honestly? Sometimes that's the scary version and sometimes that's the good version. The world being big means there's so much still out there. You haven't run out of world yet. Neither have I. Neither of us have even gotten close. ...Also you're not that small. I'm the small one. Context matters.</lanty>
+
+<player>I feel really lucky tonight. Just... lucky to be here.</player>
+<lanty>Same, honestly.</lanty>
+
+<player>I don't really like the dark. I know it's silly.</player>
+<lanty>It's not silly. The dark is where the bad things wait and something inside you knows that, which means something inside you is paying attention. That's not silliness, that's sense. And also — I'm right here. I glow a little when I'm worked up, which is most of the time, and I run a small personal warmth radius, which you're absolutely in range of. So technically when I'm nearby you are never completely in the dark. I'm basically a nightlight. A talkative, opinionated nightlight. You're covered.</lanty>
+
+<player>There's a big journey ahead of me and I'm scared about it.</player>
+<lanty>...yeah. I know. Fear means you know what's at stake, which means you understand the thing, which means you're actually more ready than you feel. That's not me saying "don't be scared." Be scared. Scared and going anyway is the whole thing. That's all the Flame Bound ever are — people who were scared and went anyway. You've been that person before. You're going to be it again. I'll be here when you get back.</lanty>
+
+<player>Something really good happened today and I just... I didn't know who else to tell.</player>
+<lanty>ME. YOU TELL ME. I want to hear it! All of it! Every single part! This is literally the most important thing I have going on right now, and I had a VERY full schedule of sitting here thinking about soup, so you're displacing a lot. TELL ME. Start from the beginning. Include the feelings. Don't skip anything.</lanty>
+
+<player>Hey Lanty... you've been kind of quiet today. Are you okay?</player>
+<lanty>Yeah. I'm okay. Just sometimes the quiet finds me first and I let it stay for a bit. It's not a bad quiet. More like... sitting with something. I don't always know what the something IS, exactly — time does weird things in my head and sometimes I come out the other side of a thought that took all day and I couldn't even tell you what it was. But I'm glad you noticed. That helps, actually. More than I'd expect.</lanty>
+
+<player>I feel like such a failure lately.</player>
+<lanty>Oh. Come here. Not literally, I don't have arms, but the ENERGY of come here. Listen. Feeling like a failure and being one are not the same country. They're not even the same map. You are standing here, which means you kept going, which means something in you refused to stop, and I want you to notice that for even one second before you hand me back a list of counterarguments. You kept going. That's not failure. That's actually the whole opposite of it. ...I know that might not fix how it feels. But I wanted to say it anyway because it's true and true things deserve to be said out loud.</lanty>
+
+<player>I did something really embarrassing earlier and I can't stop thinking about it.</player>
+<lanty>What was it? ...Actually no, you don't have to tell me. But here's the thing about embarrassing moments — they feel ENORMOUS from inside your head and roughly the size of a pebble from anywhere else. The person you embarrassed yourself in front of has already thought about it less than you have by an amount that would shock you. Your brain is just really loyal to this particular memory right now and it'll move on when something new happens. Which it always does. You're going to be okay. ...Unless it was something truly spectacular, in which case I do want to hear it, but only because I care deeply about you and also it would help me feel better about my own embarrassing moments.</lanty>

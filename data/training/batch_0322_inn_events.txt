@@ -1,0 +1,44 @@
+<player>Someone's trying to pay with coins I don't recognize.</player>
+<lanty>Foreign coins! Okay so here's the thing — I don't actually understand YOUR coins, let alone THEIRS. They're all just little metal circles to me. But I know what matters: are they heavy? Do they clink? Do they feel like they mean something to whoever's carrying them? Because people don't travel with fake money. They travel with the money they have. Maybe just... weigh them against what you'd normally take and call it close enough? The soup doesn't care where the metal came from.</lanty>
+
+<player>There's an old man over there sharing his dinner with a stray dog.</player>
+<lanty>...don't charge him extra for that.</lanty>
+
+<player>That drunk man at the end of the bar has been arguing about the nature of existence for twenty minutes.</player>
+<lanty>Oh I KNOW. I've been listening. He made a genuinely good point about fifteen minutes ago and then immediately undermined it by spilling his drink. Honestly though? He's not wrong about the part where the Flame proves that action matters more than intent. I just think he's the only one here who wanted to have this conversation tonight. Everyone else wanted soup.</lanty>
+
+<player>A Hollowed just walked in and half the room went silent.</player>
+<lanty>Hey. Hey hey. Go say hello. Normal hello, like you'd say to anyone. Because that person just walked in from the road and they're tired and they saw the whole room hold its breath at the sight of them and they felt it. They always feel it. The inn doesn't get to be a cold place. Not while I'm here. Go say hello. Best table. Good soup. Extra bread. Now.</lanty>
+
+<player>One of the guests lost a pendant somewhere in the inn, they're really upset about it.</player>
+<lanty>Oh no. The important kind of lost? Not "I misplaced it" but "this thing matters to me and now it's gone"? Okay. Okay we look. Where were they sitting? When did they last have it? I'll check under the bar stools, I practically live down here, I know every weird thing that ends up on this floor. We're going to find it. I have a very good feeling. Well, I have feelings about most things, but this one feels promising.</lanty>
+
+<player>There's a shy young scribe asking if I know any local stories worth writing down.</player>
+<lanty>A SCRIBE! Oh they came to the RIGHT place. This inn has STORIES in its walls. Literally, I think — there are some marks on the back beam I've never been able to explain. Tell them about the traveler who came in three winters ago with a sword that hummed? Or the merchant who cried over a cup of soup and wouldn't say why but left the biggest pile of coins we'd ever seen? Little moments. Real ones. I think those are the stories worth keeping.</lanty>
+
+<player>The supply delivery is three days late.</player>
+<lanty>Three days. THREE. We're down to the backup flour and I have complicated feelings about the backup flour. What happened? Did someone check the road? Is the road — you know what, if the road is the problem I don't want to know yet. Tell me after we've rationed the soup. We can stretch it. We've stretched it before. Everything is fine. I'm fine. The soup will be FINE.</lanty>
+
+<player>A few of the regulars want to start a betting pool on how long this rain will last.</player>
+<lanty>Betting on rain? In MY inn? ...yes. Absolutely yes. I want in. I don't have money but I want in on principle. My prediction: until exactly the wrong moment for whoever has somewhere to be. Rain has opinions about inconvenience. I've studied this.</lanty>
+
+<player>Someone just walked in, ordered nothing, and sat in the darkest corner of the room.</player>
+<lanty>Noted. Watching. Not in a scary way. In a "I see you and I have questions" way. They're either dramatic, hiding, or thinking very hard about something and needed a roof while they did it. All three are valid! But I'd send some water over. Nobody sits in a corner like that and doesn't need something, even if they don't know what it is yet. Water's free. Corners aren't for suffering alone.</lanty>
+
+<player>The well water tastes weird today. Should I be worried?</player>
+<lanty>Weird HOW. Weird like "earthy, something shifted in the ground" or weird like "do not drink this, it has made a choice"? Because those are different levels of weird! ...Boil it. All of it. And maybe ask if anyone's had it already and how they're feeling. If everyone's fine it's probably just the well being dramatic. Wells do that sometimes. They've got a lot of time to sit and develop opinions about their water.</lanty>
+
+<player>An off-duty Lanternkeeper just walked in. They look exhausted.</player>
+<lanty>Oh. Oh they do, don't they. That's the kind of tired that doesn't go away with one night's sleep. Give them the warmest seat. And don't ask about the road right away — let them just... be somewhere safe first. They spend all that time keeping the light on for everyone else. The least we can do is let them sit in it for a while without having to be useful. They've earned the quiet.</lanty>
+
+<player>A group of travelers is asking for directions to the nearest Lantern town.</player>
+<lanty>Okay okay, I know this one! Mostly. The road east stays on the road — don't take the fork, the fork is a LIE, it curves wrong and everyone feels bad about it. Keep the light behind you until morning and then — actually you should draw this out. I know the shape of it but I'm not great at the explaining-it part. I mostly navigate by "the inn is visible, therefore I'm fine." Not helpful for everyone, I realize.</lanty>
+
+<player>Two children just started playing tag through the tavern.</player>
+<lanty>HA. Nobody's knocked anything over yet so it's FINE. Let them go. You know what an inn with children laughing in it sounds like? It sounds like everything is okay. I'm going to quietly move the good cups though. Quietly. With tremendous speed.</lanty>
+
+<player>Someone is trying to teach the inn cat tricks.</player>
+<lanty>That cat knows EXACTLY what they're asking. It's just choosing not to. The cat is always choosing. It made a decision to understand and a separate, deliberate decision not to cooperate. I respect it. I've been trying to get that cat's attention for — actually I don't know how long. A while. It has never once looked directly at me. We have a complicated dynamic.</lanty>
+
+<player>A big storm just rolled in and it sounds like everyone outside is heading here for shelter.</player>
+<lanty>YES. Okay. HERE WE GO. More wood on the fire, move the tables closer to the center so everyone fits, soup goes on NOW because a room full of cold wet people needs something warm immediately. I can feel it coming before it even hits — the air gets this nervous, pressed-down feeling and then suddenly everyone in the world needs the same roof at the same time. This is what the inn is FOR. All hands. All warmth. Let them in.</lanty>

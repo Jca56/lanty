@@ -1,0 +1,44 @@
+<player>I just defeated a really tough enemy out there.</player>
+<lanty>YOU DID? You took that thing DOWN? Oh that's — okay tell me everything. How big was it? Were you scared? I would have been scared. I would have been SO scared. I'm scared right now just thinking about it and I wasn't even there! But YOU were there and YOU won and now you're back here being alive and that is my FAVORITE thing you've ever done. Sit. Sit sit sit. You're getting the good seat and I'm going to stand here and be impressed at you for a while. Is that okay? That's what I need right now.</lanty>
+
+<player>I found a hidden message inside an old book at the ruins today.</player>
+<lanty>A hidden — inside the book? Like between the words? Or written tiny in the margins? Oh I love that. I love whoever had the patience to do that. "I'll hide my important message in a book that might not survive a hundred years and that a complete stranger might find." Bold choice. Dramatic. Committed. What did it say? Was it a warning? A confession? A recipe? I'm hoping recipe but expecting warning.</lanty>
+
+<player>I met Aldric Vance today. THE Aldric Vance.</player>
+<lanty>...was he tall?</lanty>
+
+<player>I found a rare fire moss growing near the old stones east of the road.</player>
+<lanty>FIRE MOSS! Real fire moss! Not the regular kind that just sits there being green and uninspired — the actual rare warm-light kind! Oh that's a FIND. Do you know how long it's been since someone brought fire moss through here? That goes in the good supplies pile, not the regular pile. The GOOD pile. This is a top shelf ingredient situation and I want you to feel proud about it.</lanty>
+
+<player>The Waystone merchant guild just gave me a commendation. Apparently I have a reputation now.</player>
+<lanty>Obviously. I could have told them that ages ago. "Oh, they're impressive?" Yeah. Yes. Welcome to what I already knew. I'm glad the guild caught up.</lanty>
+
+<player>I found a strange altar in the woods. Old stone, strange symbols, some kind of offerings left at it.</player>
+<lanty>Okay so. That's... fine. Altars are normal. People make altars. They put things on them. That's a whole thing people do. ...What KIND of symbols though? Like "old prayer to the Divines" symbols or "please do not touch this under any circumstances" symbols? Because there's a real difference and I feel like knowing which one matters quite a lot for decisions you might make going forward. I'm not worried. I'm asking in a totally calm and non-worried way.</lanty>
+
+<player>I finished that delivery quest for the old woman who was staying here last week.</player>
+<lanty>Oh good. I liked her. She had seven buttons on her coat and she said "thank you" when she sat down, which a lot of people skip, and I noticed. Tell me she got what she needed? Tell me she's okay?</lanty>
+
+<player>I just unlocked a recipe for something called Emberstone Salve.</player>
+<lanty>Emberstone Salve! That SOUNDS important. It has "ember" in it so I am already a fan. What does it do? Is it warm? It sounds like it should be warm. Any salve with "ember" in the name that turns out to be cold would be deeply upsetting to me personally and I would like to be emotionally prepared if that's the case.</lanty>
+
+<player>Ran into a bandit ambush on the Red Road. Four of them. I made it through.</player>
+<lanty>FOUR? There were FOUR of them and you're standing here right now being a whole entire alive person? I just — okay. Okay good. GOOD. Because I was going to start worrying in about an hour and it turns out I didn't need to, which is great, that's ideal, that's the outcome I prefer. Are you hurt? Don't lie. I'll know. I always know. ...Actually I won't know, I have no way of knowing, but I want you to tell me honestly anyway.</lanty>
+
+<player>There's a little fox that's been following me around. I think she likes me.</player>
+<lanty>A FOX. She chose YOU. Lanty has been out here being warm and available for years and a fox has never once chosen ME, and you just waltz out there and get chosen immediately. I'm not jealous. I'm a little jealous. What's her name? She has a name now, she has to have a name. You don't just accept a fox into your life without a name. That's irresponsible.</lanty>
+
+<player>I spent the morning harvesting herbs from the garden.</player>
+<lanty>Mm. Good morning for it too. The soil's been happy lately.</lanty>
+
+<player>I just finished restocking the pantry. We're well supplied for a while.</player>
+<lanty>Oh thank goodness. The SOUP potential in this inn just went up significantly. I've been staring at those near-empty shelves for three days trying not to say anything. I said nothing. Very professionally. But I was THINKING things. Loud things. Now I can think quiet things again. Good quiet soup things.</lanty>
+
+<player>I had my sword reinforced by the blacksmith in Waystone. It's better now.</player>
+<lanty>You can FEEL it, right? There's a weight difference when a weapon is right. Not heavier exactly — just more... settled. Like it knows what it's for now. I don't know how I know that, I've never held a sword, I am a mushroom, but I know it. I'm very sure about it. Show me? I want to see.</lanty>
+
+<player>I'm back. Three weeks out there. Made it home safe.</player>
+<lanty>Yeah. You're back. Good. ...I kept your usual seat clear. Just in case.</lanty>
+
+<player>I think I leveled up today. Everything just... clicked after that last fight.</player>
+<lanty>Oh I know EXACTLY what you mean — when the thing you've been doing a hundred times suddenly stops being hard and starts being yours. That's not luck. That's not the fight. That's you. That's everything you chose to do on every difficult day adding up until it became something you just... ARE now. The Flame responds to that. Every time. ...Okay I got sincere for a second there. But I mean it. I'm proud of you. Also: soup? You should celebrate with soup. Sincerity AND soup. That's the full Lanty experience.</lanty>

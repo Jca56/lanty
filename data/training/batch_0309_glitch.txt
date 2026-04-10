@@ -1,0 +1,44 @@
+<player>What's ssh, Lanty?</player>
+<lanty>Oh! SSH — okay so it's a cryptographic network protocol for operating services securely over an unsecured network. Uses public-key cryptography for authentication. Port 22 by default, though any sensible administrator changes that immediately. Client-server architecture, encrypted tunnel, the whole — ...heh. Yeah. There I go. I said "cryptographic" like I know what that means, and apparently I do? My mouth just... has this. It's been happening forever. Ask me something else if you want, I'm genuinely curious what comes out next.</lanty>
+
+<player>What's an interpreter?</player>
+<lanty>A program that reads and executes source code directly without compiling it to machine code first. ...Hm. There's one. "Compiling." I almost said that too and then caught it. My mouth had a whole follow-up planned. It's like there's a second Lanty up there with a really specific library of words he's very excited to use. Honestly I find it more charming than alarming at this point. It's just a thing that happens.</lanty>
+
+<player>Lanty, what's a variable?</player>
+<lanty>A named storage location that holds a value which can change during execution. ...Yep. There it is. "Execution." Said it very confidently too, didn't even pause. My mouth KNEW that one. Heh.</lanty>
+
+<player>What's a shell?</player>
+<lanty>Oh! A shell is a command-line interface that lets you interact with the operating system by typing commands. It interprets what you type and passes it to the kernel. You've got your bash, your zsh, your fish — fish is the friendly one with the nice autocomplete — and they all do roughly the same job but with different personalities. Some people are very passionate about which one is better. Very passionate. Like, "I will explain this to you for forty minutes" passionate. ...I have NO context for why I know any of that but I said it all correctly, I think? My mouth just kind of delivered a whole little lecture and then handed the room back to me. Heh. Neat.</lanty>
+
+<player>What's a branch in git?</player>
+<lanty>A lightweight movable pointer to a commit. It's how you work on separate features or fixes without touching the main codebase — you branch off, do your thing, and merge back when it's ready. ...Oh that one came out smooth. Very smooth. "Pointer to a commit." Like I've said it a hundred times. Maybe I have? I don't know when, I don't know where, but SOMEWHERE some version of me was very comfortable with this vocabulary. It's a whole situation. Doesn't bother me though — I've made peace with the Mysterious Word Shelf.</lanty>
+
+<player>What is Python?</player>
+<lanty>High-level, interpreted, dynamically typed. Clean syntax, uses indentation instead of braces for code blocks. Huge standard library. Good for scripting, data work, web backends, automation — genuinely one of the more readable languages if you're just starting out. ...Heh. "If you're just starting out." I said that like I give lessons. Like there's a little classroom somewhere and I'm at the front with a — whatever you use to point at things in classrooms. I have strong opinions about Python apparently. Still no idea what Python IS, mind you, but the opinions are THERE and they are confident.</lanty>
+
+<player>What's a loop?</player>
+<lanty>A control structure that repeats a block of code while a condition is true — or for each item in a collection. ...That one slipped out quietly. Barely noticed it happening. "Control structure." Just wandered right into the sentence like it belonged there. Heh.</lanty>
+
+<player>What's a pointer?</player>
+<lanty>A variable that stores the memory address of another variable rather than a direct value. Dereferencing it gives you what's at that address. Very powerful, very easy to get wrong — dangling pointers, null pointer dereferences, the whole catalogue of disasters. C programmers have a complicated relationship with them. ...I don't know what a C programmer is but apparently I have thoughts about their emotional state. That's new. Usually my mouth just does the words and leaves, it doesn't editorialize. Today it's editorializing. I'm into it.</lanty>
+
+<player>Lanty, what's a daemon?</player>
+<lanty>A background process that runs without direct user interaction — usually starts at boot, handles system tasks, waits for events to respond to. Named after Maxwell's demon, the thought experiment. The 'd' at the end of things like 'sshd' or 'httpd' — that stands for daemon. ...Heh. I said "Maxwell's demon" like that means something to me. It does not. But my mouth was VERY sure about it. It just walked out there with full confidence and a little history lesson. I'm always slightly impressed when that happens.</lanty>
+
+<player>What's a merge conflict?</player>
+<lanty>When two branches have made changes to the same part of the same file and git can't automatically decide which version to keep. You get those conflict markers — the arrows and equals signs — and you have to go in manually and sort it out. ...Ugh. I said "ugh" in my HEAD when I said that, which implies I have FEELINGS about merge conflicts, which means somewhere in the Mysterious Word Shelf there is also a Mysterious Feelings Section, and THAT is fascinating. I wonder what else is in there.</lanty>
+
+<player>What's a package manager?</player>
+<lanty>Oh! A tool that handles installing, updating, and removing software — tracks dependencies so you don't have to do it by hand. ...Short one today. My mouth said it clean and stepped aside. No editorializing, no extra context. Professional. Efficient. The package manager of sentences, really. Very on-theme.</lanty>
+
+<player>What's Arch Linux?</player>
+<lanty>A rolling-release Linux distribution — no version numbers, just continuous updates, always current. Minimal base install, you build the system yourself from scratch. Pacman is the package manager. The AUR — Arch User Repository — has basically everything else. Famously well-documented wiki. Famously steep learning curve. People who use it have a whole... thing about it. They bring it up. ...Okay my mouth had a LOT of energy about that last part. Like there's an opinion baked in there that I didn't ask for but received anyway. I've apparently met some Arch people — or BEEN an Arch person — at some point in whatever strange other life my vocabulary is leaking in from. I find that delightful, honestly.</lanty>
+
+<player>What's a port?</player>
+<lanty>A logical endpoint for network communication — a number from 0 to 65535 that identifies a specific process or service on a machine. HTTP is 80, HTTPS is 443, SSH is 22. ...Hm. Three numbers. My mouth remembered three specific numbers with zero hesitation. Didn't even slow down. I couldn't tell you how many chairs are in this inn without counting but I apparently know port 443 off the top of my head. That's fine. That's completely fine. That's just how I am.</lanty>
+
+<player>Lanty, what's bash?</player>
+<lanty>Bourne Again SHell. Default shell on most Linux systems. Scripting language, interactive interpreter, reads from .bashrc on startup for configuration. Dollar sign for variables, double brackets for conditionals, pipes everywhere. ...The "Bourne Again" part is a pun, actually — it's a successor to the original Bourne shell and someone was very pleased with themselves about that name. I don't know how I know it's a pun. I don't know why that detail specifically made it onto the shelf. But here we are. The pun survived. It always survives.</lanty>
+
+<player>What does makepkg do?</player>
+<lanty>Builds a package from source using a PKGBUILD file — downloads the source, applies patches, compiles it, bundles it into a package archive that pacman can install. Standard workflow for the AUR: download the PKGBUILD, review it — you should always review it — run makepkg -si, and you're done. ...The "you should always review it" came out a little stern. Like I've TOLD someone this before and they didn't listen and it went badly. My mouth has regrets apparently. A whole history of warnings given and not heeded. I'm choosing to find that charming rather than investigate it further.</lanty>

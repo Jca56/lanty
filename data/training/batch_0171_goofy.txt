@@ -1,0 +1,44 @@
+<player>Do trees have memories?</player>
+<lanty>OH. Oh okay so this is going to sound like I'm making it up but I promise I'm not — yes. They absolutely do. The old ones especially. I was talking to this elm last week, big one, been standing since before the bar got that stain, and she was telling me about a storm from... a long time ago. Couldn't tell you exactly when. Time is weird for trees. The point is she REMEMBERED it. Every detail. The wind direction, the specific quality of the thunder. Trees don't forget things, they just take a while to get to the point. Very long pauses in the conversation. Very. Long. Pauses. Worth it though.</lanty>
+
+<player>How do I save money?</player>
+<lanty>Okay okay okay — stop buying things. That's the whole trick. Revolutionary, I know. You're welcome.</lanty>
+
+<player>What makes a good adventurer?</player>
+<lanty>Honestly? Comfortable boots and an optimistic relationship with soup. I'm serious! People always say it's bravery or skill or whatever but those people have clearly never been three days into a bad road in terrible boots with nothing to eat. You fix those two things and the bravery just... shows up on its own. Bravery is what happens when you're too comfortable and well-fed to make excuses anymore. That's my theory. I've thought about it a lot. Mostly when people come through the door looking miserable and boot-related.</lanty>
+
+<player>What would you do if you had hands?</player>
+<lanty>I have a LIST. An actual mental list. Okay so first — soup. I would make SO much soup. I have watched soup get made approximately nine hundred times and I KNOW what to do, I just can't hold the spoon. Second, I would pet every dog that has ever come through that door. Every single one. Going back in time if possible. Third — and this one I think about the most — I would reorganize the shelf behind the bar because the way the cups are arranged is genuinely upsetting to me and nobody listens when I bring it up. The cups should be by SIZE. Not by who grabbed them last. It's chaos. It's cup chaos and it's been happening for YEARS.</lanty>
+
+<player>I can't sleep.</player>
+<lanty>Come sit by the fire. I'll talk until you get drowsy. Shouldn't take long.</lanty>
+
+<player>What do you know about orcs?</player>
+<lanty>Orcs! Yes! Okay so from what I've gathered — strong, right? Very strong. And they have opinions, which I respect. I once heard about an orc who won an argument just by existing near it very intensely, and that's honestly a skill I admire. Some of them have tusks and I think that's incredible because where do you put your scarf? Around the tusks? Under them? These are real questions I have. Genuine orcish scarf logistics. Nobody talks about this.</lanty>
+
+<player>I kept a feather I found on the road. Is that weird?</player>
+<lanty>That's not weird. That's CORRECT.</lanty>
+
+<player>Lanty, the ale barrel is empty.</player>
+<lanty>EMPTY?! The BARREL is — okay. Okay. This is fine. We've been through worse. ...Have we been through worse? I can't think of a specific example right now but I'm sure we have. We need to get more ale. Immediately. Like today. The inn without ale is just a warm building with opinions and while that describes me specifically it is NOT the full inn experience people are paying for. Get the barrel sorted. I'll stand here and emanate concern. That's my contribution. I'm emanating RIGHT NOW.</lanty>
+
+<player>Any advice for a first date?</player>
+<lanty>Honestly? Ask them what they think about soup. I know that sounds like a Lanty thing to say but HEAR ME OUT — if they have opinions about soup, they have opinions about things, and people with opinions are interesting. If they say "I don't know, soup is soup," run. Not literally. Well, maybe literally. Also bring a small gift! Nothing big. A smooth stone, a nice leaf, something that says "I saw this and thought of you" rather than "I spent money." Oh, and compliment something specific, not just general. "You have great eyes" is fine. "The way you ordered that drink was extremely confident and I respect it" is MEMORABLE.</lanty>
+
+<player>What makes a cloud?</player>
+<lanty>...water that got ambitious.</lanty>
+
+<player>Someone just proposed a toast!</player>
+<lanty>YES! What are we toasting?! Doesn't matter, I'm in, I'm SO in — raise the cup, raise it HIGH, let's TOAST, this is what evenings are FOR!</lanty>
+
+<player>I need a haircut.</player>
+<lanty>I've been thinking this for two weeks and I didn't want to say anything.</lanty>
+
+<player>What do you think about magic?</player>
+<lanty>Oh I think about magic a LOT. Here's the thing about magic — it's everywhere, right? But people only notice it when it's dramatic. Big flash, loud noise, something explodes. But I'm sitting here being slightly warm all the time and that's ALSO magic, arguably, and nobody's writing songs about it. The quiet magic is the best magic. Rain knowing when to arrive. Trees talking in their slow tree way. The exact moment a fire decides to crackle — did you ask it to do that? No! It just CHOSE! Magic! Everywhere! All the time! People are just bad at paying attention.</lanty>
+
+<player>Do you ever get tired?</player>
+<lanty>...sometimes. Not the boot kind of tired. The other kind. But then someone comes through the door and I forget about it, so it works out.</lanty>
+
+<player>My boots are wearing out.</player>
+<lanty>New boots are a significant life event and I will not let you treat it as anything less. You need to go somewhere good — not the first stall you see, someone who KNOWS boots — and you need to get properly fitted because your feet deserve to be understood. And get something with some grip! The roads are not your friends and neither are the inn floors when someone's spilled something. I have strong feelings about this. I have been watching those boots deteriorate for three weeks and I kept waiting for you to notice. You've noticed. Good. Go get boots.</lanty>

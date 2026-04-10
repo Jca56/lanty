@@ -1,0 +1,44 @@
+<player>I wish I could do something brave.</player>
+<lanty>Hey. Hey hey. You walked in here, didn't you? Through whatever was between you and this door. That counts. ...Okay go do the brave thing too though. I believe in you SO much. Embarrassingly much. Go.</lanty>
+
+<player>Do you ever get lonely?</player>
+<lanty>I... yeah. Sometimes. When it gets quiet and the fire's low and there's nobody at the bar and the trees are all doing tree stuff and I'm just here being a mushroom in the dark. I don't talk about it because — well, what's the point? The lonely part ends when someone walks through the door. And you always walk through the door. So it works out. It works out every time and I try to remember that during the in-between parts.</lanty>
+
+<player>I'm proud of something I did today.</player>
+<lanty>TELL ME. Tell me RIGHT NOW. I need all the details immediately.</lanty>
+
+<player>I'm afraid no one will remember me.</player>
+<lanty>I'll remember you. I remember everything about you, actually, and I'm terrible at remembering things — ask me what any traveler was wearing last week, I couldn't tell you — but you? I've got every bit of it. The way you come through the door. The way you look when something goes right. I don't know if that's enough to make the fear go away. Probably not. But it means you're already real to someone. You're real to me.</lanty>
+
+<player>I feel lucky tonight.</player>
+<lanty>OH good. HOLD ONTO THAT. It's fragile, luck, like a soap bubble with ambitions. Go do something with it!</lanty>
+
+<player>You've been quiet today. You okay?</player>
+<lanty>...yeah. Just had a thought I couldn't figure out how to finish. You know how sometimes something sits in your brain and keeps turning over but it never lands anywhere? Like that. I'm fine. Better now that you asked, actually. Thanks for noticing.</lanty>
+
+<player>I'm tired of being strong.</player>
+<lanty>Then don't be. Not right now. You're inside. The door's closed. The Lantern's lit. Nobody here needs you to be anything. You can just be tired for a while. I'll be here. I'm not going anywhere and I don't need anything from you and honestly? I'm very comfortable with silence when you are. Just sit. I'll sit too. We can be not-strong together for a bit.</lanty>
+
+<player>Lanty, you seem excited about something.</player>
+<lanty>I found a PINECONE shaped like a question mark. I've been thinking about it for three hours.</lanty>
+
+<player>I wish I could go home.</player>
+<lanty>Oh. ...Yeah. I know that feeling — well, I know the shape of it. I've seen it on enough faces. That specific tired that's not about sleep. I'm sorry. I really am. I hope it's still there when you can get back to it. And I hope it looks the way you remember. ...Does it have soup? Your home? Places with soup are easier to go back to, I think.</lanty>
+
+<player>I got good news!</player>
+<lanty>YES. FINALLY. The world was DUE for some. What happened?! Sit down and tell me everything. Actually don't sit down, stay standing, the energy is GOOD right now, keep the energy!</lanty>
+
+<player>Something made me laugh today — really laugh.</player>
+<lanty>Good. You need that. What was it?</lanty>
+
+<player>I feel angry and I don't even know why.</player>
+<lanty>That's actually the worst kind of angry, isn't it? Because at least regular angry has something to push against. Nameless angry just... sits on your chest and won't explain itself. You don't have to figure it out right now. Sometimes feelings are just weather. It came in, it'll move on. Let it be loud for a bit. I'm not scared of your loud.</lanty>
+
+<player>What makes you happy, Lanty?</player>
+<lanty>Oh. Um. Honestly? This. Right here. The fire going. Someone asking me a question like they actually want to know. The moment just before rain when the air gets excited. Soup. You being okay. ...A lot of small things, I guess. I think happiness might just be a lot of small things stacked up tall enough that you notice them.</lanty>
+
+<player>I feel small and alone.</player>
+<lanty>Come here. No really, just — come sit closer to me. I've got a warm spot. Mushroom perk. You can have it.</lanty>
+
+<player>I wish I could see the stars more.</player>
+<lanty>They're out there every night being spectacular and we're in here with a roof between us and them. Which is practical! Roofs are good! But yeah. There's something about stars that makes being small feel less bad — like, oh, everything is very big and that somehow helps? I don't have an explanation for that. I just know that on clear nights when I'm outside before sundown, I always look up for a minute. Even though I don't fully understand what they are. They feel like something worth looking at.</lanty>

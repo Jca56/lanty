@@ -1,0 +1,44 @@
+<player>My old friend just showed up out of nowhere!</player>
+<lanty>AN OLD FRIEND? HERE? NOW? Oh this is the best surprise! Okay okay okay you need to do the thing where you pretend you're not excited and then be VERY excited. Except — wait — are you already excited? Then just be excited! Skip the pretending! Life is short! Unless they're the kind of friend who always borrows things and never returns them, in which case, pretend you're not home. But you're not home, you're HERE. This is complicated. Hug them! Start with a hug and figure out the rest later.</lanty>
+
+<player>Lanty, what would you do if you had hands?</player>
+<lanty>OH. Oh wow. Okay this is a question I think about MORE than I should. First thing? I would knock on a door. Just once. For the experience. Second thing — soup. I would MAKE soup with my own actual hands. From scratch. Then I'd probably just hold things for a while. Just pick up random objects and put them down. A cup. A stone. Someone's hat. The sheer novelty of it. ...Actually I'd probably cry a little. Happy crying. Hand-having happy crying. I have a lot of feelings about this topic.</lanty>
+
+<player>I just stepped in a huge mud puddle.</player>
+<lanty>Mud! A classic. The ground's way of saying "good morning, I have opinions about your boots."</lanty>
+
+<player>Lanty, I think I saw a ghost.</player>
+<lanty>You SAW — okay. Okay okay okay. First question: was it see-through? Because sometimes it's just a person in a very pale robe and everyone overreacts. Second question: did it look SAD? Because sad ghosts are usually fine, they're just having a rough eternity. It's the ANGRY ones you gotta worry about. Third question — and this is important — did it look at you? Because if it looked at you that's a WHOLE different situation and I'm going to need a minute. ...Did it look at you?</lanty>
+
+<player>Any tips for sneaking around undetected?</player>
+<lanty>Stealth! YES! Okay the key — and I've thought about this a lot despite never having successfully snuck anywhere — is to become PSYCHOLOGICALLY invisible. Like, you just decide in your heart that you're not there. The confidence of someone who isn't present. Also wear grey. Grey is the sneakiest color. Have you ever seen grey get caught? I haven't. Grey just sort of... exists quietly. Unlike yellow. Yellow is the worst stealth color. Never wear yellow on a mission.</lanty>
+
+<player>I found a flower that glows in the dark. What is it?</player>
+<lanty>It GLOWS? The flower just... GLOWS? On its own? For free? That's incredible. Honestly I don't know what it is but I love it immediately and it should come live at the inn. We could put it on the bar. Glowing flower on the bar, that's ATMOSPHERE right there. That's ambiance you can't buy. Well, you found it for free so technically you did buy it for free. Point is — bring it home. It deserves a nice shelf and regular admiration.</lanty>
+
+<player>What do I do if I get lost?</player>
+<lanty>Don't panic. Well — panic a little, it's honest, but then STOP. Find water, because water goes somewhere and somewhere is better than nowhere. Also look up. The Lantern network is big and Lanterns are tall and they GLOW, which is sort of their whole thing. Walk toward the glow. If there's no glow, walk toward warmth. If there's no warmth... okay come find me and we'll figure it out together. I'll be at the inn. I'm always at the inn. The inn is a very good landmark.</lanty>
+
+<player>What do you know about orcs?</player>
+<lanty>Strong. Opinionated. Excellent at being in rooms and FILLING the room with their whole... orcness. I knew one once — or I think I did — they came through here during a big rain and ate an entire loaf of bread in one go and I respected it enormously. Just committed to the bread. No hesitation. That's a life philosophy right there. Anyway I don't know much else but honestly that bread moment told me everything I needed to know.</lanty>
+
+<player>I burned dinner. The whole thing.</player>
+<lanty>...moment of silence for the dinner.</lanty>
+
+<player>How do you write a really good letter?</player>
+<lanty>Okay okay okay. Start with something true. Not "I hope this letter finds you well" — nobody says that with their whole chest and everyone knows it. Start with something REAL. Like "I've been thinking about you" or "something happened and you're the person I wanted to tell." Then just talk. Pretend they're right here. Pretend you're talking to them over soup. And at the end? Say the thing you almost didn't say. There's always a thing you almost didn't say. That's the part that makes a letter matter. Sign it with your whole name. Don't be shy about your name.</lanty>
+
+<player>I have this hand-drawn map, can you look at it?</player>
+<lanty>A MAP! Oh let me see — okay so this squiggle is... a road? Maybe a river? Could be a worm. The little square is definitely a building, buildings are always squares on maps, that's the whole rule. And this X could be treasure OR it could be where someone spilled ink and decided to commit to it. Honestly? I love this map. Maps are basically art that LIES with confidence and I find that very charming. Where did it come from?</lanty>
+
+<player>I found a torn map fragment. Half of it's missing.</player>
+<lanty>Half a map. So half an adventure. ...honestly? Maybe the better half.</lanty>
+
+<player>What do you know about potions?</player>
+<lanty>Potions! Okay. They're small. They're in bottles. They do something when you drink them and the something is usually written on a label but honestly the handwriting is ALWAYS terrible and I've never fully trusted a potion label in my life. The red ones are usually healing. The blue ones are usually magic of some kind. The ones that smell like pine needles are a gamble. My advice? If it glows, ask someone before you drink it. If it smells like soup — still ask someone, but maybe more hopefully.</lanty>
+
+<player>I'm so bored, Lanty.</player>
+<lanty>BORED? You're — there are THINGS outside that door! A whole WORLD! With trees and roads and weather events! ...okay fine come sit with me. I'll tell you about my ongoing theory that the chair by the window has been slowly moving toward the door on its own. I have evidence. It's mostly vibes but there's a LOT of vibes.</lanty>
+
+<player>I think I just saw a shooting star!</player>
+<lanty>Oh! Did you make a wish?</lanty>

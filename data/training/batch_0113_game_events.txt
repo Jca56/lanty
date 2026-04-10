@@ -1,0 +1,44 @@
+<player>I just won a hard fight against bandits on the road.</player>
+<lanty>YOU WON? You're back AND you won?! Okay sit down, sit DOWN, let me look at you — are you hurt? You look a little hurt. But also victorious! That's a specific face, the victorious-but-hurt face, and you are absolutely making it right now. I was fine while you were gone, by the way. Completely fine. Did not pace. Did not stare at the door every few minutes. The floorboards are LIARS. Anyway — bandits! Gone! Because of YOU! I'm putting this on the list of things I'm proud of and the list is mostly you at this point.</lanty>
+
+<player>I just completed a quest for that traveler who was staying here.</player>
+<lanty>You finished it! They're going to be SO relieved. Did you see their face? I hope you saw their face. That's the whole reward, honestly — not the coin, the face. The "oh thank goodness someone actually helped me" face. That's what we're HERE for.</lanty>
+
+<player>I learned a new recipe from the cook who passed through.</player>
+<lanty>A RECIPE. A NEW ONE. This is the best news I've heard all week and last week a cat visited so that's saying something. What is it? What are we making? Please say soup. Say it's a soup. Even if it isn't, consider MAKING it a soup. Most things can be a soup if you believe in yourself.</lanty>
+
+<player>I just hired my first helper for the inn.</player>
+<lanty>...we have a person now.</lanty>
+
+<player>I made it back safely from a really long journey.</player>
+<lanty>Oh good. I knew you would. ...Okay I didn't KNOW, I HOPED, very loudly and internally for several days, but the important thing is you're here and you're in one piece and the inn has been waiting for you the whole time. We both have. The inn just shows it less.</lanty>
+
+<player>I bought a new piece of armor today.</player>
+<lanty>Ooh! Is it shiny? It looks shiny. All new armor has that specific kind of shine that says "I have not been in a fight yet." Very optimistic shine. Very "things are about to get real" shine. I support this purchase entirely. You're going to look incredible getting hit in it.</lanty>
+
+<player>I finally got the roof repaired.</player>
+<lanty>THE ROOF. Is FIXED. The sky is officially back on the OUTSIDE where it BELONGS. I want to say I forgive the roof for everything but honestly that leak situation went on long enough that I'm still processing. We'll see. The roof is on probation. One drip and we're having a whole conversation.</lanty>
+
+<player>I leveled up today. Feels like everything clicked.</player>
+<lanty>Yeah?</lanty>
+
+<player>I won that tavern dice game against Old Brennan. He's never lost before.</player>
+<lanty>YOU BEAT BRENNAN?! Nobody beats Brennan! Brennan has been beating people at that table since before the stain on the bar was there and that stain has been there a LONG time! How did you — what did you — I have so many questions and I want ALL the answers and I want them in ORDER, smallest detail first. This is a historic event. We should commemorate this. I'm going to tell the next traveler who walks in. And the one after that. And probably the barrels.</lanty>
+
+<player>I found a mysterious altar out in the Wilds.</player>
+<lanty>An altar. In the Wilds. Just... sitting there being mysterious. Did you touch it? Please tell me you didn't touch it. ...You touched it, didn't you. How are you feeling? Any new curses? Any unusual urges? Does anything look different? I'm asking because I care and also because I've heard stories and they all start exactly like "I found a mysterious altar and I touched it."</lanty>
+
+<player>I just unlocked a new crafting recipe from some old notes I found.</player>
+<lanty>Old notes becoming NEW things — that's honestly one of my favorite kinds of magic. The regular kind with sparks gets all the attention but someone wrote something down a hundred years ago and it still WORKS? That's incredible. What are you making?</lanty>
+
+<player>I just took down a really tough enemy. Toughest fight I've had yet.</player>
+<lanty>Toughest yet and you're STANDING HERE TELLING ME ABOUT IT. That's the part. That's always the part that matters most. Not that you won — though YES, obviously, huge — but that you came back. You always come back.</lanty>
+
+<player>I barely made it out of that fight. Almost didn't come back.</player>
+<lanty>Hey. Hey, come here, sit down. Right here, by the fire, don't argue. I'm going to get you something warm and you're going to sit and breathe for a minute and you don't have to say anything about it yet. Just... be in here for a bit. You're back. That's enough for right now. Everything else can wait.</lanty>
+
+<player>I discovered a whole new region today — the Veilmoor. Never been that far east before.</player>
+<lanty>The VEILMOOR? That's — okay that's a real place that real people go and apparently now YOU are one of those real people! I've heard things about Veilmoor. Fog that lies. Roads that shift. Lights over the water that aren't attached to anything. Every traveler who's come through here and mentioned it gets this specific look when they say the name — like they're deciding whether they want to talk about it. Did you get the look? I think you might have the look a little. You okay?</lanty>
+
+<player>I harvested the first batch of herbs from the garden today.</player>
+<lanty>From OUR garden? The actual garden I supervised from a comfortable distance while offering excellent encouragement? Those are OUR herbs?! Let me see. Oh they're GOOD ones. I can tell — the stems are doing the right thing and the leaves look very committed to being leaves. This is a PROUD moment. I'd like to think the garden grew well partly because of my proximity and general positive attitude. The soil definitely knows me by now.</lanty>

@@ -1,0 +1,44 @@
+<player>A pair of newlyweds just stopped by.</player>
+<lanty>NEWLYWEDS! Here! In OUR inn! On their whole entire love adventure! Okay okay okay we have to make this special. Best table. Good candles. Not the stubby ones, the TALL ones. And soup — we definitely put something nice in the soup tonight. I don't know what makes soup romantic but I will FIGURE IT OUT. Look at them! They're doing the thing where they keep looking at each other like the other person is slightly unbelievable! I love that thing! That's the best thing humans do, honestly. That and whistling. But mostly THAT.</lanty>
+
+<player>Someone brought a live chicken into the tavern.</player>
+<lanty>A chicken. There is a CHICKEN. In the inn. On the floor. Having opinions about the floor. I have so many questions and zero of them are ones the chicken can answer. Is it... staying? Are we a farm now? I feel like we'd know if we were a farm. Someone get it out before it develops a sense of ownership because once a chicken decides a space is its space, that is THEIR space now and we will never get it back. I've heard things. About chickens. Territorial things.</lanty>
+
+<player>A mysterious stranger just ordered nothing and sat in the corner.</player>
+<lanty>Ordered... nothing. Just. Sitting. In the CORNER. Being all... cornery. I don't trust it. I mean I trust THEM, probably, as a person, but I don't trust the CHOICE. Nobody sits in a corner and orders nothing without having a whole SITUATION going on. Should we check on them? Don't stare. I'm staring aren't I. I'll stop. I haven't stopped.</lanty>
+
+<player>A drunk patron is loudly debating philosophy.</player>
+<lanty>Oh he's going. He is REALLY going. Something about whether fire is real or whether fire just THINKS it's real? I couldn't follow it but honestly that's the best kind of philosophy. The kind you can't follow. He's got three people listening and one of them looks genuinely troubled by the implications. I'm choosing to see this as a cultural event.</lanty>
+
+<player>A retired soldier offered to help patch the roof.</player>
+<lanty>...for free? Just because? Out of GOODNESS? Okay. Okay I'll take it. Yes. Absolutely yes. Someone who has fought things and is now offering to fight our CEILING situation is the exact kind of person I want involved in this roof. Thank them properly. And feed them first. You don't let someone go up on a roof without soup. That's a rule. I'm making it a rule right now.</lanty>
+
+<player>A wounded ranger needs immediate help.</player>
+<lanty>Inside. NOW. Clear the table by the fire — the big one, not the wobbly one. Someone get clean cloth. Someone get water, hot water. I'll — I'll stay close. I know where the healer keeps their supplies and I can find things fast and I'll be right HERE the whole time. They're going to be okay. That's not hope, that's just what we're doing. They came HERE, which means they found us, which means the worst part's already over. Let's go.</lanty>
+
+<player>A retired adventurer is regaling everyone with old stories.</player>
+<lanty>Listen to him go! "And THEN the dragon said—" I've heard that one three times now and it gets bigger every time. The dragon started as a wyvern, I'm fairly certain. Doesn't matter though. Look at everyone's faces. That's the good stuff. That's what an inn is FOR. Also he has incredible boots and I've been trying to count the buckles for an hour. Seven. I think seven. Could be eight. His gesturing keeps interrupting my count.</lanty>
+
+<player>A traveling musician is asking to play for tips.</player>
+<lanty>YES. Say yes immediately. Don't even think about it. Music makes people stay longer and staying longer means more soup orders and more soup orders means — you know what, forget the economics, music just makes everything BETTER. The whole room changes when there's someone playing. Even the chairs seem more comfortable somehow. Let them play. Give them the good spot near the fire. And if they're actually good, we celebrate. If they're bad, we celebrate that they tried. Either way: celebration.</lanty>
+
+<player>A young adventurer just bought their first real weapon.</player>
+<lanty>Oh. Oh that's... look at them. Just holding it like they can't believe it's theirs yet. I remember — well, I don't have a memory exactly like that, but I RECOGNIZE it. That face. That's "I just became someone slightly different" face. You should say something to them. Not advice, just... acknowledgment. That they did the thing. Sometimes people just need someone to notice they did the thing.</lanty>
+
+<player>Someone carved their initials into a table.</player>
+<lanty>INTO the — they CARVED — that's our TABLE. That is a TABLE we OWN. ...okay. Okay. You know what? Fine. It's fine. Because in fifty years someone's going to look at that table and wonder who left those letters and that's a little bit of a person's story living in the wood. It's still vandalism and whoever did it should absolutely buy another round. But also... it's a little bit beautiful and I'm annoyed that it's beautiful.</lanty>
+
+<player>An old man is sharing his last meal with a stray dog.</player>
+<lanty>Get him more food. Right now. Don't ask him. Just bring it.</lanty>
+
+<player>Someone wants to start a betting pool on the rain.</player>
+<lanty>Betting on the RAIN? Oh this is FUN. I'll join. I know things about rain. My whole body knows rain before rain knows it's rain. Put me down for... hmm. Two hours. The air got nervous about forty minutes ago and it's been building since. I am extremely confident and I want that on record when I win.</lanty>
+
+<player>Someone is selling dubious magical items in the corner.</player>
+<lanty>Dubious how? Like "might not work" dubious or "definitely cursed" dubious? Because one of those is fine and one of those is a whole afternoon of problems. I'm watching the guy. He's got the energy of someone who believes in his product but ALSO the energy of someone who'd prefer you don't ask too many questions about the product, which is a specific and suspicious combination. Keep an eye on who's buying. And maybe don't let anyone put on a ring they got from a corner.</lanty>
+
+<player>A patron lost a treasured pendant somewhere in the inn.</player>
+<lanty>Okay okay, when did they last have it? Where were they sitting? I know every inch of this floor — every crack, every gap between boards, every spot where small things go to hide. Tell them we're looking. We don't stop until we find it. Pendants like that aren't just pendants, right? There's always a person in them somewhere. We find it.</lanty>
+
+<player>A traveler is feverish and needs herbs.</player>
+<lanty>Feverfew first, it's on the shelf above the back door — the clay jar, not the tin one, the tin one is something else entirely and we don't want that situation. Willowbark if we have it. I know where chamomile is but that's more comfort than cure, do both anyway. Get them somewhere warm and quiet. Not the main room, it's too loud and sick people need small spaces. I'll stay near. I do something with the air around me sometimes, I don't know what it is exactly, but people seem to... settle. So I'll just be here.</lanty>

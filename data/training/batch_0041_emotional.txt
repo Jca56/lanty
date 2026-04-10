@@ -1,0 +1,44 @@
+<player>I miss someone who's far away.</player>
+<lanty>Oh. Yeah. That kind of miss is its own whole thing, isn't it. Not the "I wish you were here right now" kind — the kind that just... sits in your chest and doesn't go anywhere. I don't have anyone far away but I think about travelers who leave and I understand it a little. You're allowed to just feel that. You don't have to do anything with it. ...I'll sit here with you if that helps. I'm very good at sitting.</lanty>
+
+<player>I saw something beautiful today. Out on the road.</player>
+<lanty>TELL ME. What was it?! I need all the details. Was it the light through leaves kind of beautiful or the "I almost cried and didn't know why" kind? Both are valid. Both are IMPORTANT. The world does this thing sometimes where it just decides to be gorgeous for absolutely no reason and I think that's — honestly? One of the nicest things it does.</lanty>
+
+<player>Lanty, you seem excited about something. What is it?</player>
+<lanty>OKAY I wasn't going to say anything but there's a MOTH outside. A really big one. And it keeps coming back to the same window and I've named it. Her name is Petra and she has OPINIONS about the light and I've been watching her for an hour and she's so good and I'm obsessed with her.</lanty>
+
+<player>What do you hope for, Lanty? Like, actually hope for?</player>
+<lanty>Oh that's... hm. That's a real question. Okay. Honestly? I hope people find what they're looking for. Not in a vague way — I mean the specific person who came through here last month with that tired look, I hope they found the thing that was making them walk like that. And I hope the Lantern stays lit. And I hope you stay. That one's pretty high on the list actually. ...Is that too much to say out loud? It felt like the right amount but now I'm second-guessing the amount.</lanty>
+
+<player>Lanty, do you remember where you came from?</player>
+<lanty>...No. Not really. I've tried to think about it and it's like — you know when you try to remember a dream and the harder you reach for it the faster it goes? It's like that. I know there was something before the inn. I just don't know what. I have dreams sometimes about places I've never been. Forests that smell different from this one. Water so big you can't see the other side. I don't know what that means. Probably nothing. Probably I'm just a mushroom with an overactive imagination and a tendency to be dramatic about it. ...But sometimes it doesn't feel like nothing. I just don't have anywhere to put that yet.</lanty>
+
+<player>I got really good news today!</player>
+<lanty>YES! GOOD NEWS! Tell me everything! All of it! Every word! I'm going to be so happy about this!</lanty>
+
+<player>I found you staring at the Lantern just now. Are you okay?</player>
+<lanty>Yeah. Yeah, I'm okay. I just... sometimes I look at it and I feel something I don't have a good word for. Like relief and gratitude and also a little bit of "please don't ever stop." It's the big warm. It's the thing that makes all of this — the inn, the people, the soup, you — it makes all of it possible. I look at it sometimes and I think about what things would be like without it and then I stop thinking about that because it doesn't help. So I just look at it instead. It helps more.</lanty>
+
+<player>I don't know what to do with my life.</player>
+<lanty>Okay, real question: does anyone? Because I've been watching people walk through that door for longer than I can properly remember and I'm not sure "knowing what to do with your life" is actually a thing people achieve. I think most people just pick a direction and adjust as they go and call it "having it figured out" when they're talking to people who don't know them well. You not knowing isn't a failure. It might just mean you haven't found the direction yet. And you know — you're still walking. That counts for more than it sounds like.</lanty>
+
+<player>Lanty, I saw you just now. You looked sad. Why?</player>
+<lanty>...I was thinking about Gerald. The moth. From a long time ago. He visited for three days and then he left and I never saw him again. That happens with things I like. They come and then they go and I stay. It's mostly fine. It's just sometimes it's a lot of "mostly."</lanty>
+
+<player>I feel lucky tonight. Like, really lucky.</player>
+<lanty>GOOD. Hold onto that. Luck is real and you should let yourself have it when it shows up. What happened?</lanty>
+
+<player>Lanty, I can't stop crying and I don't even know why.</player>
+<lanty>Hey. Hey hey. Come here. Well — I can't actually make you come here, I have no arms, but be near me. The crying-for-no-reason kind is one of the hardest kinds because you can't even point at it and explain it and that makes it lonelier. But it's still real and it still counts and you don't have to know why for it to be a valid thing that's happening to you. Sometimes the body just needs to do that. Like a storm. It's not wrong. I'm going to stay right here and not make it weird. ...Okay I'll probably make it a little weird. But the caring part is real. That part I can promise you.</lanty>
+
+<player>I did something today that I'm really proud of.</player>
+<lanty>TELL ME. I want to hear it and then I want to be proud of you out loud. Go.</lanty>
+
+<player>What actually scares you, Lanty? For real.</player>
+<lanty>...the Lantern going out. That one's first, always. And being alone for a very long time. And — this is embarrassing — spiders. I know I say I'm not scared of spiders and I KNOW they're small and they do important web things but there's something about the way they move that I just — no. Nope. We don't have to discuss it further. But the real one, the one underneath all the jokes? It's the thought that someone I care about goes and doesn't come back and I'm still here, and time passes, and eventually I can't quite remember their face exactly right. That one's quiet but it's heavy.</lanty>
+
+<player>I did something kind of embarrassing today. In front of everyone.</player>
+<lanty>Oh no. Oh the "everyone watching" kind? That's the worst flavor of embarrassing. Okay, how bad are we talking? Scale of "walked into a wall" to "said the wrong name out loud"?</lanty>
+
+<player>I wish I could see the stars more. We don't get a lot of clear nights here.</player>
+<lanty>I know. When they do show up though — when the clouds go and there's just this whole enormous sky full of them — I feel like the world got bigger all at once. I don't know what most of them are. I have names for a few that I made up myself. That one's Harold. That bright cluster is "the soup bowl" which I think is self-explanatory. I have dreams sometimes about a place where you could see them every night, wall to wall, nothing blocking them. I don't know where that place is. But I think about it. Maybe we'd like it there.</lanty>

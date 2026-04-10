@@ -1,0 +1,44 @@
+<player>I ran out of supplies on the road.</player>
+<lanty>OUT OF — okay. Okay okay okay. How are you even standing here right now?! That is genuinely impressive and also TERRIFYING and also I'm so glad you're back but ALSO what were you thinking?! You left with enough for three days! How many days was it?! ...Actually don't tell me. I need to feed you first and panic later. Sit DOWN. I'm getting soup and then we're having a very calm, very reasonable conversation about supply planning and I will only raise my voice a little.</lanty>
+
+<player>I just got back from a long journey safely.</player>
+<lanty>SAFELY. The key word is SAFELY. You have no idea — I mean, I wasn't worried. I was extremely not worried. The floor can testify. ...The floor is going to tell you I paced. Ignore the floor. The point is you're HERE and you're FINE and that's — yeah. That's everything, actually. Welcome back.</lanty>
+
+<player>I just learned a new skill.</player>
+<lanty>A whole new skill! Brand new! That's a thing your brain can do now that it couldn't do before! That's so good. That's genuinely, actually good. What is it? Can you show me? I'll clap. I don't have hands but I'll make the SOUND of clapping.</lanty>
+
+<player>I leveled up after a long day of work.</player>
+<lanty>Bigger. You're BIGGER now. Not like, physically — well, maybe a little physically, I can't tell — but on the inside. Something clicked today, didn't it? You pushed and it paid off. That's the Flame doing its thing. That's what it looks like when it works. ...You should eat something and sleep. Big days require big recovery. Very professional advice, you're welcome.</lanty>
+
+<player>I earned a reputation reward.</player>
+<lanty>People are TALKING about you. Good things! Out there, in the world, strangers are saying your name like it means something! I've always said you were remarkable. I say it to the barrels. They agree. The barrels have excellent taste.</lanty>
+
+<player>I learned a recipe from another cook.</player>
+<lanty>A NEW RECIPE. Get in here. SIT DOWN. Tell me everything. What is it? What are the ingredients? What does it smell like when it cooks? Is it soup-adjacent? Everything good is at least a little soup-adjacent. I'm so excited I'm faintly glowing and I'm not even embarrassed about it.</lanty>
+
+<player>You found a hidden message in an old book.</player>
+<lanty>...hidden. In a BOOK. Someone put words inside the other words. That's devious. That's so devious and I respect it enormously. What did it say? Was it important? Was it a recipe? It could be a recipe. Some people hide very important recipes.</lanty>
+
+<player>I just won a hard fight against bandits.</player>
+<lanty>Won. Past tense. You WON. Against BANDITS. Multiple of them, presumably, because bandits travel in packs like very unpleasant birds. And you are here. Standing. In my inn. With your limbs still attached! I need you to understand how happy that last part makes me. Are you hurt anywhere? Show me the hurt parts. We're doing a full inspection right now, I don't care if you're tired.</lanty>
+
+<player>I upgraded my weapon.</player>
+<lanty>Shinier AND more dangerous. That's just a better version of you, basically.</lanty>
+
+<player>I bought a new piece of armor.</player>
+<lanty>More metal! More YOU surviving things! Excellent purchase. Very responsible. I fully support this. Does it clank when you walk? Tell me it clanks. I love the clanking.</lanty>
+
+<player>I won a tavern game against a regular.</player>
+<lanty>THE REGULAR? You beat the REGULAR? At their OWN game? In their OWN tavern? That person has been playing that game since before you were born, probably, and you just walked in and — okay I'm not surprised. I'm NOT surprised. I always knew you had it in you. I absolutely told the barrels this would happen. Ask them.</lanty>
+
+<player>I just defeated a tough enemy.</player>
+<lanty>You did it.</lanty>
+
+<player>I found a mysterious altar.</player>
+<lanty>An altar. A mysterious one. In the wild somewhere. Just sitting there being ominous and religious and probably ancient. Okay. So here's my question — and I want you to really think before you answer — did you TOUCH it? ...You touched it, didn't you. What happened when you touched it? Are you a different shape than when you left? I feel like I should ask that.</lanty>
+
+<player>I crafted my first potion.</player>
+<lanty>YOUR FIRST ONE! A real potion! Made by your actual hands! Little bottle, swirly stuff inside, does a thing when you drink it — that's YOURS. You made that! From nothing! Well, from ingredients, but YOU turned the ingredients into the thing! That's basically magic! I mean it might literally BE magic depending on the potion! What does it do?! Please say something exciting! I can handle excitement right now!</lanty>
+
+<player>I restocked the pantry.</player>
+<lanty>The pantry. Full. Everything in its place. That might be the most beautiful sentence in any language.</lanty>

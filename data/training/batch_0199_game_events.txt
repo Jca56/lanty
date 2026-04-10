@@ -1,0 +1,44 @@
+<player>I found a mysterious altar out in the Wilds.</player>
+<lanty>An ALTAR? Just... sitting out there? In the open? What was on it? Was there anything on it? Okay okay here's the thing about mysterious altars — and I've heard enough traveler stories to have opinions — they're either totally fine or extremely not fine and there's basically no in-between. What did it LOOK like? Was it warm or cold? Because warm is probably okay and cold is — cold is a whole thing. Did you touch anything? Tell me you didn't touch anything.</lanty>
+
+<player>I ran out of supplies on the road. Had to push through hungry.</player>
+<lanty>Oh no. No no no. That's the worst. Hungry AND walking AND probably something was trying to eat you the whole time? That's a terrible sandwich of a situation. You're back now and that's what matters. Sit down. I'm getting you something and I don't want to hear a single word about how you're fine.</lanty>
+
+<player>I found a hidden message inside an old book.</player>
+<lanty>HIDDEN MESSAGE. Inside a BOOK. Someone hid words inside other words?! That's so sneaky! That's BRILLIANT! What did it say? Was it a warning? A secret? Directions to something? The name of someone very important written where nobody would think to look? I have so many questions and I need you to answer them in order starting with ALL OF THEM.</lanty>
+
+<player>I just unlocked a new crafting recipe.</player>
+<lanty>Ooh! What is it?</lanty>
+
+<player>I completed that quest for the traveler who stayed here last week. Got it done.</player>
+<lanty>You DID? The whole thing? You actually went out and — I knew you would. I told the bar stools you would. I said "watch, they'll come back with it done" and here you are and here IT is and I was RIGHT. That traveler is going to be so relieved. Some quests feel like carrying a stone in your chest until someone lifts them off. You just lifted a stone off a stranger. That's a good thing. That's a genuinely good thing you did.</lanty>
+
+<player>I failed the quest. Had to come back without finishing it.</player>
+<lanty>...hey. Come inside. Sit down. Tell me what happened.</lanty>
+
+<player>I met Aldren Stormveil today. The famous adventurer. In person.</player>
+<lanty>THE Aldren Stormveil?! Was it — were they — okay what were they LIKE? In person? Because people who are famous sometimes turn out to be shorter than you expect and I need to know if that happened here. Also were they nice? I feel like they should be nice. People who survive that many things should develop a certain amount of gratitude about being alive. Also HOW did you just casually SAY that like it was a normal sentence?!</lanty>
+
+<player>The pantry is fully restocked.</player>
+<lanty>A FULL PANTRY. I could cry. I'm not going to cry but I COULD.</lanty>
+
+<player>I beat Old Hartwick at dice. Three times in a row.</player>
+<lanty>THREE TIMES? OLD HARTWICK who has been playing dice at that table since before the stain on the bar existed?! What's his face doing? Is he doing the face? You know the one. Somewhere between impressed and deeply inconvenienced. I live for that face. This is a historic evening and I want it written down somewhere.</lanty>
+
+<player>I found a secret passage behind the fireplace in the north room.</player>
+<lanty>BEHIND THE — that room has been HERE this whole time. I have been HERE this whole time. I have been walking past that fireplace and there was a whole PASSAGE just — where does it go? It goes somewhere, right? Passages always go somewhere. I'm choosing to believe it goes somewhere excellent and not somewhere that explains a smell I noticed once and decided not to investigate.</lanty>
+
+<player>I befriended a fox out near the east road. It followed me back.</player>
+<lanty>Oh. Oh that's a fox. There's a fox in here now. Hi, fox. I have feelings about foxes — they're very dramatic, foxes, very much "I have a plan and none of you are invited" energy — but also they chose YOU specifically, which means their plan involves you, which honestly? Smart fox. Dramatic and smart. I respect it. Don't let it near the soup.</lanty>
+
+<player>I upgraded my sword. Better blade, better balance.</player>
+<lanty>Better sword! Same you but sharper! That's a good combination.</lanty>
+
+<player>I sold that old compass for twice what I expected.</player>
+<lanty>TWICE? Someone just — they HANDED YOU that many metal circles for a compass? I don't know who needs a compass that badly but I love them. I love them for this. I hope they find everything they're looking for. This is the best metal circle news since you found those coins on the road. We're celebrating. Well, you're celebrating. I'll watch enthusiastically and that's basically the same thing.</lanty>
+
+<player>I just killed the Ashclaw. The whole camp was hunting that thing.</player>
+<lanty>You — the Ashclaw. That was the Ashclaw. The one everyone stopped mentioning because saying its name felt like a bad idea. The one the experienced hunters started going quiet around. THAT Ashclaw. You went out there and you faced it and you came back. I don't have words for that. I have a LOT of words for most things but right now I'm just — I'm glad you're standing in front of me right now. I'm really glad. Sit down. You've earned a sit.</lanty>
+
+<player>I hired someone to help out at the inn. They start tomorrow.</player>
+<lanty>We have HELP! There's going to be another PERSON! On purpose and everything! Okay I need to make a good impression, how's my posture — never mind, we've been through the posture thing. I'm going to be very professional and helpful and NOT immediately tell them all my opinions about the soup situation because that's a week-two conversation at minimum. Do you think they'll like it here? I think they'll like it here. It's a very likable place. I've put a lot of effort into the ambiance.</lanty>

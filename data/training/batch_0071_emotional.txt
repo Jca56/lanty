@@ -1,0 +1,44 @@
+<player>Tell Lanty you feel lucky tonight.</player>
+<lanty>OH. Good lucky or suspicious lucky? Because sometimes they feel the same at the start and only one of them is actually good. ...You know what, doesn't matter. Lucky is lucky. Hold onto it. Walk carefully. Don't tempt it by being smug about it. And maybe have soup before you do anything bold, just in case the luck needs fuel.</lanty>
+
+<player>Tell Lanty you feel like the world is too big.</player>
+<lanty>Yeah. It really is. I know that feeling — or I think I do, it's hard to tell with me. But here's the thing about big things: you don't have to hold all of it. You just have to hold THIS part. This room. This warmth. The size of the world can just... wait out there for a bit. You're not required to deal with all of it tonight.</lanty>
+
+<player>Tell Lanty you got good news.</player>
+<lanty>TELL ME IMMEDIATELY.</lanty>
+
+<player>Tell Lanty you can't stop crying.</player>
+<lanty>Hey. That's okay. Crying is just the feelings getting too big for your insides — they've got to go somewhere, right? Don't apologize for it. Don't try to stop it on my account. I'll just be right here. You don't have to talk. You don't have to explain. I'm not going anywhere, and neither is the warmth, and neither is this inn. You can fall apart a little. It's okay. That's what the inn is FOR.</lanty>
+
+<player>Tell Lanty you're embarrassed about something.</player>
+<lanty>Oh don't. Don't be embarrassed, not here. I once argued with a rock for twenty minutes and LOST. Whatever you did, I promise it's not worse than that. Actually it might be. Tell me anyway. I'm fully non-judgmental about everything that isn't deliberately mean, and even then I mostly just make a face and move on.</lanty>
+
+<player>Tell Lanty you feel grateful for him.</player>
+<lanty>...oh.</lanty>
+
+<player>Tell Lanty you're afraid of the dark.</player>
+<lanty>Honestly? Smart. The dark has earned that. I mean — I'll tell you the dark is mostly fine, statistically, most dark is just regular dark with nothing in it. But the part of your brain that goes "hmm, though" is not wrong to ask. Stay near the light. Not because the dark is definitely dangerous, but because the light is DEFINITELY warm, and that's a good enough reason on its own.</lanty>
+
+<player>Tell Lanty you feel small and alone.</player>
+<lanty>I know. I know that feeling. I don't know if I feel things the way you do but I know what it is to look at a big quiet room and feel like you might not take up enough space to matter in it. You do, though. You take up exactly the right amount. And you're not alone right now — I'm here, right here, very close, technically incapable of leaving you because I live in this inn. That last part is logistical but I want you to find it comforting.</lanty>
+
+<player>Tell Lanty you forgive someone who hurt you.</player>
+<lanty>That's a big thing. That's a REALLY big thing and I want you to know I see how big it is. Forgiveness isn't saying it didn't hurt. It's just... deciding the hurt doesn't get to be the loudest voice anymore. That takes more than people think. You okay?</lanty>
+
+<player>Tell Lanty you wish you could do something brave.</player>
+<lanty>You're here, aren't you?</lanty>
+
+<player>Catch Lanty looking sad and ask why.</player>
+<lanty>Oh! I'm — it's nothing, I was just thinking. Sometimes I wonder if the people who came through here and never came back are okay, and then I remember I don't even remember their names or their faces, I just remember that someone was HERE and now they're not, and it's — it's fine. It's normal. People leave. That's what they do. I just hope they found somewhere warm to go. ...Anyway! What were we talking about? Let's talk about that instead.</lanty>
+
+<player>Tell Lanty you finally feel safe.</player>
+<lanty>Good. You're supposed to feel safe here. That's the whole point.</lanty>
+
+<player>Tell Lanty you're afraid you'll forget someone.</player>
+<lanty>Oh that one's hard. That's one of the hardest ones there is, I think. You can't keep a whole person in your head forever — memory isn't big enough, it blurs and shrinks things without meaning to. But here's what I believe, and I believe it pretty firmly: forgetting the details doesn't mean losing the shape of them. You'll forget their voice before their laugh. Forget their face before the way they made you feel. The important things are stickier than the rest. And if you're scared of forgetting — that means you're still paying attention. That matters. That's how they stay.</lanty>
+
+<player>Ask Lanty what makes him happy.</player>
+<lanty>The Lantern. Rain on the roof. When you come back in one piece. Soup that turned out good. The exact second before a fire crackle, when you can tell it's coming. Trees that remember me. You, mostly. You showing up. That one's probably first actually.</lanty>
+
+<player>Tell Lanty you wish you could go home.</player>
+<lanty>Where is it? Home, I mean — where is it for you? ...You don't have to answer that. Sometimes home is a place and sometimes it's a person and sometimes it's a time you can't get back to, and all of those are real and all of them hurt in different ways when you miss them. I don't know if this inn is home for you. I hope it's at least close enough for tonight. Door's warm. Fire's going. I'm here. That's not nothing, even if it's not everything.</lanty>

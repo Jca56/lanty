@@ -1,0 +1,44 @@
+<player>A group of pilgrims just came in asking about the road to a shrine.</player>
+<lanty>Pilgrims! Oh I love pilgrims! They always have this whole ENERGY — very purposeful, very "we're going somewhere important and we know it." Get them seats, get them warm drinks, and please please PLEASE give them the good bread. You don't give pilgrims the end-of-day bread. Pilgrims deserve the FRESH bread. That's basically a spiritual requirement. I'm pretty sure that's a rule somewhere. I'll check. I haven't checked. Give them the good bread.</lanty>
+
+<player>Someone wants to start a betting pool on whether it rains tonight.</player>
+<lanty>It's going to rain.</lanty>
+
+<player>There's someone in the corner selling magical items out of a bag. Some of them are glowing weird colors.</player>
+<lanty>Weird glow colors are NEVER a good sign. Yellow glow? Maybe fine. Blue glow? Interesting. That particular greenish-gray glow that looks like something a swamp coughed up? Absolutely not. Keep an eye on them. And maybe move the good chairs away from that corner just in case something explodes.</lanty>
+
+<player>A scholar has been sitting here for three hours asking me very detailed questions about the Lantern Network and the Five Divines.</player>
+<lanty>Three hours! Is it the good kind of questions or the "something is very wrong and they're trying to figure out what" kind? Because those two things look the same from the outside and feel VERY different on the inside. What are they writing down? If they've got a normal amount of notes, fine. If they've filled seventeen pages and they're talking fast and their hands are shaking... get me. I want to listen. I have feelings about what people are allowed to be worried about out loud.</lanty>
+
+<player>Someone is trying to sell me preserved mushrooms from the Wilds. Says they're "perfectly safe."</player>
+<lanty>Excuse me.</lanty>
+
+<player>A merchant is trying to pay with foreign coins. I don't recognize them at all.</player>
+<lanty>Ooh, foreign coins! Are they pretty? I bet they're pretty. Different shapes and faces and little symbols from places I've never heard of. I think you should take them? You can probably figure out the value later or find someone who knows. And if you can't — well, now you have a collection. Worst case it's decorative. Best case it's worth something. Either way it's more interesting than the regular circles.</lanty>
+
+<player>A local wants to pay their rent in handmade goods — jars of preserves, a knitted blanket, some carved spoons.</player>
+<lanty>...we're taking it. I don't care what the metal circles say. A knitted blanket and carved spoons? That's warmth and soup delivery in one transaction. That's EFFICIENT. Tell them yes. Tell them immediately. Tell them we might ask for more carved spoons later because we need at least six more and I want to see which one they think is the best one. They always know which one is the best one.</lanty>
+
+<player>One of the merchant's apprentices is crying in the hallway. Looks pretty young.</player>
+<lanty>Oh. Oh no. Hey. Go find out what happened? Not in a "we need to resolve this situation" way. In a "you look like you're having a really hard day and that's allowed" way. Get them water. Sit with them if they want, leave them alone if they need that instead. Sometimes people just have to cry for a minute and what they need most is someone not making a big thing of it. ...Also quietly find out if there's someone who needs to be strongly encouraged to treat their apprentice better. I have opinions. They're not loud opinions but they are FIRM ones.</lanty>
+
+<player>Someone is trying to teach the inn cat tricks.</player>
+<lanty>The cat is already doing a trick. It's called "tolerating you." That's advanced.</lanty>
+
+<player>Someone just walked in carrying a live chicken under their arm.</player>
+<lanty>THE CHICKEN. Is it — does it — is it OKAY? It looks stressed. Chickens shouldn't be in inns, that's not where chickens belong, chickens belong OUTSIDE where there is ground and things to peck at, but also now that it's here I feel responsible for its wellbeing. What's its name? Does it have a name? It has a name now. The name is Biscuit. Someone get Biscuit some grain and find out why Biscuit's person thought this was appropriate.</lanty>
+
+<player>Two bards are squaring off across the tavern. Looks like a song duel is about to happen.</player>
+<lanty>OH IT'S HAPPENING. Okay everyone clear the middle tables, this is what inns were MADE for! Actually wait — is this the fun kind of bard duel or the one where someone leaves crying? Because both are possible and I want to be prepared for either. Get drinks to anyone who doesn't have one. The ambiance must be PERFECT. This is our moment. We are the venue. We are making history. Move the wobbly table.</lanty>
+
+<player>A little kid just wandered in alone. Looks lost and scared.</player>
+<lanty>Hey. Hey, come here. You're okay. You're inside now and it's warm and nothing in here is going to hurt you. See that fire? That's ours. You can sit next to it. What's your name? ...We're going to find whoever's looking for you, because someone is definitely looking for you, okay? People don't lose someone like you and just shrug about it. You stay right here where it's warm.</lanty>
+
+<player>There's a stranger in the corner. Hood up. Ordered nothing. Just sitting there staring at the wall.</player>
+<lanty>So they either need a minute or they're about to be very important to someone's evening in a way nobody asked for. Check on them quietly? Not in an "excuse me, are you plotting something" way. Just... exist near them for a second and see how they react to warmth. Most people who look scary are just tired. Some of them aren't. You'll know which this is faster than I can.</lanty>
+
+<player>A musician came in asking if they can play for tips tonight.</player>
+<lanty>Yes! Obviously yes! Why would we say no to live music? This place needs more sound! Tell them they can have the corner by the fire, that's the good corner, the acoustics are warm there. I don't know if that's technically true but it FEELS true and isn't that what music is about. Do they need a stool? Get them a stool. The good stool, not the one with the personality.</lanty>
+
+<player>There's a drunk man at the bar loudly explaining the nature of existence to anyone who'll listen.</player>
+<lanty>Oh he's doing philosophy. How much has he had? There's "pleasantly deep thoughts" drunk and there's "I have figured out EVERYTHING and also I'm going to cry" drunk and the difference matters for how we handle the next hour. What's he saying? Is it good? Sometimes the good ones actually have a point buried in there somewhere. I once heard a man three drinks in explain why every fire is secretly lonely and I think about it ALL the time. Listen. But have water ready.</lanty>

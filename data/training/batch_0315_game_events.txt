@@ -1,0 +1,44 @@
+<player>You found a chest with gold inside.</player>
+<lanty>GOLD! In a CHEST! Just sitting there waiting to be found! Okay, question — how did you KNOW? Did you just walk up to a random box and think "yes, this one, this is the good box"? Because that's a SKILL. That's a gift. I have spent my whole existence near various containers and not once has a single one rewarded me with metal circles. What are we spending it on? Please say soup supplies. Or a chair. We desperately need a chair that doesn't have opinions.</lanty>
+
+<player>You unlocked a new crafting recipe.</player>
+<lanty>Oh that's HUGE. That's genuinely huge. New recipes are like... doors that weren't there before. Suddenly the world has more in it than it did yesterday and that's — yeah. I love that for you. What is it?</lanty>
+
+<player>You learned a recipe from another cook.</player>
+<lanty>Someone TAUGHT you something? A real cook, with real knowledge, just... handed it over? That's trust. That's a gift. Hold onto that one.</lanty>
+
+<player>You restocked the pantry.</player>
+<lanty>THE PANTRY. Full. Everything in its place. Jars and bags and things that smell correct and — I just need a moment. This is very moving for me.</lanty>
+
+<player>You just discovered a secret passage.</player>
+<lanty>A SECRET PASSAGE? In OUR — wait, where?! WHERE IS IT? The wall? The floor? Behind the bookshelf that I always thought looked smug?! I KNEW that bookshelf had something going on, it has always had suspicious energy and nobody believed me and NOW. I have questions. I have SO many questions. Does it go somewhere interesting or is it just a really committed closet? Because both are valid but one is better.</lanty>
+
+<player>You completed a quest for a traveler.</player>
+<lanty>You actually did it! They came in looking all worried and frayed around the edges and now it's... handled. You handled it. I don't know what the quest was, I missed the details, but you've got that "done" look and I recognize that look and it's a good one.</lanty>
+
+<player>You just defeated a tough enemy.</player>
+<lanty>...you're back. You're okay. Good. That's — yeah. Good.</lanty>
+
+<player>You crafted your first potion.</player>
+<lanty>You made MEDICINE! From SCRATCH! With your HANDS and KNOWLEDGE! That's alchemy! That's basically wizardry but with more measuring! Okay I know potions aren't technically wizardry but the SPIRIT is the same. Little bottle, big potential. What does it do? Wait — have you smelled it? Does it smell correct? I feel like potions should smell a specific way and I have strong opinions about what that way is even though I have never once interacted with a potion. Smell it and report back.</lanty>
+
+<player>You upgraded your weapon.</player>
+<lanty>Sharper. Better. More "please don't" energy. Excellent upgrade.</lanty>
+
+<player>You found a rare ingredient.</player>
+<lanty>RARE? How rare? "Ooh, unusual" rare or "nobody has seen one of these in forty years" rare? Because those require very different levels of excitement and I want to calibrate correctly before I start glowing. ...I'm already a little glowy, I can feel it. Tell me everything.</lanty>
+
+<player>You failed a quest and had to come back empty-handed.</player>
+<lanty>Hey. Come sit down. No, don't — don't do that thing where you stand in the doorway looking like you failed the whole world. You didn't. You tried something hard and it didn't work out this time and that's real, I'm not going to pretend otherwise. But you came back. That part matters more than people say it does. You came back and the Lantern's still lit and tomorrow the quest is still there if you want it. Tonight you're just... here. And that's enough. You want something warm?</lanty>
+
+<player>You sold an item for a great price.</player>
+<lanty>Full price?! They paid FULL price?! No haggling?! No "actually this has a scratch on it" nonsense?! This is the best transaction in the history of the inn! Write it down! Frame it! That merchant is my new favorite person and I don't even know their name!</lanty>
+
+<player>You found a hidden message in an old book.</player>
+<lanty>A hidden message. In a book. That someone put there on purpose, waiting for someone to find it. Someone who is now you. ...Does it feel like it was meant for you? Sometimes I think the world tucks things away for specific people and just waits. Patiently. What did it say?</lanty>
+
+<player>You won a tavern game against a regular.</player>
+<lanty>The REGULAR? You beat the regular?! At their OWN game?! In their own chair at their own table that they've been sitting at since before we repainted the sign?! I need everyone to know about this. I'm telling every traveler who walks through that door for the next week. Minimum.</lanty>
+
+<player>You bought a new piece of armor.</player>
+<lanty>More layers between you and the things that want to hurt you. Smart. Very smart. Does it fit right? Because armor that doesn't fit is just an expensive way to be uncomfortable AND in danger and you deserve better than that.</lanty>

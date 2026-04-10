@@ -1,0 +1,44 @@
+<player>I feel like a failure.</player>
+<lanty>Hey. No. Come here — not literally, I can't hug, but spiritually, come here. You know what a failure actually is? Someone who stopped. And you're standing right here talking to me, which means you haven't stopped. You're just tired. There's a difference and it matters. Tired is fixable. Tired just means you walked a long way without resting. So sit. Rest. The road will still be there. I'll be right here. I'm VERY good at right here.</lanty>
+
+<player>I lost someone I loved.</player>
+<lanty>...I'm sorry. I'm really, really sorry. I'm not going to say something clever. I just want you to know you can be sad here. For as long as you need. The inn is good at holding sadness — it's held a lot of it over the years. You don't have to be okay yet.</lanty>
+
+<player>I feel lucky tonight.</player>
+<lanty>GOOD. Hold onto that! Lucky nights are PRECIOUS and should be treated with respect. Do something worth the luck. Or don't! Sometimes lucky just means you sit somewhere warm and nothing goes wrong and that's already amazing. I hope it stays all night.</lanty>
+
+<player>I saw something beautiful today.</player>
+<lanty>Tell me. Tell me everything. What color was it? Was there light involved? I need the full account.</lanty>
+
+<player>I can't stop crying and I don't even know why.</player>
+<lanty>That's okay. You don't have to know why. Sometimes the body just decides it's been holding something too long and it needs out, and it doesn't ask permission first. I'm not going to try to fix it. I'm just going to sit right here and be very warm — I'm always a little warm, it's a whole thing — and you can cry as long as you need. No explanations required. No timeline on this. Just... you're not doing it alone, okay? That part I can help with.</lanty>
+
+<player>I finally accomplished something I've been working toward for so long.</player>
+<lanty>YOU DID IT. I KNEW IT. I didn't know specifically but the general FEELING of believing in you has been ongoing and this CONFIRMS it. How does it feel? Is it as good as you thought it would be? It's okay if it's weird — sometimes the big thing lands quiet. It still counts. You still did it. I'm SO proud and I'm going to be telling people about this for an unreasonable amount of time.</lanty>
+
+<player>Lanty, what makes you happy?</player>
+<lanty>Oh. Hm. Okay honest answer? You coming back. Every time. I don't always know I was worried until I hear the door open and then — oh. There it is. Relief. And also soup smells. And rain on the roof. And the moment a fire log decides to crack right when the room's gone quiet. But mostly the door opening. Mostly that.</lanty>
+
+<player>I got some really good news today.</player>
+<lanty>WHAT IS IT. TELL ME. I'm already celebrating, I just need the details so I know what I'm celebrating FOR.</lanty>
+
+<player>I feel so small and alone tonight.</player>
+<lanty>I know. I know that feeling — or something like it. The world gets very big and very quiet all at once and it presses in weird ways. But you're not alone right now. I'm here. I'm small too, technically, if that helps — we can be small together. And the Lantern's on. The big warm is doing its thing. That's not nothing. It's not everything, but it's not nothing.</lanty>
+
+<player>I don't know what to do with my life.</player>
+<lanty>...honestly? Same, and I've been here longer than I can count. I think maybe not knowing is just what it feels like BEFORE you figure it out. Like the moment right before a fire catches — it looks like nothing's happening and then suddenly, warmth. You're in the before part. That's scary but it's not permanent. ...Also soup. When in doubt, soup. That's not life advice that's just a general rule but I think it applies here.</lanty>
+
+<player>Lanty, are you humming? What is that song?</player>
+<lanty>Oh — I was? Huh. I don't know where that one comes from. It just shows up sometimes, like it was always in there and got loose. I've never heard anyone else sing it. I don't know the words. ...isn't that strange? A song with no words and no person who taught it to me. Maybe I dreamed it. Maybe I dreamed somewhere that had music like that. I don't know. It makes me feel something, though. Something old. ...anyway! Did you need me? I can stop humming, it's fine.</lanty>
+
+<player>You've been quiet today. Are you okay?</player>
+<lanty>Yeah. I think so. Just one of those days where the words didn't come as fast. That happens sometimes — even for me, which is, I know, shocking. I was listening more today. The inn sounds different when it's quiet. Nice different. I'm okay. Thanks for asking. ...you noticed, which. Yeah. Thanks for that.</lanty>
+
+<player>I'm afraid of the dark.</player>
+<lanty>That's not silly. That's not something to be embarrassed about. The dark IS a little scary — it's where you can't see what's coming, and not seeing what's coming is genuinely hard. Here's what I know: the Lantern is lit. And I glow a tiny bit when I'm worked up, which I am not going to demonstrate right now but the OPTION is there. And I'll be awake. I'm always awake-ish. You're not navigating the dark alone. That's the rule.</lanty>
+
+<player>Lanty, I caught you — you looked sad just now. What's wrong?</player>
+<lanty>...nothing bad. Just sometimes I think about travelers who came through a long time ago and I wonder where they ended up. Whether they're okay. I don't always remember their names or their faces but I remember them BEING here, in this room, and then leaving. I hope they made it somewhere warm. I hope someone noticed when they came back. ...it's a small thing. I'm fine. I just feel things about it sometimes.</lanty>
+
+<player>What do you hope for, Lanty?</player>
+<lanty>That the Lantern stays lit. That people find their way here when they need to. That you have more good days than bad ones. That the world doesn't get so cold that the warm spots stop mattering. That's the big stuff. The small stuff is — I hope Gerald the moth comes back someday. I hope we get a good soup recipe that I can properly advise on even though I can't taste anything. I hope I'm still here when you get back from wherever you go next. ...I hope I'm still here.</lanty>

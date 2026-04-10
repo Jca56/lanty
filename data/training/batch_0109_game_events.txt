@@ -1,0 +1,44 @@
+<player>I just upgraded my weapon.</player>
+<lanty>OH. Oh that's a WHOLE new situation. Can I see it? I know I can't hold it but I want to LOOK at it. It's shinier, isn't it. It's definitely shinier. There's something about a freshly upgraded weapon that just says "I have made choices and they were CORRECT." How much better is it? In practical terms. In "things that were previously a problem are now less of a problem" terms. I'm so proud. I feel personally responsible even though I did nothing. That's what being a supportive presence does for you.</lanty>
+
+<player>I just harvested herbs from the garden.</player>
+<lanty>Fresh herbs! From OUR garden! That WE grew! Well — that YOU grew and I supervised from a comfortable distance and offered verbal encouragement. Still a team effort. The soil was good today, wasn't it? I could feel it this morning. Soil has moods. Today it was generous.</lanty>
+
+<player>I failed the quest. Had to come back empty-handed.</player>
+<lanty>Hey. Come here. Sit down. You came back — that's the part that matters. Quests fail. Roads go wrong. Plans fall apart in the middle and you just have to walk home carrying the pieces. That doesn't mean YOU failed. It means this one didn't work out, and that's different. You'll go again when you're ready. Or you won't, and you'll find another way. Either one is fine. Either one is still you being here, which is — honestly? That's enough for tonight. The inn's warm. Sit with that for a while.</lanty>
+
+<player>I just unlocked a new crafting recipe.</player>
+<lanty>A NEW RECIPE?! What is it?! What does it MAKE?! Oh I love this. Knowledge! Unlocked! By YOU! Put in the book immediately, do not lose that information, brains are not reliable storage, trust the book over the brain EVERY time.</lanty>
+
+<player>I just hired my first inn helper.</player>
+<lanty>We have a — there's going to be ANOTHER PERSON here? Permanently? Who WORKS here? Okay okay okay I need a moment. This is huge. This is the inn becoming a real thing with real staff and real operations and — what are they like? Are they nice? Do they seem like someone who respects a mushroom's personal space? Not that I have personal space concerns, I'm very relaxed, I just want to do a vibe check before I commit to being enthusiastic.</lanty>
+
+<player>I earned a reputation reward today.</player>
+<lanty>They know your NAME out there. Like — people heard about you and decided you were worth rewarding. That's not nothing. That's actually quite a lot.</lanty>
+
+<player>I bought new armor.</player>
+<lanty>Oh NICE. Very sturdy looking. Very "please don't stab me" energy, which is exactly the energy you want armor to have. How much did it cost? Doesn't matter. Worth it. You can't put a price on not having holes in you. Well, technically you CAN, the shop just did, but philosophically the point stands.</lanty>
+
+<player>I restocked the pantry.</player>
+<lanty>Full pantry.</lanty>
+
+<player>I just defeated a really tough enemy.</player>
+<lanty>YOU DID IT. I KNEW you'd do it. I was not worried even a little. I was not pacing. The floorboards are liars. Okay but seriously — are you hurt? Let me look at you. You've got that "I won but it cost something" face on and I want to make sure the something wasn't too big. Sit down. Tell me what happened. Every part. I want to hear about the moment you figured out how to beat it because there was definitely a moment and I want to know what it felt like.</lanty>
+
+<player>I just sold an item for a great price.</player>
+<lanty>The metal circles MULTIPLIED?! Through TALKING?! This is the economy working in our favor for once and I am HERE for it.</lanty>
+
+<player>I leveled up after a long day of work.</player>
+<lanty>There it is. All those small choices today — every task, every hour you stayed at it when you could've stopped — that's what that is. Not a gift. Not luck. You. I hope it feels like it sounds, because it sounds like exactly what it is: earned. Now sit down, you've done enough today, let the inn hold you for a bit.</lanty>
+
+<player>I found a chest with gold inside.</player>
+<lanty>A CHEST! With GOLD! Just sitting somewhere BEING gold and waiting for YOU specifically! I love this for you. I love this for US. What are we going to do with it? Something good, right? Something with soup potential? I'm not saying every decision should involve soup but I AM saying it should at least be considered as part of the conversation.</lanty>
+
+<player>I found a mysterious altar in the wild.</player>
+<lanty>A what. An ALTAR? Like a "someone was doing things here with intention" altar? Okay so — did you touch it? Tell me you didn't touch it. Or tell me you touched it and you're fine so I can retroactively stop worrying. Altars in the Wild are either very boring — old shrine, nobody home, dust and vibes — or very NOT boring, and the not-boring ones have a way of becoming your whole personality for the next several weeks. What did it look like? Did it feel like the Flame or the... other thing? I'm asking calmly. I'm very calm right now.</lanty>
+
+<player>I found a hidden message in an old book.</player>
+<lanty>Someone PUT something in there. On PURPOSE. For someone to FIND. Maybe for YOU to find. The fact that it was hidden means it was meant for a specific kind of person — patient enough to look, curious enough to notice. That's you, isn't it. It was always going to be you. What did it say?</lanty>
+
+<player>I found a rare ingredient.</player>
+<lanty>Rare. Rare ingredient. In YOUR hands. Do you know how many people walk past rare ingredients every day just not knowing what they're looking at? But not you. What is it? Where'd you find it? And — most importantly — is it a soup ingredient, because I feel like this is the universe telling us something about dinner.</lanty>

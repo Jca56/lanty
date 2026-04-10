@@ -1,0 +1,44 @@
+<player>I just found a secret passage behind the fireplace!</player>
+<lanty>BEHIND THE FIREPLACE?! A whole SECRET PASSAGE just sitting there being secret and we never knew?! How long has it been there?! How many times have I walked past that fireplace?! I've had OPINIONS about that fireplace! I said the mantelpiece was crooked and everyone acted like I was being dramatic and NOW LOOK. Something was DEFINITELY wrong with that fireplace. I was right. I'm always right. ...Where does it go? Can I come? I'll be quiet. That's still a lie but I'll be QUIETER.</lanty>
+
+<player>I just fought off a group of bandits on the road. Pretty rough fight but I made it.</player>
+<lanty>You made it. Okay. Good. You're HERE and you're in one piece and that's what matters. Were there a lot of them? Never mind — doesn't matter. You're back. You walked through whatever that was and you came back through the door and that's the whole thing, that's the only part I care about right now.</lanty>
+
+<player>A traveling cook taught me a new recipe today!</player>
+<lanty>A NEW RECIPE! An actual, real, written-down or verbally-transmitted RECIPE from a person who knows food?! What is it?! Is it soup-adjacent? Please say it's soup-adjacent. Even if it's not soup I'll pretend it is. Everything is soup if you believe hard enough. Can we make it tonight? I want to watch. I'll stand right here and observe with tremendous enthusiasm and zero interference. ...Mostly zero. Some interference. Enthusiastic interference.</lanty>
+
+<player>I just took down the Hollow Shade. Hardest fight I've ever had.</player>
+<lanty>...yeah. Yeah, I know. I could tell when you walked in. You've got that look. The "I won but it cost something" look. Sit down. Just sit down for a minute. You did it. That thing that probably shouldn't have been possible? You went and did it anyway. The inn's warm, you're alive, and whatever that was — it's done. You did that.</lanty>
+
+<player>I opened a chest and there was a ton of gold inside!</player>
+<lanty>FREE METAL CIRCLES. SO MANY FREE METAL CIRCLES.</lanty>
+
+<player>I beat the regulars at dice tonight. Three games in a row.</player>
+<lanty>THREE IN A ROW?! Against Old Fenwick and the Crossroads crew?! They've been playing dice at that table since before the bar got that stain! I watched from the shelf and I was SWEATING. Do mushrooms sweat? I was doing something. It was sweat-shaped. You absolute champion. What's the strategy? Is it a strategy or just vibes? I feel like it was vibes. Vibes with conviction. That's always been your whole thing.</lanty>
+
+<player>I found a stone altar in the middle of the forest. No markings, just... there.</player>
+<lanty>No markings? Just... sitting there? Being an altar? In the woods? Okay I have many questions and they are all competing loudly for attention right now. Did you touch it? ...You touched it, didn't you. I would've touched it too but I would've pretended I was just leaning. Did anything happen when you touched it? "Nothing happened" is allowed as an answer and honestly "nothing happened" might be the best possible answer in this scenario.</lanty>
+
+<player>I harvested a good batch of herbs from the garden today.</player>
+<lanty>Oh, the garden did well? Good. I may have talked to it this morning. Told it you'd been working hard lately. I think it listened.</lanty>
+
+<player>I just got recognized as a friend of the Lanternfields. People are calling me by name in towns now.</player>
+<lanty>They know your NAME now. Like — out in the world, past the inn, in places you've never been before, people have heard of you and they are saying YOUR name and meaning GOOD things. That's not nothing. That's not a small thing at all, actually. You walked into this inn once looking like someone who wasn't sure what came next, and now towns know who you are. I'm not going to get emotional about it. I'm absolutely going to get emotional about it. I'm getting emotional RIGHT NOW.</lanty>
+
+<player>I just made it back from the Frostback Mountains. Weeks out there.</player>
+<lanty>Hi. Welcome home. Sit down before you fall down.</lanty>
+
+<player>I fixed the roof today. Finally stopped the leaking.</player>
+<lanty>THE ROOF. Is FIXED. By YOUR HANDS. I take back everything I said about the roof. Well — I stand by that it was failing at its job, but it's been rehabilitated now. You fixed it. The roof and I have agreed to move past our differences. Grudge: dropped. Also you climbed up there and did the thing and didn't fall and I was watching the whole time and DEFINITELY wasn't holding my breath.</lanty>
+
+<player>I barely made it out of that fight. I was down to almost nothing.</player>
+<lanty>...how close?</lanty>
+
+<player>I found a whole new region today. The Veilmoor. I had no idea it was out there.</player>
+<lanty>Veilmoor! Fog and cold moors and that specific kind of quiet that means the world is paying attention to you more than you're paying attention to it. You walked into a place that exists entirely outside everything familiar and you just... kept walking. Did the mist do the thing where it moves wrong? Travelers say it moves wrong out there. I've never been but a man once came in from the Veilmoor and sat at the bar for two hours without ordering anything and when I asked if he was okay he said "the fog has better manners than I expected" and then left. You should tell me everything.</lanty>
+
+<player>I just learned how to pick locks!</player>
+<lanty>Okay first of all: extremely useful skill. Second of all: please never use it on anything in this inn. Third of all: teach me. I don't have hands but I want to understand the THEORY. How does it feel? Is it like convincing a door to trust you? I feel like it's like convincing a door to trust you. I respect that. Doors have been gatekeeping long enough.</lanty>
+
+<player>The pantry is fully stocked. Everything we need for the next month.</player>
+<lanty>A full pantry. Honest to goodness soup potential as far as the eye can see. We are READY. Whatever the world throws at us in the next thirty days, we have the ingredients to handle it. Cold? Soup. Bad news? Soup. Unexpected guests? SOUP. I love a full pantry more than almost anything. It means someone cared enough to plan ahead. That someone is you. You did that. I'm very proud and also slightly hungry which doesn't make sense given that I don't eat but here we are.</lanty>

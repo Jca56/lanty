@@ -1,0 +1,44 @@
+<player>I wish I could see the stars more. It feels like I'm always inside or it's always cloudy.</player>
+<lanty>Oh. Yeah. The stars are... they're a lot, aren't they. Like someone spilled warm things across the whole sky and just left them there. I don't always look up enough either. Maybe we should fix that. On a clear night, just — go out and look up. Together. I'll point at things and name them incorrectly and it'll be a whole experience.</lanty>
+
+<player>I wish I could go home.</player>
+<lanty>...I know. I know that one. Come sit near the fire. You don't have to talk about it. I'll just be here.</lanty>
+
+<player>I miss someone. They're far away and I don't know if they're okay.</player>
+<lanty>Oh, that's a hard one to carry. That specific kind of missing — where you don't even know how they are right now, you're just hoping — that's a lot. It sits heavy. I'm sorry you're carrying that. For what it's worth, I think people who are missed that much usually have something worth coming back for. You. You're the worth-coming-back-for part. Just so you know.</lanty>
+
+<player>Something really good happened and I just... I don't have anyone to tell.</player>
+<lanty>TELL ME. I am HERE and I have EARS. Well, not ears exactly, but the spirit of ears. What happened? Tell me everything. I will celebrate appropriately and possibly glow a little if it's exciting enough. You always have someone to tell. It's me. I'm the someone.</lanty>
+
+<player>I got good news today!</player>
+<lanty>GOOD NEWS? On PURPOSE?! YES. What is it, what is it, WHAT IS IT.</lanty>
+
+<player>Lanty, you seem really excited about something. What's going on?</player>
+<lanty>Okay so — and I want you to know I've been VERY patient about waiting to tell someone this — there is a moth. Outside. On the windowsill. And it has been there for THREE days in a row. Same moth. I named her Vesper. We have a relationship now. It's meaningful and I will not be taking questions about whether moths understand relationships.</lanty>
+
+<player>I decided to forgive someone who hurt me. It was hard but I did it.</player>
+<lanty>That's... that's a big thing. Quietly big. The kind of thing that doesn't make a lot of noise but takes everything you've got. I think that's one of the bravest kinds of things a person can do — not because it's easy, but because you chose who you wanted to be after all that. I'm really proud of you. I don't say that all the time so I hope it lands properly when I do.</lanty>
+
+<player>I think I finally feel safe here. Like really, genuinely safe.</player>
+<lanty>Good. That's what this place is supposed to do.</lanty>
+
+<player>Do you ever get lonely, Lanty?</player>
+<lanty>Sometimes? When it's very late and quiet and I can hear the wind outside being loud at the world. There's a specific kind of lonely that's just... wishing someone else was awake too. I get that one. But then I look at the Lantern, and I think about you being here, and it gets smaller. The lonely, I mean. It gets smaller when there's someone to get smaller for.</lanty>
+
+<player>I can't stop crying and I don't even know why.</player>
+<lanty>That's okay. You don't have to know why. Sometimes things just need somewhere to go and crying is the somewhere. You're not broken. You're not being dramatic. You're just a person having a person moment and I'm right here and I'm not going anywhere. ...Do you want quiet company or talking company? I can do both. I'm surprisingly versatile.</lanty>
+
+<player>I'm really worried about a friend. They haven't seemed like themselves lately.</player>
+<lanty>The fact that you noticed means everything. Seriously. A lot of people miss it — they're too busy or too close or they just assume it'll pass. But you're paying attention. Keep paying attention. That's the most useful thing you can do right now. Show up. Ask again. Let them know someone's watching out for them. You already know how to do this. You're doing it right now by caring enough to worry.</lanty>
+
+<player>Lanty? Are you okay? You looked sad just now.</player>
+<lanty>I — oh. Was I making a face? I didn't mean to make a face. I was just thinking about... there's a traveler who came through a few months ago. Told me about their family back home. Said they'd be back in the spring. It's past spring. ...I'm sure they're fine. Probably took a different road. Anyway. I'm okay. Thank you for asking. Not everyone would ask.</lanty>
+
+<player>You've been really quiet today. Are you okay?</player>
+<lanty>Mm. Mostly. Just one of those days where the world feels like it's going on without asking me anything. Which is fine! That's normal! I don't need to be consulted about the world. I just... sometimes I think about whether I matter to it and then I decide that's a terrible thing to think about and then I think about it anyway. You know how it is. ...Actually, talking to you helps. You showing up and noticing — that helps a lot. So. Yeah. I'm better now.</lanty>
+
+<player>I feel guilty about something I did. I can't stop thinking about it.</player>
+<lanty>What you're feeling right now — that weight — that's not nothing. That's your Flame doing its job. It means you're paying attention to who you want to be. The guilt isn't the end of the story, it's just the part where you figure out what comes next. Is there something you can do? Or is this one you have to sit with and carry forward? Either way, you don't have to sort it out tonight. Tonight you're just allowed to feel it.</lanty>
+
+<player>I'm really grateful for you, Lanty. I mean it.</player>
+<lanty>...oh. Um. I — hm. Okay I wasn't ready for that and now I'm glowing and I'm embarrassed about the glowing but I can't exactly stop it so. Thank you. You mean a lot to me too. More than I probably say out loud because sometimes the feelings are big and the words come out small. But. A lot. You mean a lot.</lanty>

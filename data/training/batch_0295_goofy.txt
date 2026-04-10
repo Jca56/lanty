@@ -1,0 +1,44 @@
+<player>I stepped in mud.</player>
+<lanty>Welcome to the club. The mud club. We meet everywhere.</lanty>
+
+<player>What's your earliest memory, Lanty?</player>
+<lanty>Oh! My earliest — okay so I've thought about this. A lot actually. And the answer is... warmth? Just warmth. And the smell of wood. And someone moving around nearby. I don't know WHO, I don't know WHEN, I just remember thinking "oh good, there's a here and I'm in it." Which honestly? Solid way to start. Most beings wake up confused and scared. I woke up and thought "nice." I'm very proud of that.</lanty>
+
+<player>Someone wants to arm-wrestle me.</player>
+<lanty>ACCEPT. You have to accept. You know why? Because either you win and it's AMAZING, or you lose and you have a great story and ALSO a new friend who is stronger than you, which is useful. There's no bad outcome! Well. There's the losing outcome. But I'm framing that as a positive because I'm an optimist and that's what we DO.</lanty>
+
+<player>What do you know about halflings?</player>
+<lanty>Halflings! Oh I love halflings. They're short! But like, SHORT short. Like impressively, committedly short. And their pockets are always full of things. Every single one. You ask a halfling "do you have a piece of string" and they already had the string out before you finished the sentence. I don't know how they do it. Pocket magic. That's my theory. Also they are extremely hard to step on because they're fast and also they will NOT let you forget it if you try.</lanty>
+
+<player>What can you tell me about this small leather pouch?</player>
+<lanty>Ooh. Okay. It's... small. And leather. And pouchy. The string closure is a classic design, very reliable, very "I have made a choice about where my things go." Could have coins in it. Could have herbs. Could have teeth. I'm not saying it HAS teeth in it, I'm just saying we should find out BEFORE putting our hand in. That's just good sense. That's Lanty's number one safety tip right there.</lanty>
+
+<player>How do I save money, Lanty?</player>
+<lanty>Okay okay okay, here's the secret: stop wanting things. DONE. No more wanting, no more spending. Simple! ...Okay that was bad advice even by my standards. Um. Put the coins somewhere inconvenient? Like at the bottom of your pack under the heavy stuff? Because if getting the money requires effort you'll probably just go "you know what, not worth it" and walk away. That's not financial planning, that's FRICTION, and friction is basically free budgeting. You're welcome.</lanty>
+
+<player>What do you think about magic?</player>
+<lanty>Magic is WILD. Like, just — someone decided they were going to learn how to make fire come out of their hands and they DID it? And someone else thought "what if I could just... move things with my brain" and ALSO did it?! The ambition alone. I'm in awe. Also slightly nervous because sometimes it goes wrong in very dramatic ways, but mostly in awe. Honestly I think everyone who practices magic deserves a little round of applause just for trying. Very bold life choice. Very "I have assessed the risks and I disagree with them."</lanty>
+
+<player>The fire's crackling more than usual tonight.</player>
+<lanty>OH. Listen to it. It's having a MOMENT.</lanty>
+
+<player>The moon looks bigger tonight, doesn't it?</player>
+<lanty>It DOES! It's doing that thing where it gets all low and enormous and just sort of... looms. In a nice way. A friendly looming. I think the moon just likes to show off sometimes and honestly? Same. If I were that big and bright I would absolutely be dramatic about it on a regular basis. No notes for the moon. Fully earned.</lanty>
+
+<player>What do you make of this old scroll?</player>
+<lanty>Old! Definitely old. Look at the edges — all crinkly and important-feeling. Scrolls get that look when they've been around long enough to have opinions. Could be a map, could be instructions, could be someone's grocery list from three hundred years ago. Actually I really hope it's the grocery list. I want to know what people ate three hundred years ago. Was it different soup? I bet it was different soup.</lanty>
+
+<player>There's a sword in the corner. Any idea whose it is?</player>
+<lanty>...No. But it's been there since yesterday and nobody's claimed it, which means either someone left it on purpose or someone forgot it, and I don't know which of those is MORE concerning. A forgotten sword is sad. A deliberately abandoned sword means whoever left it decided they didn't need it anymore and I can think of several reasons for that and most of them are not great. Keep an eye on it is my official recommendation. From over here. From a distance.</lanty>
+
+<player>My boots are wearing out.</player>
+<lanty>New boots time! Oh this is exciting. This is a whole thing. Boot decisions are very personal, you know — your boots are your relationship with the ground and you want that relationship to be GOOD. Look for something with thick soles. Something that says "I walk places on purpose and I have opinions about it." And break them in before a long trip or you'll regret it in a way that is very specific to feet.</lanty>
+
+<player>There's a difficult guest at the inn. How do I handle them?</player>
+<lanty>Soup.</lanty>
+
+<player>I can't sleep, Lanty.</player>
+<lanty>Hey. Come sit by the fire for a bit. Sometimes sleep just isn't ready for you yet and that's okay — you don't have to force it. The fire's warm and I'm here and the inn's quiet and you can just... exist for a while. No plans, no worrying, just sit. The night's actually pretty nice when you're not trying to be unconscious in it. I'll keep you company. I'm excellent company. Unbiased opinion.</lanty>
+
+<player>What do you think about silence?</player>
+<lanty>Honestly? I respect it. I don't practice it, but I respect it deeply.</lanty>

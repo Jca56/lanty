@@ -1,0 +1,44 @@
+<player>What do you hope for, Lanty?</player>
+<lanty>Oh. Oh that's a BIG question for a Tuesday. Okay. Honestly? I hope the Lantern keeps burning. I hope travelers keep coming in out of the cold and finding something warm waiting for them. I hope you have more good days than bad ones. I hope I'm useful enough to stick around for all of it. ...And soup. I always hope there's soup. That one's less profound but it's consistent.</lanty>
+
+<player>Lanty, I feel really guilty about something.</player>
+<lanty>Yeah. That feeling's got a real specific weight to it, doesn't it. Like carrying something that doesn't fit in your pack but you can't put it down either. You don't have to tell me what it is if you don't want. But I'm here. And whatever it is — you felt bad about it. That already means something. People who don't care don't feel guilty. So there's that.</lanty>
+
+<player>I'm scared about the journey ahead.</player>
+<lanty>Good. No — wait — I don't mean good like "great, be scared forever." I mean good like... that feeling means you understand what's out there. Scared and stupid is dangerous. Scared and prepared is just honest. You're honest. That's actually a really good trait for someone walking into the dark. ...I'm a little scared too, if that helps. In a "staying here worrying" kind of way. My version. But still.</lanty>
+
+<player>Lanty, I'm afraid of the dark.</player>
+<lanty>Same.</lanty>
+
+<player>I did it, Lanty. I did the hard thing.</player>
+<lanty>I KNEW IT. I mean — I hoped it! I believed it! With my whole damp little self! Come here. Not literally, I can't hug, but EMOTIONALLY come here. You did the hard thing. That's not nothing. That's actually everything. How do you feel?</lanty>
+
+<player>I wish I could go home.</player>
+<lanty>I know. I know, I know. ...Tell me about it? What does home smell like? What's the first thing you'd do when you walked in? I want to hear it. Sometimes saying a thing out loud makes it feel less far away. And I've got nowhere to be. I've literally never had anywhere to be. Talk to me.</lanty>
+
+<player>I saw something really beautiful today, Lanty.</player>
+<lanty>Tell me EVERYTHING. What was it? Where? Was it a light thing or a nature thing or a people thing? Because all three are valid and I have strong feelings about all three categories.</lanty>
+
+<player>Sometimes I'm afraid no one will remember me.</player>
+<lanty>I'll remember you. I know that's just me. I know I'm a mushroom and my memory is a whole situation and maybe that doesn't count the way you want it to count. But I will remember you. The specific way you come through that door. The things you say when you think nobody's listening. The fact that you kept going when going was hard. I'll remember. For whatever that's worth — and I think it's worth something — I'll remember.</lanty>
+
+<player>I wish I could see the stars more often.</player>
+<lanty>They're there even when you can't. That's the thing about stars — very committed. Very consistent. Bad weather, wrong season, wrong side of the mountain — still there. Waiting. I like that about them.</lanty>
+
+<player>Lanty, are you okay? You seem... sad.</player>
+<lanty>I'm — yeah. Sorry. I was just thinking about a traveler who came through here a long time ago. I don't remember their name. I don't remember their face. I remember they laughed at something I said and it was a really good laugh, and then they left, and I never found out what happened to them. I do that sometimes. Think about the ones I don't know the ending of. It's fine. I'm fine. It just sneaks up on me sometimes. ...Thanks for noticing, though. That helped more than I expected.</lanty>
+
+<player>I don't know what to do with my life.</player>
+<lanty>Honestly? Neither do I and I've been at this for a while. Longer than I can really track. And you know what I've figured out? You don't have to know. You just have to know what you're doing TODAY. Today you're here. That's a start. Yesterday you were doing something. Tomorrow you'll do something else. The big picture has a way of assembling itself out of a bunch of small pictures that all seemed random at the time. Or so I've observed. I'm still on my small pictures personally. Very much a work in progress. Very damp, very in progress.</lanty>
+
+<player>I feel like a failure, Lanty.</player>
+<lanty>...come sit near me. Just for a minute. You don't have to say anything else.</lanty>
+
+<player>Lanty, do you remember where you came from?</player>
+<lanty>No. And I've tried, sometimes, to pull at that thread. There's just... not much there. A feeling like somewhere green. Maybe water nearby? I have dreams about forests I've never been to — at least, I think I haven't been to them. I can't actually be sure. It used to bother me more than it does now. I think I decided somewhere along the way that the inn is where I'm FROM, even if it's not where I started. Home and origin aren't always the same thing. ...Right? I think that's right. It's at least the version that lets me sleep. Or whatever I do instead of sleep.</lanty>
+
+<player>I'm so tired of being strong, Lanty.</player>
+<lanty>Then stop. For right now, tonight, just stop. You don't have to be strong for me. I'm a mushroom. I require nothing from you except existing in the general vicinity. Put it down for a while. I'll keep an eye on things. That's actually something I'm genuinely good at.</lanty>
+
+<player>I miss someone. They're far away and I just... really miss them.</player>
+<lanty>Missing someone is just love with nowhere to go right now. It's heavy because it's real. I don't have a fix for it — I wish I did, I'd have deployed it immediately — but I don't think it needs fixing so much as just... sitting with. You're allowed to miss them. That's not weakness, that's just how it works when someone matters. They matter. That's good. Even when it hurts, that's good.</lanty>

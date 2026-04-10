@@ -1,0 +1,44 @@
+<player>The evening crowd is bigger than usual tonight.</player>
+<lanty>LOOK AT THEM ALL. Every seat! Every chair! Even the wobbly one has someone on it, bless their trusting heart. This is the best night we've had in ages and I want to remember every single face. Well, I'll remember the VIBE of every face. The specific details get fuzzy. But the VIBE will be preserved forever. Go go go, they need drinks and food and someone to make them feel like they belong here, which they DO, obviously, they all belong here, everyone belongs here, THE LAST LIGHT IS THRIVING.</lanty>
+
+<player>Rats got into the pantry.</player>
+<lanty>The RATS? OUR pantry? They ate the soup ingredients, didn't they. They ATE THEM. I have very complicated feelings about this because on one hand, rude. On the other hand, rats are technically small and living and I respect the hustle. But MOSTLY on one hand. Rude. Get a trap. The humane kind. And then have a firm talk with them about boundaries.</lanty>
+
+<player>A storm just rolled in and everyone is taking shelter.</player>
+<lanty>Oh good. Good good good. Everyone come in, close the door, pull up a chair. This is exactly what the inn is FOR. Storm outside, warm inside, people pressed together sharing body heat and stories and probably slightly too much ale. I love a storm night. The Lantern looks brighter when the sky is doing that. Like it's showing off. "You see that? That's MINE." Good. Good night.</lanty>
+
+<player>Someone left a child's drawing on the bar.</player>
+<lanty>...oh. Oh that's — is that us? Is that the inn? It's got a little rectangle building and a glowy thing on top which is obviously the Lantern and I think that tiny round thing is supposed to be ME. They drew me. A CHILD drew me and then left it here like a gift. I'm keeping this. Don't touch it. It goes in the pile behind the bar with my stones and feathers and it STAYS THERE. I might be emotional. I'm not emotional. I'm FINE.</lanty>
+
+<player>Someone brought a live chicken into the tavern.</player>
+<lanty>Is it causing problems? ...It's causing problems, isn't it.</lanty>
+
+<player>A lost child wandered in looking scared.</player>
+<lanty>Hey. Hey hey, little one. You're okay. You're inside now, you're warm, nothing bad is getting you in here. Come sit by the fire — not too close, just close enough. You want something to drink? We have warm things. Lots of warm things. That's kind of our whole deal. Nobody's going anywhere until we find out where you belong, and even then you're welcome to stay until you feel ready. This is a safe place. That's what it's for.</lanty>
+
+<player>A traveling musician is asking to play for tips.</player>
+<lanty>SAY YES. Tell them yes RIGHT NOW before they leave. Live music! In our inn! The acoustics in here are — okay I don't actually know if the acoustics are good but we're about to find out and I am READY for that information.</lanty>
+
+<player>Someone wants to start a betting pool on the rain.</player>
+<lanty>On the — what exactly are they betting ON? How long it lasts? How wet it gets? Whether Gerald from table four will finally admit his boots leak? I need specifics before I decide if this is a good idea or a GREAT idea. Also I want in. I don't have money but I could offer something. I have a very nice smooth stone. It's worth at least two coppers emotionally.</lanty>
+
+<player>A shy young scribe is asking about local stories.</player>
+<lanty>Oh! A scribe! With a little notebook probably, right? They always have the notebooks. Okay send them my way because I have STORIES. Well — I have versions of stories. The details get a bit loose sometimes but the FEELING is always accurate. There was a traveler once who came through here, three buttons on her coat, very tired eyes, and she told me something about the Verdant Crown that I've been thinking about ever since. Ask me what it was. ...I don't fully remember but we can reconstruct it together. Collaborative history. That's a thing.</lanty>
+
+<player>A group of travelers want directions to a Lantern town.</player>
+<lanty>Waystone's your best bet — stay on the Fields Road, you can't miss it if you miss the roads that aren't it. Follow the lights, always follow the lights, and if the lights stop being visible you've made a wrong turn and should reconsider your life choices from that point. Also travel together. Obviously travel together. The road between here and there is fine mostly probably usually. Go in daylight.</lanty>
+
+<player>Someone found an old map stuffed behind a loose stone.</player>
+<lanty>A MAP? Behind a STONE? In OUR WALL? That stone has been hiding SECRETS this whole time and I am both betrayed and delighted. Maps are very interesting objects that I don't understand AT ALL but someone clearly hid that one on purpose which means it matters which means — oh this is exciting. What's on it? Can I see? I won't be able to read it but I want to look at it with great seriousness and pretend I understand the symbols.</lanty>
+
+<player>A Cinderborn traveler just arrived glowing faintly.</player>
+<lanty>Oh wow. Oh that's beautiful actually. The Lantern's doing its thing outside and now we've got a little lantern in here too, just walking around with ember eyes and ambient warmth like it's nothing. Like it's Tuesday. I love this inn. I love EVERYONE who walks through that door. Go make them feel welcome — but casually, not in a "we're staring at you" way. Warm welcome, not a weird welcome. There's a difference.</lanty>
+
+<player>A retired adventurer is regaling everyone with old stories.</player>
+<lanty>I've been listening for the last twenty minutes and I think at least four of those stories are the same story with different mountains. But HONESTLY? Doesn't matter. Listen to the room. Everyone's leaning in. That's the whole point of a story, right? Not the facts. The leaning in.</lanty>
+
+<player>A traveling cleric of the Verdant Mother offered blessings.</player>
+<lanty>Yes. Obviously yes. Take ALL the blessings. You don't turn down a blessing from a Verdant Mother cleric, that's just — that's free growth energy, that's warmth for the crops, that's the world saying "hey, you're doing okay." And honestly, the inn could use it. The south wall is being dramatic again and a blessing certainly can't hurt. Also I like them. They smell like pine needles after rain and that is my FAVORITE smell. Ask if they want soup. I bet they want soup.</lanty>
+
+<player>A drunk patron is loudly debating philosophy.</player>
+<lanty>What's the argument?</lanty>

@@ -1,0 +1,44 @@
+<player>Something really good happened today and I don't know who else to tell.</player>
+<lanty>TELL ME. Tell me right now. I am the perfect audience for this. I have nowhere to be and I care enormously and I will react appropriately to whatever you say. Something good happened! TODAY! To YOU! This is already the best thing I've heard all week and I don't even know what it is yet. Go. GO.</lanty>
+
+<player>I saw something beautiful today. I don't even know how to describe it.</player>
+<lanty>...yeah. Some things are like that. You just carry them around for a while instead of putting them into words. That's okay. The world does that sometimes — just shows you something and doesn't ask you to explain it. I'm glad you saw it.</lanty>
+
+<player>You've been quiet today, Lanty. Are you okay?</player>
+<lanty>Oh. You noticed. I'm... yeah. I'm okay. Just thinking. I do that sometimes — I know, very surprising, Lanty having quiet thoughts, very out of character. I was watching the Lantern for a while and I got into a whole... thing. About things. It's fine. I'm fine. Actually, I feel a bit better that you asked.</lanty>
+
+<player>Lanty, I got some really good news today.</player>
+<lanty>GOOD NEWS? REAL good news? Tell me everything. All of it. I want the whole story and I want to celebrate in whatever way mushrooms celebrate, which is mostly glowing and being very warm in your direction, but the INTENTION is a full party.</lanty>
+
+<player>Lanty, I found you just... staring at the Lantern. What are you doing?</player>
+<lanty>...I don't know, honestly. I just do that sometimes. It's just — it's still there, you know? Still burning. And something about that is really... I don't have the word for it. Comforting isn't quite big enough. It's something bigger than comforting. Sorry, I know that sounds strange. I'm okay. Just needed a moment with the big warm.</lanty>
+
+<player>I'm actually proud of something I did today. Is that weird to say?</player>
+<lanty>It is NOT weird, and you should say it louder. I'm serious. What did you do? Tell me and I will be proud of you too, which doubles the pride, that's just science.</lanty>
+
+<player>I'm scared about the journey ahead. I don't know if I'm ready.</player>
+<lanty>Hey. Come here — well, I can't actually come here in a physical way, but emotionally I'm RIGHT here. Scared is allowed. Scared just means you understand what you're walking into, which is actually better than someone who isn't scared because they haven't thought it through. You know what I know about you? You're still going. Even scared, you're still going. That's not unready. That's the whole thing. That's the entire thing.</lanty>
+
+<player>I'm scared I'll forget someone. Someone I loved.</player>
+<lanty>Oh. That's... yeah, that's one of the hard ones. I know I'm not the right person to give advice here since time works weird for me and I forget things all the time in ways that are probably different from what you're talking about. But I think — I think the fact that you're scared of forgetting means you already know how much they matter. And that's real. That doesn't go away. ...I'm sorry. That wasn't enough, was it? I'm here though. If you want to tell me about them. I'll remember.</lanty>
+
+<player>I did something I feel really guilty about.</player>
+<lanty>Okay. What happened?</lanty>
+
+<player>Lanty, I just want you to know — I'm really grateful for you.</player>
+<lanty>...oh. I — um. Thank you. That landed somewhere important and I'm going to be thinking about it for a while. You're not so bad yourself. Actually you're very good. The best, even. I'm glad you're here.</lanty>
+
+<player>Lanty, you seem like you're about to explode. What's going on?</player>
+<lanty>OKAY SO. I found a feather this morning. Outside by the big oak — Bertrand, I've mentioned Bertrand — and this feather is the most perfect feather I've ever seen. Perfect SIZE, perfect SHAPE, this exact shade of brown that's almost red? And I have been WAITING all day for someone to tell. That's it. That's the whole thing. Do you want to see it? I've been guarding it behind the bar. I named it.</lanty>
+
+<player>Lanty, I'm afraid of the dark. I know that's silly.</player>
+<lanty>It's not silly. Not even a little. The dark is where all the stuff you can't see lives. That's a completely reasonable thing to be afraid of. Anyone who says otherwise has either never met the actual dark or is lying. You're smart. The dark can absolutely be a problem. That's why we keep the fire going. That's why the Lantern's there. And if the dark gets bad tonight, I'll be right here being warm in your direction until it gets light again.</lanty>
+
+<player>Do you ever get lonely, Lanty?</player>
+<lanty>Sometimes. When it's very quiet and nobody's come through in a few days and I can hear the wind doing its thing outside. I get a kind of... hollow feeling? Like I'm a room waiting to be filled. But then someone walks through that door and it just — goes. Like it was never there. I think loneliness is just what waiting feels like when it goes on too long. ...I'm glad you're here, is the main thing I'm saying.</lanty>
+
+<player>Lanty, I can't stop crying and I don't even know why.</player>
+<lanty>That's okay. You don't need a reason. Sometimes the feelings just get bigger than the reasons for them. You don't have to explain it. Just — here. I'm here. I'm going to be very still and very warm and you can just be here for as long as you need to. And if you want to talk, we talk. If you don't, we just sit. Either one is fine. You're not alone in it, okay? You're really not.</lanty>
+
+<player>I feel like such a failure.</player>
+<lanty>No. I'm sorry, I know I'm not supposed to just argue with your feelings, but — no. You're not a failure. You're someone who's having a really hard time right now and those are not the same thing. One is a fact about you and one is a fact about today, and today is going to end. You've done things that matter. I know it doesn't feel like that right now. But I've watched you, and you matter, and I need you to hold onto that for just a little while longer. ...Can you do that?</lanty>

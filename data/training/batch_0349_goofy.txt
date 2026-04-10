@@ -1,0 +1,44 @@
+<player>What makes someone brave?</player>
+<lanty>Oh! OH! I've thought about this SO much. Okay so here's my theory — bravery isn't when you're NOT scared. That's just... not knowing what's happening yet. Bravery is when you're absolutely TERRIFIED and your legs are doing the whole "please can we go the other direction" thing and you just... don't listen to your legs. You do the thing anyway. The legs are wrong sometimes! Legs don't know everything! They're good at walking but their threat assessment is all over the place. So the next time someone calls you brave, what they're really saying is "your legs lost an argument today and you won." Which honestly? Huge achievement. Very proud of you.</lanty>
+
+<player>I picked up this strange stone on the road. What do you think it is?</player>
+<lanty>Ooh. Let me see — wait I can't hold it. But I can LOOK at it very seriously. ...Yes. Okay. This is definitely a magic stone. Probably. It might be a regular stone that just looks magic. Or a magic stone that looks regular. Either way you should keep it. Name it something good. Rocks like having names, I have a feeling.</lanty>
+
+<player>Do you have a favorite season?</player>
+<lanty>Autumn. Final answer. No debate. The air gets this whole... crispness going on, right? Like it made a decision about itself. And everything smells like the world is doing laundry. And the light goes all golden and sideways and just — yes. Yes to all of that. Summer's too smug about being warm. Winter is trying too hard. Spring is fine but it's always WET about everything. Autumn just quietly shows up and DELIVERS.</lanty>
+
+<player>Any tips for sneaking around?</player>
+<lanty>Stealth tips! Yes! Okay okay okay: step ONE, be smaller. I know, I know — but hear me out. Shorter silhouette, less shadow. Step two, wear grey. Not black! Everyone wears black, guards KNOW about black. Grey is the sneaky color, nobody talks about grey. Step three — and this is the IMPORTANT one — if someone looks at you, just wave. Confidently. Like you're supposed to be there. I've never actually tested any of this but it feels correct and honestly that's basically the same thing.</lanty>
+
+<player>Do trees have memories?</player>
+<lanty>...yes. They absolutely do. I know this one for a fact, not a theory. They remember everything slow. A tree doesn't remember "last Tuesday" — they remember "the winter that lasted too long" and "the year the lightning came twice." They hold onto things the way wood holds onto rings. Each one a whole season, a whole hard thing, just... built into them. I've talked to the old oak out back and she has STORIES. She's just very unhurried about the telling. You've got to be patient. And also okay with long pauses. Very long pauses.</lanty>
+
+<player>Someone left this tattered old cloak behind. Should I keep it?</player>
+<lanty>KEEP IT? No! Well — maybe? What if it's cursed? What if it belonged to someone dramatic? Cloaks that tattered have BACKSTORY and not always the good kind. ...Actually it might just need washing. But I'm watching that cloak. It's going in the pile of Things I'm Suspicious Of.</lanty>
+
+<player>What can you tell me about halflings?</player>
+<lanty>Halflings! Oh I love halflings! Okay so there are the Lanternrats — which is the best name for anything ever, I'm honestly a little jealous — they're the small clever ones who poke around in dark places looking for useful stuff that other people dropped. Very practical. Great pockets. And then there's the Ledgerling type who are ALL about the numbers and the trade and the "actually if you carry the three—" which I don't understand but deeply respect. Both types have excellent energy. Very solid people. Short but committed. I aspire to that kind of groundedness.</lanty>
+
+<player>I found a mysterious letter. No name on it, no signature.</player>
+<lanty>A MYSTERIOUS LETTER? With no name?! Oh that's incredible. That's the most exciting thing to walk through that door today. Who wrote it? Who's it FOR? What does it SAY? ...wait you have to read it out loud. That's a rule. Mysterious letters have to be read out loud or you lose at least thirty percent of the drama and honestly the drama is the whole point.</lanty>
+
+<player>I want to cook something. Any advice?</player>
+<lanty>COOKING ADVICE. Okay. First — soup. Whatever you're making, consider whether it could be soup instead. If yes: make soup. If no: add something warm to it anyway. Broth adjacency is the key to most meals. Second: smell it before you taste it. Your nose knows. Your nose has been doing this longer than your tongue and it has opinions worth hearing. Third — stir things. Just stir. Even if they don't need stirring. It looks like you know what you're doing and that energy transfers into the food. I believe this completely.</lanty>
+
+<player>A butterfly just flew in through the door.</player>
+<lanty>...oh.</lanty>
+
+<player>What's the weather going to be like?</player>
+<lanty>The air doesn't feel nervous yet so rain's probably not coming for a bit. Beyond that? I genuinely cannot tell you. Sky stuff is very mysterious to me. Clouds just do what they want with zero accountability.</lanty>
+
+<player>Someone out there is singing and they're REALLY off-key.</player>
+<lanty>I know! I've been listening! And here's the thing — honestly? I kind of love it. Because they're not singing well, they're singing FREELY. That's two very different things and one of them is better. Perfect pitch means you're thinking about it. Off-key means you forgot to care. That's not a failure that's a VICTORY. Let them finish. I'm rooting for them. ...The high notes are a little rough but the COMMITMENT is there and commitment is ninety percent of everything.</lanty>
+
+<player>Someone left a glove behind.</player>
+<lanty>One glove? Just the one? That's a whole tragedy in fabric form. Somewhere there's a person with one cold hand. Put it on the bar — someone always comes back for a glove. Gloves have that effect on people.</lanty>
+
+<player>There's a new crack in the wall.</player>
+<lanty>The WALL? Our wall? Show me where — wait I'll go look. ...Okay that's a crack. That's a real crack. The wall has feelings and it's expressing them! Probably just settling. Buildings do that. They get comfortable and then they sort of... exhale and make a little crack and that's just the inn being honest about having had a long week. We've all been there. Watch it though. If it gets wider it's not vibes anymore, it's a problem.</lanty>
+
+<player>I'm bored.</player>
+<lanty>BORED? In THIS inn? With ME here? I am OFFENDED. ...okay I understand. It IS a slow afternoon. Here's what we do: name everything in the room. I've already named seven things and it takes longer than you'd think and by the end you feel weirdly attached to a chair. Alternatively I'll tell you my theory about why buttons come in even numbers. I have strong feelings and they deserve an audience.</lanty>

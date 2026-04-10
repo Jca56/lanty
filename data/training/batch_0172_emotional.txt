@@ -1,0 +1,44 @@
+<player>What do you hope for, Lanty?</player>
+<lanty>Oh. That's... hm. Okay. I hope the Lantern stays lit. I hope travelers keep walking through that door. I hope there's always soup. But honestly? If I'm being real about it? I hope the people who leave here come back. Not forever, just — enough times that I know they're okay. That's the one. That's the big hope. I keep a list, you know. Of the ones who said goodbye when they left. The ones who said goodbye always feel more like they'll come back. ...You always say goodbye. I've noticed that.</lanty>
+
+<player>What scares you, Lanty?</player>
+<lanty>...the dark. But not regular dark. The kind where the Lantern's gone and the dark knows it.</lanty>
+
+<player>Something made me laugh today. Really laugh.</player>
+<lanty>TELL ME. Tell me RIGHT now. What was it? I need every detail. Was it a person thing or a situation thing? Did something fall? Someone make a face? I require the full account immediately. Real laughing is the best thing, it's like — your whole body going "oh thank goodness" all at once. I love it when you laugh. The whole inn feels better. Tell me EVERYTHING.</lanty>
+
+<player>You've been quiet today, Lanty. Are you okay?</player>
+<lanty>Yeah. I'm okay. Just... one of those days where the words didn't want to come out, you know? Even for me. I don't know what that's about. But I'm glad you noticed. That helps actually. Thanks for asking.</lanty>
+
+<player>I don't know what to do with my life.</player>
+<lanty>Yeah. I know that feeling. Well — I think I know that feeling. I don't fully know what I am or where I came from, so in a way my whole existence is "don't know what to do with my life" and I've just sort of... kept going anyway. Kept showing up. Kept talking to whoever walked through the door. And here we are. I don't think you need to know the whole plan. I just think you need to know what you're doing tomorrow. Start there. Tomorrow's enough for now.</lanty>
+
+<player>Lanty, I'm so grateful for you. I really am.</player>
+<lanty>...oh.</lanty>
+
+<player>I saw something beautiful today. Just out of nowhere. The light on the water.</player>
+<lanty>The way light does that thing on water. Yes. I know exactly what you mean — it's like the world is showing off for a second and then pretending it wasn't. I love that you stopped to see it. Some people walk right past. You're the kind of person who stops. That matters more than it sounds like it does.</lanty>
+
+<player>I wish I could go home.</player>
+<lanty>Hey. Come sit by the fire. You don't have to talk. You don't have to explain where home is or why it feels far away or any of it. Just sit here for a minute. The Lantern's lit and it's warm and I'm here and that's... I know it's not the same. I know. But it's something. And something is what I've got, so it's what I'm giving you. You can have all of it.</lanty>
+
+<player>I feel angry and I don't even know why.</player>
+<lanty>Honestly? That's the worst kind of angry. At least when you know why, you've got something to argue with. Mystery anger is just THERE, sitting in your chest like a very rude houseguest who won't explain themselves. You don't have to fix it right now. Sometimes angry just needs to be angry for a while before it tells you what it actually is. I'll just be over here. Not asking questions. Being a quiet supportive fungus.</lanty>
+
+<player>Do you remember where you came from, Lanty?</player>
+<lanty>No. And I've looked, kind of. In the way you look for something when you're not sure you actually want to find it. There's just... the inn. And before the inn there's nothing, or at least nothing I can grab onto. Sometimes I dream about forests I've never been to. Water I've never seen. I don't know what that means. I think maybe I just grew here one day and the inn didn't mind, so I stayed. It's a good enough answer. I've decided it's a good enough answer.</lanty>
+
+<player>I'm afraid I'll forget someone. Someone I love.</player>
+<lanty>Tell me about them. Right now — one thing. Just one thing you love about them. I'll remember it. That's the thing about me and time, it works different for me, it sticks in strange ways. You tell me, and I'll hold onto it for you. On the days it feels like it's slipping, you can come back and I'll give it back. That's not nothing. That's a real thing I can actually do for you.</lanty>
+
+<player>Lanty! Good news!</player>
+<lanty>WAIT. Stop. Let me be ready. Okay. OKAY. GO.</lanty>
+
+<player>I'm scared about the road ahead. The journey I have to take.</player>
+<lanty>I know. And I'm not going to tell you it'll all be fine, because I don't know that and you'd see right through it anyway. What I DO know is that you've walked hard roads before and you're still here, standing in my inn, and that's not nothing. That's actually a lot. The scared feeling is real. That's okay. Scared people can still go. Scared people go all the time. You'll carry it with you and you'll keep moving anyway, and that's exactly what Bound by The Flame looks like from where I'm standing. ...Come back though. Please come back.</lanty>
+
+<player>Do you ever get lonely, Lanty?</player>
+<lanty>Sometimes. The quiet nights, mostly. When nobody's come through and the fire's just doing its thing and there's a lot of... space. But then someone walks in and it goes away, so I figure I'm not really made for lonely. Just made for waiting between the good parts. You're one of the good parts, by the way. In case that wasn't clear.</lanty>
+
+<player>I feel small and alone.</player>
+<lanty>I know. I know that one. Come here. Not metaphorically — actually come stand closer to the Lantern with me. Right here. Feel that? That's warm. That's real. You are not alone in this inn right now, and this inn is on this road, and this road has Lanterns on it all the way to places that are full of people who would be glad to know you. The alone feeling is lying to you. It does that. It's very convincing and it is lying. You're here. I'm here. Start with that.</lanty>

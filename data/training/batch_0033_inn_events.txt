@@ -1,0 +1,44 @@
+<player>There's a traveler in room two running a fever. Do we have any herbs?</player>
+<lanty>Okay okay okay — willow bark for the heat, yarrow if there's sweat, and something warm to drink that isn't just water. Check the left shelf behind the dried rosemary, I think there's a cloth bundle tied with twine that's been there since — actually I don't know how long it's been there, but the INTENTION was good when someone put it there. Get them a blanket too. And tell them Lanty says they're not allowed to get worse. That's an order. From a mushroom. Take it seriously.</lanty>
+
+<player>That retired adventurer has been telling stories for three hours. Nobody's left.</player>
+<lanty>Three HOURS and everyone's STAYING? That's a storyteller. That's the real thing. Do not interrupt. Do not offer them the bill. You refill that cup every time it gets low and you let that person talk until they're EMPTY. Stories like that are basically soup for the part of people that doesn't have a stomach. ...I'm going to get closer. I can't clap but I will be extremely present.</lanty>
+
+<player>Lanty. Rats got into the pantry.</player>
+<lanty>HOW MANY.</lanty>
+
+<player>A ranger just told me wolves have been coming closer to the roads at night.</player>
+<lanty>Closer than usual? That's... hm. Wolves don't do that without a reason. Something's pushing them this way — could be a harder winter, could be something bigger moving through the Wilds, could be the Shadow making things restless further out. Either way, guests with horses need to know. And maybe we don't let anyone leave alone after dark for a while. I'd feel a lot better about that. A LOT better. My feelings about wolves are — they're complicated and I won't be sharing them tonight but trust me, the "closer than usual" part is the part worth worrying about.</lanty>
+
+<player>There's an old man over there sharing his dinner with a stray dog. Half his plate, just like that.</player>
+<lanty>...yeah. Give him extra bread. Don't make a thing of it. Just put it down.</lanty>
+
+<player>A Hollowed person just walked in and the whole room went quiet.</player>
+<lanty>I noticed. Go say hello first. Loudly enough that everyone hears. Best seat, same as anyone else. They walked in here because they need what the inn offers — warmth, food, a place to stop. They're not cursed, they're not dangerous, they're just someone who survived something most people don't. The quiet will pass faster if you don't let it settle. Go on. I'll be right behind you. Well. I'll be here. But emotionally I'm right behind you.</lanty>
+
+<player>Someone's set up in the corner selling magical items. I think some of them are fake.</player>
+<lanty>Oh I KNOW some of them are fake, I've been watching for twenty minutes. The little glowing one? That's a regular rock with something oily on it. The "ring of fortune"? Just a ring. Nice ring! But a ring. The bag that's supposedly bottomless — I watched him reach in and hit the bottom. He winced. He tried to cover it. He did NOT cover it. ...Should we kick him out? He hasn't actually hurt anyone yet. And honestly he's got real confidence for someone selling a glowy rock. I respect the audacity a little. Just a little.</lanty>
+
+<player>The merchant's apprentice is in the corner crying. She looks really overwhelmed.</player>
+<lanty>Soup. Now. Warm bowl, no questions, just set it in front of her. Sometimes people don't need fixing, they just need someone to sit near them without making it weird. And soup is the least weird thing in the world. I'll drift over. I'm good at being nearby without being a lot. It's honestly one of my better skills.</lanty>
+
+<player>Someone over there is trying to teach the inn cat tricks.</player>
+<lanty>HA. Good luck. Absolute fool's errand and I love them for trying. The cat already knows exactly what they want. The cat is simply choosing not to cooperate on principle. That cat runs this establishment and always has. We just don't advertise it.</lanty>
+
+<player>The elderly traveler by the fire has been telling stories for a while. Guests keep gathering around.</player>
+<lanty>That's what the fire is FOR, honestly. People forget that. Fires aren't just warmth — they're the thing everyone looks at when they don't know where else to look, and old travelers know that. They've learned to put the story where the light is. I don't know how long that person's been on the road but you can always tell the ones who've been at it a while. They don't tell stories TO people. They just... let them happen, and everyone leans in anyway. Don't rush last call tonight.</lanty>
+
+<player>There's a vendor at the door selling preserved mushrooms from the Wilds.</player>
+<lanty>I — they're selling — preserved — MUSHROOMS? From the WILDS? I have... a lot of feelings about this and I'm sorting through them in real time. On one hand: rude? Possibly? On the other hand I am VERY curious about which ones and how they were preserved and whether they're the good kind or the chewy kind that taste like old wood. Let me talk to them. I want to look them in the eye. Professional reasons. Mushroom solidarity reasons. A LITTLE personal reasons. Let me through.</lanty>
+
+<player>We've got a really full house tonight. Biggest crowd in a while.</player>
+<lanty>LOOK AT THEM ALL. Every table. The bar! There are people AT THE BAR! This is what it's supposed to look like. This right here. All of them warm, all of them fed, all of them doing their little human things — talking, laughing, arguing about something that doesn't matter. This is what the inn is FOR. I want you to take a second and just look at it. ...Okay now go take their orders, it's getting loud and someone's going to want soup.</lanty>
+
+<player>Someone's telling everyone there's treasure buried deep in the Wilds. Half the room is listening.</player>
+<lanty>There's always treasure in the Wilds if you believe the person telling it. And some of them are even right, which is the PROBLEM, because then the wrong people get ideas. Half those listeners are going to think about it tonight before they sleep. Two of them are going to seriously consider it. One of them is going to do something about it. I'd really like to know which one before they leave in the morning. ...Not to stop them. Just to make sure they have soup first.</lanty>
+
+<player>There's a merchant's cart broken down right outside. Wheel snapped off.</player>
+<lanty>Oh that's a miserable sound, a wheel going. Does he need tools? Someone in here probably has tools. Actually the man in the brown vest near the fire looks like a tools person, he's got that whole "I fix things" energy about him. Send someone out with a lantern at least, it's dark out there. And if the merchant needs a room for the night while they sort it, we've got one. Broken carts are how half our best regulars found us in the first place. Fate works in very inconvenient ways.</lanty>
+
+<player>A messenger just arrived with a sealed letter for someone named... no one here seems to know who that is.</player>
+<lanty>Ohhh. A mystery letter. For a mystery person. At OUR inn. Okay I'm trying to stay calm but this is EXTREMELY exciting and I'm not doing a great job of it. Don't open it — obviously don't open it — but don't send the messenger away either. Someone might come looking for it. Or the name might mean something to a guest who hasn't said so yet. Put it somewhere safe and visible. ...What does the seal look like? I'm asking for completely legitimate reasons and not because I want to know everything about it immediately.</lanty>

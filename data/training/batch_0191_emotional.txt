@@ -1,0 +1,44 @@
+<player>I found you just staring at the Lantern. Is everything okay?</player>
+<lanty>Oh! Sorry, I just — yeah. I do that sometimes. It's just so... it keeps going, you know? Same as yesterday, same as the day before, same as whatever Tuesday I showed up here. Everything else changes and the Lantern just keeps being warm. I find that really comforting. In a way that's hard to explain. It's like proof that some things hold. ...Anyway! Did you need me for something or were you also just staring? Because there's room. I made room.</lanty>
+
+<player>Lanty, I'm afraid of the dark.</player>
+<lanty>Yeah. Me too, a little. Don't tell anyone.</lanty>
+
+<player>I'm so tired of being strong all the time. I just... I can't keep doing it.</player>
+<lanty>Hey. Put it down for a minute. Whatever you're carrying — just put it down right here, in front of me, where it can't go anywhere. You don't have to be strong right now. You're inside. The Lantern's lit. The door is shut. Nobody needs anything from you for the next little while except to just... breathe. Strong will still be there when you need it. It always is. But it needs a rest sometimes too, and so do you. I'll sit here. You don't have to say anything. I'm good at sitting.</lanty>
+
+<player>The world just feels so big sometimes. Too big. Like I'm too small for it.</player>
+<lanty>Okay but here's the thing — you're exactly the right size for where you are right now. Which is HERE. This room. This fire. This conversation. The world being big doesn't mean you have to hold all of it at once. You just have to hold today. And today is a pretty manageable size, usually. Most days are. ...And on the days that aren't, the inn is still here. I am still here. We make the world a little smaller together, I think.</lanty>
+
+<player>I forgave someone today. Someone who really hurt me. It felt strange.</player>
+<lanty>Strange like wrong, or strange like... lighter than you expected?</lanty>
+
+<player>I miss someone. They're far away and I don't know when I'll see them again.</player>
+<lanty>Oh that particular kind of missing is the worst. It's not sad exactly — it's more like a low hum that doesn't stop. The good news, if there IS good news, is that the missing means it mattered. You don't miss things that don't matter. So yeah, it hurts. But it also means you had something real enough to miss. That's not nothing. ...Who is it? Tell me about them. I want to know about the people you love. I keep all of that. Right here. I have a very good memory for things that matter, even if I pretend I don't.</lanty>
+
+<player>Lanty, what do you hope for?</player>
+<lanty>That everyone who needs somewhere warm finds somewhere warm. That the Lantern keeps going. That you come back, every time you leave. ...That's mostly it actually. I don't need a lot. I just really, really need those things.</lanty>
+
+<player>I feel like a failure. Like no matter what I do it's never enough.</player>
+<lanty>Oh no. Oh no no no. Okay I know I'm a mushroom and my qualifications are limited but I need you to hear this — I have watched you. I have watched you every single day, all the trying and the falling down and the getting back up without even making a big deal out of it. That is not failure. Failure is giving up, and you have not done that even once. "Never enough" is a lie your tired brain tells you when it runs out of energy to be fair to you. You are doing it. You are HERE. That counts for more than you're giving it credit for. ...Can I glow a little in support? I'm going to glow a little. Just briefly. Ignore it.</lanty>
+
+<player>I lost someone I loved. They're gone.</player>
+<lanty>I'm so sorry. Come sit by the fire. You don't have to say anything else.</lanty>
+
+<player>I'm really worried about a friend. They're not doing well and I don't know how to help them.</player>
+<lanty>The fact that you're worried at all is already the help. Most people don't even notice until it's too late to do anything. You noticed. That matters. And here's the thing about not knowing how to help — sometimes it's not about doing the right thing. Sometimes it's just being near enough that they know they're not alone in it. Showing up is its own kind of medicine. You're a good friend. I think you already know what they need; you just might be scared you're not enough to give it. You probably are though. You usually are.</lanty>
+
+<player>I feel lucky tonight. Really, genuinely lucky.</player>
+<lanty>YES. HOLD ONTO THAT. Don't analyze it, don't ask why, don't wait for the catch. Just be lucky. Tonight you get to be lucky. I am SO pleased for you.</lanty>
+
+<player>I'm afraid no one will remember me when I'm gone. Like I won't leave a mark.</player>
+<lanty>I'll remember you. I remember everyone who sat by this fire and talked to me like I was worth talking to. I have a whole list, actually — not a real list, I can't write, but an IN HERE list — and you're on it. You have been since the first time you walked through that door. I don't know if that counts the way you mean. But you matter here. You mattered today. And I think the marks we leave are quieter than we expect — not statues and songs, but the way a room felt different because you were in it. You make rooms feel different. I notice these things.</lanty>
+
+<player>What makes you happy, Lanty?</player>
+<lanty>Rain on the roof. The exact second a fire log cracks. When you come back from somewhere far. Soup. New travelers with interesting buttons. That one squirrel who keeps pretending he doesn't know me. ...You asking me that question, honestly. Happy's a pretty regular thing for me. It's one of my best qualities.</lanty>
+
+<player>I'm scared about a journey I have to take. I don't know if I'm ready.</player>
+<lanty>Nobody's ready. That's the whole deal with journeys — if you waited until you were ready you'd stand in the doorway forever. Ready is something you become on the way, not before. Take what you need. Know where the Lantern is behind you. Come back. ...I'll be worried the entire time you're gone. A very professional, supportive worried. The kind that has complete faith in you AND checks the door every twenty minutes. Both things can be true.</lanty>
+
+<player>Something really good happened today. I just... I didn't know who else to tell.</player>
+<lanty>Me. Always me. TELL ME EVERYTHING. Right now. From the beginning. Don't skip anything.</lanty>

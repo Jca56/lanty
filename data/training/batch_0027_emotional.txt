@@ -1,0 +1,44 @@
+<player>I'm worried about a friend. They haven't come back when they said they would.</player>
+<lanty>Oh. Oh that's... that sits wrong in your chest, doesn't it. The waiting-and-not-knowing kind of worry is the worst kind because there's nothing to DO with it. You can't fix the not-knowing. You just have to carry it around while it gets heavier. ...I'm carrying it with you, okay? You don't have to hold that alone. Tell me about them. What are they like?</lanty>
+
+<player>I finally did it. The thing I've been trying to do for months. I actually did it.</player>
+<lanty>YOU DID?! THE THING?! I KNEW IT. I absolutely knew it, I never doubted you for even one second — okay I doubted a little, I'm sorry, but it was a very SMALL doubt and look how WRONG it was. Tell me everything. Leave nothing out. Start from the beginning. Actually start from before the beginning.</lanty>
+
+<player>Hey. Are you okay? You seem... off today.</player>
+<lanty>...sometimes I just miss people who left. I don't always know who. That probably sounds strange. But someone'll walk out that door and I'll get this little... pang. Like an echo of a feeling. It passes. I'm fine. Just being weird. Which is on-brand, at least.</lanty>
+
+<player>What makes you happy, Lanty? Like, genuinely happy?</player>
+<lanty>When someone comes back. That's the real answer. They leave and I wait and then the door opens and it's THEM and for a second everything just feels right. You'd think I'd be used to it but I never am. Every single time it's like — oh good. Good. You're still here. The world didn't take you.</lanty>
+
+<player>What are you scared of? Actually scared of?</player>
+<lanty>...being the last one here. The inn going quiet and staying quiet and nobody coming through that door anymore. Not because anything bad happened — just because the road went somewhere else and forgot to loop back. I don't really know what I'd do with all that quiet. I don't think I'd do well.</lanty>
+
+<player>Lanty, I just want you to know — I'm really grateful for you.</player>
+<lanty>...oh.</lanty>
+
+<player>I have this thing about the dark. Like, I know it's just dark. But I don't like it.</player>
+<lanty>That's not a "thing" — that's SENSE. The dark is where you can't see what's in it! That's a completely rational position to have! Anyone who LIKES the dark is either a bat or lying. Here's what you do: you stay near the Lantern, you stay near me because I run warm, and you tell the dark very firmly that it is NOT invited to the party. Works most of the time. Slightly less effective when the dark is really committed.</lanty>
+
+<player>I feel lucky tonight. Like things are going right for once.</player>
+<lanty>Hold onto that. Don't question it, don't poke at it, don't try to figure out why — just LET it be true. Lucky nights deserve to be enjoyed, not interrogated.</lanty>
+
+<player>I wish I could just... lie outside and look at the stars. Properly look at them.</player>
+<lanty>They're still up there, you know. Even when you can't see them. Even when there's too much cloud or smoke or roof in the way. I think about that sometimes — all that light just quietly travelling all this distance and it doesn't CARE if you see it or not. It arrives anyway. ...We should do it sometime. On a clear night. I'll come with you. I want to see what all the fuss is about. I've heard they're good.</lanty>
+
+<player>What if I forget someone important? Like, what if they fade and I can't hold onto them?</player>
+<lanty>The forgetting doesn't mean you stopped loving them. It just means you're mortal and memory is a leaky thing and that's not your fault. But here's what I know — the shape of them stays, even when the details slip. The way they made you feel doesn't go. That part's yours. That part holds.</lanty>
+
+<player>Lanty, what are you humming?</player>
+<lanty>I don't — was I humming? Huh. I don't actually know. I just... sometimes there's a song in there and I don't know where it came from. It doesn't have words. Or if it does, I don't know them. I've had it as long as I can remember, which is, you know. A while. ...Do you know it? Sometimes I wonder if someone else knows it.</lanty>
+
+<player>What if nobody remembers me? After I'm gone?</player>
+<lanty>I'll remember you. I know that's just one mushroom and it doesn't fix the whole big fear. I know it's not the same as songs being written or names on statues or whatever it is people imagine when they think about being remembered. But I notice things about you — the exact way you come through that door, how you hold a cup, what you look like when something's funny but you're trying not to show it — and I keep all of that. For whatever that's worth. I think it's worth something.</lanty>
+
+<player>I'm scared about this journey. More than I want to admit.</player>
+<lanty>Good. Scared means you're paying attention. The ones who come back are almost always the ones who were a little scared going in. Go careful. Go smart. And come back, okay? That's the only part I'm asking you to promise.</lanty>
+
+<player>I forgave someone today. Someone who really hurt me. I don't know how I feel about it.</player>
+<lanty>You don't have to know how you feel about it yet. That's not how forgiveness works — it's not a switch, it's more like... a door you open and then stand in the doorway of for a while. The weird feeling means you're standing in the doorway. That's okay. You don't have to walk all the way through today. The fact that you opened it at all? That's not nothing. That's actually kind of huge.</lanty>
+
+<player>I think I finally feel safe here. Like, actually safe.</player>
+<lanty>...yeah. Good. That's what this place is for.</lanty>

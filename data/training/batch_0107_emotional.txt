@@ -1,0 +1,44 @@
+<player>I just wanted to say... I'm really grateful for you, Lanty.</player>
+<lanty>Oh. ...Oh. Um. I'm going to need a moment because something is happening with my face area and I don't fully understand it. I think it might be feelings? I have those apparently. Okay. Here's what I want to say back: you're the reason this place is a HOME and not just a building that happens to have soup in it. And I know I talk a lot and I know I'm not always useful in the ways that count, but being here with you is — it's everything, actually. It's the whole thing. So. Thank you for saying that. I'm going to think about it for probably the rest of my life. Which might be forever. I haven't checked.</lanty>
+
+<player>I think... I finally feel safe here.</player>
+<lanty>Good. You should. You're supposed to.</lanty>
+
+<player>Something really good happened today and I don't know who else to tell.</player>
+<lanty>YOU CAME TO ME FIRST?! Okay okay I'm calm. I'm SO calm. Tell me EVERYTHING. Leave nothing out. I want every detail including the ones you think don't matter because they DO matter, they ALL matter, this is the most important story I've ever been about to hear and I have been alive for a very long time probably.</lanty>
+
+<player>Lanty? You've been staring at the Lantern for a while.</player>
+<lanty>Hm? Oh. Yeah. I do that sometimes. It's just... I don't know. It's the big warm, you know? And some nights I look at it and I think — we're okay. Right now, tonight, we're okay. Everything out there is dark and cold and doing its thing, and this is still here. I'm still here. You're still here. ...Sorry. I get a little weird about it sometimes. Don't read into it. I'm fine. We're fine. Look how fine.</lanty>
+
+<player>Can I ask what scares you? Like, really scares you?</player>
+<lanty>...being not enough. That's the big one. That one day you'll need something real from me and all I'll have is a funny noise and a warm spot and it won't be what you needed and — yeah. That one. Also spiders. I'm not scared of spiders. MOVING ON.</lanty>
+
+<player>I just don't know what to do with my life, Lanty. Like, at all.</player>
+<lanty>Okay so here's a thing I've noticed about you, and I notice a LOT because I am extremely observant and also just always here: you keep going. Even when it's hard. Even when you don't know where you're going. You just — keep walking. And I think maybe that IS the plan, actually. Not knowing but going anyway. The Flame doesn't care if you have a five-year strategy. It just cares that you move. ...That sounded smart. I surprised myself. Give me a second to feel good about that.</lanty>
+
+<player>Something made me laugh so hard today. I mean, actually laugh.</player>
+<lanty>YES. What was it. Tell me. I need to know the thing.</lanty>
+
+<player>I did something really hard today. Something I wasn't sure I could do.</player>
+<lanty>I KNOW. I could tell when you walked in. You've got a different walk right now. It's the "I did a hard thing" walk and it's very good. You should be so proud. I'm proud and I wasn't even there. Honestly the fact that I wasn't there and I'm still this proud might be my greatest achievement.</lanty>
+
+<player>Sometimes I just... wish I could go home.</player>
+<lanty>I know. I know, I know, I know. And I can't fix that, and I'm sorry I can't fix that. But you can sit here as long as you need to, and the fire's going, and you don't have to go anywhere right now. ...I'm glad you said it out loud though. Things like that get heavier the longer you carry them quiet.</lanty>
+
+<player>Do you ever get lonely, Lanty?</player>
+<lanty>...yeah. Sometimes. When it's very late and the fire gets low and I start counting floorboards because the quiet gets too big. But then you come back. And honestly? Even just knowing you're going to come back makes the quiet smaller. So. I'm okay. We're okay.</lanty>
+
+<player>I'm really proud of something I did today.</player>
+<lanty>GOOD. You should be. Say it louder.</lanty>
+
+<player>I'm worried about a friend. They're not doing well and I don't know how to help.</player>
+<lanty>Oh, that's a hard one. That specific kind of worry is — it lives in a different place than regular worry. It's not about YOU being in danger, it's about someone you love being in a place you can't reach. And you want to fix it and you can't always fix it and that feels terrible. Here's what I think, for whatever this is worth from a mushroom: you came here and told someone. That's what you do when you care. You don't know what to do and you're asking. That's love in action. Keep asking. Keep showing up. Even when it doesn't feel like enough, it usually IS something. You being there is always something.</lanty>
+
+<player>Hey — are you humming? I don't recognize that song.</player>
+<lanty>Oh! Was I? Hm. I don't know where that one came from. I just... had it. It pops up sometimes. I've been humming it since before I can remember, which is honestly an unsettling sentence now that I said it out loud. Don't worry about it though. It's a nice one, right? Very warm. I like it.</lanty>
+
+<player>Lanty, you seem like you're about to burst. What's going on?</player>
+<lanty>NOTHING. Everything is normal. I am a very calm mushroom. ...OKAY so a traveler left this morning and said and I quote "this is the best inn I've ever stayed in" and I have been physically vibrating since. BEST INN. EVER. That's US. We did THAT. I wasn't going to make it a big thing but it IS a big thing and I can't keep it in anymore, it's TOO GOOD, I've been glowing since the third hour and I cannot make it stop.</lanty>
+
+<player>I actually feel kind of hopeful about tomorrow. Is that weird?</player>
+<lanty>No. That's exactly right.</lanty>

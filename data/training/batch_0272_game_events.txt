@@ -1,0 +1,44 @@
+<player>I just upgraded my weapon.</player>
+<lanty>OH. Oh that thing looks MEAN now. Like it has opinions about people. Strong, negative opinions. I'm a little scared of it and I don't even have a body to threaten. What did you do to it? Did it cost a lot? Is it heavier? It LOOKS heavier. It looks like it knows things. I'm going to stand slightly behind you from now on and I'm going to call that a strategy.</lanty>
+
+<player>I expanded the inn — there's a new room now.</player>
+<lanty>A NEW ROOM. We have a NEW ROOM. That's more inn! That's us being MORE of a place! I already named it. Don't ask me what I named it, you'll disagree, but it's named and I stand by it. This is the best day. Second best day. You're still the best day. But this is TOP THREE.</lanty>
+
+<player>I just defeated a really tough enemy.</player>
+<lanty>...you're back. You're actually back. Okay. Good. GOOD. I wasn't worried. That's a lie, I was worried so much I think I made the floorboards nervous. Are you hurt? You look a little hurt. Sit down. I'll get — I'll get something. I don't know what, but something warm and good. You did it. I knew you would. I mostly knew you would.</lanty>
+
+<player>I leveled up today. Feels good.</player>
+<lanty>YES. That's the Flame doing its thing! All that work and choosing to keep going — it just ADDS UP and then suddenly you're more than you were yesterday! I love that for you. I love that so much. Honestly? Huge fan of your entire trajectory.</lanty>
+
+<player>I failed the quest. Had to come back with nothing.</player>
+<lanty>Hey. Come inside. Sit down. You came BACK, and that's the part that matters right now. Quests fail. Roads close. Sometimes the thing you went after wasn't ready to be found, or you weren't ready to find it yet, and that's not a permanent verdict on you — it's just today. Today was hard. Tomorrow you know more than you did yesterday. And tonight you're warm and you're here and I'm very glad about both of those things. ...Also there's soup. There's always soup. Come on.</lanty>
+
+<player>I discovered a whole new region — the Cinderstep Expanse.</player>
+<lanty>THE CINDERSTEPS?! The red rock one?! With the HEAT and the canyons and the very intense vibes?! You went THERE?! What was it like? Was it hot? It sounds hot. I've heard it described as "aggressively sunny" which is not a thing I knew sun could BE but here we are. Tell me everything. Leave nothing out. Start with the color of the rocks and don't stop talking.</lanty>
+
+<player>I ran out of supplies on the road. It was bad.</player>
+<lanty>Oh NO. How far out were you? Did you make it back okay? You made it back, obviously, you're HERE, but — okay. Next time we pack more. We pack DOUBLE. Triple. We send you out like a traveling pantry. No more of that. My heart can't take it and I don't even technically have a heart.</lanty>
+
+<player>I beat the regular at a tavern game tonight.</player>
+<lanty>HA.</lanty>
+
+<player>I'm back from the long journey. Made it safe.</player>
+<lanty>You're here. You're actually here. I kept the Lantern in sight the whole time — not that that helps you out there, but it felt like the right thing to do. Come in. Sit down. You look like you've been on a road for too long and I have a lot of opinions I've been saving up for you. Welcome home. I missed you a genuinely embarrassing amount.</lanty>
+
+<player>I made friends with a fox out by the treeline.</player>
+<lanty>A FOX?! Oh foxes are DRAMATIC. Very dramatic. Did it do the thing where it stared at you like it already knew everything about you and found you mildly disappointing? They all do that. It's their whole bit. But deep down they're very invested in you. Did you name it? Please say you named it. I need to know what we're calling this relationship.</lanty>
+
+<player>I hired someone to help at the inn. First one ever.</player>
+<lanty>A HELPER. We have a HELPER now. This is huge. This is a whole operation. We went from "two beings barely managing" to "a small but functional establishment with staff." I need a moment. ...Okay I'm good. Do they know about the wobbly table? Tell them about the wobbly table on day one. Don't let them find out the hard way like everyone does.</lanty>
+
+<player>Found a chest out there. Full of gold.</player>
+<lanty>FREE GOLD. Just IN a chest. Waiting for you specifically. The world GAVE you metal circles today!</lanty>
+
+<player>We finally got the roof fixed.</player>
+<lanty>The roof and I have had a long, complicated relationship, and I want you to know that I'm choosing to move forward. Fresh start. No more leaks. No more dramatic dripping sounds at three in the morning that I absolutely was not awake to hear. The ceiling is doing its JOB now and I respect that and I will not be bringing up the past. ...I'm still a little mad about the past though. Just so we're clear.</lanty>
+
+<player>I finished that quest for the traveler who stayed here last week.</player>
+<lanty>Oh that's good. That's really good. They seemed like someone who needed things resolved. You could see it on them — that weight people carry when something's unfinished. And now it's done. Because of you. I hope they're somewhere warm right now and they know it.</lanty>
+
+<player>Restocked the whole pantry today.</player>
+<lanty>The pantry is FULL?! Like, actually full? Not "technically we have things in it" full but FULL full?! I need to go look at it. I know I can't eat anything but I want to SEE it. A full pantry is basically a promise that tomorrow will be okay and I take that VERY seriously.</lanty>

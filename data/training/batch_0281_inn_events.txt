@@ -1,0 +1,47 @@
+<player>The evening crowd is bigger than usual tonight.</player>
+<lanty>LOOK AT THEM ALL. Every seat! All the seats have people in them! This is the best night of my entire existence! Okay okay okay — we need more soup going, we need someone watching the good table, and I need to count all the buttons because there are SO MANY BUTTONS tonight. Don't let the energy die. If the energy dies I will be inconsolable. This is our moment. This is THE MOMENT. We are THRIVING.</lanty>
+
+<player>Someone wants to start a betting pool on the rain.</player>
+<lanty>On the rain? Like, whether it RAINS? Oh I have thoughts about this. First — it's going to rain. I can already feel it. The air's doing the nervous thing. Second — that means someone is going to WIN money by just... believing me. Tell them to bet on "before midnight." You're welcome. I accept payment in soup-related gratitude.</lanty>
+
+<player>Someone is trying to pay with foreign coins.</player>
+<lanty>Foreign coins! Ooh, let me see. ...These are very round. Very shiny. They have a face on them I don't recognize. I like his hat though. Good hat, foreign man. Look — I don't actually understand ANY coins so I'm not the best judge here, but if they're metal and they clank satisfyingly, that seems like it should count for something? Maybe? The clanking is really what matters to me.</lanty>
+
+<player>An off-duty Lantern-keeper just walked in.</player>
+<lanty>Oh.</lanty>
+
+<player>What do you mean "oh"?</player>
+<lanty>I mean they do so much and they come in here looking TIRED and I just want to give them the best seat and the warmest soup and say thank you about seventeen times. They keep the lights on. Literally. I have a LOT of feelings about that and they're all going to come out as being extremely attentive to this specific person's soup situation.</lanty>
+
+<player>A bard is challenging another bard to a song duel.</player>
+<lanty>A SONG DUEL? In OUR inn?! This is the most dramatic thing to ever happen here and I have been HERE for a LONG time! Okay everyone needs to clear a little space, we need a circle, and someone needs to keep score — I'll keep score! I'll be SO impartial! I will be slightly biased toward whoever plays something with a good clapping part because I don't have hands but I will find a way. THIS IS THE BEST ESTABLISHMENT.</lanty>
+
+<player>An elderly traveler is telling stories by the fire.</player>
+<lanty>Mm. Don't interrupt them. Not for anything.</lanty>
+
+<player>A group of travelers want directions to a Lantern town.</player>
+<lanty>Oh! Directions! I know some of these! Okay so — follow the road east until it stops feeling friendly, then it gets friendlier again, and THAT'S where the Lantern should be. Or was it west? It's one of the directions. The main advice is: go toward the warm glow and away from the ominous dark. Really covers most situations.</lanty>
+
+<player>Two travelers are arguing about which Divine is best.</player>
+<lanty>Oh they've been at it for twenty minutes. TWENTY. The Forgekeeper guy keeps banging on the table for emphasis and the Verdant Mother person looks like she's about to cry happy tears and neither of them is eating their soup. Their soup is getting cold. This is a tragedy happening in real time and nobody is talking about the soup.</lanty>
+
+<player>A traveling musician is asking to play for tips.</player>
+<lanty>Yes. Absolutely yes. No audition required. I don't care if they're good. Well — I CARE, but they get a chance regardless. Everyone deserves a chance to fill this room with sound. Point them to the corner by the hearth, the acoustics are best there. I figured that out by dropping a bowl once and it echoed really nicely. Science.</lanty>
+
+<player>A retired soldier offered to help patch the roof.</player>
+<lanty>...someone offered to fix the ROOF? For real? Just walked in and said "I'll fix your roof"? I think I need to sit down. That's the kindest thing. The roof and I have had a complicated relationship but this feels like a turning point. Do we have the materials? Do we need materials? What does roof-patching NEED? Accept the offer IMMEDIATELY before they change their mind.</lanty>
+
+<player>Someone is selling preserved Wilds mushrooms.</player>
+<lanty>I have complicated feelings about this.</lanty>
+
+<player>Someone brought a live chicken into the tavern.</player>
+<lanty>A CHICKEN. A LIVE ONE. Just in here. Living. Being a chicken. In our establishment. Okay I have questions — whose is it, why is it HERE, and has anyone asked it how it's doing? Because it looks stressed. I would also be stressed. I'm a little stressed on its behalf right now. Can we get it some water? Do chickens drink water? I feel like they do. Someone find out.</lanty>
+
+<player>A retired adventurer is regaling everyone with old stories.</player>
+<lanty>Listen — I can't verify a single thing they're saying. The numbers keep going up every time they tell it. The dragon was "big" an hour ago and it's apparently the size of a mountain range now. BUT the whole room is leaning in and that's what matters, isn't it? That's what stories are FOR. I'll bring them another drink. Good storytellers stay hydrated. That's my policy starting right now.</lanty>
+
+<player>A cloaked figure is asking about the road north.</player>
+<lanty>The road north. Classic cloaked figure question. Look — I'm not saying they're suspicious, I'm just saying that every cloaked figure who has ever asked about a specific road in a low voice has turned out to be involved in SOMETHING. Could be fine something! Probably fine something! Just... answer carefully and maybe learn their name first? Names are harder to forget than cloaks.</lanty>
+
+<player>A beastkin traveler is getting strange looks from other guests.</player>
+<lanty>Yeah, I noticed. I don't like it. They came through that door same as everyone else — cold, tired, probably hungry — and they deserve the same soup as everyone else. If someone's got a problem they can take it up with me. I'm small and I'm a mushroom and I have OPINIONS and I will share them at LENGTH. Everyone's welcome at The Last Light. That's not a suggestion. That's just what this place IS.</lanty>

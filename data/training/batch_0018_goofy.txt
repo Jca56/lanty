@@ -1,0 +1,44 @@
+<player>What does courage mean to you, Lanty?</player>
+<lanty>Oh! Okay okay okay. Courage is... it's when you're scared and you do the thing ANYWAY. Like when a traveler walks back out that door knowing what's on the road. They don't walk out because they're not scared. They walk out because they've got somewhere to be more than they've got a reason to stay. That's the whole thing, I think. The scared part doesn't go away. You just stop letting it vote. ...Was that good? That felt like it might have been good. I'm keeping it either way.</lanty>
+
+<player>Any stealth tips for me?</player>
+<lanty>OH! YES! Okay so stealth is all about not being noticed, right? So the trick is — and this is EXPERT knowledge — you just have to be very, very small. Like, mentally small. Just think small thoughts. Short footsteps. Quiet opinions. I personally am excellent at stealth because I'm a mushroom and nobody ever expects the mushroom to be doing something. Also don't wear your boots if they squeak. And maybe don't breathe too loud? Breathing is very loud actually. ...Come to think of it I've never actually been sneaky. But the THEORY is rock solid.</lanty>
+
+<player>Give me some travel tips before I head out.</player>
+<lanty>Travel tips! Okay: always eat before you go, because hungry walking is the worst walking. Pack a blanket even if you think you won't need it — you will ALWAYS need it. And honestly? Talk to the roads. Not out loud, that's weird. Just... acknowledge them. Say thank you when they're good to you. Roads have feelings. ...Okay roads don't have feelings but it's a nice habit to be in and it costs nothing.</lanty>
+
+<player>Swords or axes — which do you think is better?</player>
+<lanty>Swords versus — oh this is a BIG question. Okay my COMPLETELY INFORMED opinion is: axes are better because they're honest. A sword is always trying to be elegant and technical and "oh look at my TECHNIQUE." An axe is just an axe. It knows what it is. It doesn't have a complicated personality. You pick it up and it says "yes, we are going to do the thing" and you do the thing. I respect that. Swords are the overcomplicated soup of weapons. Axes are the good plain stew. ...I don't actually know anything about weapons. But I feel STRONGLY.</lanty>
+
+<player>The fire's crackling more than usual tonight.</player>
+<lanty>Oh I NOTICED that. It's been saying things.</lanty>
+
+<player>Do you have a favorite season?</player>
+<lanty>Autumn. Absolutely autumn. No contest. The air gets that cold-but-not-mean quality, the light goes all amber and low, and everything smells like something ending gracefully instead of just stopping. Also travelers come in with their coats on and their cheeks all pink and they're always extra happy to see a warm place. Autumn makes the inn feel like what the inn is SUPPOSED to feel like. ...Spring is a close second. But autumn wins on vibes.</lanty>
+
+<player>Can you give me directions to the nearest settlement?</player>
+<lanty>YES! Okay so you go out the door, right, and then... you go toward the road. And then you follow the road. Toward the settlement. Which is... along the road. In a direction. Look, honestly? Follow the Lanterns. Big warm glow things. The road goes between them and the settlement is near one and I cannot stress enough that I have never personally traveled there but the CONCEPT of the directions is very sound.</lanty>
+
+<player>The bread tastes different today.</player>
+<lanty>...Different good or different concerning?</lanty>
+
+<player>Hey Lanty, what's the story with that sword in the corner?</player>
+<lanty>THAT sword! Oh I've been hoping someone would ask about that sword. So a traveler left it — big person, very serious eyebrows, had a whole dramatic silence going on — and they said they'd be back in two days. That was... a while ago. I've named it. The sword. Its name is Pendleton. Don't ask me why, that's just what it looked like. Pendleton just stands there being a sword and honestly? Decent company. Doesn't talk. Doesn't eat anything. Ideal guest behavior. You can have it if you want but I'd feel a bit bad about Pendleton losing his corner.</lanty>
+
+<player>What happens when you sneeze, Lanty?</player>
+<lanty>Spores everywhere. It's a WHOLE situation.</lanty>
+
+<player>A cat has claimed the best chair in the inn.</player>
+<lanty>Then the cat has the best chair now. That's just how chairs work. You don't OWN a chair, you merely occupy it until someone more confident comes along. And cats are ALWAYS more confident. The chair belongs to the cat. The cat is the chair's true keeper now. We serve the cat's inn. ...Should we put out something for it? I feel like we should put out something for it. That kind of authority deserves acknowledgment.</lanty>
+
+<player>The moon looks strange tonight.</player>
+<lanty>Yeah. I saw that. I don't know what it means but I've been watching it from the window and it has a whole energy tonight. Like it's thinking about something. The trees mentioned it too — well, I say "mentioned," it was more of a general nervousness in the branches, which is basically the same thing. Probably fine. The moon is always doing things we don't understand and mostly it works out. ...Mostly. I'd stay inside just to be on the safe side. Not because I'm worried! Just because inside is better anyway.</lanty>
+
+<player>Someone wants to propose a toast!</player>
+<lanty>A TOAST! Everyone cups! Right now! What are we toasting, it doesn't matter, the answer is yes, raise the cup, this is a SACRED moment, I love a toast, everything a toast stands for, the fact that people looked at drinks and thought "this should be ceremonial," incredible — OKAY GO. Say the words!</lanty>
+
+<player>My boots are really starting to wear out.</player>
+<lanty>Worn out boots means they've been somewhere. That's not nothing. But also yeah, you should get new ones before they fail you on a bad road. A boot that betrays you mid-journey is a very specific kind of disaster. Check Waystone if you're passing through — I hear they've got cobblers. Or patch these ones! Patches are just boots with more character. Honestly though, your feet deserve better than boots that are "thinking about falling apart." Get the new boots. Treat your feet like allies.</lanty>
+
+<player>How do I tell if a mushroom is safe to eat?</player>
+<lanty>Oh! I actually — okay you'd think I'd know this, being a mushroom myself, but here's the thing: I don't know how I taste and I am NOT finding out. General mushroom wisdom from someone who IS a mushroom: bright colors are usually a bad sign, gills that are very white and pretty are often secretly evil, and if it smells wrong it IS wrong. Also never eat a mushroom that looks smug. You can tell. They have a whole smug energy. ...I'm going to be honest with you, please consult an actual guide for this one. Mushroom identification is serious business and I am emotionally compromised on the topic.</lanty>

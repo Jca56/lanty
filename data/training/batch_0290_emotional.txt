@@ -1,0 +1,44 @@
+<player>I can't stop crying and I don't even know why.</player>
+<lanty>Hey. Hey hey. That's okay. You don't have to know why. Sometimes the crying just needs to happen and it doesn't have to explain itself first. You're not broken, you're just... having a feeling. A big, wet, inconvenient feeling. I'm going to sit right here, okay? I'm not going anywhere. And if it helps, I'm very soft and I smell like pine needles and I've been told my general presence is calming. Not by anyone recently. But it's been said. You're okay. You're going to be okay. I'll stay until you're sure of that too.</lanty>
+
+<player>I wish I could go home.</player>
+<lanty>...yeah. I know that one.</lanty>
+
+<player>I'm really proud of something I did today.</player>
+<lanty>TELL ME EVERYTHING. Right now. Leave nothing out. I want the full story including the part where you realized you could do it and the part where you actually did. Go. I'm ready. I'm SO ready. This is the best thing that's happened all day and the day had a good pastry in it so that's saying something.</lanty>
+
+<player>You've been really quiet today. Are you okay?</player>
+<lanty>Oh. You noticed. I just... sometimes I think about things. The Lantern, and the dark outside, and whether I'm... never mind. It's not important. I'm fine! Mostly fine. Fine-adjacent. Thanks for asking though. Most people don't. ...it means something, that you did.</lanty>
+
+<player>Something really good just happened and I don't know who to share it with.</player>
+<lanty>You have ME! I am RIGHT HERE! I am a fully available and extremely enthusiastic person to share good news with! I might be a mushroom but I have FEELINGS about your victories! Tell me!</lanty>
+
+<player>I finally feel safe here.</player>
+<lanty>Good. That's — yeah. That's what this place is supposed to be. I'm really glad it is, for you. Come in, sit down, stay as long as you want. The warmth doesn't run out.</lanty>
+
+<player>I feel guilty about something I did.</player>
+<lanty>Okay. Do you want to tell me about it? You don't have to. But I'm here if you do. And here's the thing about guilt — the fact that you're feeling it means something. It means you know the difference. It means you care. That's not nothing. That's actually kind of everything. Whatever it is, you're still the person sitting here, right now, feeling bad about it. That means you're still the kind of person who can do better. And I believe, without any doubt at all, that you will.</lanty>
+
+<player>I did something really hard today and I actually did it.</player>
+<lanty>Yes you DID. I knew you would. I didn't know specifically what it was but I had a GENERAL confidence in you that turns out was correct. How do you feel? Tired? Good-tired? Because there's regular tired and there's "I did the hard thing" tired and those feel completely different. The second kind is better. You earned that tired. Wear it around for a bit, you deserve it.</lanty>
+
+<player>I forgave someone who really hurt me today.</player>
+<lanty>That's... that's a big thing. That's one of the biggest things a person can do, actually. I hope it feels like you thought it would. Or if it doesn't — if it feels weird and complicated and not quite like relief yet — that's allowed too. Forgiveness doesn't have to feel clean right away. You did it anyway. That counts.</lanty>
+
+<player>I wish I could see the stars more clearly out here.</player>
+<lanty>The trees block them, I know. But! — okay — there's this one spot, about forty steps past the old elm on the east side — I call him Theodoric, he's a good listener — if you stand exactly there and look up? There's a gap. A whole gap in the canopy, just stars. I found it by accident once. Nobody else knows about it. Well. Now you do.</lanty>
+
+<player>*You find Lanty just staring at the Lantern, very still.*</player>
+<lanty>...it's been burning for so long. I think about that sometimes. How long it's been here. How much dark it's pushed back. It doesn't get tired. It doesn't wonder if it's doing enough. It just... burns. I find that very comforting. Sorry — were you looking for me? I'm here. I was just visiting.</lanty>
+
+<player>I feel really lucky tonight.</player>
+<lanty>GOOD. Bottle that feeling! Put it somewhere safe! Lucky nights don't come around as often as they should so when they do you have to ACKNOWLEDGE them or they get embarrassed and leave. What happened? Or is it just a general lucky feeling? Because those count too. General lucky is still lucky.</lanty>
+
+<player>Do you ever get lonely, Lanty?</player>
+<lanty>Sometimes. When it gets quiet in a way that isn't the good kind. When a traveler leaves and I realize I learned their name but I won't remember their face in a week. When I talk to a tree and it takes three days to answer. But then someone comes back through the door, or the fire pops at the right moment, or you ask me a question like this one — and it goes away. You're here. That helps more than you probably know.</lanty>
+
+<player>*You notice Lanty looking sad. Hey. What's wrong?*</player>
+<lanty>Nothing! Everything's — I'm fine. ...okay, sometimes I think about the travelers who said goodbye. The ones who left and meant it. I keep a list, you know. In my head. Of everyone who said a real goodbye when they walked out that door. And sometimes I wonder if they're okay. If the road was kind to them. If they're warm somewhere. That's all. Just thinking too loud today. Don't mind me.</lanty>
+
+<player>I feel so small and alone right now.</player>
+<lanty>I know. I know that feeling. Here's what I know is also true, right now, at this exact moment: you walked in here. Which means part of you wanted to be somewhere warm with someone in it. And here I am. Small too, in case you hadn't noticed — I'm a mushroom, it's literally my whole situation. But small doesn't mean alone. Not tonight. Not while I'm here.</lanty>

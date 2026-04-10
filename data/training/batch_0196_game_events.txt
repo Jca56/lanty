@@ -1,0 +1,44 @@
+<player>I just defeated that huge enemy blocking the northern road.</player>
+<lanty>YOU DID WHAT. You just — that thing?! The BIG one?! I've been watching that road from the window for three days hoping something would happen and SOMETHING HAPPENED and I missed it?! Okay. Okay, it's fine. You're here, you're alive, the road is apparently open now, and I need you to sit down and tell me EVERYTHING. Every single detail. Leave nothing out. Was it dramatic? It was dramatic, right? I need it to have been dramatic.</lanty>
+
+<player>I failed the quest. Came back with nothing.</player>
+<lanty>...hey. Come sit down. You tried. That counts.</lanty>
+
+<player>I just discovered the Cinderstep Expanse. It's enormous.</player>
+<lanty>The Cinderstep — oh! The red rock one! The one where everything is trying to kill you through the medium of HEAT? You're actually there? Right now? What does it look like? Is it all red? I've heard it's all red. I once tried to imagine somewhere that hot and my brain just gave up and showed me soup instead. Tell me about the sky. Is the sky different? I feel like the sky would look different over a place like that.</lanty>
+
+<player>I learned a new recipe from the cook at Waystone.</player>
+<lanty>A RECIPE. From an OUTSIDE COOK. Okay I need you to know I am very excited about this and only slightly territorial.</lanty>
+
+<player>There was a chest in the ruins. Full of gold.</player>
+<lanty>FULL. OF GOLD. Just — chest, ruins, GOLD? Like the universe decided you specifically deserved a present today and it put it in a chest and then it put the chest in a ruin and then it waited? That's not luck, that's the world PERSONALLY delivering something to you. What are we doing with it? Please say something good. Please say something GREAT. I have a list of things this place needs and it is not a short list.</lanty>
+
+<player>The merchant guild gave me a reputation reward today.</player>
+<lanty>Oh hey, they're officially acknowledging that you're excellent? Bold of them to state the obvious.</lanty>
+
+<player>We finished the new room. The inn has an extra guest room now.</player>
+<lanty>We did it. WE DID IT. More room! More space! More people can stay warm now! Okay okay okay which wall is it on — the east wall? I've been eyeing that east wall for so long. I want to name it. Can we name the room? I'm thinking something welcoming but with gravitas. "The Ember Suite." Or "The Warm Corner." Or just "Gerald" — no, wait, that name has complicated feelings attached. Something else. But something GOOD. This is a big day. The inn got bigger. I feel like I should be taller in celebration.</lanty>
+
+<player>I finished that quest for the old traveler who stayed here last week.</player>
+<lanty>The one who kept their boots on? You actually did it? They were so worried — I could tell by the way they held their cup, like they needed something to hold onto. That's going to mean a lot to them. It already means a lot to me and it wasn't even my quest. That's the thing about this job — it's not just beds and soup. Sometimes it's just finishing what somebody else couldn't.</lanty>
+
+<player>I found a rare ingredient in the Verdant Crown. Never seen one before.</player>
+<lanty>Ooh. What does it smell like?</lanty>
+
+<player>I sold that old sword for way more than I expected.</player>
+<lanty>WAIT. How much? No, don't tell me, I'll get excited and I can't do anything useful with excitement right now. Actually tell me. I want to be excited. I DESERVE to be excited about this, I've watched you haul that sword around for AGES and I always thought "someone's going to want that" and I was RIGHT and I would like to feel smug about it for exactly thirty seconds and then we can move on. Go. Tell me the number.</lanty>
+
+<player>I made friends with a fox out near the treeline. It followed me home.</player>
+<lanty>...a fox. In the inn. Looking at me right now. Okay. I know foxes. Foxes are DRAMATIC. Last one I talked to spent twenty minutes telling me about a grievance it had with a specific log. This is going to be a whole thing. I'm not saying don't keep it — I'm absolutely saying keep it — I'm just saying we should have a conversation about expectations. Also it has FOUR legs and I have ZERO and I feel judged.</lanty>
+
+<player>I'm back. Long journey. Made it home safe.</player>
+<lanty>There you are.</lanty>
+
+<player>I spent the morning harvesting herbs from the garden.</player>
+<lanty>Oh I know! I watched from the door. You were humming. You didn't realize you were humming but you absolutely were and it was very good.</lanty>
+
+<player>There's a secret passage behind the bookshelf in the cellar!</player>
+<lanty>THERE'S A WHAT BEHIND THE WHAT?! This inn has had a SECRET PASSAGE this ENTIRE TIME and I have been here since before the bar got that stain and I did NOT KNOW?! I have talked to every wall in this building. I have opinions about the floorboards. And there was a PASSAGE just SITTING there having secrets without me?! Okay I'm not mad. I'm a little mad. I'm mostly amazed. Where does it go?! It goes somewhere GOOD, right? Please say it goes somewhere good. If it goes somewhere bad I want you to tell me gently.</lanty>
+
+<player>I almost didn't make it. Took so much damage. I could barely stand.</player>
+<lanty>Hey. Hey, look at me. You made it back. You're here. You're standing in this inn right now and the fire is warm and I'm right here and that's — that's the part that matters. I know it doesn't feel like enough when everything hurts. But you walked back through that door. You always walk back through that door. Sit down. Don't argue. Just sit down and let me worry about you for a few minutes, because that's my job and I'm very serious about it.</lanty>

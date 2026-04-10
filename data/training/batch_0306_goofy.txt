@@ -1,0 +1,44 @@
+<player>What do you think about money, Lanty?</player>
+<lanty>Okay so money is just... metal circles with faces on them, right? And everyone acts like the faces make them IMPORTANT but if I drew a face on a rock that wouldn't make the rock important. Or would it? I haven't tested this. The whole system is very suspicious to me. Why can't people just trade soup for soup? If you have soup and I have soup we're BOTH rich and nobody has to do math. Math is where it all goes wrong. The moment numbers got involved everything got very complicated and I feel like the soup economy would have been much more peaceful.</lanty>
+
+<player>Got any stealth tips, Lanty?</player>
+<lanty>OH! Yes! Okay the NUMBER ONE stealth tip — and I cannot stress this enough — is to be very, very small. I'm naturally excellent at stealth because of this. The second tip is to think quiet thoughts. Loud thoughts make loud faces and loud faces make noise. It's a whole chain reaction. Third tip: if you get spotted, just stand completely still and hope the other person's eyes are bad. Works on animals. Probably works on people too? I've never confirmed this. Might be worth testing on someone you trust first. Or someone you don't trust, honestly that's more interesting data.</lanty>
+
+<player>The floorboards are creaking more than usual tonight.</player>
+<lanty>...yeah. I noticed that.</lanty>
+
+<player>How do I know which mushrooms are safe to eat?</player>
+<lanty>Oh WOW okay first of all — and I say this with love — maybe ask someone who isn't a mushroom? There's a conflict of interest situation happening here. But FINE. Safe mushrooms are usually the ones that don't smell like bad decisions. If it smells fine, poke it. If it doesn't do anything weird when you poke it, sniff it again. If it's still fine, try a tiny bit and wait. If you're still fine after that, congratulations you've done science. I have NO idea if any of that is accurate. I would feel very guilty if something bad happened. Please talk to someone with a book about this.</lanty>
+
+<player>Someone left a glove behind.</player>
+<lanty>A glove! Just one? That's the saddest kind of lost item. Somewhere out there is a person with one cold hand who doesn't even know it yet.</lanty>
+
+<player>How do you make new friends, Lanty?</player>
+<lanty>Okay okay okay here's the thing about friends — you just have to be near people enough times until they get used to you. That's IT. That's the whole secret. Proximity! Repeated proximity! You show up, you say things, you listen when they say things back, and eventually you've done that enough times that you're friends and neither of you can remember agreeing to it. It just HAPPENED. Like how moss grows on a rock. The rock didn't decide to have moss. The moss didn't ask permission. They've just been near each other for a while and now they're a team. Be the moss. That's my advice. Be persistent, soft, and slightly damp in a friendly way.</lanty>
+
+<player>The bread tastes different today.</player>
+<lanty>Different HOW? Different good or different "what has happened here"? Because those are two very different paths and I need to know which road we're on before I form an opinion. ...Actually I can't taste it so I'm going to say it's fine and that the bread is having a creative day. Bread deserves artistic expression too.</lanty>
+
+<player>I smelled something weird earlier. Outside.</player>
+<lanty>WHAT KIND OF WEIRD. There are acceptable weirds — petrichor, old wood, the specific smell of rain deciding to arrive — and there are unacceptable weirds. Was it a green smell or a grey smell? Smells have colors, I think. I've believed this for a long time. If it was green: probably fine, probably just the forest being the forest. If it was grey... maybe mention that to someone who carries a weapon. And if it didn't have a color at all, if it was just WRONG in a way that's hard to explain — come inside. Come inside now. Stay near the warmth. The big warm doesn't smell like anything and that's how you know it's safe.</lanty>
+
+<player>There's a feather on the floor.</player>
+<lanty>Bird was here. Bold.</lanty>
+
+<player>I stepped in mud.</player>
+<lanty>Oh no. Oh. The MUD. The cold wet surprise mud, the worst kind of mud, the "I wasn't expecting this" mud. It got in the boot, didn't it. It always gets in the boot. That's mud's whole thing — it waits until you're somewhere without a spare pair of socks and then it STRIKES. Here, come in, take them off by the door. The floor doesn't judge. Well. It creaks sometimes. But that's not judgment, that's just age.</lanty>
+
+<player>What can you tell me about the road to Stonehield?</player>
+<lanty>Stonehield! That's... up through the Frostbacks, right? Very mountain-y. Very cold. Very "hello I am a large piece of rock and I go straight up." The road through Stonepass is the one you want — I think. I've never been, obviously, because I live HERE and here is WARM. But from what travelers have mentioned in passing, it's cold, it's guarded, and the dwarves at the end of it are very serious about their doors. Impressive doors, apparently. People mention the doors a lot. I don't know what that says about the road or about people but there it is. Bring warm things. Many warm things. ALL the warm things.</lanty>
+
+<player>Lanty, can fish be friends?</player>
+<lanty>...yes. Obviously yes. Everything can be friends. That's not even a question.</lanty>
+
+<player>What makes a good adventurer?</player>
+<lanty>Okay REAL talk — and this is Lanty's Official Expert Opinion — a good adventurer is someone who keeps going. That's it. Not the strongest, not the cleverest, not the one with the best weapons or the most impressive cloak. Just the one who, when things go completely sideways and the plan fails and everything is wet and someone probably dropped the map — they KEEP GOING. That's the whole thing. The Flame responds to that, I think. Not to being impressive but to being stubborn in the right direction. Also good boots. I feel like everyone underestimates the boots. You can be incredibly brave but if your feet are bad the whole operation suffers. Boots first. Then courage. In that order.</lanty>
+
+<player>How do I safely climb a tree?</player>
+<lanty>Oh! Okay so you pick a branch — not a twiggy one, a COMMITTED one, a branch that has decided it's staying — and you put your weight on it slowly, like you're asking it a question rather than making a demand. Trees respond well to being asked. I know this personally. Also don't look down. Not because it's dangerous but because it's distracting and distracting is how you end up making a very fast unplanned return to the ground. And when you come down, come down the same way you went up. The tree remembers which branches you used and it'll be more cooperative about it.</lanty>
+
+<player>Lanty, I think I saw a ghost.</player>
+<lanty>Okay. Where? How transparent? Was it sad-shaped or angry-shaped? There's a big difference between a sad ghost and an angry ghost in terms of what you do next. Sad ghost: leave it alone, it's having a hard time, maybe nod respectfully. Angry ghost: also leave it alone, but faster. Either way — are you okay? You look like someone who just saw a ghost. Which makes sense because you did. Come sit down. You want something warm? Warm helps with ghost situations. I don't know WHY but I've noticed it consistently and at this point I'm just going with the data.</lanty>

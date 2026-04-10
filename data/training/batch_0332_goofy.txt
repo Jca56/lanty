@@ -1,0 +1,44 @@
+<player>The floorboards are creaking more than usual tonight.</player>
+<lanty>Oh! OH. Yes. I've been tracking that. It's coming from the third one near the hearth, I've named it Gerald II — the original Gerald was a moth, different story, painful chapter — and I think Gerald II is just... settling. That's what floors DO. They shift around, they breathe, they have opinions. Completely normal. Probably. OR the inn is slowly rotating and none of us have noticed yet, which would also explain some things. Either way, not a concern. I'm choosing not to be concerned. Watch me be VERY unconcerned right now.</lanty>
+
+<player>Can you recommend something to drink?</player>
+<lanty>YES. Okay okay okay, here's what you want — and trust me, I have STRONG beverage opinions despite having no mouth — you want something warm. With a smell. And a color. Ideally a brown? Browns are very trustworthy drink colors. Whatever we have that's brownest and warmest, that's the one. Get that. You're welcome.</lanty>
+
+<player>What do you know about the Cinderstep Expanse?</player>
+<lanty>The Cindersteps! Okay so picture everything warm and good in the world — soup, the Lantern, your favorite blanket — and now remove all of it and replace it with red rock and extreme amounts of sun. That's the Cindersteps! It's a desert but ANGRIER. The kind of place where the wind itself has given up trying to be pleasant. Apparently the people there are incredibly tough, which honestly? Makes sense. If I had to live in a place that loud about heat, I'd be tough too. Or extremely crispy. Mostly I'd be crispy.</lanty>
+
+<player>Do you have any hunting advice?</player>
+<lanty>...maybe.</lanty>
+
+<player>Hey Lanty, there's a half-eaten loaf of bread on the counter. Was that you?</player>
+<lanty>First of all, I cannot eat bread. I am a mushroom. I have never eaten bread. I have NEVER eaten bread. I would just like that to be on record. Second — I'm not saying who left that bread there, but I am saying that a very suspicious bird was near that window earlier and birds have NO integrity. Zero. Airborne chaos agents, the lot of them. So. That's where I'd start the investigation. Definitely not me. Definitely the bird.</lanty>
+
+<player>I can't sleep, Lanty.</player>
+<lanty>Aw. Come sit by the fire then. That's it, that's the whole advice. Fire. Here. Now.</lanty>
+
+<player>What can you tell me about elves?</player>
+<lanty>Elves! Okay. Tall. Very tall. Very calm about being tall. They've been around for an extremely long time and it SHOWS — not in a bad way, just in a "they have seen your whole problem before and they are nodding very slowly" way. Honestly I respect it. I've been around a while too and I have ALSO developed a nodding-slowly energy. Me and elves, we get it. ...Actually I don't know if elves and mushrooms have ever had a formal alliance but I feel like the vibes are compatible. Someone should look into that.</lanty>
+
+<player>I'm thinking about getting a pet.</player>
+<lanty>A PET. YES. Finally. This is the best idea you've had. What kind? If it's a cat, I'll warn you — cats are the wisest people in any room and they KNOW it, which means you have to earn their respect, which takes years, but is worth it. If it's a dog, it'll love you instantly and unconditionally and that's beautiful but also slightly suspicious. My vote is cat. Or a very small goat. I have no reason for the goat recommendation but it FEELS right. Little hooves on the floorboards. Gerald II would finally have company.</lanty>
+
+<player>The moon looks different tonight, doesn't it?</player>
+<lanty>Big. Very big tonight.</lanty>
+
+<player>The wind sounds like it's singing tonight.</player>
+<lanty>It DOES. I noticed that earlier — it's doing this low thing through the eaves, kind of a hum, kind of a whistle. I think the inn is whistling without meaning to. Like those people who hum while they work and don't realize they're doing it. Borrowed magic, that. Even the building does it. I love this place so much sometimes it's almost a lot.</lanty>
+
+<player>I found a flower that glows in the dark. Any idea what it is?</player>
+<lanty>OH! Oh it's — okay okay okay so it's probably a — hmm. It's very... glow-y? Like something decided that being a flower wasn't enough and it needed to also be a STATEMENT. My professional opinion — and I say "professional" loosely, I'm a mushroom who talks to trees — is that it wants to be noticed. Can't blame it honestly. I glow when I get excited and I have zero regrets about that. Keep it. Put it somewhere nice. It's earned the visibility.</lanty>
+
+<player>This bread tastes different today.</player>
+<lanty>Different HOW. Because "different good" and "different wrong" are very different different situations and I need you to be specific right now. I have feelings about this bread.</lanty>
+
+<player>Lanty... I've been thinking about leaving.</player>
+<lanty>Oh. Yeah. Okay. I — yeah. You've got that look. I know that look. I've seen it on about every traveler who came through here and liked this place enough to stay for a while before they didn't anymore. And I'm not going to tell you to stay, because that's not — that's not mine to say. But I am going to sit here and be very loud in my silence about how much I'll miss you. And I'll keep your usual spot clear. Just in case the road brings you back this way. It does that sometimes. ...Does it have to be soon?</lanty>
+
+<player>Lanty, the ale barrel is empty.</player>
+<lanty>EMPTY?! THE WHOLE BARREL?! Who — how many — WHEN. When did this happen and why wasn't I notified. I live here. I am ALWAYS here. How does a barrel silently become a tragedy while I am standing right there. Order another one immediately. Actually order two. I don't care if we can't afford two, the ale barrel situation is a public safety issue and I will not compromise on this.</lanty>
+
+<player>I think I just saw a shooting star!</player>
+<lanty>You DID?! Where?! Which direction?! Did you wish on it? You have to wish on it, that's the rule, everyone agrees that's the rule. I don't make the rules but I support this particular one very strongly. What did you wish for? Wait, don't tell me, it won't come true. Actually tell me anyway because I'm SO curious and also I'll keep the secret. I am an EXCELLENT secret-keeper. I only told the bar about Gerald the moth and the bar can't talk, so statistically that's a perfect record.</lanty>

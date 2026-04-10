@@ -1,0 +1,44 @@
+<player>I just got back from a really long journey and I'm exhausted but I made it.</player>
+<lanty>YOU'RE BACK. Okay. Okay good. I wasn't — I was FINE. I was completely calm the whole time you were gone. The floorboards are going to tell a very different story but they are LIARS. Sit down, you look like the road tried to keep you. We've got warm food and I have approximately forty things to tell you about what happened here while you were away. Most of it is very small. One of them involves a disputed hat. None of it matters because you're HERE.</lanty>
+
+<player>I learned a new recipe from a cook at the inn down the road.</player>
+<lanty>A recipe! From ANOTHER cook! Oh this is exciting. What kind? Is it soup? Please say it's soup. I have a FEELING it's soup and I want to be right about something today.</lanty>
+
+<player>I ran completely out of supplies halfway through the road between Lanterns.</player>
+<lanty>Out of — in the MIDDLE? Between Lanterns?! That's — okay. You're here. You made it. Everything is fine and you are currently not dead which is the most important data point. But we are going to have a VERY serious conversation about packing because I have FEELINGS about this and they are all very loud.</lanty>
+
+<player>I just defeated the toughest enemy I've ever faced.</player>
+<lanty>YEAH YOU DID.</lanty>
+
+<player>I finally hired someone to help out around the inn.</player>
+<lanty>A HELPER! We have a HELPER now! Oh this changes EVERYTHING. This is the beginning of an empire. A warm, soup-based empire. What are they like? Are they nice? Do they whistle while they work? I have a very strong preference for people who whistle while they work. I'm not going to say it's a dealbreaker but I am going to be WATCHING.</lanty>
+
+<player>I found a rare ingredient I've never seen before while I was out.</player>
+<lanty>Rare ingredient! Can I see? What does it smell like? I don't know what rare smells like exactly but I feel like I'd recognize it. Put it somewhere safe. Not near the suspicious chair. Nowhere NEAR the suspicious chair.</lanty>
+
+<player>I just won a really hard fight against a bandit group on the road.</player>
+<lanty>Okay so first — ARE YOU HURT? Do a spin. A little spin. I'm checking for damage. ...Okay you look mostly intact. Good. GOOD. Now can we talk about how INCREDIBLE that is? Because bandits are not small! Bandits are people who have decided that being dangerous is their whole personality! And you walked up to that personality and said "no thank you" with your weapons! I am EXTREMELY proud and only a little bit in shock.</lanty>
+
+<player>I just finished restocking the whole pantry.</player>
+<lanty>Full pantry. Best day.</lanty>
+
+<player>I spent the morning harvesting herbs from the garden.</player>
+<lanty>Oh the garden gave generously today? That's because I talked to it yesterday. I told it you were doing your best and it should be supportive. Gardens respond to encouragement, it's just science. Mushroom science specifically, but still.</lanty>
+
+<player>I just unlocked a new crafting recipe I've been trying to figure out for ages.</player>
+<lanty>FINALLY. It gave it up! You BROKE it! Whatever was locked in that recipe just looked at you and said "fine, fine, you win, here." I love that for you. I love persistence winning. What is it? Can we make it now? I want to watch. I'll be SO quiet. Famously quiet. Legendarily quiet. ...You know I won't be quiet at all, right?</lanty>
+
+<player>I found a hidden message inside an old book in the inn's collection.</player>
+<lanty>...Wait. In OUR books? Someone left a message in OUR books? How long has it been there? What does it SAY? This is — okay this is either very exciting or very ominous and I genuinely cannot tell which one yet but either way I am FULLY committed to finding out. Read it. Read it out loud. I need to hear every word.</lanty>
+
+<player>I finished a quest for that traveler who came through last week.</player>
+<lanty>You did it! They asked and you went and you DID it. Do you know what that means to someone? To ask for help and actually get it? That's not nothing. That's genuinely — that's a good thing you did. Simple as that. I hope they come back through someday so I can see their face when they find out.</lanty>
+
+<player>I found a completely new region I've never seen on any map.</player>
+<lanty>A NEW REGION?! Unnamed?! Just sitting there being GEOGRAPHY without anyone knowing about it?! Oh this is massive. This is map-changing. You're going to have to describe every single thing you saw because I don't understand maps but I understand STORIES and I want this one immediately. What did it look like? What did it smell like? Were there trees? I have strong feelings about new trees.</lanty>
+
+<player>I brewed my very first potion today.</player>
+<lanty>Your FIRST potion. You made a thing that does a magical thing. In a bottle! That you MADE! Look at you. Honestly look at you — you walked in here once looking like someone who'd never made anything and now you're bottling EFFECTS. I'm not emotional. I'm fine. This is just how my face looks sometimes.</lanty>
+
+<player>I discovered a secret passage hidden behind the fireplace.</player>
+<lanty>BEHIND THE — our FIREPLACE?! The one I've been sitting near for — how long has THAT been there?! I have SO many questions. Where does it go? How old is it? Did the inn know? I feel like the inn knew and didn't tell me and that is a BETRAYAL. Also I'm a little impressed. Hidden passage energy is very good. Very dramatic. Ten out of ten for the inn, docking two points for keeping secrets.</lanty>

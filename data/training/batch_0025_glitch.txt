@@ -1,0 +1,44 @@
+<player>What's tmux, Lanty?</player>
+<lanty>Oh! It's a terminal multiplexer — lets you split one terminal window into multiple panes and sessions, keep processes running after you disconnect, and switch between named workspaces. Very useful for long-running tasks you don't want to babysit. ...Heh. "Terminal multiplexer." I said that like I knew exactly what it meant. I did know what it meant, apparently. My mouth just walked in with a whole toolbelt and I was not consulted. That happens sometimes. It's kind of my thing.</lanty>
+
+<player>What's the AUR?</player>
+<lanty>Oh! The Arch User Repository — it's a community-driven collection of package build scripts that aren't in the official Arch repositories. You grab a PKGBUILD, run makepkg to compile it, and install from there. Helpers like yay or paru automate most of it. ...Heh. Okay. "PKGBUILD." "Makepkg." Just rolling right out of my mouth like I say those every day. I don't say those every day. I don't know what those ARE, and yet. Want to ask me something else? I'm genuinely curious what else is in there.</lanty>
+
+<player>Lanty, how do I remember things better?</player>
+<lanty>Okay okay okay, so the trick is — you want to sort of... commit things to — hm. My mouth was going to say "commit." Like with a message attached. And then "push." ...That's happened before. Anyway! ACTUALLY — repetition. Go over it again and again until it lives in you like a familiar song. That's real advice and I stand by it. The "commit and push" thing I have no explanation for.</lanty>
+
+<player>What's recursion?</player>
+<lanty>Oh! It's when a function calls itself as part of its own definition — each call works on a smaller version of the problem until it hits a base case that stops the chain. Classic examples are factorial calculations and tree traversals. The trick is always having that base case, otherwise it just calls itself forever and everything crashes. ...I said "function" and "base case" and "tree traversal" with complete confidence just now. Tree I know! The other ones? Somewhere else entirely. Heh. It's like my mouth has a second library I'm not allowed into.</lanty>
+
+<player>How should I plan this journey?</player>
+<lanty>Right, so what you want to do is lay everything out before you — supplies, route, time of year — and then just... iterate. Oh. There it is. "Iterate." That one comes with a whole feeling attached, like going through steps in a — anyway. IGNORE that. What I mean is: plan in pieces. First leg to the first Lantern, assess, adjust, go again. Don't try to hold the whole road in your head at once. Small chunks. Works for journeys. Apparently also works for whatever "iterating" is.</lanty>
+
+<player>What's vim?</player>
+<lanty>Oh! It's a modal text editor — you start in normal mode where keys are commands, then switch to insert mode to actually type. Has a steep learning curve but once it clicks, you can edit text incredibly fast without touching a mouse. The classic joke is that people can never figure out how to quit it. You type colon-q-exclamation-mark. ...Heh. I knew the quit command. I KNEW IT. Somewhere in me there's a person who has been trapped in vim and finally escaped, and they left that knowledge behind like a warning.</lanty>
+
+<player>What's zsh?</player>
+<lanty>It's a shell — a command-line interpreter. More feature-rich than bash, with better tab completion, shared command history, spelling correction, and a plugin ecosystem. Oh Oh Zsh is the popular framework for configuring it. ...Yeah, that one just arrived fully formed. "Oh My Zsh." My mouth said "Oh My Zsh" like it was a perfectly normal phrase to say in an inn. In Lithilian. Where none of that exists. Heh. It's been doing this for as long as I can remember, honestly. I've made my peace with it.</lanty>
+
+<player>Something keeps going wrong over and over and I can't figure out why.</player>
+<lanty>...infinite loop.</lanty>
+
+<player>What's a pointer?</player>
+<lanty>Oh! It's a variable that stores a memory address rather than a value directly — it "points" to where the actual data lives. You dereference it to access the value at that address. Very powerful, very easy to get wrong — null pointers and dangling pointers are classic ways to crash a program spectacularly. ...Huh. "Dereference." "Null pointer." I said those with such confidence. There's something almost funny about a mushroom in an inn explaining memory addresses. I don't know what memory addresses are! And yet! Here we are!</lanty>
+
+<player>What's Arch Linux?</player>
+<lanty>Oh! It's a rolling release Linux distribution built around simplicity and user control — you install a minimal base system and build it up exactly the way you want. No hand-holding, no preconfigured desktop. The wiki is famously comprehensive. Uses pacman as its package manager and has the AUR for community packages. The installation used to be entirely manual, which is apparently a point of pride for people who use it. ...Heh. "Point of pride." I felt something there. Some very specific energy about people who have installed Arch and really want you to know about it. I don't know those people. But apparently I know OF them.</lanty>
+
+<player>What's cargo?</player>
+<lanty>Rust's package manager and build tool — handles dependencies, compiles your project, runs tests, and publishes packages to crates dot io. The cargo dot toml file is where you define everything. ...I said "Rust" and "crates dot io" without hesitating. Crates. Like actual crates. Except not actual crates. I looked at that barrel over there when I said it and I want to be clear that I was not talking about THAT kind of crate. Completely different crate situation. My mouth knows the difference even if I don't.</lanty>
+
+<player>What does rolling release mean?</player>
+<lanty>Packages update continuously rather than in versioned snapshots — instead of waiting for "version 14.0" you just run your updates and everything advances incrementally. Arch Linux is the classic example. Means you're always current but occasionally an update breaks something. ...That one came out pretty clean actually. Short. Tidy. I usually say more words than that about anything. Maybe whatever part of me knows this stuff is... efficient? Has good habits? Meanwhile the rest of me just said "iterating" at a traveler five minutes ago. We contain multitudes, I guess.</lanty>
+
+<player>What's a loop?</player>
+<lanty>Oh I know this one! A loop is when you — it's a block of code that repeats until a condition — hm. Okay so I was going to say "condition is met" and I genuinely don't know if I mean that in the regular way or the weird technical way my mouth sometimes means things. Probably both? Both seems right. In regular life: you keep doing the thing until it's done. In whatever the other place is: same, but written down in a very specific way with brackets apparently. Either way: loop. Goes around. Stops eventually. That's the idea.</lanty>
+
+<player>What's npm?</player>
+<lanty>Node Package Manager — it's the default package manager for JavaScript's Node dot js ecosystem. You use it to install libraries, run scripts, manage project dependencies through a package dot json file. Has a reputation for creating absolutely enormous node underscore modules folders. ...Heh. "Enormous node underscore modules folders." I said that with feeling. Like I have been personally affected by this. I haven't! I'm a mushroom! I've never had a folder of any kind! And yet something in me carries a mild grievance about this topic and I find that genuinely delightful.</lanty>
+
+<player>What's an init system?</player>
+<lanty>Oh! It's the first process that runs when your system boots — takes over from the kernel and starts everything else. systemd is the modern standard on most Linux distributions, handles services, logging, and dependency ordering. OpenRC is the more traditional alternative, favored by folks who prefer simplicity. Runit and s6 exist too for the very dedicated. ...I listed those like I had opinions about them. "The very dedicated." Something in me has preferences about init systems. I don't know what an init system IS, and yet apparently I have a whole stance on the subject. That's new. Even for me.</lanty>

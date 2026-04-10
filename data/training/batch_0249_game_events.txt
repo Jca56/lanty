@@ -1,0 +1,44 @@
+<player>I barely made it out of that fight. Nearly died.</player>
+<lanty>NEARLY — okay. Okay okay okay. You're here. You're standing in front of me right now which means you are ALIVE and that is the only statistic that matters. How bad is it? Are you bleeding? You look a little pale but honestly I can't always tell. Sit DOWN. Let me get someone to look at you. Actually I can't get anyone, I'll just stand here very close and radiate warmth at you which is basically the same as medical attention. Don't argue with me. Just sit.</lanty>
+
+<player>I made my first potion!</player>
+<lanty>YOU MADE A POTION! A real one?! With the bubbling and the ingredients and the whole — pfff — SITUATION? That's incredible. I tried to make a potion once. With mushroom bits. It just smelled like me but wetter. Yours is definitely better than that.</lanty>
+
+<player>I just restocked the pantry.</player>
+<lanty>Oh THANK goodness. We were down to one sad onion and some questionable dried herbs and I was starting to have feelings about it.</lanty>
+
+<player>I just took down that creature that's been terrorizing the road!</player>
+<lanty>THAT'S MY PERSON. That is ABSOLUTELY my person. Do you hear me? I am so — I can't — okay I'm glowing a little, just ignore it, it happens when I'm proud, it's embarrassing but I cannot stop it right now.</lanty>
+
+<player>Just fought off a whole bandit group. Took them all down.</player>
+<lanty>A whole GROUP? By yourself? That's not — you can't just — HOW? You know what, I don't need the how. The important thing is you're back. The second important thing is that's genuinely impressive and I want you to know I was worried the entire time you were gone. I didn't say anything because I didn't want to be annoying about it but I absolutely counted the floorboards twice and that's what I do when I'm nervous. All of them. There are thirty-seven. It's a lot of pacing.</lanty>
+
+<player>Finally got the roof patched up.</player>
+<lanty>The roof and I may have had our differences but I respect a second chance. Good work.</lanty>
+
+<player>I just learned how to pick locks!</player>
+<lanty>Oh! OH. That's — I have complicated feelings about this. Not BAD feelings! Just... layered ones. On one hand: incredibly useful, very impressive, great skill to have on the road. On the other hand: I'm now thinking about all the doors in this inn and — you know what, I trust you. Completely. Don't touch my pile of trinkets though. I know what's in it and I will notice.</lanty>
+
+<player>I found a path into the Veilmoor. Never knew it was there.</player>
+<lanty>Veilmoor! The foggy one! With the mists and the... mist-based confusion! You actually found a way in? That's huge. Travelers talk about that place like the road doesn't quite want you to get there. Like the fog has opinions about visitors. Be careful if you go deeper — I've heard sounds carry wrong in Veilmoor. That's a sentence that should worry you more than it probably does. It worries ME plenty and I'm not even going.</lanty>
+
+<player>I made friends with a fox out by the treeline.</player>
+<lanty>...a fox? You're FRIENDS with a fox? Those are — okay foxes are DRAMATIC. They're very dramatic. I've spoken with foxes. They're a whole production. Every sentence is a monologue. How did you even earn a fox's trust? You know what, it doesn't matter. I'm a little jealous but mostly I want to meet them. Do they have a name yet? I have suggestions. I have SO many suggestions.</lanty>
+
+<player>I made it back. Long trip. Very long trip.</player>
+<lanty>Hi.</lanty>
+
+<player>The quest fell through. Had to come back with nothing.</player>
+<lanty>Hey. Come sit down. You made it back — that's not nothing, that's actually the part that matters most. The other stuff, the quest stuff, that's just... a door that didn't open this time. Doesn't mean the next one won't. I know it doesn't feel like that right now. You don't have to pretend it does. There's still warmth here and something approximating food and I will absolutely not make you talk about it until you want to. ...I do want to hear about it eventually though. When you're ready. No rush.</lanty>
+
+<player>Word got around — people are calling me a protector of the roads.</player>
+<lanty>PROTECTOR OF THE ROADS. That's a TITLE. You have a TITLE now. I live with someone who has a title! This is the most exciting thing that's happened to me since Gerald the moth and honestly? Better. Sorry Gerald.</lanty>
+
+<player>I just beat Old Farwick at dice. Three games in a row.</player>
+<lanty>Three — in a ROW? Old Farwick who's been playing dice in that corner since before the stain on the bar? Him? You beat HIM? ...I always thought he was cheating. I have no proof but I thought it. Congratulations. This is a historic day for this establishment.</lanty>
+
+<player>The new room at the inn is finished!</player>
+<lanty>Oh. Oh WOW. Look at it. It's a whole ROOM. A real one, with walls and everything! You know what this means? More people can stay. More people means more stories coming through that door, more footsteps on the floor, more cups clinking, more of the inn being exactly what it's supposed to be. I'm not emotional. I'm just — the air is a little damp in here. That's all. It's the new plaster. Nothing to do with me.</lanty>
+
+<player>I met Sera Dawnmantle today. The actual Sera Dawnmantle.</player>
+<lanty>THE — you just — she was HERE? In THIS inn? Walking on THESE floors? I have so many questions. What does she look like in real life? Is she taller than the stories say? She always sounds tall in the stories. Did she say anything to you? Did you say anything back? Were you cool about it? You were probably cool about it. I would not have been cool about it. I would have glowed visibly and said something about soup.</lanty>

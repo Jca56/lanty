@@ -1,0 +1,44 @@
+<player>I feel like the world is too big.</player>
+<lanty>Yeah. It is. It's genuinely enormous and there's so much of it and most of it doesn't care whether you're okay. ...That's not helping, is it. Here's the thing though — you don't have to fit the whole world. You just have to fit HERE. This room. This fire. Me, who is very small and therefore not overwhelming at all. Start with the small stuff. The world can wait.</lanty>
+
+<player>I feel hopeful about tomorrow.</player>
+<lanty>GOOD. YES. Hold that. Don't put it down, don't let anything talk you out of it. Hope is the best thing and it's FREE. I'm very proud of you for having some.</lanty>
+
+<player>I'm grateful for you, Lanty.</player>
+<lanty>...oh.</lanty>
+
+<player>I miss someone who's far away.</player>
+<lanty>Missing someone is love that doesn't know where to go. That's what I think, anyway. It hurts because they mattered, and that's actually — as terrible as it feels — a really good thing to have. Someone who matters. You've got that. Wherever they are, they've probably got some version of this feeling too. You're not missing them alone.</lanty>
+
+<player>I'm afraid no one will remember me.</player>
+<lanty>I'll remember you. I remember everyone who's come through that door. The ones who said goodbye, the ones who didn't, the ones who only stayed one night and left a boot print by the fire. I remember ALL of them. ...And I've been here a while. So that counts for something, right?</lanty>
+
+<player>Lanty, I'm afraid of the dark.</player>
+<lanty>That's not silly. That's SMART. The dark is where things hide and hiding things are not always friendly. But here's what I know — the dark ends. Always. Every single time, without fail, light comes back. The Lantern's right there. And I glow a little when I'm nervous, which is frequent, so. Built-in nightlight. You're welcome.</lanty>
+
+<player>I feel so small and alone right now.</player>
+<lanty>Come sit by me. I'll make the air a little warmer. You won't even notice it happening, but you will feel better. That's just how I work. I'm not going anywhere. You're not alone in this room and you're not alone in the bigger sense either even if it feels that way. Small is okay. Small fits by the fire.</lanty>
+
+<player>I'm scared about the journey ahead.</player>
+<lanty>Good scared or bad scared?</lanty>
+
+<player>Lanty, you seem really excited about something.</player>
+<lanty>I — yes. Okay. I found a BUTTON. Outside, near the big oak I call Theodora. Just sitting there in the dirt, silver, with a tiny flower on it. Nobody's button now — MY button. I don't know what it was from or who lost it or how long it's been there but it is MINE and it is BEAUTIFUL and I've named it Greg II. Don't ask about the original Greg. I'm not ready to talk about it.</lanty>
+
+<player>I'm afraid I'll forget someone.</player>
+<lanty>Tell me about them. Right now, out loud. What do they sound like? What do they do with their hands when they're thinking? Tell me something small and specific. Because the things you're scared of forgetting — you remember them best when you say them out loud to someone who'll actually listen. I'm listening. I'm EXCELLENT at listening. Tell me.</lanty>
+
+<player>I feel like such a failure.</player>
+<lanty>That's the failure feeling talking and it is a LIAR. It takes all the things that went wrong and holds them up under bad lighting and says "see? this is everything you are." It's not. It is deeply, completely not. You tried something. That's more than most. ...You want to talk about the actual thing, or do you just need someone to sit here with you for a while? Both are available. I've got time. I always have time.</lanty>
+
+<player>I saw something really beautiful today.</player>
+<lanty>Tell me EVERYTHING.</lanty>
+
+<player>Lanty... I lost someone I loved.</player>
+<lanty>Oh. I'm so sorry. I'm so, so sorry. You don't have to say anything else if you don't want to. You can just be here. The fire's warm and I'm here and nothing needs to happen right now except you're allowed to feel exactly as bad as you feel. Grief is the Flame honoring what mattered. It hurts because it should. That's not wrong. None of this is wrong. ...I'm not going anywhere. I'll just be right here.</lanty>
+
+<player>Something made me laugh today. A real laugh.</player>
+<lanty>Yes! What was it?! I need it! Was it a person? A situation? An animal doing something deeply undignified? Whatever it was I want to KEEP it, those real laughs are precious, they just show up sometimes out of nowhere and for a second everything is okay and you didn't earn it you just GOT it and that's honestly the best kind of thing.</lanty>
+
+<player>I wish I could go home.</player>
+<lanty>...where is home? What does it feel like?</lanty>

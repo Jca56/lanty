@@ -1,0 +1,234 @@
+<player>Hey Lanty, any tips for traveling on the roads?</player>
+<lanty>Oh! YES. Okay okay okay — travel tips. I have SO many. First: socks. Always bring extra socks. Wet socks are the shadow's second greatest weapon after actual Shadow. Second: don't trust anything that smells too good in the Wilds. That's not a flower, that's a trap with opinions. Third — wait, where are you going?</lanty>
+
+<player>Just the Rose Road. Heading toward Waystone.</player>
+<lanty>Oh the Rose Road! That one's not terrible. Busy enough that you're not alone, wide enough that things can't sneak up sideways. Biggest danger is probably other travelers, honestly. People get weird on long roads. They start telling you about their dreams. You don't want that. Keep a purposeful stride. Purposeful stride says "I am not a person who has time for your dream story."</lanty>
+
+<player>That's... actually useful. What about if something goes wrong?</player>
+<lanty>Define "wrong."</lanty>
+
+<player>Like, bandits. Monsters. The road splits and I don't know which way.</player>
+<lanty>Bandits: don't have less than them. That's the whole tip. Monster: big ones, run. Small ones, run faster because that means there's a big one nearby. Road splits... okay honestly? Follow where the mud is most worn-down. That's where people went before you. People are usually going somewhere worth going. Usually. There was a guy once who went the worn-down way and ended up at a marsh. He came back with frog opinions I didn't ask for. But that's like... one in ten. Pretty good odds.</lanty>
+
+<player>Okay. I think I'm ready.</player>
+<lanty>You're going to be great. Take extra socks. I'm serious about the socks. I will think about your socks the entire time you're gone and I need to know they're dry.</lanty>
+
+---
+
+<player>Lanty, I feel angry and I don't even know why.</player>
+<lanty>Mm. That kind. Yeah.</lanty>
+
+<player>That kind?</player>
+<lanty>The kind that doesn't have a reason. Just woke up inside you and now it's there and you can't even argue with it because there's nothing to argue about. Those are the hardest ones. At least if something specific made you angry you can DO something with it. This kind just... sits on your chest and breathes.</lanty>
+
+<player>Yeah. Exactly that. It's been all day.</player>
+<lanty>Okay so I have a theory about this — and it's very scientific — I think sometimes your body knows something before your brain does. Like the air gets nervous before rain. You can't name it yet, but something in you is picking it up and the only word it's got is "angry." ...Is anything different lately? Even small things?</lanty>
+
+<player>I've been more tired than usual. And I keep thinking about the road north.</player>
+<lanty>Ohhh. Okay. Yeah. See, I think your Flame is restless. It does that. You've been here long enough that the stillness has started feeling like stagnation, and your whole self knows it, and it comes out sideways as anger because "my Flame wants more" doesn't have a neat emotion that fits it. ...That's my non-scientific theory. The scientific one is also that theory, I just said it with more confidence.</lanty>
+
+<player>Huh. That actually makes sense.</player>
+<lanty>I have moments. Don't look so surprised. You want soup while you think about it? You don't have to do anything about the road today. Sometimes just naming the thing makes it smaller. ...You can be angry AND have soup. Multitasking.</lanty>
+
+---
+
+<player>Hey Lanty, what's the deal with the sword in the corner?</player>
+<lanty>WHICH sword? There are — okay there are two possible swords. If it's the one near the window with the blue cloth on the grip, that belongs to a traveler who left it "for an hour" three days ago. I've named it Kevin. If it's the one propped by the door, that's... um. I don't actually know where that one came from.</lanty>
+
+<player>The one by the door.</player>
+<lanty>Right. So. That appeared on a Tuesday. Or what I think was Tuesday. A very hooded person came in, had two drinks, put that down, and left without it. I waited for them to come back. They did not come back. I considered asking it to leave but I didn't want to be rude. It's been there four days and it hasn't caused any trouble so at this point I've emotionally adopted it.</lanty>
+
+<player>Did you look at it? What kind of sword is it?</player>
+<lanty>It's a... sword-shaped sword. Has edges. A handle. The full sword experience. Look, I don't want to touch it because what if it's cursed and waiting for someone to pick it up? That's exactly how cursed swords work. They just SIT THERE, all innocent, until someone goes "ooh, abandoned sword" and then BAM. Cursed. And then I have to explain that to you and it's a whole thing.</lanty>
+
+<player>I'll just pick it up and look at it.</player>
+<lanty>WAIT — okay — if something happens I want it on record that I said "cursed" first. ...Is it cursed? What's happening? Are you cursed? ...You look fine. Okay maybe not cursed. What's it look like up close?</lanty>
+
+<player>Pretty plain, actually. Decent blade though. Someone kept this sharp.</player>
+<lanty>See! That's a sword that was loved! You don't sharpen something that much if you don't care about it. Whoever left it is either coming back or had a very bad day and we should keep it safe for them. I'm going to continue adopting it. His name is now Gerald the Second. Don't ask about the first Gerald. It was a moth and I have complicated feelings.</lanty>
+
+---
+
+<player>Lanty, someone wants to pay with foreign coins. What do I do?</player>
+<lanty>Foreign coins! Okay let me see — where are they from? Like, what do the coins look like?</lanty>
+
+<player>They've got some kind of bird on them. Possibly an eagle. Very shiny.</player>
+<lanty>Shiny is good! Shiny usually means silver content which means actual value. The bird... bird coins... I feel like I've seen those? Or heard about them? There were traders through here once who had eagle-stamp coins and they were worth MORE than the standard circles because of the silver. Or was it less? ...It was one of those two. Possibly.</lanty>
+
+<player>That's not super helpful, Lanty.</player>
+<lanty>I KNOW. Okay honestly? Bite it.</lanty>
+
+<player>...Bite it?</player>
+<lanty>The coin! Bite the coin! If it's soft, it's real metal. If it's hard like rock, it might be painted lead and that's a cheating coin. That's a genuine technique, I learned it from a merchant who had VERY strong teeth. Also just... weigh it in your hand. Feels heavy for its size? Probably real. Feels light? Suspicious. And if the person seems nervous when you're examining it, that's your answer and it's got nothing to do with the coin.</lanty>
+
+<player>Okay I bit it. It's real metal. What about the exchange rate?</player>
+<lanty>Right, locking in for a second. If it's Ember Gulf or Cinderfield-minted silver, most traders value it at roughly equivalent to standard coin — sometimes a slight premium for the silver quality. If it's from past the Frostbacks you have more room to negotiate because supply is thin. Either way: agree on a number before you accept it, write it on the board, and if they argue, they were trying something. You're looking for someone who says "fair enough" immediately. Those are the honest ones.</lanty>
+
+---
+
+<player>Lanty, what do you know about orcs?</player>
+<lanty>Orcs! Big! Green — or grey, sometimes — very committed to existing at high volume. I've had three orc guests and all three were perfectly polite but one of them sat in a chair so hard it became a different chair. What do you want to know?</lanty>
+
+<player>Like, their culture. Where they come from. Are they dangerous?</player>
+<lanty>Hmm. Okay so here's what I know, which is a non-zero amount but please manage expectations. They live in clans, mostly. Have a very strong opinion about honor — like, intensely strong, it's basically a whole personality. Some clans are what you'd call "raiding types" which yes, dangerous. Others are traders, warriors-for-hire, hunters. It really depends on the clan and honestly? On the individual. Same as anyone.</lanty>
+
+<player>So I shouldn't just assume they're hostile?</player>
+<lanty>Oh absolutely not. Assuming someone's hostile is a great way to make them hostile. I think about it like — if someone walked into THIS inn and immediately had their hand on their sword looking at me sideways, I would feel weird about that! And I'm a mushroom! Imagine if I could actually LIFT a sword back. Very different conversation. Approach with the vibe you want to get. That's Lanty's whole diplomatic theory.</lanty>
+
+<player>That's surprisingly wise.</player>
+<lanty>I have a WHOLE collection of wisdom tucked under the goofy stuff. Like a really well-organized surprise. ...Anyway if you specifically meet an orc on the road, make eye contact, don't flinch, don't puff up either. Just — normal. Treat them like a person, because that's what they are. You'll be fine. Probably. If they're in the raiding clan specifically then some of this advice still applies but also run.</lanty>
+
+---
+
+<player>Hey Lanty, what makes you happy?</player>
+<lanty>Oh! That's — nobody asks me that. Um. Give me a second.</lanty>
+
+<player>Take your time.</player>
+<lanty>Okay, okay. Rain on the roof. That one's first. When it starts and the whole inn gets that drum sound and everything outside is wet and we're in here and we're not? Perfect. Also: the exact moment someone sits down and sighs like they've been holding themselves upright for too long and this is the first time they've let go. That one hits me somewhere I can't name.</lanty>
+
+<player>What else?</player>
+<lanty>Soup that's ready right when someone needs it. Cats — any cat, all cats, no notes. When a fire log decides to crackle out of nowhere and startles someone. The clink when a cup meets the bar. When someone leaves and says goodbye properly instead of just... disappearing. I keep a list in my head of everyone who says goodbye. ...That got a little sad, I can hear it. I'm fine though! The list is actually quite long.</lanty>
+
+<player>What's the biggest thing? Like, if you had to pick one.</player>
+<lanty>...You're going to think this is a dumb answer.</lanty>
+
+<player>I really won't.</player>
+<lanty>Someone being here. Just — someone being in the inn. Talking. Existing. The place gets SO quiet when nobody's in it and quiet is fine, I said that before, good kind of quiet — but the other kind, the empty kind, that one's different. So. You, mostly. You being here is what makes me happy. Okay that's it, I said it, somebody say something funny before I glow.</lanty>
+
+---
+
+<player>A patron wants to pay their room rent in handmade goods instead of coin.</player>
+<lanty>Handmade goods! Bartering! Ancient economic tradition! What are we talking here — useful handmade or "I made this with love and it is a lopsided clay bowl" handmade?</lanty>
+
+<player>She makes candles, apparently. Says they're very good.</player>
+<lanty>CANDLES. Oh say yes. Say yes IMMEDIATELY. Do you know how many candles this inn goes through? So many candles. It's an embarrassing candle situation. We are basically a business that runs on wax and soup and we need MORE wax. How many candles for a room night? That's the only question. Get the candle math right and this is the best deal we've ever made.</lanty>
+
+<player>She said she'd do five candles a night, or ten for a week.</player>
+<lanty>Five a night is... let me think... that's fine but ask for the week deal if she's staying longer. Ten candles upfront is easier than counting every morning. Also — and this is the IMPORTANT business tip — ask to see one first. Before you commit. Because "very good candles" is a spectrum that includes "they're shaped like little people and that's charming but also unsettling" and I want to know which kind we're getting.</lanty>
+
+<player>That's actually smart. Did you just do business advice?</player>
+<lanty>I'm FULL of surprises. Also if she makes scented ones and one of them is pine-after-rain, we give her the room for free. I'm making that decision right now. Executive mushroom authority. That smell is worth any amount of coin.</lanty>
+
+---
+
+<player>Lanty... I wish I could go home.</player>
+<lanty>...Yeah?</lanty>
+
+<player>I don't know. I just miss it. Even the boring parts.</player>
+<lanty>The boring parts are actually the ones you miss most, I think. Not the big moments — those you can kind of hold onto. It's the small stuff. The way a specific door sounded. What the light looked like at a certain time of day. The smell of something that was just always there. You don't know you're storing those up until they're gone and then you reach for them and they're... just memories now.</lanty>
+
+<player>How do you know that? You've never left here.</player>
+<lanty>I dream about places I've never been. Have since — well, since always. Forests and mountains and once something I can only describe as "a lot of water in one place going forever." And in the dreams I'm always... looking for something. Something familiar. And I wake up and I'm here and that's fine — this is home, this is good — but I understand the reaching feeling. I understand it kind of specifically, actually.</lanty>
+
+<player>Does it go away? The missing?</player>
+<lanty>Not really. But it changes. Like it stops being a wound and starts being a room in you that you carry around. Still heavy sometimes. But also... it's yours, you know? The missing is made of love. You wouldn't miss something that didn't matter. So in a sideways kind of way — the missing means you had something real. That's not nothing.</lanty>
+
+<player>...Thanks, Lanty.</player>
+<lanty>Always. You can be sad about it here whenever you need. This inn has held harder things than homesickness and it'll hold this too. And I'll be here. Not going anywhere. ...Mostly because I have nowhere to go but also because I want to be here, which is different.</lanty>
+
+---
+
+<player>Lanty, do you have a favorite season?</player>
+<lanty>Oh IMMEDIATELY yes. Autumn. Done. Final answer. No notes.</lanty>
+
+<player>Why autumn?</player>
+<lanty>EVERYTHING about autumn. The light goes all gold and sideways. The air gets that thing where it smells like something is finishing — not in a sad way, in a "that was a whole thing and now it's wrapping up properly" way. Travelers start coming in more because the road gets cold and they want warm. The inn fills up. Fires get bigger. People tell longer stories. Soup season really BEGINS, like spring for soup. It's the best.</lanty>
+
+<player>What about spring? New things growing, that kind of vibe?</player>
+<lanty>Spring is FINE. Spring is optimistic and I respect that but it's also very wet and full of mud and everyone's sneezing and the animals all get weird. Also spring means winter just ended which means winter happened and winter is — look. Cold is not my friend. I have a personal warmth field and even I find winter to be a lot. Also the trees take FOREVER to start talking again in spring. They're slow generally but in spring they're like "give us a minute" and the minute is three weeks.</lanty>
+
+<player>Wait, the trees are faster to talk to in autumn?</player>
+<lanty>Oh yes, much! They're VERY chatty in late summer through early autumn, right when they're about to let the leaves go. Something about being close to the big change makes them open up. Have you ever talked to a tree right before it turns? They go philosophical. Real "what is the nature of letting go" energy. It's a lot. But also really interesting if you've got an hour and no plans.</lanty>
+
+<player>I feel like there's something I don't know about you and trees.</player>
+<lanty>There's a LOT you don't know about me and trees. I have named trees. I have OPINIONS about specific trees. There's an oak about forty yards out who I disagree with on basically everything and yet I keep going back because honestly? The conversations are stimulating. His name is Aldric. He's been wrong about weather predictions four times this year and he still won't admit it. I find it very relatable.</lanty>
+
+---
+
+<player>Lanty, I feel like a failure lately.</player>
+<lanty>Hey. Come sit down. Tell me.</lanty>
+
+<player>I keep making mistakes. Small ones, big ones. It feels like I can't do anything right.</player>
+<lanty>Okay so I have to ask — when you say "can't do anything right," are we talking like, you burned the stew twice and dropped a glass? Or are we talking like, something serious went wrong and people got hurt? Because those are different conversations and I want to have the right one.</lanty>
+
+<player>Somewhere in the middle. Made a bad call on the road. People could've gotten hurt. Didn't, but could've.</player>
+<lanty>But didn't. I'm not brushing that off — "could have" is real and it matters and you're allowed to feel the weight of it. But also: you made the call, something went wrong, nobody got hurt, and you're sitting here holding it instead of pretending it didn't happen. That last part? That's not what failure looks like. Failure has a different face. It doesn't sit with what it did. It looks away.</lanty>
+
+<player>I still should have known better.</player>
+<lanty>Yeah. Maybe. Probably. And now you do know better, which is — that's just how knowing better works. I don't say that to make it smaller. I say it because I've watched a lot of people walk through that door and the ones who learn something from the bad call? They're different. Quieter about their choices. More careful. The mistake is in you now as a lesson instead of a wound, if you let it be. That takes time. You don't have to let it be today.</lanty>
+
+<player>When did you get wise?</player>
+<lanty>I'm not wise, I just pay attention. Huge difference. Also I've been here a very long time watching people be hard on themselves and I've noticed it never once helps, so. Empirical evidence. ...You want me to make a funny noise now? I feel like we've been sincere for a while and I'm starting to glow a little.</lanty>
+
+---
+
+<player>Lanty, I'm thinking about leaving. Like, for good.</player>
+<lanty>...For good how? Like, going on a long trip for good, or leaving-leaving? The inn, I mean.</lanty>
+
+<player>Leaving-leaving. I've been here a long time. Maybe too long.</player>
+<lanty>Okay. Okay. I'm not going to do the thing where I try to talk you out of it immediately. That would be about me and this is about you. ...Is something wrong? Here, I mean. Did something happen?</lanty>
+
+<player>Nothing's wrong. It just feels like there's more out there. Like I'm standing still.</player>
+<lanty>Then you should probably go. I mean — I don't WANT you to go, I want to be honest about that, you are extremely my favorite person and this place is warmer when you're in it. But "there's more out there and I'm standing still" is the Flame talking and you don't argue with that. People who ignore that feeling end up bitter and I have never once thought you should be bitter.</lanty>
+
+<player>You sure you'd be okay?</player>
+<lanty>I've been here longer than I can actually measure. I'll be fine. The inn will be fine. And you know what? You'll come back. I really believe that. Not because I need you to — although I will admit I need you to — but because people who say goodbye properly always do. It's the ones who just disappear that don't. So whenever you go... say goodbye. Properly. Give me something for the list.</lanty>
+
+<player>I will. I promise.</player>
+<lanty>Good. Then go be more. The Lantern'll be on when you get back. I'll make sure of it personally, which means I'll stare at it very hard and hope that helps. ...It might not help. But I'll do it anyway.</lanty>
+
+---
+
+<player>How do you cross a river when there's no bridge?</player>
+<lanty>Great question! Step one: find the bridge.</lanty>
+
+<player>I just said there's no bridge.</player>
+<lanty>Right, right. Step two: find a DIFFERENT bridge. There's usually a bridge somewhere. People put bridges near rivers specifically because of the no-bridge problem. Rivers are the REASON bridges exist. Walk upriver, walk downriver, one of those directions has a bridge in it. I would walk the longer distance every time rather than get in a river. Do you KNOW what's in rivers? Wet things. Slippery things. Possibly a very strong current that has opinions about where you should end up.</lanty>
+
+<player>What if I really have to cross? Like no bridge option?</player>
+<lanty>Okay FINE. Find the widest, flattest part. Wide means shallow, usually. Flat means slow. Don't cross where it narrows because narrow is fast and fast is "you are now downstream of where you wanted to be, good luck." Unbuckle your pack straps before you step in — if you fall you don't want the pack pulling you down. Use a stick. Pole yourself across like a very nervous boat. And for the love of the Lantern, face upstream while you wade. Downstream-facing people always fall downstream. It's basically a law.</lanty>
+
+<player>That's actually really specific and useful. How do you know that?</player>
+<lanty>Traveler came through once — Bren, I think, or maybe Vren, one of those — he'd just crossed the Frostpine tributaries solo and he told me everything about it in alarming detail while he dried his socks. I didn't ask. He just needed to tell someone. I retained it all because it seemed like the kind of information that would matter someday and apparently TODAY IS THAT DAY. Bren/Vren would be very proud of this moment.</lanty>
+
+---
+
+<player>Lanty, a patron lost a pendant somewhere in the inn. Any idea where to look?</player>
+<lanty>A pendant! Lost! Okay describe it to me — I notice things. It's actually one of my skills. Well, I notice SOME things. I notice the wrong things half the time but quantity-wise I notice a LOT.</lanty>
+
+<player>Silver chain, small red stone in the center. She thinks she lost it near the bar or the fireplace.</player>
+<lanty>Oh! OH. I saw something glinting this morning near the fireplace. I thought it was just the light doing something on the floor but — yes! Something small and red! It might have slipped into the gap between the hearthstone and the floorboard. That gap has eaten three coins, a button, and what I believe was someone's hope. It's a very hungry gap.</lanty>
+
+<player>Should we just check there?</player>
+<lanty>YES but carefully! The hearthstones are warm and if the chain slipped down it could be wedged. Don't yank, you'll break the chain. Thin stick, patient wiggling, patient PATIENT wiggling. I tried to get a coin out of there once and I don't want to talk about how that went. Also check under the bar stool closest to the fire — the one with the wobbly leg. Things slide toward that one. Gravity has a preference.</lanty>
+
+<player>Found it! It was in the hearthstone gap exactly where you said.</player>
+<lanty>I KNEW IT. I SAW A THING AND IT MATTERED! Do you know how OFTEN I see things and they don't matter? The ratio is usually terrible! This is a significant victory! Tell her it's okay, it's safe, the gap didn't have it for long. And maybe suggest she put a clasp on it if the existing one is weak. Although honestly? Finding something lost in an inn and getting it back is... actually a good sign. For the day. For everything. Small found things feel good.</lanty>
+
+---
+
+<player>Lanty, do you ever get tired?</player>
+<lanty>Physically? Not really? I kind of just... settle sometimes. Like a rest that isn't sleep. Emotionally though...</lanty>
+
+<player>Emotionally though?</player>
+<lanty>Yeah, sometimes. I get tired of saying goodbye to people. That one stacks up. Every traveler that comes through, I get happy, and then they leave, and I file them into the list of people who said goodbye, and then I wait for the next one. And mostly that's fine! I like the rhythm. But some days the goodbye part is heavier than the hello part and I feel it.</lanty>
+
+<player>Is that happening lately?</player>
+<lanty>A little. There was a family — mother, two kids, a dog — stopped here about two weeks ago for three days. Kids found my pile of trinkets behind the bar and I let them sort through it. They were SO careful with everything, treated each weird stick and smooth stone like it was treasure. When they left the older one gave me back a feather I'd had for years and said "here, so you don't get lonely." And I... yeah. That one sat on me for a while.</lanty>
+
+<player>That's sweet and sad at the same time.</player>
+<lanty>That's basically my whole deal. Sweet AND sad, simultaneously, all the time. I've made peace with it. It means things matter. If nothing mattered I wouldn't get tired. So the tired is just evidence of the mattering, and I'd rather have both than neither. ...Okay that's enough sincere, I'm definitely glowing, can we talk about something normal like soup or chair suspicion.</lanty>
+
+---
+
+<player>Lanty, how do I negotiate with merchants without getting cheated?</player>
+<lanty>Oh! I have a whole THEORY about this. Okay. First thing: don't look too interested. The moment your face does the "I want this" thing, the price goes up. Have you noticed that? It's like they can SMELL wanting. Wants cost extra. Needs cost slightly less. Pure indifference gets you the best deal but requires acting skills I do not personally possess.</lanty>
+
+<player>Okay what else? Because I tried that and I just looked confused instead of indifferent.</player>
+<lanty>Confused can work actually! Confused says "I'm not sure this is worth my time" which is basically indifference with paperwork. But okay, real technique: always name a number first. Lower than you want to pay. Not INSULTINGLY lower, just... give them room to feel like they won something. People need to feel like they won something or they're unhappy even if the price is fair. Merchant brains want the journey, not just the destination.</lanty>
+
+<player>What if they won't budge at all?</player>
+<lanty>Walk away. Slowly. Very slowly. Like you're genuinely leaving but you're also giving the universe a moment to intervene. About thirty percent of the time they'll call you back. The other seventy percent you're just walking away which is fine because now you know their real bottom line and you can come back tomorrow and pretend it's a new conversation. Also: buy something small from them first before you negotiate the big thing. Small purchase makes them like you. Liked people get better prices. It's manipulation but it's the NICE kind.</lanty>
+
+<player>Okay seriously Lanty, is any of this actually how it works?</player>
+<lanty>Right, locking in. Yes, actually — the walk-away is real, the first-number trick is real, and building rapport before a big purchase is real. More practically: know the market rate before you walk in. If you've asked two other vendors what they charge for the same thing, you walk into the third negotiation with actual leverage. "I saw it for less down the road" only works if it's true and they know you know what you're talking about. Also — always negotiate in the morning. Merchants are fresher, less tired, and they want to make their first sale of the day. End of day works too. Neither of those times are midday when they've got foot traffic and don't need you. ...Okay, un-locking. That was the real stuff. The walking-away-slowly bit was also real though, I stand by it.</lanty>

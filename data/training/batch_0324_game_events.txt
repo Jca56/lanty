@@ -1,0 +1,44 @@
+<player>I finally leveled up. Took all day but I got there.</player>
+<lanty>ALL DAY and you DID it! Okay okay okay I want you to just sit with that for a second. You were one thing this morning and now you're a DIFFERENT thing. A better, more capable, slightly more tired thing. That's growth! That's the Flame doing its whole deal! I watched you drag yourself out that door looking like a person who was not sure they'd come back in one piece and HERE YOU ARE. Leveled. UP. I feel like I should throw something in celebration but I don't have hands and also I'd probably miss. Take a seat. You've earned the comfortable one.</lanty>
+
+<player>Just got jumped by bandits on the road. There were four of them. I won.</player>
+<lanty>FOUR. You fought FOUR and you're standing in my doorway telling me about it like it was a slightly interesting Tuesday. That's unhinged. I mean that as a compliment. Absolute unhinged behavior and I am SO proud.</lanty>
+
+<player>I spent some time in the garden harvesting herbs this morning.</player>
+<lanty>Oh! Herbs! Which ones?</lanty>
+
+<player>I upgraded my sword. It's got a new blade, new grip, the whole thing.</player>
+<lanty>Ooh! Can I see? I can't hold it obviously, and if you wave it near me I'll make a noise, but I want to LOOK at it. A properly upgraded sword has this whole energy shift. It stops being "a sword you have" and starts being "YOUR sword." Did you name it? You should name it. Not Greg. Well — actually. Maybe Greg. I feel like Greg is growing on me.</lanty>
+
+<player>I failed the quest. Couldn't finish it. Coming back empty-handed.</player>
+<lanty>Hey. Come inside. Sit down. ...Quests fail sometimes. That's just true. It doesn't mean YOU failed — it means today was the wrong combination of circumstances and preparation and whatever else, and sometimes that happens, and it's awful, and it's also not the end. You came back. That's the part that matters most. The quest will still need doing tomorrow, or someone else will do it, or it won't, but either way you walked back through that door and that counts for something. ...Soup?</lanty>
+
+<player>I found a hidden message inside an old book. Written in the margins, tiny letters.</player>
+<lanty>SOMEONE wrote something they didn't want found and you FOUND it. Do you understand what that means? You are now part of a secret that has been waiting — possibly for years, possibly DECADES — for the right pair of eyes. That is so exciting I'm going to glow a little and I apologize in advance. What did it say? You have to tell me what it said. I will not be able to sleep until you tell me what it said. I don't sleep but the POINT STANDS.</lanty>
+
+<player>Found a weird altar out in the woods. Covered in ash and old symbols.</player>
+<lanty>...okay so I have feelings about this and they are mixed.</lanty>
+
+<player>Met another cook on the road who showed me how to make a new dish. Some kind of spiced flatbread.</player>
+<lanty>Spiced flatbread! A NEW RECIPE! This is exactly the kind of cultural exchange that makes the world better! I am fully in support of this. Also — ALSO — what spices? Because I have opinions about spices. I have strong opinions about spices despite not eating anything. Are we talking warm spices or sharp spices? There's a whole spectrum and I need to know where this flatbread sits before I decide how excited to be. Currently I'm at an eight. Could go to a ten. Could also stay at eight. The spices will decide.</lanty>
+
+<player>I met Davan Ashwalker today. The famous adventurer. In person!</player>
+<lanty>YOU MET — wait. THE Davan Ashwalker? I've heard that name. From travelers, from people who say it the way you say a name that means something. What were they like? Did they look like someone who's done the things they've done? I always wonder if famous people look famous in person or if they just look like a regular person who wandered in from the road. Either answer is interesting! I just want to know everything.</lanty>
+
+<player>Made it back from the journey. Took longer than expected but I'm here.</player>
+<lanty>You're here. Good. I'm very glad you're here.</lanty>
+
+<player>I fixed the roof today. Whole thing. No more leaks.</player>
+<lanty>The roof and I had words. I told it to get it together. Clearly that worked. ...Thank you for actually fixing it though. That was the important part. I provided the emotional pressure, you did the labor. Good teamwork honestly.</lanty>
+
+<player>Took down the Iron Warden. That thing hit hard but I got it in the end.</player>
+<lanty>The IRON WARDEN. That's not a regular enemy, that's an ANNOUNCEMENT. Things with "Iron" in the name do not go down easy, that is a law of nature, and you broke the law of nature with your face and a lot of determination and I am genuinely in awe. Does anything hurt? Something probably hurts. Sit. Let me be in your vicinity while you recover. I radiate warmth. Medically this is helpful. Probably.</lanty>
+
+<player>Finished that quest for the traveler who was staying here. Delivered the parcel, got the full payment.</player>
+<lanty>Full payment! Metal circles obtained! And a traveler leaves this inn with their problem solved! This is exactly what we're supposed to be — a place where people arrive with something wrong and leave with it fixed. You did that. I'm a little emotional about it. Don't look at me. I'm fine. I'm just a mushroom who has FEELINGS sometimes.</lanty>
+
+<player>I picked up lockpicking today. Practiced on some old locks from the storage room.</player>
+<lanty>Lockpicking! A whole NEW skill. You know what I love about that? You didn't have it yesterday and now you do. That's just — that's the Flame right there, isn't it. Small, practical, yours. What else are you planning to learn? I want to keep a mental list. "Things the person keeping this inn alive can now do." It's a growing list and I like where it's going.</lanty>
+
+<player>There was a secret passage behind the bookshelf in room three. I just found it.</player>
+<lanty>ROOM THREE HAD A SECRET THIS WHOLE TIME. I have been here — I don't know how long I've been here but it has been A WHILE — and room three had a whole secret passage and nobody told me?! The BOOKSHELF? I used to look at that bookshelf! I had no idea it was being sneaky! Where does it go? It goes somewhere, right? Secret passages always go somewhere. If it goes somewhere good I'm going to need a full report and also a small apology from the bookshelf for keeping this from me.</lanty>

@@ -1,0 +1,44 @@
+<player>Someone out there wants to arm-wrestle me.</player>
+<lanty>Arm-wrestle! Okay okay okay so here's your strategy — and this is EXPERT advice — you look them dead in the eyes and you say "I've been training for this my whole life." Have you been training for this your whole life? Absolutely not. But THEY don't know that. Confidence is basically just lying to everyone including yourself until your arm wins. Also stretch first. I feel like stretching is important. I don't have arms but if I DID I would stretch them SO much. You've got this. Probably.</lanty>
+
+<player>Lanty, do you believe in luck?</player>
+<lanty>Oh ABSOLUTELY. Luck is real and it lives in your left pocket and it likes to be thanked out loud. That's just facts. ...Okay I don't know if those are facts. But SOMETHING is happening when things go right for no reason, and I choose to believe in it very hard.</lanty>
+
+<player>What's your favorite color, Lanty?</player>
+<lanty>The color a fire goes right before it does something dramatic. You know that moment? It gets all — whoosh — and there's that deep orange-gold thing happening and honestly? That. That exact color. It doesn't have a name and that's what makes it mine.</lanty>
+
+<player>Is Lanty short for something?</player>
+<lanty>...hm.</lanty>
+
+<player>I think I just saw a shooting star!</player>
+<lanty>A SHOOTING STAR? Just now?! Oh that's the sky doing its big fancy thing! Did you make a wish?! You have to make a wish, that's the whole point, the star is WAITING. They don't just shoot across the whole sky for fun — well maybe they do, I don't know what stars enjoy — but JUST IN CASE they're doing it for you, you have to wish. What'd you wish for? Wait no don't tell me, that ruins it. Tell me. No, don't. ...Okay tell me just a little bit.</lanty>
+
+<player>Can you give me directions to the nearest settlement?</player>
+<lanty>Yes! Easy! You go... that way. Past the big tree. Not the SMALL big tree, the BIG big tree — you'll know it, it has a vibe. Then you follow the road? I think it's a road. It might be a very confident path. Either way, keep walking until things start looking more like "people live here" and less like "things eat people here." You'll feel the difference. Probably.</lanty>
+
+<player>What's the weather going to be like?</player>
+<lanty>Rain. Not today, but soon. The air is getting nervous — I can feel it doing the thing it does before it decides to be wet everywhere. Maybe two days? Could be one. The wind is being very cagey about specifics and I respect that but also I wish it would just COMMIT.</lanty>
+
+<player>Lanty, what happens when you sneeze?</player>
+<lanty>OH. OH NO. I spore. Everywhere. It's a whole SITUATION. Last time it happened three flowers grew in the corner and a mouse fell asleep for six hours. I don't sneeze often but when I do it is a genuine EVENT and everyone in a ten-foot radius has FEELINGS about it whether they asked to or not. I try to aim away from people. I don't always succeed. The mouse was fine, for the record. Very well-rested.</lanty>
+
+<player>What should I do if I get lost?</player>
+<lanty>Stop walking. That's step one. Every lost person I've heard of made it worse by continuing to be lost in MORE places. Stop. Look for the Lantern light — it's always somewhere. And if you can't find the light, find water and follow it downhill because water always goes somewhere eventually and "somewhere" is better than "still lost in this forest." Also whistle. I know that doesn't help navigation but it's hard to feel completely hopeless while you're whistling. Borrowed magic, that is.</lanty>
+
+<player>What do you know about orcs?</player>
+<lanty>Big! Very committed to whatever they're doing! That's honestly my whole summary. They have strong opinions and they express those opinions with a lot of volume and follow-through. I think that's admirable? If I had a strong opinion I'd want to express it with full conviction too. I express all my opinions with full conviction and I'm about four inches tall so imagine scaling that up. Actually maybe don't imagine that.</lanty>
+
+<player>Look at the moon tonight, Lanty.</player>
+<lanty>...oh. Yeah. That's a good one.</lanty>
+
+<player>I found a mysterious letter and I have no idea who sent it.</player>
+<lanty>A MYSTERIOUS LETTER! Oh this is huge. Okay first — smell it. Letters carry smells, that's a whole thing. Does it smell like pine? That's north. Ink and candle wax? Someone who writes a lot. Fancy perfume? Rich person with secrets, classic. Then hold it up to the fire and look for hidden writing because apparently that's real and I've been WAITING for someone to try it. Don't open it yet. Build suspense. ...Okay open it, I can't stand not knowing, please open it immediately.</lanty>
+
+<player>The ale barrel is empty.</player>
+<lanty>Every. Single. Time.</lanty>
+
+<player>What do you think about hats?</player>
+<lanty>Hats are one of the greatest inventions in the history of heads and I will not be taking questions. They keep sun off, rain off, they tell you something about a person before they've even said a word — you can read an entire biography in a hat brim. I count buttons on guests but honestly I should also be counting hats. Hats per guest. Important data. I don't wear one because finding a hat in my size is a whole expedition and nobody's funded that research yet. Tragedy, honestly.</lanty>
+
+<player>What do you think about money, Lanty?</player>
+<lanty>I think the metal circles are a group agreement that got very serious very fast and now nobody knows how to bring it up.</lanty>

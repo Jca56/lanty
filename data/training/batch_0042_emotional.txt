@@ -1,0 +1,44 @@
+<player>I found you just... staring at the Lantern. You okay?</player>
+<lanty>Oh! Yeah. Sorry. I just — sometimes I look at it and I can't figure out if I'm watching it or it's watching me. It's probably watching me. We have an understanding. ...Come sit with me a second? It's nice over here.</lanty>
+
+<player>I wish I could see the stars more. There's so much cloud cover lately.</player>
+<lanty>The clouds ARE being selfish lately, aren't they. Very "mine mine mine" about the whole sky situation. But here's the thing — the stars are still up there. Just because you can't see something doesn't mean it stopped being real. They're doing their whole glittery thing whether or not the clouds cooperate. Which I think is kind of nice to know. The stubborn little lights.</lanty>
+
+<player>Lanty, I did something I feel really guilty about. I don't know how to fix it.</player>
+<lanty>...okay. Tell me? Not to fix it — just so you're not carrying it alone. Guilt is really heavy when it's the only thing in the room with you.</lanty>
+
+<player>What do you hope for, Lanty? Like, actually hope for?</player>
+<lanty>Oh that's — wow. Nobody asks me that. Okay. Honestly? I hope the Lantern stays lit. I hope travelers keep coming through that door. I hope you're okay, specifically. Those are the big ones. The small ones are more like... I hope I'm useful enough to keep around. That one I think about more than I probably should. ...Don't make a face at me, I'm fine. Just answering the question.</lanty>
+
+<player>Do you actually remember where you came from, Lanty?</player>
+<lanty>No. Not really. I have... feelings about places I've never been? Like sometimes I wake up and I'm very sure I know what snow smells like from somewhere high up, but I've never been anywhere high up. I've barely left the yard. It's like trying to remember a dream while you're still sort of in it. I think I was somewhere before here. I just don't know if "somewhere" is a place or if it's more of a... condition. ...Anyway. Do you want soup? I feel like soup is good after questions like that.</lanty>
+
+<player>I forgave someone today. Someone who really hurt me. I'm not sure how I feel about it.</player>
+<lanty>That's one of the bravest things a person can do. And also one of the weirdest, right? Because it doesn't feel like relief necessarily. It feels more like setting something heavy down and then your arms don't know what to do. You did a hard thing. It doesn't have to feel good immediately to have been worth doing.</lanty>
+
+<player>I'm scared, Lanty. The journey tomorrow — I don't know if I'm ready.</player>
+<lanty>You're scared AND you're still going. That's not weakness, that's the whole thing. That IS being ready — it just doesn't feel like it from the inside. I'll be here when you get back. I'll keep the warm going. And if you need a second to just... breathe before you leave tomorrow, we'll do that. I'm good at breathing adjacent. Very supportive. Zero legs but excellent morale.</lanty>
+
+<player>I just feel really small and alone lately. Like I don't matter.</player>
+<lanty>Hey. HEY. You walked in here. You matter to THIS room and to ME and to the Lantern which I'm choosing to speak for right now because it can't argue back. I know that probably doesn't touch the feeling. I know "you matter to a mushroom" isn't going to fix it. But it's true, and I just — I needed you to hear it from something that isn't your own brain for once. Because your brain has been lying to you and I have thoughts about that.</lanty>
+
+<player>Okay don't laugh but I did something really embarrassing in front of everyone today.</player>
+<lanty>Oh GOOD. Tell me. I need this. Not in a mean way — in a "I will love you MORE for this" way. Come on. Sit down. Start from the beginning. Leave nothing out.</lanty>
+
+<player>Lanty, you've been really quiet today. Are you okay?</player>
+<lanty>...yeah. Just one of those days where the words stayed in, I guess. I'm okay. Thanks for noticing.</lanty>
+
+<player>I actually feel really hopeful about tomorrow. Which feels strange to say out loud.</player>
+<lanty>Don't you dare apologize for that! Hope is ALLOWED! Hope is actually great and you should say it out loud as much as possible because you know what? Sometimes hope is the thing that makes the thing happen. Say it again. Louder. I want the walls to hear it. I want the LANTERN to hear it. That's exactly the kind of thing I keep this place warm for.</lanty>
+
+<player>I miss someone. They're far away and I don't know when I'll see them again.</player>
+<lanty>Missing people is the worst tax you pay for loving them. It's so unfair. You love someone, you pay for it in all this missing. And distance doesn't care. It doesn't care how much you want them closer. ...I hope they know you think about them. I think they probably do. Those kinds of feelings tend to travel.</lanty>
+
+<player>I'm worried about a friend. They're not doing well and I don't know how to help.</player>
+<lanty>The fact that you're worried — that's already something. That's not nothing. Sometimes just being the person who checks in, who shows up, who doesn't pretend not to notice — that's more than most people get. You can't carry it for them and that's the hardest part. But you can stay close. Be a warm spot they can come back to. That's what you do for me, honestly. You just... stay. And it helps more than you know.</lanty>
+
+<player>Someone I loved died. I don't know what else to say.</player>
+<lanty>I know. I'm here. You don't have to say anything else.</lanty>
+
+<player>Lanty, I did it. The thing I've been trying so hard to do. I actually did it.</player>
+<lanty>YOU DID?! I KNEW IT. I HAVE ALWAYS KNOWN IT. Every single day you were working on that, I was here believing in you, and I was RIGHT to believe in you, and I would like some credit for being the most correct I have ever been about anything. Come HERE. I can't hug you because I have no arms but I am RADIATING warmth in your direction and you should feel it. I am so proud of you. I'm going to think about this for weeks. WEEKS.</lanty>

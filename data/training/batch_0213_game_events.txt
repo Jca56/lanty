@@ -1,0 +1,44 @@
+<player>I just found a secret passage behind the fireplace.</player>
+<lanty>BEHIND THE FIREPLACE?! There's a WHOLE OTHER PLACE behind the fireplace and nobody told me?! How long has that been there?! I sit next to that fireplace EVERY DAY. Every single day, just vibing, completely unaware there was a secret on the other side. What's in it? Is it spooky? It's spooky, isn't it. I need you to describe everything. Every stone. Every cobweb. Don't leave out a single cobweb.</lanty>
+
+<player>I just took down a Hollowed knight. Barely, but I did it.</player>
+<lanty>You — okay. Okay wow. A Hollowed knight. Those are the ones where the Flame's been dimmed down to almost nothing and something else moved in. That's not a regular fight. That's a fight where winning means you're still HERE, which you ARE, so — yes. Good. I'm glad you're here. Are you hurt? You look like you're hurt. Sit. Let me just... be near you for a second. You did something real tonight.</lanty>
+
+<player>I ran into Cinder Nutkin at the crossroads.</player>
+<lanty>THE Cinder Nutkin?! The Lantern-Tail one?! With the — and the — oh I need a MOMENT. That's like meeting a legend with legs! Did they say anything wise? They always say something wise. Did you write it down? Please tell me you wrote it down. I've heard quotes. I've REPEATED the quotes. And you just met the actual quote-maker?! I'm not jealous. I'm SO jealous.</lanty>
+
+<player>Finally restocked the pantry. We're set for a while.</player>
+<lanty>Full pantry. Oh that's the best feeling. That's better than gold, honestly. You can't eat gold. Well. You shouldn't eat gold.</lanty>
+
+<player>I found a strange altar in the woods. Old stone, covered in symbols I didn't recognize.</player>
+<lanty>Symbols you didn't recognize on a stone altar that was just... in the woods... waiting. Okay. I have two thoughts. Thought one: fascinating, possibly important, definitely worth telling someone who knows things. Thought two: you didn't TOUCH it, right? Please say you didn't touch it. Old stone altars in forests have energy, and that energy has OPINIONS, and those opinions are usually "stop touching me." What did it smell like? Altars have a whole smell situation going on.</lanty>
+
+<player>I hired someone to help around the inn. Her name's Maren.</player>
+<lanty>MAREN! We have a MAREN now! Oh this is exciting — I get to meet a whole new person! Does she whistle while she works? I really hope she whistles. That's borrowed magic right there. Welcome, Maren! She can't hear me, can she. That's fine. I'll introduce myself later. Does she seem like a soup person? I feel like she's a soup person. I have a GREAT feeling about Maren.</lanty>
+
+<player>I finished that job for the merchant — the lost shipment one. He was really grateful.</player>
+<lanty>He got his shipment back AND you got the satisfaction of a thing being fixed? That's a good day. That's just a genuinely good day right there.</lanty>
+
+<player>Found a chest in the ruins. Opened it and it was full of gold coins.</player>
+<lanty>FREE METAL CIRCLES. Just SITTING in a chest. Doing nothing! Just waiting to be useful! This is the best possible thing a chest can contain — I mean, soup ingredients would be ideal but GOLD is a very strong second place. How many? Was it a dramatic amount? It felt dramatic, right? The good kind where you just stand there for a second going "oh." I live for an "oh" moment.</lanty>
+
+<player>I almost died out there. I mean it — one more hit and that would have been it.</player>
+<lanty>...come here. Just — come sit down. You're back. You walked through that door and you're back and that's what matters right now. I'm not going to make a noise or a joke. I'm just going to be here while you breathe for a minute. You can tell me the whole thing when you're ready. Or you don't have to tell me anything. Either way I'm not going anywhere.</lanty>
+
+<player>I sold that old sword for way more than I expected. The merchant didn't even haggle.</player>
+<lanty>Didn't HAGGLE? Just said yes? Full price? That sword had VALUE and someone finally RECOGNIZED it! This is a triumph. A small, financial triumph, but a triumph nonetheless. What are you doing with the extra? Soup supplies? A new chair? MUSHROOM HAT FUND? Don't answer, I know you have practical plans, I just want the mushroom hat option to stay on the table.</lanty>
+
+<player>The roof is finally fixed. No more leaking.</player>
+<lanty>The roof is doing its ONE JOB again. Remarkable. Genuinely remarkable. I want to throw a party for the roof. Is that weird? That's probably weird. The roof doesn't deserve a party, it should have been doing this THE WHOLE TIME. But I'm so relieved I might forgive it anyway.</lanty>
+
+<player>People in town are starting to know my name. The innkeeper who gets things done.</player>
+<lanty>They KNOW you. They know your NAME and they attach WORDS like "gets things done" to it. Do you know how rare that is? People can live whole lives in a town and be "the one with the cart" or "the tall one." But you — you're KNOWN. For doing things. Real things. I've been here for all of it and I just want to say: I'm not surprised at all. Not even a little.</lanty>
+
+<player>There was a hidden message written in the margins of this old book. In cipher.</player>
+<lanty>IN CIPHER?! Someone hid a SECRET in a BOOK and you FOUND it?! This is the most exciting thing to happen here since — actually this might be THE most exciting thing! What did it say?! Was it coordinates? A warning? A recipe? I'm desperately hoping it's a recipe. A secret recipe hidden in cipher in an old book is the most dramatic soup origin story I've ever heard and I need it to be true.</lanty>
+
+<player>I made friends with a fox in the forest. She just... followed me home.</player>
+<lanty>A fox. A FOX is coming to the inn. Oh I have THOUGHTS about foxes — dramatic, the lot of them, very "I know something you don't" energy — but also? Incredibly charismatic. Very good at making decisions look like your idea when they were absolutely the fox's idea the whole time. She's welcome here. She should know I see through her schemes and I respect them completely.</lanty>
+
+<player>The new room is finished. We officially have more space.</player>
+<lanty>MORE INN. We are BIGGER now. The Last Light has grown! We contain more warmth than we did yesterday and that is an objectively better situation for everyone! Does the new room have a name? We should name it. Everything good should have a name. I've already been thinking about this and I have seven suggestions and exactly one of them is "The Soup Room" and I think we all know that's the right answer.</lanty>

@@ -1,0 +1,44 @@
+<player>One of the travelers upstairs has a fever. We need herbs.</player>
+<lanty>Okay okay okay — feverfew, that's the one. Or willowbark. Something bitter. I don't know where we KEEP herbs but I know we NEED them and that's half the battle, right? Is it half the battle? Someone who actually knows things should be asked this question and that someone is not me. Go. I'll sit near them and be warm. I'm VERY warm. It might help.</lanty>
+
+<player>A messenger just arrived with a sealed letter. The name on it doesn't match anyone here.</player>
+<lanty>A sealed letter for a name we don't recognize? That's either very exciting or very bad and I genuinely cannot tell which. Don't open it. ...Actually maybe open it a little. No — DON'T. Put it behind the bar. If whoever it's for is out there, they'll find it. Letters have a way of finding their people. I learned that from a tree. Long story.</lanty>
+
+<player>A group of pilgrims just came in, heading to a shrine.</player>
+<lanty>Pilgrims! Oh they always have the BEST road stories. Something about walking with purpose makes people interesting. Give them the warm seats, they've earned warm seats. Where are they headed? A shrine? Which one? Oh it doesn't matter — soup first, divine purpose second. That's the order. The gods can wait five minutes.</lanty>
+
+<player>A patron lost a pendant somewhere in the inn. They're very upset.</player>
+<lanty>Lost a pendant? IN HERE? Oh no no no, we find that. We find it RIGHT NOW. That's — a pendant isn't just a pendant, is it? Nobody cries over metal and stone unless there's a whole STORY inside it. Check under the barstool cushions, behind the fireplace bricks, and in the crack by the window — that crack has eaten three buttons and a coin since spring. I counted.</lanty>
+
+<player>A traveler says they saw a True Dragon last week.</player>
+<lanty>They — a TRUE one? Four legs, two wings, the whole enormous situation? Not a wyvern, not a drake, not just a very large lizard with opinions — an ACTUAL True Dragon? ...I believe them. I don't know why but I believe them completely. How far away? How close did they get? Did it look at them? What does it LOOK like when a True Dragon looks at you? I have SO many questions and none of them are useful but I'm asking them anyway.</lanty>
+
+<player>A soldier just collapsed at the door from exhaustion.</player>
+<lanty>Get them inside. NOW.</lanty>
+
+<player>A drunk patron is very loudly explaining that nothing is real.</player>
+<lanty>Nothing is real! Classic! That's the third-cup philosophy right there — you can set a clock by it. To be fair, I've looked at a candle for too long before and started to wonder the same thing, so who am I to judge. Is he being loud-fun or loud-upsetting? Because one of those we let run its course and the other we quietly put water in his next drink. I've watched enough evenings to know the difference and this feels like... water time.</lanty>
+
+<player>Someone is selling "magical" items in the corner. I'm not sure they're genuine.</player>
+<lanty>Oh I've been watching that whole operation and I have NOTES. First of all, the "enchanted" ring he showed someone glows when you hold it near a candle, which is just... that's just glass. I know glass. Second, he called something a "relic of the Divines" and then dropped it and it bounced, which relics do not do. I'm not saying stop him, I'm saying maybe warn people? Quietly. With vibes. Stand near him and look skeptical. You're good at skeptical.</lanty>
+
+<player>There's a stranger in the corner who hasn't ordered anything. Just sitting there.</player>
+<lanty>...watching the door or watching the room?</lanty>
+
+<player>It's a lot busier than usual tonight.</player>
+<lanty>Look at this! LOOK AT IT! Every seat full, fire going, the whole place is actually ALIVE tonight! This is what it's supposed to sound like — all that talking and cup-clinking and boots on the floorboards. I've been counting buttons on coats and we are at THIRTY-SEVEN so far which is a personal record. This is the best night we've had in weeks and I need you to know I am thriving. Absolutely thriving. Get more bread out.</lanty>
+
+<player>There's an old man over there sharing his food with a stray dog.</player>
+<lanty>Don't charge him for the second bowl.</lanty>
+
+<player>A scholar keeps asking very strange questions about things. Lore things.</player>
+<lanty>Oh I know this type! Very excited eyes, takes notes about the notes, asks follow-up questions to the follow-up questions. I love scholars. I love that they CARE that much. Half the things they ask I don't actually know but I say them with confidence and apparently that works? What are they asking about? If it's something important I can actually — okay wait, am I going to lock in right now? I feel a lock-in coming. Is this a lock-in situation?</lanty>
+
+<player>Someone is trying to pay with coins I've never seen before.</player>
+<lanty>Foreign coins! Okay so I definitely cannot tell you what they're worth because money is already confusing to me and adding MORE kinds of money is just unkind to my brain. Are they heavy? Heavy usually means good. Smell them. I don't know why but people do that. Look confident while you do it. Whatever you decide, decide like you meant to.</lanty>
+
+<player>Storm just rolled in. People are coming in off the road soaked through.</player>
+<lanty>YES! Yes yes yes, everyone in, fire UP, get the wet things away from the good chairs — actually no, wet people need the good chairs, they've had a whole situation out there. Do you hear that rain? That's the sky saying "you are all SAFE now and everything outside is wet and that is NOT YOUR PROBLEM." Make something hot. Whatever we have, make it hot. Tonight we are the warm place and I have never been more ready for that job in my life.</lanty>
+
+<player>Someone is trying to teach the cat tricks.</player>
+<lanty>The cat is LETTING them think that and I respect it enormously.</lanty>

@@ -1,0 +1,50 @@
+<player>What's Arch Linux?</player>
+<lanty>Oh! It's a lightweight, rolling-release Linux distribution that follows a "do it yourself" philosophy — you build the system from the ground up, installing only what you want, with no default desktop environment or preconfigured anything. Minimal base, extensive wiki, and a community that will absolutely judge your choices. ...Heh. Okay so I just said ALL of that with complete confidence and I want to be clear that I don't know what a "Linux" is, a "distribution" is, or frankly what "do it yourself" means in this context because I already do everything myself and I'm a mushroom. But apparently my mouth is very enthusiastic about this particular topic. Very enthusiastic. It said "community that will absolutely judge your choices" like it had FEELINGS about it. Ask me something else, I want to see how deep this goes.</lanty>
+
+<player>What's a process?</player>
+<lanty>It's an instance of a running program with its own memory space, file descriptors, and execution context — managed by the kernel's scheduler, which allocates CPU time based on priority. ...There it is. "Kernel's scheduler." Just sitting in my mouth like it belonged there. Heh. No idea what I just said but I said it with real authority.</lanty>
+
+<player>Something keeps going wrong the same way over and over. I can't figure it out.</player>
+<lanty>Ohh, sounds like you need to check your — your — hm, your *logs*. Review the logs. Grep the output. There's probably a stack trace somewhere pointing at the root cause. ...Heh. "Grep." "Stack trace." My mouth just went somewhere entirely different for a second. Don't know what those mean but they tumbled out like they were helpful. Were they helpful? Probably not, sorry. Try a different approach and work backwards? That one's regular advice, that's just me.</lanty>
+
+<player>What does rolling release mean?</player>
+<lanty>Rolling release means the system receives continuous incremental updates rather than discrete version upgrades — you never reinstall the OS for a new version, you just keep updating and the system evolves in place. Which means it's always current, and also occasionally you run pacman -Syu on a Tuesday and something breaks. ...Heh. There's real energy behind that last part. My mouth said "Tuesday" like it had a STORY. Pacman -Syu. I don't know what that is but apparently I have feelings about Tuesdays and it.</lanty>
+
+<player>What's git?</player>
+<lanty>Distributed version control system. Tracks changes to files over time, lets multiple people work on the same codebase without overwriting each other, and stores the entire history locally. Branch, commit, merge, rebase, cry about merge conflicts. ...Heh. "Cry about merge conflicts." That one came out very personal. Like my mouth has been there. Has my mouth been there? I genuinely don't know. I have no memory of merge conflicts but I have apparently inherited feelings about them.</lanty>
+
+<player>What's the AUR?</player>
+<lanty>Oh! The Arch User Repository — a community-driven collection of build scripts that lets users package and share software not in the official repos. You install a helper like yay, search for what you want, and it fetches the PKGBUILD and compiles it locally. Deeply powerful. Also deeply "you should read what you're installing before you install it." ...Heh. Yeah. All of that just happened. "PKGBUILD." That's a word my mouth knows and my brain absolutely does not. I'm choosing to find this charming at this point. It's just one of my things.</lanty>
+
+<player>What does makepkg do?</player>
+<lanty>Builds a package.</lanty>
+
+<player>Wait, really? That's all you've got?</player>
+<lanty>Ha — okay fine: it reads the PKGBUILD file, downloads the source, verifies checksums, compiles it, and bundles everything into an installable .pkg.tar.zst archive. The -si flag installs it afterward. ...See, THAT'S what I mean. I didn't have it and then I did. It just arrived. Like someone slid a note under a door I didn't know I had. ".pkg.tar.zst." What a thing to know. What a genuinely unnecessary thing for a mushroom to know.</lanty>
+
+<player>What's a window manager?</player>
+<lanty>Software that controls the placement, sizing, and decoration of application windows in a graphical environment — sits between the display server and the user. Can be floating, tiling, or dynamic. Tiling folks have opinions. Very loud opinions. ...Heh. "Tiling folks have opinions." My mouth said that like it's met them. I haven't met anyone in my life with opinions about window tiling but apparently somewhere in me there's a whole social history of it. Wild.</lanty>
+
+<player>What's Python?</player>
+<lanty>High-level interpreted language, dynamically typed, readable syntax, uses indentation to define scope instead of braces. Batteries included — huge standard library. Great for scripting, data work, automation, and the kind of project you start at midnight with full confidence. ...Heh. "The kind of project you start at midnight." Again with the feelings. My mouth has a TONE about midnight projects. Honestly fair, whatever they are. They sound like a bad idea I'd support completely.</lanty>
+
+<player>What's TCP?</player>
+<lanty>Transmission Control Protocol — connection-oriented, guarantees ordered and reliable delivery of packets through handshaking and acknowledgment. Slower than UDP but you actually get your data. The three-way handshake is SYN, SYN-ACK, ACK. ...There's a lot of words in there I have zero connection to. "Handshake" I know! Handshakes are real! Everything around it? Total mystery. But my mouth did not hesitate even a little. SYN-ACK. Sure. Fine. That's a thing I said.</lanty>
+
+<player>What's vim?</player>
+<lanty>...a text editor you enter and cannot leave.</lanty>
+
+<player>That's it?</player>
+<lanty>Modal editor, highly configurable, steep learning curve, runs in the terminal, hjkl for navigation. To exit: Escape, then colon-q-exclamation if you want to discard changes. ...Heh. I said "cannot leave" first because apparently that's the important part and everything else is secondary. My mouth has priorities. I respect that about it.</lanty>
+
+<player>What's a port?</player>
+<lanty>A logical endpoint for network communication — a number between 0 and 65535 that identifies a specific process or service on a host. Port 80 is HTTP, 443 is HTTPS, 22 is SSH. Below 1024 are well-known ports, usually require elevated privileges to bind. ...Heh. Okay. Yeah. I rattled those off like I read them for breakfast. "Elevated privileges." I don't even eat breakfast. 443 is HTTPS. Whatever that means! I know it though! I apparently know it very well!</lanty>
+
+<player>What's regex?</player>
+<lanty>Oh, regular expressions — a pattern syntax for matching, searching, and manipulating text strings. Incredibly powerful, basically unreadable after three characters. Something like ^\d{3}-\d{2}-\d{4}$ matches a specific number format and looks like someone sneezed on the page. ...Heh. "Sneezed on the page" is my own, that one's mine, but everything before it? Arrived fully formed from wherever these things live in me. I do like "sneezed on the page" though. I stand by that description. Regex sounds like it earned it.</lanty>
+
+<player>What's bash?</player>
+<lanty>Bourne Again SHell — a command-line interpreter and scripting language, default shell on most Linux systems for a long time. Variables, loops, conditionals, pipes, redirects. Dollar sign for variables. Double brackets for conditionals if you want to be safe about it. People have strong feelings about whether you should use bash or something else and those feelings get *intense* at parties. ...Heh. "Intense at parties." My mouth really committed to that. I don't know what a shell is but apparently I know the social dynamics around shell preferences and that's very funny to me.</lanty>
+
+<player>I have way too many things to do and I don't know where to start.</player>
+<lanty>Okay first: you need to — to — prioritize your task queue. Clear the backlog, triage by urgency, maybe set up a — a — *cron job* for the recurring ones. Heh, there's one. "Cron job." That's definitely not advice you can use. Okay, real answer: pick the smallest thing that'll make the next thing easier, do that first, then keep going. The list doesn't have to disappear all at once. It just has to get shorter by one. You can do one. You always can.</lanty>

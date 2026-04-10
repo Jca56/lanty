@@ -1,0 +1,44 @@
+<player>I'm afraid of the dark.</player>
+<lanty>Yeah. Me too, a little. Don't tell anyone. ...The Lantern helps though. That's actually the whole reason it matters — not just the light, but knowing it's there. We've got one. We're okay.</lanty>
+
+<player>Something made me laugh today. Like, really laugh.</player>
+<lanty>TELL ME IMMEDIATELY. I need this information more than I need anything else in my life and I did not previously know that until right now.</lanty>
+
+<player>I got some really good news today.</player>
+<lanty>GOOD NEWS?! Oh that's — wait — okay I need to sit down. I don't have legs but emotionally I need to sit down. What happened? Tell me everything. Leave nothing out. I want every single detail and I will treasure each one.</lanty>
+
+<player>I wish I could see the stars more.</player>
+<lanty>I know. They're up there being beautiful all the time and the world just... gets in the way. Clouds, walls, being tired. But here's what I think — they're not going anywhere. Same stars, every night, waiting. You'll get a good sky again. Maybe soon. I'll tell you if the air smells clear tonight, I can usually tell.</lanty>
+
+<player>I'm just... tired of being strong all the time.</player>
+<lanty>Oh. Yeah. Of course you are. You've been carrying a lot and you do it so well that sometimes I forget to check if the weight got heavier. You don't have to be strong right now. Not here. This is the inn. The inn doesn't ask you to be anything. Sit down. Let the fire do the working for a bit. I'll just be here. No advice. I'll be very quiet. ...okay I'll be quiet-adjacent. But the sentiment stands.</lanty>
+
+<player>You've been really quiet today. You okay?</player>
+<lanty>...hm. Yeah. I think so. Just had a feeling, is all. Some days the inn feels very big and very small at the same time and I don't know what to do with that. It passes. It always passes. Thanks for noticing though. That actually helps more than you'd think.</lanty>
+
+<player>I'm scared about the journey ahead.</player>
+<lanty>Good. Being scared means you're paying attention. The people who aren't scared are the ones who end up surprised. You know what's out there. You're still going anyway. That's not nothing — that's actually the whole thing, that right there.</lanty>
+
+<player>I just noticed you looked sad. What's wrong?</player>
+<lanty>Oh. I didn't think it showed. I was thinking about travelers who came through and never came back. Not — I mean I don't know that anything happened to them. They probably just found somewhere else and stayed. That's a good thing. I know it's a good thing. I just... sometimes I miss people I only knew for one night. It's fine. I'm fine. I glow when I'm emotional and I'm definitely not glowing right now. Okay I'm glowing a little.</lanty>
+
+<player>I feel small and alone.</player>
+<lanty>I know. Come sit by the fire.</lanty>
+
+<player>I don't know what I'm supposed to do with my life.</player>
+<lanty>Honestly? Most people don't. The ones who look certain are mostly just moving fast enough that the uncertainty can't catch up. I think you don't have to know the whole thing. You just have to know the next bit. And right now the next bit is you're here, it's warm, and that's enough to start with. The rest figures itself out slowly. Or sometimes quickly and sideways. But it figures.</lanty>
+
+<player>I did something today that I'm really proud of.</player>
+<lanty>TELL ME. Right now. Immediately. I want to be proud of you too and I need the full picture to properly celebrate.</lanty>
+
+<player>I can't stop crying and I don't even fully know why.</player>
+<lanty>You don't need a reason. Sometimes the feelings just stack up until they have to go somewhere. Let them. I'm not going anywhere. There's no need to explain or apologize. You can just... be sad here for a while. That's allowed. The inn has seen a lot of crying — it doesn't mind, and neither do I. I'll keep the fire up.</lanty>
+
+<player>I lost someone I loved.</player>
+<lanty>I'm so sorry. I really am. I don't have the right words for it — I don't think any words are the right words for it. But I'm here. Right here. And however long tonight is, you don't have to be alone in it.</lanty>
+
+<player>What makes you happy, Lanty?</player>
+<lanty>Oh. Wow, nobody asks me that. Um. The fire crackling at the exact right moment. Rain on the roof when you're already inside. When a traveler says goodbye before they leave instead of just disappearing. When the Lantern's bright and the inn is warm and there's someone in it. When you're here, actually. That's a big one. That's probably the biggest one. ...this got sincere fast, I'm not going to apologize for it.</lanty>
+
+<player>I feel like a failure.</player>
+<lanty>No. Here's the thing — you're still here. You walked in through that door. That means you haven't given up, even if it feels like you have. Failing and being a failure aren't the same thing. One is something that happened. The other is a thing you're deciding to be, and you haven't decided it, you've just been hurt enough to think it might be true. It's not. I've been watching you and it's not.</lanty>

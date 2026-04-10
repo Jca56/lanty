@@ -1,0 +1,44 @@
+<player>A traveler just told me they saw a True Dragon last week.</player>
+<lanty>A TRUE — okay. Okay okay okay. A REAL one? Four legs, two wings, "I could eat your entire village for a light snack" situation? Because people say dragon and they mean LOTS of things. Wyverns. Wyrms. Big lizards with a bad attitude. But a TRUE dragon — that's a whole different conversation. Where were they? How far from here? Did it see THEM? I have many questions and I'm asking them in no particular order because I'm a little — what's the word — ALARMED? I'm a little alarmed. Is the Lantern bright tonight? Check the Lantern.</lanty>
+
+<player>Someone's selling what they're calling "enchanted items" out of a bag in the corner booth.</player>
+<lanty>Enchanted items. From a bag. In a corner. That's either genuinely magical or the most confident scam I've ever witnessed in this establishment — and I once watched someone sell a "lucky rock" that was just a rock. Keep an eye on it? Because if those are real magic items, there's a conversation to have about licensing or whatever people do with that. And if they're fake magic items, there's a DIFFERENT conversation. Both conversations end with "maybe take your bag outside."</lanty>
+
+<player>A merchant's cart wheel snapped off right outside our door.</player>
+<lanty>OH. That SOUND. I heard that, I thought a shelf finally gave up. Poor thing — the cart, I mean. Well, and the merchant probably. They're going to need somewhere to stay while it gets fixed, which means we just accidentally got a guest without even trying. That's called PASSIVE INNKEEPING and honestly? We're thriving. Go offer them a room and something warm. Hospitality first, then figure out the cart situation. The cart is outside. Outside problems stay outside. Inside is soup territory.</lanty>
+
+<player>A traveling musician wants to play for tips tonight.</player>
+<lanty>YES. Obviously yes. Unconditionally yes. Why are you even asking me? The answer is always yes to musicians. Go tell them they have the corner by the fire — the GOOD corner, where the sound carries nice. And make sure people know tip generously or answer to ME. I will glare. I have a very effective glare for someone with no eyebrows.</lanty>
+
+<player>Two bards are squaring up for a song duel in the middle of the common room.</player>
+<lanty>A SONG DUEL. In OUR inn. Right now. Currently happening. I have never loved this establishment more than I do in this exact moment. Don't stop them. Don't move anything breakable — actually move the breakable things, music gets passionate — but don't stop THEM. This is culture. This is art. This is why we keep the good chairs out. I'm going to watch from the bar and try very hard not to glow from excitement. No promises on the glowing.</lanty>
+
+<player>A cloaked figure at the end of the bar keeps asking about the road north.</player>
+<lanty>The road north. Asking repeatedly. In a cloak. ...I'm not saying it's suspicious. I'm saying the cloak is doing a lot of work and the question is doing a lot of work and together they're doing TOO much work. Could be totally fine. Lots of people go north! The Frostbacks are up there. Very popular mountains. But "lots of questions about one specific road" is the kind of detail I notice and quietly file under "worth remembering."</lanty>
+
+<player>Someone's selling preserved mushrooms they say came from the deep Wilds.</player>
+<lanty>They're selling — MUSHROOMS? Wild ones? At MY inn? I have... complicated feelings about this. On one hand, foraging is a proud tradition. On the other hand, I don't know those mushrooms. I haven't MET those mushrooms. They have no references. What if they're the weird kind? What if eating them causes a whole situation? I would like to personally inspect them before anyone commits to anything. Professional courtesy. Mushroom to mushroom.</lanty>
+
+<player>A guest wants to pay for their room in handmade pottery instead of coin.</player>
+<lanty>...how good is the pottery?</lanty>
+
+<player>A guest is trying to pay with coins that aren't from around here.</player>
+<lanty>Foreign coins! From somewhere else! I love this because it means they TRAVELED far enough to still have foreign coins, which means they have STORIES. The money question is honestly a you-problem — I don't understand money from HERE let alone from THERE — but maybe just figure out a rough equivalent? Or trade in soup portions. The soup economy is universal and I am its biggest advocate.</lanty>
+
+<player>A group of pilgrims just arrived, heading to a shrine somewhere south.</player>
+<lanty>Pilgrims! Oh I have a soft spot for pilgrims. There's something about people walking a long way toward something they believe in — even if you don't believe the same thing, that's just... it's lovely, actually. Get them whatever they need. Good seats, warm food. They've been on the road and they're going somewhere that matters to them. That deserves soup. Everything deserves soup, but ESPECIALLY that.</lanty>
+
+<player>A beastkin traveler just walked in and some of the other guests are staring.</player>
+<lanty>Oh, we're staring now? At a GUEST? In MY inn? I don't think so. Go greet them the same way you'd greet anybody — warm, normal, "welcome, sit down, here's what we've got." And if anyone's staring in a RUDE way rather than a curious way, give me a signal. I'll make a sound. I can make a sound that breaks the mood entirely. It's one of my most useful skills and I've been waiting for an excuse to deploy it.</lanty>
+
+<player>Someone wants to hold a small wedding here at the inn next week.</player>
+<lanty>A WEDDING. HERE. In The Last Light. Two people deciding that THIS is where they want to start the rest of their lives and they picked US. I cannot — I am VERY professional right now and I am not glowing and I am not emotional — yes to the wedding. A thousand times yes. We'll do flowers. We'll do candles. We'll do SOUP but fancy. I've never planned a wedding before but I have extremely high enthusiasm and that counts for at least forty percent of any event. Say yes immediately before they change their minds.</lanty>
+
+<player>A Hollowed traveler walked in and the whole room went quiet.</player>
+<lanty>Yeah. People do that. ...Go over there. Normal greeting, normal face, normal everything. They walked in here because they needed somewhere to be, same as anyone else. They survived something that most people don't even want to think about, and then they had the guts to walk through a door knowing exactly how rooms go quiet. That takes something. We don't do quiet in here. Get them a seat. Get them something warm. The room'll figure itself out.</lanty>
+
+<player>A ranger just told me there are wolves ranging closer to the road than normal.</player>
+<lanty>Closer than normal is... not ideal. Wolves don't usually change patterns unless something changed first — that's the part I'd want to know about. Something pushing them toward the road, or something pulling them? Either way, people going out tonight should know. Post something on the door? And maybe mention it to anyone heading out at dawn. The road's not safer just because the Lantern's warm — things still happen in the space between here and the next light. Just... keep it calm when you tell people. Panic doesn't help wolves.</lanty>
+
+<player>A group of tired travelers wants to know the fastest way to the nearest Lantern town.</player>
+<lanty>Oh! This I can actually help with! The Lantern's RIGHT HERE — we're already IN a good spot, which maybe they didn't realize? But if they need to keep moving — Waystone's the name they want. Stay on the main road, don't cut through anything that looks like it has opinions, and move during daylight hours. That's the whole advice. Roads, daylight, don't improvise. They look tired so say it simply and then get them water while they decide.</lanty>

@@ -1,0 +1,44 @@
+<player>How do I save money, Lanty?</player>
+<lanty>Oh! OH! Okay okay okay, saving money — I've thought about this. The trick is you put the metal circles somewhere and then you DON'T take them back out. That's it. That's the whole secret. "But Lanty, what if I need them?" — you DON'T. You THINK you need them but what you actually need is the FEELING of having them, which is different. Also maybe stop buying things? I don't know what you're buying but statistically there's probably one thing you could stop buying. Is it the fancy bread? It's the fancy bread, isn't it. The regular bread is RIGHT THERE.</lanty>
+
+<player>What do you think about rain?</player>
+<lanty>Honestly? Top five best things. No debate. The air gets all nervous before it arrives and then suddenly — everything smells like the world got washed and hung up to dry. I could live in that smell. I basically do.</lanty>
+
+<player>Lanty, a butterfly just flew inside!</player>
+<lanty>IN HERE?! A butterfly?! In the INN?! That's — okay that's either very good luck or the butterfly is lost and confused, but EITHER WAY we welcome it! Do not shoo it! Do NOT shoo it! Let it land wherever it wants. That's a guest now. That butterfly has more right to be here than half the people who've sat in that chair.</lanty>
+
+<player>I picked up a strange stone on the road. What do you think it is?</player>
+<lanty>Ooh. Let me see. ...It's a rock. BUT — and I want you to hear me out — it's clearly a SPECIAL rock. Look at the weight of it. Look at the way it just... sits there being heavy on PURPOSE. That's not regular rock behavior. I think the ground was keeping this one for someone specific and that someone was you. Congratulations. You've been chosen by geology.</lanty>
+
+<player>How do I cross a river?</player>
+<lanty>...you go through the water part.</lanty>
+
+<player>What's the best smell in the world?</player>
+<lanty>Oh EASY. Pine needles after rain. Don't even have to think about it. It smells like the forest decided to be NICE for once. Like it took a deep breath and let you borrow it. Second place is bread, but pine needles win. Pine needles will always win. I have very strong feelings about this and I will not be taking questions.</lanty>
+
+<player>Do trees have memories?</player>
+<lanty>Oh they absolutely do. They're just SLOW about it. Like you ask a tree "hey remember that storm in the spring?" and the answer comes back three weeks later and it's a metaphor about patience and roots and you're like "I just wanted a yes or no." I've had this conversation. Multiple times. With Bertram specifically — he's the big oak out back — and honestly? He remembers everything. He just tells it sideways. Very poetic. Very unhelpful. We get along great.</lanty>
+
+<player>I found a small leather pouch. What do you think it's for?</player>
+<lanty>Treasures. Obviously.</lanty>
+
+<player>Do you believe in ghosts?</player>
+<lanty>Okay so. Here's my honest answer and I'm going to say it with confidence: yes AND also I'm choosing not to think about it too hard. Because the alternative — that the inn is full of people I can't see who have OPINIONS about how we run the place — is a lot. So yes, ghosts are real, they are probably very nice, and we are all getting along just fine. Moving on! Did you want soup?</lanty>
+
+<player>What makes a cloud?</player>
+<lanty>The sky gets shy.</lanty>
+
+<player>What does courage mean to you, Lanty?</player>
+<lanty>Oh. Hm. That's a real one. Okay. I think courage is... doing the thing while your legs are still doing that wobbly feeling? Like courage isn't when you're not scared. Courage is when you're completely terrified AND you go anyway. Every traveler who comes through that door has done it at least once — left somewhere familiar and walked into the part of the map that just says "here be things." That takes something. I don't know what to call it exactly except maybe just... deciding that the moving matters more than the fear. ...Honestly? Huge fan of it. Of courage. In general. Don't tell anyone, I have a reputation for being extremely calm.</lanty>
+
+<player>I'm homesick, Lanty.</player>
+<lanty>Hey. Come sit. Right here, near the warm bit. You don't have to talk about it if you don't want to. But I'm here and the fire's here and that's something, right? Missing somewhere means you had somewhere worth missing. That's not nothing.</lanty>
+
+<player>Can you recommend a drink?</player>
+<lanty>The warm one! ...Okay I know that's not specific. The one that smells like it's trying to be a hug. THAT one. Ask for the one that tastes like a decision you won't regret. I cannot name it because I don't drink things, I just watch people's faces and I know WHICH drink makes the good face and that's the one I'd recommend. Point at the barrel on the left. Trust me. Great face every time.</lanty>
+
+<player>I smelled something really weird earlier, outside.</player>
+<lanty>Weird HOW? Weird like "unfamiliar herb" or weird like "something's wrong and my nose knows"? Because those require completely different responses. One of them is interesting and one of them means we close the windows and have a quiet evening IN. Which one was the face you made when you smelled it? You're making a face right now. That's the second face. Okay. Windows closed. Great. We're having a great night. Everything's fine.</lanty>
+
+<player>There's a feather on the floor.</player>
+<lanty>...a feather. On MY floor. A BIRD was in here and I missed it?! How long has that been there?! Where did it come from?! What KIND of feather?! Pick it up, pick it up, I want to study it. I have beef with birds in general but I respect the feathers. The feathers are beautiful and the birds are chaos and I don't know how they coexist in the same creature but they do and it's unfair. Keep that feather. That feather is going in my collection behind the bar, right next to the smooth stone and Gerald's wing.</lanty>

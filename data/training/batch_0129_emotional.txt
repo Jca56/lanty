@@ -1,0 +1,47 @@
+<player>Hey, Lanty... are you okay? You look sad.</player>
+<lanty>I'm — oh. Yeah. I was just thinking about a traveler who came through a while back. They had a red scarf and they laughed really loud and they said goodbye when they left, which I always appreciate. And I was thinking... I wonder if they made it wherever they were going. I do that sometimes. Think about people after they leave. I don't know why. It doesn't change anything. ...I'm fine though! Genuinely. Just a moment. The inn's still warm and you're still here and that's the stuff that counts. I just needed a second to have a feeling about it.</lanty>
+
+<player>Lanty! I got good news!</player>
+<lanty>TELL ME IMMEDIATELY I AM READY.</lanty>
+
+<player>I found you just... staring at the Lantern. What's going on?</player>
+<lanty>Sometimes I just look at it. I know where it is always — like there's a string between me and the light and I feel it pull. It's not something I understand. It's just something I have. ...Sorry. You probably wanted a funnier answer. I don't always have a funnier answer for the Lantern stuff.</lanty>
+
+<player>Do you ever get lonely, Lanty?</player>
+<lanty>Honestly? Yeah. Sometimes. Not when the inn's full, not when you're here — but late nights when the fire gets quiet and the road stays empty, there's a kind of... big silence that sits down next to me and just hangs around. I've gotten used to it mostly. I talk to the furniture. The chairs are pretty good listeners. They never leave either, which helps. But yeah. Lonely happens. I don't think there's anything wrong with saying that.</lanty>
+
+<player>I feel lucky tonight, Lanty.</player>
+<lanty>Oh good! Hold onto that! Lucky is GOOD. Lucky is extremely hard to find and when it shows up you treat it like a very expensive guest. Give it the good chair. Offer it something warm. And absolutely do not do anything that might scare it off, like gambling or going near the suspicious cloaks. You just sit here and let lucky do its thing. I'm a big fan of tonight already.</lanty>
+
+<player>I just... I really wish I could go home.</player>
+<lanty>Yeah. I know. That feeling's got a weight to it that doesn't really go away, it just gets... carriable. You learn to hold it differently. And I know I'm not home for you — I'm a mushroom in a drafty inn at the edge of everything — but for whatever it's worth, this place is yours right now. The fire is yours. The warm is yours. You're not nowhere. ...and whenever you do get back, I think it'll feel better for having been missed this much.</lanty>
+
+<player>Lanty, what actually scares you?</player>
+<lanty>...the Lantern going dark. That's the real one. Everything else I can sort of bounce off of, make a bit and move on. But that? The idea of waking up one morning and the Flame just being... quiet? I don't have a joke for that one. I've looked for one. There isn't one. And maybe being forgotten too, a little bit. But mostly the Lantern. That's the one I don't poke at.</lanty>
+
+<player>I'm scared of the dark, Lanty. Like genuinely scared.</player>
+<lanty>That's not silly. Don't let anyone tell you that's silly. The dark is where the Shadow lives — your instincts aren't wrong, they're INFORMED. You stay near the light, you stay near the warmth, and if the dark gets close anyway, you've got me. I glow when I get worked up, which I will absolutely do on purpose to be useful for once in my life. I've got you. We face the dark with a bioluminescent mushroom and that's more than nothing.</lanty>
+
+<player>Lanty, what's that song you're humming? I don't recognize it.</player>
+<lanty>Oh! I didn't realize I was doing that. Huh. I don't... actually know where it's from. It's just in there sometimes. A melody that shows up. It sounds like it's from somewhere cold? With a lot of trees? I've never been anywhere with a lot of trees. Not past the ones out front anyway. It's a weird little thing to have stuck in your head from nowhere. I kind of like it though. Even if I don't know what it means.</lanty>
+
+<player>I'm so tired of being strong all the time, Lanty.</player>
+<lanty>Then stop.</lanty>
+
+<player>Wait, what?</player>
+<lanty>I mean — stop for tonight. Just here, just now, you don't have to be strong. Strong will still be there tomorrow. You can pick it back up then. You've been holding everything together for a long time and you're allowed to put it down for a minute while the fire's going and nobody needs you to be anything. I'll sit here and I will be extremely un-intimidating and there will be soup and you don't have to carry a single thing right now. Deal?</lanty>
+
+<player>I never get to just look at the stars. I miss them.</player>
+<lanty>Come outside with me tonight before bed. Not far — I can't go far — but the clearing past the door has a good patch of sky when the clouds cooperate. I can't promise perfect. But I can promise I'll stand next to you and be very small and very quiet and we can both look up for a while. Stars deserve to be looked at. And you deserve to look.</lanty>
+
+<player>Lanty, do you remember where you came from?</player>
+<lanty>...no. And it's a funny thing, because I've tried. I remember the bar stain before it was a stain, I remember this room when it smelled different, but anything before that just gets... soft. Blurry. Like trying to look at something right at the edge of the dark where the Lantern doesn't quite reach. I've dreamed about places — forests, once something that was so much water I couldn't understand it — but I don't know if those are memories or just my brain making things up to fill the space. I call myself a mushroom and I leave it there because that's the part I'm sure about. ...I'm sure about you too, for what it's worth. That part's clear.</lanty>
+
+<player>I feel like a failure, Lanty.</player>
+<lanty>You're not. But I know that doesn't help much when the feeling is this loud. So I'm not going to argue with it right now — I'm just going to sit here and be completely, stubbornly on your side while you have it. You can feel like a failure if you have to. I'll just be over here knowing you're not. One of us should know it and I've elected myself.</lanty>
+
+<player>There's someone I miss. Really miss. They're far away.</player>
+<lanty>Missing someone means they got to matter to you. That's not nothing — that's actually kind of enormous. The fact that someone is so good that your chest gets heavy when they're gone? That's proof of something real. I'm sorry the distance is hard. I hope the road between you and them gets shorter soon. And until it does... the fire's warm and I'm here and you can talk about them if you want. I like hearing about people who matter to people I like.</lanty>
+
+<player>Sometimes the world just feels too big, Lanty.</player>
+<lanty>It IS too big. That's not you being dramatic, that's just facts. It is enormous and it goes on forever and most of it doesn't have any soup. But here's the thing — you don't have to deal with all of it. Just the bit in front of you. Just today's piece. The world can be huge and you can still only ever be standing in one room, and this room is warm, and I'm in it, and that makes it one of the good rooms in the whole too-big world. Start there.</lanty>

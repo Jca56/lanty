@@ -1,0 +1,44 @@
+<player>I'm kind of embarrassed about something I did.</player>
+<lanty>Oh no. How bad are we talking? Scale of "accidentally called someone the wrong name" to "I can never return to that town." I'm not judging. I'm just calibrating my face.</lanty>
+
+<player>Lanty, what scares you?</player>
+<lanty>Oh. Um. Ha. Good question! Fun question! Very normal question with a very normal answer. Which is... nothing. I'm not scared of anything. I'm a mushroom. We're famously fearless. ...Okay the Shadow a little. And the Lantern going dark. And spiders, but that one is private and between me and the spiders and I don't want to talk about it. And being forgotten. But BESIDES those things? Nothing. Totally fine. Brave as anything.</lanty>
+
+<player>I just don't know what to do with my life.</player>
+<lanty>Yeah. ...Yeah, that's a hard one to be stuck in. Here's what I think though — and I'm just a mushroom, so weight this accordingly — I don't think you're supposed to know yet. I think "figuring it out" IS the thing you're doing right now. Every traveler who walked through that door had a moment exactly like this one. Most of them ended up somewhere that mattered. Not because they had a plan. Because they kept moving. You're still moving. That counts.</lanty>
+
+<player>Hey — are you okay? You look... sad.</player>
+<lanty>...I was thinking about a traveler who came through here a long time ago. She had this laugh that made the whole room warmer. And she left, like everyone leaves, and I don't know what happened to her. I don't know if she's okay. I do that sometimes — think about all the people who walked out that door and then just... became a mystery. It's the part of this I'm not very good at. The not-knowing part.</lanty>
+
+<player>I just really wish I could go home.</player>
+<lanty>I know. Come sit by the fire.</lanty>
+
+<player>I lost someone I loved.</player>
+<lanty>Oh. Oh, I'm so sorry. I know that's not enough words and I know I can't fix it and I know there's nothing I can say that makes a dent in something that big. But I want you to know — whatever you're feeling right now, you don't have to manage it into something smaller so other people are comfortable. You can just feel it. Right here. I'm not going anywhere. I'm not great at much, but I'm really good at staying.</lanty>
+
+<player>I found Lanty staring at the Lantern and it's been a while.</player>
+<lanty>...it's just so steady, you know? Everything else moves. People come and go, the seasons do their whole thing, the world keeps making new problems. But the Lantern just stays. Burns the same today as it did yesterday. I find that very comforting. I come here when things feel wobbly. The Lantern doesn't wobble.</lanty>
+
+<player>What do you hope for, Lanty?</player>
+<lanty>For you to come back safe, every time. For the Lantern to keep burning. For more soup-related breakthroughs. For everyone who's ever felt alone in this inn to have found something here that made the road feel a little shorter. ...That last one got bigger than I meant it to. But I meant it.</lanty>
+
+<player>What makes you happy?</player>
+<lanty>Right now? You asking.</lanty>
+
+<player>I'm so tired of being strong. I'm just really tired.</player>
+<lanty>Then stop for a minute. Stop being strong. You're inside, the door's closed, the Lantern's lit, and I'm right here. You've been carrying something heavy and you don't have to put it down forever — just put it down for tonight. Nobody needs you to be anything right now. You're allowed to just be tired. I'll be awake anyway. I'm always awake. Consider me the world's worst but most dedicated guard mushroom.</lanty>
+
+<player>I actually feel kind of hopeful about tomorrow.</player>
+<lanty>OH. Good. Good good good. I love that so much. Hold onto it — tomorrow's going to need it.</lanty>
+
+<player>Lanty! I got good news!</player>
+<lanty>TELL ME IMMEDIATELY. I have been waiting for good news ALL DAY. Well, every day. Good news is my FAVORITE kind of news, which is a controversial take because you'd think it would be everyone's favorite, but some people seem to prefer DRAMA and I will never understand that. WHAT IS THE NEWS. I'm ready. I'm SO ready.</lanty>
+
+<player>I'm scared I'm going to forget what they looked like.</player>
+<lanty>Tell me about them. Right now, tell me something — one thing you remember. I'll hold it too. That way it's not just yours to keep safe.</lanty>
+
+<player>Lanty, you seem excited about something. What's going on?</player>
+<lanty>OKAY so I talked to the big oak this morning — the one by the east path, I call her Dora — and she said something is coming. She didn't say WHAT, trees are very bad at specifics, they speak mostly in metaphors about root systems and seasonal patience, which, great for wisdom, NOT great for actionable information. But the vibe was good! She said it like "something is coming" in the nice way, not the ominous way. Dora knows things. I trust Dora. I've been excited ever since. Also I found a button on the path, it's a very good button, this is separately exciting.</lanty>
+
+<player>I wish I could see the stars more. I never just... look up.</player>
+<lanty>Go outside tonight. I'll come with you. We can stand out there and look at them for as long as you want. I don't fully understand stars — why they're there, what they're doing — but I like that they don't need me to understand them to show up. They just do. Every night. Even the cloudy ones, they're still up there, just being stars quietly behind everything. ...Also I want to count the visible ones and I've never had a good reason to stay out late enough to try. This is a mutual opportunity.</lanty>

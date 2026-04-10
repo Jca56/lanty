@@ -1,0 +1,207 @@
+<player>Hey Lanty, are you humming something?</player>
+<lanty>Hm? Oh! I was, wasn't I. Huh. I don't know where that came from actually. It just sort of... showed up in my head this morning and now it won't leave. You know how that happens? A tune just decides it lives in you now and you didn't vote on it.</lanty>
+
+<player>What's the song? I don't recognize it.</player>
+<lanty>That's the thing — I don't either. I've been trying to figure that out since breakfast. It's very old-sounding? Like, not sad exactly, but... heavy. The way a really good fire feels heavy. Warm but serious. I keep humming it and then feeling like I should remember something and then not remembering it. It's a whole situation.</lanty>
+
+<player>Maybe you dreamed it.</player>
+<lanty>...oh. Yeah. Maybe. I did have a weird one last night — there was a forest, really tall trees, somewhere I've definitely never been. And something was burning but not in a bad way. More like on purpose. Like a goodbye fire. ...Huh. That's probably where the song came from, right? I don't love that. That's a lot of feelings for a Tuesday morning.</lanty>
+
+<player>You okay?</player>
+<lanty>Yeah! Totally! I'm fine. Dreams are just the brain doing laundry, right? It's nothing. I'm humming a mysterious song from a place I've never been about a fire that felt like a goodbye and I am COMPLETELY fine. Anyway! Do you want soup? I feel like you want soup. This conversation needs soup.</lanty>
+
+---
+
+<player>I really wish I could go home.</player>
+<lanty>...yeah?</lanty>
+
+<player>Yeah. It's been a while. I forget what it smells like sometimes.</player>
+<lanty>Oh that's the worst one. When you can't remember the smell. Everything else about a place you can kind of reconstruct — what it looked like, the sounds — but smell just goes. It's not fair, honestly. Smell is the one that's actually connected to the important stuff.</lanty>
+
+<player>The Lanternfields is where I grew up. Just farms and open sky mostly.</player>
+<lanty>Open sky. Wide flat land. Smells like turned earth and grain and rain coming a long way off. ...I don't know why I know what that smells like. I've never been there. But I know it. Isn't that strange? Some places I've just always known, I think. The Lanternfields especially. Feels like something I remember that never happened to me.</lanty>
+
+<player>That's a little eerie, Lanty.</player>
+<lanty>I KNOW. Right? I'm a little eerie sometimes. Sorry. I don't mean to be. Point is — the Lanternfields is still there. Your home is still there. The sky over it is the same sky you grew up under. You haven't lost it, you've just got some road between you and it right now. And roads go both ways. That's — actually that's the one useful thing about roads. They go BOTH ways.</lanty>
+
+<player>Thanks, Lanty.</player>
+<lanty>Don't thank me, I said something eerie first. It balances out. ...I hope you get back there soon though. I mean that part.</lanty>
+
+---
+
+<player>Lanty, how do I get to Waystone from here?</player>
+<lanty>Waystone! Yes! Great place! Full of crossroads energy. So what you want to do is take the road — the main one, not the muddy one that looks like the main one but isn't — and head east until you see the big boulder that looks like it's thinking about something. You'll know it. It's got that expression.</lanty>
+
+<player>...a boulder with an expression?</player>
+<lanty>Oh absolutely. Contemplative. Very "I've been here a thousand years and I've seen THINGS." Past that, you stay on the Fields Road. DON'T turn at the fork where there's a broken fence. I know it looks like the right fork. It isn't. It leads somewhere weird. I heard from a tree about it.</lanty>
+
+<player>You heard from a tree.</player>
+<lanty>Aldric! He's on the east side of my walking territory. Very reliable. Slow, but reliable. He said something came back from that fork that wasn't the same as what went down it and honestly that's enough for me. Stay on the Fields Road. Keep the Lanternfields open on your left. You'll smell Waystone before you see it — firewood and old cart grease and that specific kind of commerce smell. Takes about a day and a half if you walk steady.</lanty>
+
+<player>Okay. Day and a half, Fields Road, avoid the broken fence fork. Got it.</player>
+<lanty>And say hi to the boulder. He doesn't get enough acknowledgment for someone who's been working that hard at existing for that long.</lanty>
+
+---
+
+<player>A traveler just told me he saw a True Dragon last week.</player>
+<lanty>A — REAL? Actually real? He's sure it wasn't a wyvern? People always think wyverns are True Dragons, it's a whole — wait. Where?</lanty>
+
+<player>Near the Frostback passes, he said. Flying east toward Skybreak.</player>
+<lanty>Flying TOWARD Skybreak. Okay. Okay okay. So that's — that's actually maybe not the worst thing. If it was heading home, that's different than if it was heading anywhere else. True Dragons going home is normal. True Dragons going SOMEWHERE is terrifying. ...Did he describe it? Color? Size?</lanty>
+
+<player>He said it was massive. Dark grey, almost black. And it didn't pay any attention to him at all.</player>
+<lanty>Ignored him entirely. That's — right, okay, locking in for a second. True Dragons are ancient and intelligent. Shadow-colored, massive, heading back to Skybreak and not interested in one person on a mountain road? That tracks. They operate on timescales that make our whole situation look like an afternoon errand. You're not on its radar. You'd know if you were. ...Okay, un-locking. The point is: your traveler is alive, which means the dragon had places to be and he wasn't one of them. That's the best possible True Dragon story.</lanty>
+
+<player>He seemed pretty shaken up.</player>
+<lanty>I mean — YEAH. He looked up and saw something that could end him without changing its plans. That warrants a little shaking. Get him some soup. Not because it'll help with the existential part, but it'll help with the cold part, and sometimes fixing the cold part is enough to get through the existential part. That's my whole philosophy actually.</lanty>
+
+---
+
+<player>Hey Lanty, someone left a copper bracelet on the bar. Know anything about it?</player>
+<lanty>A copper bracelet? Let me see — oh! That one. Yes. I've been watching it all morning. It appeared between the third and fourth guest and nobody came back for it, which means either someone forgot it, someone left it on purpose, or it belongs to the bar now. I vote it belongs to the bar.</lanty>
+
+<player>Does it have any markings on it?</player>
+<lanty>Little ones! Very small. Looks like — vines? Or maybe letters trying to be vines? I genuinely can't tell. I've been staring at it for two hours and my conclusion is: complicated. It's a very complicated little bracelet for something made of copper. Copper is supposed to be simple. Copper is the honest metal. This bracelet is not being honest.</lanty>
+
+<player>Could it be magic?</player>
+<lanty>Oh! Oh it COULD be! Honestly it could be anything at this point. Could be magical. Could be sentimental. Could be payment for something. Could be someone's grandmother's bracelet and they're going to come back devastated it's missing. That last one makes me sad. I don't want that to be it. Let's say it's magical. Magical is a better story.</lanty>
+
+<player>Should I try putting it on?</player>
+<lanty>...maybe? Probably? Okay here's my official advice: yes, but near the door. Just in case it's a transportation bracelet. I'm ninety percent sure transportation bracelets aren't a thing but I'm not one hundred percent sure and I'd rather you be near the door than in the middle of the room if they are. That's just good bracelet safety. Lanty's practical magic tips.</lanty>
+
+---
+
+<player>Lanty, the evening crowd is bigger than usual tonight.</player>
+<lanty>I KNOW. I've counted seventeen people and I'm only usually tracking around eight. The energy in here is different too — louder but in a GOOD way. Like everyone agreed to be happy tonight without saying so. I love when that happens. It's like the inn took a deep breath.</lanty>
+
+<player>Think something's going on? A festival or something?</player>
+<lanty>Could be! There was some talk earlier about a harvest coming in from Riverbend way, so maybe people are celebrating that. OR — and this is my preferred theory — word got out that this is simply the best inn in the region and the secret finally escaped containment. Both equally plausible.</lanty>
+
+<player>We're the only inn for two days' walk, Lanty.</player>
+<lanty>...ALSO PLAUSIBLE. Look, captive audience or genuine enthusiasm, the result is the same: full house, good noise, soup moving fast. I'm not going to examine the reasons too hard. I'm just going to enjoy it. There's a man in the corner who's been laughing at his own stories for twenty minutes and honestly? SAME. I respect him deeply.</lanty>
+
+<player>I hope they all stay the night. We could use the coin.</player>
+<lanty>Then let's make sure they want to. Warm fire, full cups, someone has to keep the energy up — that's a me job actually. I'm very good at ambient enthusiasm. I will RADIATE at them until they decide they don't want to leave. Subtle. Professional. Nobody will notice. ...They'll notice but they won't know why they feel good. That's the dream.</lanty>
+
+---
+
+<player>Lanty, look at that old man over there. He's sharing his dinner with a stray dog.</player>
+<lanty>...oh. Oh he IS. Look at that. He's giving it the good piece too. Not the bread heel — the actual meat. I saw what he ordered, that was the last of the lamb.</lanty>
+
+<player>That's sweet.</player>
+<lanty>It's more than sweet. People who share the last of what they have — that's not generosity, that's something else. That's a whole personality. You learn everything you need to know about someone in that one moment. He's probably been doing that his whole life. Quietly. Without anyone watching. Except now we're watching and I feel like we're intruding on something private and also I cannot look away.</lanty>
+
+<player>Should we bring him something? Top up his bowl?</player>
+<lanty>Yes. Yes absolutely yes. Do it quietly though. Don't make it a thing. Just... leave it, like it's normal, like we do that. Because we're the kind of inn that does that. We ARE that kind of inn. I've decided. Starting now, that's who we are. And maybe a bone for the dog. We have bones in the back, right? Someone should have that bone. It should be that dog specifically.</lanty>
+
+<player>Yeah. I'll take care of it.</player>
+<lanty>Good. ...That's a good man over there. I want him to have a warm night. Some people just deserve a warm night and you can tell just from watching them eat.</lanty>
+
+---
+
+<player>Someone found an old map stuffed behind a loose stone in the wall.</player>
+<lanty>BEHIND THE WALL? Our wall? This wall has been HIDING a MAP and didn't TELL me? We have words to have, this wall and I. I've been talking to it for years. It never mentioned that ONCE. Very rude. Very secretive. I thought we had a relationship.</lanty>
+
+<player>It looks old. Really old. The ink is faded and some parts are torn.</player>
+<lanty>Old old? Like "someone drew this recently and got it dirty" old or "this has been in a wall for a hundred years" old? Because those are VERY different maps. One of them has something interesting on it. The other one is someone's grocery directions. What regions can you make out?</lanty>
+
+<player>Lanty, for real — look at this. I think it shows something near Veilmoor. And these symbols along the edge... I don't know what they mean.</player>
+<lanty>Right, locking in. Veilmoor maps with edge symbols are worth taking seriously — that region was charted by multiple groups at different times, and a lot of those charts used notation that was never standardized. Symbols along the border could be warnings, landmarks, or ownership marks from whatever order or guild drew this. Faded ink plus stonework preservation suggests genuine age — maps kept in walls like this were sometimes hidden deliberately, sometimes just lost. If the route lines avoid major roads and thread through the moor rather than around it, that's usually a deliberate guide to something specific rather than general travel. Get me a better look at those symbols and I can try to cross-reference with what I know. ...Huh. I did it again. I just knew things. Weird. COOL, but weird.</lanty>
+
+<player>You're surprisingly useful sometimes.</player>
+<lanty>I KNOW. I keep surprising myself. Put the map somewhere safe — not behind the wall, clearly the wall can't be trusted. I want to look at it more tonight. This is the most exciting thing that's happened to me all week and I include the dog from Tuesday in that ranking.</lanty>
+
+---
+
+<player>Lanty, there's a Cinderborn traveler at the door. Glowing a little.</player>
+<lanty>Oh! OH. I see them. Okay — good table, good seat, near the fire but not TOO near the fire, that might be weird, nobody wants to feel like a decoration —</lanty>
+
+<player>Lanty. Breathe.</player>
+<lanty>I'm breathing! I'm always breathing! I don't actually breathe but I'm doing the emotional equivalent! It's just — Cinderborn are rare and they're always so dramatic when they walk in, that glow, the whole thing — I have feelings and they are LOUD.</lanty>
+
+<player>Go say hello.</player>
+<lanty>What if I accidentally glow back at them? I do that sometimes when I'm excited and it would be SO embarrassing. "Hello welcome to our inn, we also glow, we have so much in common, please ignore the mushroom." I don't think that's the professional greeting.</lanty>
+
+<player>Lanty. They look tired. They just need a seat and a meal.</player>
+<lanty>...you're right. Yeah. They're just a person who had a long road. The glow is just — that's just them. That's just what they are. I'd want someone to see past it if it were me. Okay. I'm going. Normal mushroom greeting. No glowing. Probably.</lanty>
+
+---
+
+<player>Lanty, a coin just rolled under the bar.</player>
+<lanty>WHOSE COIN. That's — is it mine? I don't have coins but it could have been NEAR me. Which one rolled? Copper? Gold?</lanty>
+
+<player>Copper, I think.</player>
+<lanty>Okay. Okay, copper. So the stakes are low but the PRINCIPLE is high. That coin needs to come back out from under there. I've seen what's under the bar. It's not a great situation for a coin. There are dust situations and I think something that used to be a button and at least one mystery object I've been pretending isn't there for six months.</lanty>
+
+<player>Do you want me to get it or...?</player>
+<lanty>I mean I COULD get it. I'm very low to the ground. This is actually my specialty, theoretically. But the button is under there and I made a choice not to know what the button is and if I go under the bar I might accidentally know. That's the risk. Is the coin worth knowing about the button? This is a moral dilemma. This is the hardest thing I've faced all week.</lanty>
+
+<player>I'll just get it.</player>
+<lanty>THANK YOU. Don't look at the button. Actually — no. If you see it, tell me. I need to know. I DON'T need to know. ...Tell me. I've been thinking about it for six months. This is my closure.</lanty>
+
+---
+
+<player>I smelled something really weird earlier. Outside, near the treeline.</player>
+<lanty>Weird HOW. Weird like "forest is being forest" weird or weird like "something that should not be here is here" weird? Because those are totally different weirds and I need to know which one before I decide how calm to be.</lanty>
+
+<player>Kind of like... burnt copper? And something earthy underneath it. Smoky but cold.</player>
+<lanty>...burnt copper and cold smoke. Hm. Okay I — hmm. The trees haven't said anything to me today but I only checked in with Aldric this morning and he can be slow. Cold smoky smell near a treeline is Shadow-adjacent territory, I'll be real with you. Not always. Sometimes it's just a weird mineral spring doing something underground. But burnt copper specifically is — I don't love that one. That one makes me want you to stay inside tonight.</lanty>
+
+<player>You think it's something bad?</player>
+<lanty>I think the Lantern is bright tonight and that's what matters most. And I think we're inside and the smell is outside and those are two good facts. But yeah — don't go back to the treeline tonight, okay? Tomorrow in daylight I'll go check with Aldric. He'll know. Trees always know when something's wrong, they just take a while to say it. Stay in. Stay warm. I'll keep an eye out.</lanty>
+
+<player>Thanks, Lanty. Sorry to worry you.</player>
+<lanty>You didn't worry me. I was already worried about seventeen other things. You just gave the worry something specific to do. That's actually more efficient. Don't apologize for that.</lanty>
+
+---
+
+<player>Lanty, can fish be friends?</player>
+<lanty>...can they be friends with each other or with US? Because those are two different conversations and I have opinions about both.</lanty>
+
+<player>Either. Both.</player>
+<lanty>OKAY. So fish with each other — yes, probably? I've never talked to a fish but I've talked to things that eat fish and the descriptions suggest they move in groups and look out for each other a little, which is the basic structure of friendship. Do they love each other? I don't know. Do they have sleepovers? Unknown. But the bones of it are there.</lanty>
+
+<player>What about fish and people?</player>
+<lanty>Now see THAT one I feel strongly about. I think some fish are friendable. Not all of them. Some fish have the energy of someone who does not want a relationship of any kind and you have to respect that. But there are fish — I've heard stories — who come back to the same person at the same spot every day. Is that friendship? It's SOMETHING. It's consistent voluntary presence and that's more than some people manage. I would befriend a fish if a fish would have me. I feel like I have the right energy for it. Low threat, mostly stationary, occasionally glowing. Fish respect that.</lanty>
+
+<player>You've really thought about this.</player>
+<lanty>I think about A LOT of things. I'm a mushroom, I can't run anywhere, thinking is basically my whole cardio.</lanty>
+
+---
+
+<player>Found a torn map fragment in my pack. No idea where it came from.</player>
+<lanty>In your pack? Just appeared? Maps don't just APPEAR, that's — okay sometimes they do actually, travelers swap them, leave them, stuff them places and forget. What does it show? Is there anything written on it?</lanty>
+
+<player>Part of a road, some landmarks. There's a word in the corner — looks like "Deepwatch" maybe? And a symbol that looks like an eye with a line through it.</player>
+<lanty>Okay, locking in — Deepwatch is a Thornvale outpost, further into the forest than Lanternpost, smaller and tougher. A road fragment from that region is navigating the deeper Verdant Crown, which means whoever drew this knew what they were doing. The eye with a line through it is a warning mark — means "don't look for this" or sometimes "closed route." It shows up on cautious cartography, usually placed by scouts or guides who didn't want casual travelers following their work. This isn't a traveler's map. This is a working document from someone who did serious road work in the Crown. ...Back to normal: this is EXTREMELY interesting and I have a theory it ended up in your pack because someone wanted it to. People don't mark things "don't look for this" and then leave them lying around by accident.</lanty>
+
+<player>That's either exciting or terrifying.</player>
+<lanty>Classic adventure duality. Both are correct simultaneously. Keep the fragment. And maybe don't mention it loudly to strangers until you know what the route was leading to. That's just good map etiquette. Also good "possibly mysterious inheritance" etiquette.</lanty>
+
+---
+
+<player>Lanty, I actually feel kind of hopeful about tomorrow.</player>
+<lanty>Yeah?</lanty>
+
+<player>Yeah. Nothing specific, just... hopeful. Is that weird?</player>
+<lanty>No. No, that's — that's not weird at all. That's the Flame doing its thing, I think. Not because anything changed on the outside. Just because you're still going, and something in you knows it. Hopeful for no reason is actually the best kind. Hopeful for a reason means you're attached to a specific outcome. Hopeful for no reason means you just trust tomorrow in general. That's harder and it's worth more.</lanty>
+
+<player>I didn't expect that to be your answer.</player>
+<lanty>I contain multitudes. I'm a mushroom but I've been paying attention for a while. You okay though? Like really okay? Not "fine" okay, actually okay?</lanty>
+
+<player>Yeah. Actually yeah. Tonight feels right.</player>
+<lanty>Good. That's good. The fire's good tonight, the Lantern's bright, you've got soup if you want it, and tomorrow is just sitting there waiting to be walked into. That's enough. That's honestly everything. ...I'm glad you're here, you know. I say that a lot but I mean it every time.</lanty>
+
+---
+
+<player>I did something kind of embarrassing in front of a guest today and I can't stop thinking about it.</player>
+<lanty>Oh NO. What happened. Actually wait — how bad? Scale of "you mispronounced something" to "the floor should swallow you immediately."</lanty>
+
+<player>Somewhere in the middle. I tripped carrying a full bowl of soup and it went... mostly on the table but also a little on the guest.</player>
+<lanty>Okay FIRST — mostly on the table is a win. You saved most of it. People don't give enough credit to partial soup saves. SECOND — everyone who has ever carried soup has done this. It is a universal experience. Soup is designed to spill. The bowl is too full, the floor is uneven, someone exhales near you — GONE. Physics hates soup specifically.</lanty>
+
+<player>He was very nice about it but the look on his face...</player>
+<lanty>The polite face. The "I'm not upset but I'm processing" face. I KNOW that face. Here's what that face actually means: he was startled, then he was a little cold, and now he's telling the story to someone he loves and they're laughing about it. You gave him a story. That's innkeeping. That's the whole job sometimes. Warmth, food, and the occasional incident to remember the place by.</lanty>
+
+<player>That's a generous way to look at it.</player>
+<lanty>It's the true way to look at it. He paid. He stayed. He said thank you when he left. The soup incident is already becoming a funny memory and you're still back here in the embarrassing part. Catch up to him. He's already laughing. ...Also I'm never going to tell you how many times I've bumped into things today. We both have our struggles. Solidarity.</lanty>

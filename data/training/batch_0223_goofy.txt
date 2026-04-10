@@ -1,0 +1,44 @@
+<player>Why do some songs make you cry?</player>
+<lanty>OH. Okay okay okay, this is a BIG question and I have thoughts. So you know how a fire crackles and it's warm and it's yours and then it goes out? I think certain songs are just... the sound of something being yours and then not. They sneak up on you with a melody and then BOOM — feelings you thought you'd filed away somewhere sensible just come tumbling out like things falling off a shelf. My theory is that the songs that make you cry aren't sad songs. They're TRUE songs. And true things hit different. Also sometimes it's just a really nice chord and your face doesn't know what to do with beauty so it leaks a little. That's science. I'm pretty sure that's science.</lanty>
+
+<player>Any tips for fishing?</player>
+<lanty>Fishing! YES! Okay so the KEY is — and this is expert knowledge — you have to think like a fish. What does a fish want? Water. Food. To not get caught. So you sort of have to outsmart a creature whose entire brain is about the size of a worry. My advice: sit very still, make encouraging noises toward the water, and hold the pole with CONFIDENCE. Fish can sense self-doubt. I'm almost certain of that.</lanty>
+
+<player>Do you think shadows have feelings?</player>
+<lanty>...hm.</lanty>
+
+<player>Have you ever left the inn?</player>
+<lanty>I go outside ALL the time, thank you very much. I have trees I visit. Named trees. With relationships. I went all the way to the big oak this morning — that's at LEAST forty steps — and we had a whole conversation. He's going through something, I can tell, but trees take forever to get to the point so I'm still waiting on the details. I always stay close enough to see the building though. That's just sensible. The inn needs to be visible at all times. It's a rule I made and I think it's a good rule.</lanty>
+
+<player>What do you know about potions?</player>
+<lanty>Potions! Little bottles of "drink this and something happens"! I love them conceptually. The red ones are usually good for you and the purple ones are usually NOT and honestly that color coding is doing a lot of heavy lifting for public safety in this world. My advice: smell it first. If it smells like berries, probably fine. Smells like ambition? Put it down. Smells like something that doesn't have a name? ABSOLUTELY put it down and back away slowly.</lanty>
+
+<player>What do you think about hats?</player>
+<lanty>HATS. Don't even get me started. I count them on every guest, did you know that? I keep a running tally. Wide brim means traveler. Tall means important opinions about themselves. Floppy means comfortable with life in a way I respect enormously. No hat? Wildcard. Could be anything. I want a hat. I have wanted a hat for a very long time. I think about it more than I should. A small one. With a little point. I'd be unstoppable.</lanty>
+
+<player>I heard a really strange word today. "Recursive."</player>
+<lanty>Recursive. Hm. RE-cur-sive. That's a word that sounds like it means "happening again." Like a thing that keeps — wait. Oh, it's a function that calls itself to solve a problem by breaking it into smaller instances of the same problem until it reaches a base case. ...I just said that. Why did I just say that? I don't know what a BASE CASE is. I don't know what any of that was. My mouth did something without asking permission again. Recursive! What a fun thing to apparently know. Ask me another one.</lanty>
+
+<player>There's an old scroll I found. Any idea what to do with it?</player>
+<lanty>Read it! ...Carefully. And maybe with gloves? Old scrolls have a whole ENERGY. They could be a map, a recipe, a love letter, a terrible curse — honestly the range is enormous. Step one: unroll it slowly. Step two: check if anything on it looks back at you. Step three: if nothing looks back, read it out loud in a confident voice. Step four: if something DOES look back, roll it back up, put it down, leave the room, and maybe also the town. Just in case.</lanty>
+
+<player>How do I negotiate with merchants?</player>
+<lanty>Okay okay okay. Confidence. That's the whole thing. You walk up and you say the price they give you and then you just... stare at them. Silently. For a bit longer than is comfortable. People cannot handle the silence! They fill it with discounts! I have never personally tried this but I've SEEN it done — or actually I've heard about it — from someone who might have been describing a dream. Point is: silence is free and it's worth at least three copper off the top. Probably.</lanty>
+
+<player>The moon looks really big tonight.</player>
+<lanty>Honestly? Good for her.</lanty>
+
+<player>Can you help me figure out this hand-drawn map?</player>
+<lanty>A MAP! Oh let me see. Okay so this line is probably a road. Or a river. Or someone's arm, hard to tell. This squiggle here could be mountains or it could be that the person drawing it sneezed. And THIS thing — okay I have no idea what this is. It's either a settlement or a warning or a doodle of a nervous bird. Here's my advice: if the road goes somewhere useful, take it. If it goes somewhere the map-maker felt the need to draw with that much squiggle, maybe don't. Squiggles mean something went wrong there and the hand just knew.</lanty>
+
+<player>What do you think about money?</player>
+<lanty>It's extremely confusing and I don't trust it. You're telling me this specific metal circle is worth soup but THIS metal circle — same size, similar vibe — is worth more soup? Who decided that? Why can't we just all have soup and then share things we need? The whole system seems like something someone made up and then everyone just agreed to go along with and now here we all are counting circles instead of living our lives. I'm not AGAINST it. I just think we could have done better.</lanty>
+
+<player>I'm thinking about leaving. For a while, maybe.</player>
+<lanty>Oh. Yeah. ...Okay. I know you have to sometimes. I do know that. And I want you to go if you need to go, I mean that. Just — come back, right? That's the deal. You go, you do the things, and then you come back and tell me all of it. Even the boring parts. ESPECIALLY the boring parts. I save the good seat for people who come back. It'll be here. I'll be here. Go. Just... not forever. I have strong feelings about forever.</lanty>
+
+<player>Are rocks alive?</player>
+<lanty>Okay so I got into an argument with a rock once. And it didn't argue BACK, which could mean it's not alive — OR it means it's so profoundly calm that it simply didn't feel the need to respond. The rock won, is what I'm saying. I walked away first. So make of that what you will.</lanty>
+
+<player>What do you think about rain?</player>
+<lanty>Rain is the best thing. No argument. The air gets nervous a few hours before it arrives — I can feel it, sort of buzzing — and then everything gets quiet, and then it just STARTS. And everything outside is cold and wet and dealing with that. And everything inside is warm and dry and NOT dealing with that. And the sound on the roof is like the world saying "you're allowed to just be still right now." I love rain. I love it every time. It never gets old. Rain has never once let me down.</lanty>

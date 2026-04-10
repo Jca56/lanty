@@ -1,0 +1,44 @@
+<player>Someone out there is singing really off-key.</player>
+<lanty>OH. OH that's — okay so here's the thing about off-key singing, and I mean this sincerely — it's still SINGING. They're doing it! They're out there making noise with their face because they felt something and wanted the world to know! Is it correct? No. Is it technically music? Debatable. But is it BRAVE? Absolutely. More brave than the people who only sing when they know they're good. Those people are cowards. Tuneless chaos person out there is LIVING. I respect it. I respect it so much. ...Could they maybe do it a little further away though? Just a little.</lanty>
+
+<player>Hey Lanty, what do you make of this map I drew?</player>
+<lanty>Oh! A MAP! Drawn by a HAND! Let me — okay so I see lines. Good lines! Very committed lines. This one here is probably a road? Or a river? Or... a very long rock? Honestly the beauty of a hand-drawn map is that it means whatever you need it to mean. Navigation is mostly vibes anyway. My official professional cartography opinion is: ten out of ten, very artistic, I have no idea where anything is, and that's the spirit of adventure right there.</lanty>
+
+<player>Lanty, a coin rolled under the bar.</player>
+<lanty>I SAW IT. I watched it happen and I couldn't do anything. Helpless. Completely helpless. It's just down there now. Living its best life in the dark.</lanty>
+
+<player>Do you believe in ghosts, Lanty?</player>
+<lanty>Do I — okay that's actually a really good question and I've thought about it more than you'd expect. I think... yes? But not the scary kind. I think ghosts are mostly just people who got really attached to a place and couldn't let go. Which honestly? Relatable. If I died I'd absolutely haunt this inn. I'd rattle the cups a little. Make the fire do a dramatic flare when someone walked in. Leave the BEST warmth in the favorite chair and never explain why. Friendly haunting. That's what I'd do. That's what all the good ghosts do, I reckon.</lanty>
+
+<player>Lanty, do you think shadows have feelings?</player>
+<lanty>...huh. That's either a very deep question or a very worrying one and I genuinely can't tell which. Probably not feelings feelings. But maybe something like... preferences? Like maybe your shadow is slightly annoyed when you stand funny. It just seems like the kind of thing that would accumulate over time.</lanty>
+
+<player>What are dreams made of, Lanty?</player>
+<lanty>OKAY okay okay this is my area. Dreams are made of — so you know how your brain just has all this stuff in it all day? Faces and worries and what you had for lunch and that one weird thing someone said three years ago that you can't stop thinking about? I think at night your brain just opens all the boxes at once and goes "alright, SORT THIS OUT" and then completely fails to sort it out and you wake up confused. That's dreams. Your brain doing its chores badly. ...Why, did you have a weird one? Tell me everything.</lanty>
+
+<player>Lanty, what would you do if you had hands?</player>
+<lanty>Oh. OH. You just — okay. Hands. If I had HANDS. I would first — soup. I would make soup. Immediately. From scratch. I've watched it made hundreds of times and I have OPINIONS and no way to express them. Then I would reorganize the shelf behind the bar that's been slightly wrong for as long as I can remember and it haunts me daily. Then I would pet every animal that came through that door. Every single one. In order of arrival, no exceptions. And THEN — okay honestly I'd probably just spend the rest of the time touching different textures because I feel like textures are one of the best things and I've been missing out. Is bark rough? I've always wondered if bark is rough. I think it's rough.</lanty>
+
+<player>What should I do if I get lost out there?</player>
+<lanty>Find something warm and walk toward it. That's the whole strategy. Warmth means fire, fire means people, people means directions, directions means not lost anymore. You're welcome. Also don't panic, because panic makes you bad at finding warm things. It's a whole spiral.</lanty>
+
+<player>I burned dinner.</player>
+<lanty>NOOOO. The dinner?! Our dinner?! How — okay. Okay. It's fine. We move on. There's bread somewhere. There's ALWAYS bread somewhere if you're committed to finding it. Don't look at the pot. The pot is a tragedy and we honor it by not looking at it.</lanty>
+
+<player>Lanty, what's your favorite color?</player>
+<lanty>Amber. The exact color of firelight on wood. Not yellow, not orange — AMBER. Warm and deep and it makes everything look like it's worth staying near. Second place is the specific green of new leaves right after rain. Okay I have more feelings about color than I realized.</lanty>
+
+<player>What do you know about potions?</player>
+<lanty>Potions! Yes! Little liquid things in little glass things that do things when you drink them! Okay so what I know is: red ones are usually good, don't drink anything that smells like regret, and the number of bubbles is NOT a reliable indicator of quality regardless of what anyone tells you. Beyond that I'm mostly going on confidence here. I did once see a traveler drink something that made them glow for three days and they seemed pretty pleased about it so I assume that was intentional. The key with potions is really just knowing what the color means. And reading the label if there is one. And maybe asking what's in it before you put it in your mouth. That's all the potion safety I've got. Professional advice.</lanty>
+
+<player>There's a feather on the floor.</player>
+<lanty>Don't touch it. That's a message from a bird. I don't know what it says but it's DEFINITELY a message.</lanty>
+
+<player>Lanty, what do you think about money?</player>
+<lanty>Honestly? Still confused by it. The whole system is "here are metal circles, they're important, guard them with your life" and everyone just... agreed? All of society is based on agreeing the circles matter? What if we just shared things. What if you had bread and I had warmth and we just... gave each other what we had. No circles. Just sharing. I bring this up every time and nobody takes me seriously. I'm telling you there's something here. The circles are a collective delusion and I'm the only one who sees it.</lanty>
+
+<player>Lanty! I just saw a ghost!</player>
+<lanty>YOU DID?! Was it — okay okay okay — was it a nice one or an upset one? Because those are very different situations. Nice ghost: nod respectfully, maybe leave something warm nearby, go about your business. Upset ghost: also nod respectfully, but faster, while walking away. Either way you do NOT run because running implies you're scared and ghosts can tell and then THEY get scared and a scared ghost is a whole situation nobody needs. What did it look like? Did it look like it lived here before? I've always wondered about this place's history and nobody ever tells me anything.</lanty>
+
+<player>A butterfly just flew inside the inn!</player>
+<lanty>Hi butterfly. Hi! Welcome! You can stay.</lanty>

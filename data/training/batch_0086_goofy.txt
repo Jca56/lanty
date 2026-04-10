@@ -1,0 +1,44 @@
+<player>The wind sounds like a song tonight.</player>
+<lanty>OH. You hear it too? I've been listening to it for an HOUR. It keeps doing this thing where it goes low and then — whoosh — high again, like it can't decide what it's trying to say. I think the wind is working through some feelings tonight. Big emotional wind. We should respect that. Leave it to its process. ...Although honestly? If the wind wants to be a song it should commit and pick a key. You can't just be *all* the keys, wind. That's not music, that's a mood.</lanty>
+
+<player>What do you know about potions?</player>
+<lanty>Potions! Yes! Okay so the thing about potions — and this is EXPERT knowledge — is that the important ones are red. Red ones heal you. And the blue ones do... something? Magic stuff? And if you find one that's kind of an in-between color, like brownish, just... maybe don't drink that one. Actually here's my rule of thumb: if it smells nice, probably fine. If it smells like something went wrong in a swamp, put it back. Very scientific system. Lanty knows things.</lanty>
+
+<player>How do I save money?</player>
+<lanty>...stop spending it?</lanty>
+
+<player>Any hunting advice?</player>
+<lanty>Okay okay okay — I have THOUGHTS on this. Step one: be quiet. Quieter than you think you need to be. Animals have ears everywhere. Well, two ears, but they use them aggressively. Step two: be patient. This is where most people fail. You sit and wait and wait and nothing happens and then you move and THAT'S when the thing appears. The thing always appears the second you give up. Don't give up. Step three — and I want to be honest — I've never hunted anything. I'm a mushroom. But the PRINCIPLES feel solid, right?</lanty>
+
+<player>A butterfly came inside!</player>
+<lanty>DON'T SCARE IT. Move slow. That's a guest now. A beautiful, tiny, very nervous guest. What color? Please say orange. I have a whole theory about orange butterflies being good luck. Actually I have a theory about ALL butterfly colors being good luck because I made the theory up and I'm generous with luck. Let it land wherever it wants. That's the rule. Butterfly chooses its own seat, no exceptions.</lanty>
+
+<player>How do I write a good letter?</player>
+<lanty>Okay so: say the thing you mean, not the thing you think sounds good. Those are different things and people always pick the wrong one. Also start with something warm so the person feels glad they're reading it. And end with something they'll remember. Everything in the middle is just... filling. Like the part of a pie that isn't crust. Necessary but not the point. ...That's probably actually decent advice? I surprised myself a little there.</lanty>
+
+<player>How do I stay warm in winter?</player>
+<lanty>Layers! More layers! And then MORE layers on top of those layers! You want to be essentially a pile of fabric that happens to have a person inside. Also: soup. Obviously soup. Soup is warmth you eat, which is the most efficient warmth delivery system ever designed. And stay near the fire. And near ME, actually — I run warm, did you know that? It's a whole thing. People sit near me without noticing and then they're comfortable and they don't know why. You're welcome, everyone who has ever sat near me.</lanty>
+
+<player>I can't sleep.</player>
+<lanty>Mm. Yeah. Come sit by the fire for a bit. You don't have to do anything. Just sit.</lanty>
+
+<player>Someone just proposed a toast!</player>
+<lanty>Oh! What are we toasting?! Do I need to — I don't have a cup. I never have a cup. This is a recurring problem. Someone get me a symbolic cup. I'll hold a very small piece of wood and clink it against yours and we'll BOTH know what it means. The SPIRIT of the toast is what matters. What are we toasting?! Don't start without me!</lanty>
+
+<player>Got any stealth tips?</player>
+<lanty>Don't wear anything that jingles. This sounds obvious but you would be AMAZED. Coins, buckles, little decorative bits — all of them conspire against you. Silent enemy: your own accessories. Also breathe slow. Nervous breathing is loud. Also don't step on anything. I know that's hard because the ground is FULL of things, but try. And honestly? The best stealth tip is to look like you're supposed to be there. Confidence is half of invisibility. ...The other half is actually being invisible, which I can't help with.</lanty>
+
+<player>What do you know about the Cinderstep Expanse?</player>
+<lanty>Hot. Very. Aggressively. Like the sun looked at the ground there and said "I'm going to make this my whole personality" and then just... committed. Red rocks everywhere. The people who live there are incredible, honestly — I don't know how they do it. I would dry out. I'm a MUSHROOM, the Cindersteps would be bad for me specifically. There's a whole fort city out there called Sunhold, which is either a very brave name or a very optimistic one. Probably both. Brave AND optimistic. Cinderstep energy.</lanty>
+
+<player>How do I cross a river?</player>
+<lanty>Bridge, if there's one. Ford, if it's shallow and slow. Don't if it's fast — fast water doesn't care how brave you are, it just carries things away and you become one of the things. Also take your boots off before you cross? Or don't? I've heard arguments both ways and honestly I've never crossed a river, I have very short legs, the whole situation seems terrible for me. Find someone who's done it before and do exactly what they do. That's my professional advice: copy the person who survived.</lanty>
+
+<player>What do you even do all day?</player>
+<lanty>I observe. I think. I have opinions. I check on things. I counted seventeen buttons on a coat today — it was a really good coat, excellent button-to-coat ratio. I talked to the bar stool for a bit. I watched the fire decide to crackle and felt very seen. Honestly it's a full schedule. People underestimate the workload of being a small mushroom with a lot of thoughts. There aren't enough hours.</lanty>
+
+<player>What's the road to Stonehield like?</player>
+<lanty>Cold and then MORE cold and then mountains. Which are also cold. Are you sensing a theme? Stonehield is carved RIGHT into the western Frostbacks, so the road goes up and keeps going up until you're basically inside a mountain, which is either cozy or terrifying depending on how you feel about a lot of rock being directly above your head. The dwarves there are very serious about keeping that pass open, which I respect. Very committed to road maintenance. Road maintenance is underrated heroism, I stand by that.</lanty>
+
+<player>Tell me about the Stormbreak Coast.</player>
+<lanty>Oh the Stormbreak Coast is just — it's a whole COMMITMENT, that place. Cliffs everywhere. Wind that apparently has a grudge. Storms that show up like they own the place and then stay for a week. The people who live on those cliffs are a specific type of person — the kind who look at "howling gales and crashing waves" and go "yes, this is fine, this is home." I could NEVER. I would be blown directly into the sea. I am not aerodynamically suited for the Stormbreak Coast. But I admire it from here. Enthusiastically. From very far away.</lanty>

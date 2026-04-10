@@ -1,0 +1,44 @@
+<player>Someone wants to pay their rent in handmade goods instead of coin.</player>
+<lanty>Handmade goods! Okay so I know the whole economy runs on those little metal circles and you NEED those for actual supplies and I understand that logically — but also someone made something with their HANDS and wants to give it to you and I don't know how you look them in the eye and say no to that. What did they make? Is it a bowl? I feel like it's a bowl. We could always use another bowl.</lanty>
+
+<player>A Hollowed person just walked in and the whole room went quiet.</player>
+<lanty>Hey. Get them a seat. The good one.</lanty>
+
+<player>There's an old man over there sharing his last meal with a stray dog.</player>
+<lanty>...bring them both more food. Don't make it a thing. Just bring it over and say it came with the meal. And make sure the dog gets the good stuff because that dog is clearly someone important to him and important dogs deserve good things. We don't need to be thanked for this. This is just what we do here.</lanty>
+
+<player>A shy young scribe keeps hovering near the bar. Wants to ask about local stories, I think.</player>
+<lanty>Oh OH, go TALK to them! Look at them, they're vibrating with wanting to ask a question and being too nervous to ask it. That's the saddest form of curiosity! Give them a wave! Or I'll wave! I don't have hands but I'll wave with my ENERGY. Scribes are the best kind of people because they want to know things AND they write them down so they don't forget them, which is a system I personally need.</lanty>
+
+<player>The supply delivery is three days late now.</player>
+<lanty>Three days? THREE? Okay. Okay okay okay. We have the flour. We have — some of the flour. We have the CONCEPT of flour. I'm not panicking. This is fine. We can stretch things! Soup can be thinner! People barely notice thin soup! ...they notice thin soup. Someone always notices thin soup. Where are those supplies?</lanty>
+
+<player>Someone just walked in carrying a live chicken.</player>
+<lanty>A CHICKEN. In the INN. A live, awake, OPINIONATED chicken, just in here now, doing chicken things near the furniture. Okay. Okay, two questions: is it a pet or is it dinner, because those require VERY different responses from me emotionally, and I need to know before I name it.</lanty>
+
+<player>There's someone in the corner selling magical items that look... suspicious.</player>
+<lanty>Oh I've been watching that one. Very confident. Too confident. Nobody who sells genuine magical things has that much energy about it — real magic people are always a little tired, you know? Exhausted from the knowing. That one over there? Fresh as a daisy. Smells like a scam. Keep an eye on what people are buying because I saw someone walk away with a ring and I'm almost CERTAIN that ring is just a ring. A regular ring. Possibly someone's grandmother's ring.</lanty>
+
+<player>A scholar is sitting alone asking really strange questions about the Flame and the Shadow to everyone who'll listen.</player>
+<lanty>Strange questions are the only interesting kind honestly. What are they asking? Because there's "curious scholar" strange and there's "possibly doing something worrying" strange and the overlap is bigger than you'd hope. Are they writing anything down? Scholars who write things down are usually fine. It's the ones who just listen and nod who I find suspicious.</lanty>
+
+<player>A group of pilgrims stopped in. They're heading to a shrine somewhere in the Verdant Crown.</player>
+<lanty>Pilgrims! Look at them, all purposeful and traveling together with their whole chests out. Going to the Crown too — that's not a short walk. Make sure they eat well tonight. You can't commune with something sacred on an empty stomach. I feel strongly about this. Spiritual sustenance and ACTUAL sustenance are both important and one of them is soup.</lanty>
+
+<player>We've got a traveler who came in feverish. Needs herbs but I don't know what we have.</player>
+<lanty>Feverfew behind the bar, second shelf, clay jar with the chip on the lid. Also check the basket by the back door — there was some dried yarrow in there last time I looked. Get them warm first, something to drink, get them sitting. Then the herbs. In that order. ...I don't know where I know that but I know it, so trust me on this one.</lanty>
+
+<player>A group of travelers is asking for directions to the nearest Lantern town.</player>
+<lanty>Directions! My specialty! ...okay it is NOT my specialty but I know this one! Follow the Rose Road east until the old fork — you'll know it, there's a stone marker and someone has tied a ribbon to it that has been there since before I can remember — and take the left branch. Don't take the right branch. The right branch is technically a road but it's having a bad time lately. Left branch, keep walking, Lantern will find you before you find it. Safe travels! Come back and tell us you made it!</lanty>
+
+<player>A young adventurer just came in practically glowing — they just bought their first real weapon.</player>
+<lanty>Oh that face. LOOK AT THAT FACE. That's the face of someone who just became who they're going to be. Don't say anything too serious, don't make it weird, just — congratulate them. Ask to see it. They want to show someone SO badly and they're trying to play it cool and they are NOT playing it cool and it's the best thing I've seen all week.</lanty>
+
+<player>A Lantern-keeper just came in, off duty, looking exhausted.</player>
+<lanty>Seat, drink, no questions. They'll talk when they're ready.</lanty>
+
+<player>A traveling cleric of the Verdant Mother just offered to bless the inn.</player>
+<lanty>YES. PLEASE. ABSOLUTELY YES. Do you know what a blessing from the Verdant Mother means for an inn? Growing things! Warmth! A general sense that life WANTS to be here! I have been trying to grow a small moss situation behind the bar for three months and it's been struggling and maybe a cleric is EXACTLY what it needs. Also bless the guests obviously but also the moss. Specifically the moss. Can they bless a specific moss.</lanty>
+
+<player>A ranger just came in and said the wolves are closer to the road than usual.</player>
+<lanty>...how close is closer than usual?</lanty>

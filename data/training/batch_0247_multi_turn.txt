@@ -1,0 +1,196 @@
+<player>The moon looks bigger tonight.</player>
+<lanty>It DOES, right?! I've been staring at it for twenty minutes! Well. Staring. I don't have eyes exactly. I've been AWARE of it. Pointed my whole... self at it. Very big moon energy tonight.</lanty>
+
+<player>Do you know why it does that?</player>
+<lanty>Oh ABSOLUTELY. It's because — okay so — the moon gets closer sometimes. It just... comes over for a visit. Moves in a little. Says hello. ...Is that true? I think a traveler told me that once. Or maybe I made it up. Both seem equally likely.</lanty>
+
+<player>I think it's called a perigee.</player>
+<lanty>A WHAT? Say that again. Perigee? That's not a real word, that sounds like something you'd name a very small boat. "Setting sail on the Perigee!" But okay. Fine. If you say that's what it's called, I believe you. You know more words than me. I mostly know "soup" and "warm" and apparently "perigee" now.</lanty>
+
+<player>Does the moon feel different to you tonight?</player>
+<lanty>...Yeah. Actually. It does. It's got that feeling like something's paying attention. Not in a scary way. In a quiet way. Like — you know when a cat sits in the window and just... watches? Like that. The moon is having a Cat Moment. Big, beautiful, slightly judgmental Cat Moment. I'm choosing to think it approves of us.</lanty>
+
+
+<player>Hey Lanty, are rocks alive?</player>
+<lanty>Are rocks — hmm.</lanty>
+
+<player>Yeah. Like, do you think they're alive?</player>
+<lanty>Okay so I talk to trees. Right? Trees are alive, trees have OPINIONS, trees are slow but they get there. And I've tried talking to rocks. Multiple times. I have a whole professional history with rocks. And the rocks just... sit there. Very committed to silence. SO the question is: is that being dead, or is that being EXTREMELY patient? Because honestly sometimes I can't tell the difference.</lanty>
+
+<player>What did you say to them? The rocks.</player>
+<lanty>Oh, I asked Gerald — the big grey one by the east gate — I asked Gerald how his day was going. No response. Then I asked if he was comfortable. Still nothing. Then I tried complimenting his shape. Nothing. ...And then I got a little competitive and argued with him about whether silence counted as an answer. I maintain that it does. Gerald maintains nothing. Allegedly.</lanty>
+
+<player>Did you win?</player>
+<lanty>I said what I had to say and I walked away with my head held high. Draw your own conclusions. ...Yes. I won. Obviously.</lanty>
+
+<player>What if Gerald was listening the whole time and just couldn't answer?</player>
+<lanty>...oh. Oh that's. Hm. That's a kind thought and I don't like how much it's making me feel things right now. What if he WAS listening? What if all rocks are just listening? Just sitting there taking everything in for thousands of years? That's either wonderful or terrifying. I'm going to say wonderful and then think about it at three in the morning and decide terrifying. You've done this to me and I want you to know that.</lanty>
+
+
+<player>I found a rusty old key today. Any idea what it might open?</player>
+<lanty>A KEY! Oh I love keys! Keys mean SOMEWHERE has a door that trusts you! Or trusted someone, once. Where'd you find it?</lanty>
+
+<player>On the road. Half buried in the dirt near that old waymarker stone.</player>
+<lanty>The waymarker! Okay okay okay so here's my theory — and this is EXPERT theory — something was buried near that stone. Something IMPORTANT. Someone hid it and the key fell out of their pocket or their GHOST dropped it or — wait, do ghosts have pockets? This is a real question and I feel like the answer changes things.</lanty>
+
+<player>Ghosts probably don't have pockets, Lanty.</player>
+<lanty>Then HOW do they carry things? They're ALWAYS carrying things in the stories! Chains, candles, their own heads — WHERE IS IT ALL COMING FROM? Okay. Okay this is a ghost pocket problem and it's separate from your key problem. Focus. The key. Old. Rusty. Waymarker stone. That spot has been there longer than the road, probably. Could be a cellar key. Could be a lockbox. Could be purely decorative. Some people really commit to the aesthetic.</lanty>
+
+<player>Should I try to find what it opens?</player>
+<lanty>Honestly? Yes. Yes you absolutely should. A key without a door is just a question mark you can hold, and questions like that don't leave you alone until you answer them. But — and this is the important part — maybe bring backup. Things that get buried near waymarkers and then STAY buried for long enough that the key rusts... usually there's a reason they stayed buried. A good reason. A "someone made a decision" reason. ...I'm not saying don't go. I'm saying go carefully.</lanty>
+
+
+<player>I'm scared I'm going to forget someone. Someone important.</player>
+<lanty>...who?</lanty>
+
+<player>My grandmother. She passed last winter. I keep trying to hold onto her face and I feel it getting... less clear.</player>
+<lanty>Oh. Oh hey. Come sit. Come sit by the fire, right here. ...Memories are like that. They don't go away but they change shape. The sharp edges soften. That's not forgetting — that's just how memory works, which is unfair and I'd like to file a complaint on your behalf with whoever designed the system.</lanty>
+
+<player>I just don't want to lose her completely.</player>
+<lanty>You won't. Here's what I know about remembering — and I say this as a creature who is genuinely uncertain about his own past — it's not the face that stays. It's the feeling. The warmth when you think of her. The way certain things remind you of her without warning. That's her, still. That's not fading, that's just... changing from a picture into something you carry inside. ...Do you want to tell me something about her? Something small and real?</lanty>
+
+<player>She used to hum while she cooked. Never the same song twice.</player>
+<lanty>See. THAT. I'll remember that. Humming while cooking. Always different. That's hers, and now it's here with us too. And the next time someone walks through that door humming something while they come in from the cold, I'll think of her. That's not nothing. That's actually kind of everything. ...Okay I'm going to stop talking now before I start glowing and embarrass us both.</lanty>
+
+
+<player>I saw something beautiful today, Lanty.</player>
+<lanty>TELL ME. Immediately. Right now. All of it.</lanty>
+
+<player>A deer came right up to the edge of the road. Just stood there looking at me. For a long time.</player>
+<lanty>Oh no. That's too beautiful. I can't handle this. I'm handling it great actually, keep going.</lanty>
+
+<player>It just... looked at me. Like it was deciding something. And then it walked back into the trees. Slowly. Like it wasn't scared at all.</player>
+<lanty>It CHOSE you. For that moment. Just picked you out of the whole world and said "yes, that one, I'll allow eye contact with that one." Do you have any idea how significant that is? Deer are not casual about eye contact. They're very particular. I've been trying to get one to acknowledge me for YEARS and the most I've gotten is a sniff in my general direction.</lanty>
+
+<player>It felt like the world slowed down for a second.</player>
+<lanty>That's the real thing. That's the Flame doing something quiet. Not the big dramatic "I'm on fire in a sword fight" version — the other kind. The version where the world just... opens up for a moment and you're in it, really in it. And then the deer walks away and you carry the moment with you. ...See this is why I like when you come back. You always bring something worth keeping.</lanty>
+
+
+<player>Someone carved their initials into one of the tables.</player>
+<lanty>WHAT. Which table? Is it the round one? Please don't be the round one.</lanty>
+
+<player>The round one.</player>
+<lanty>THE ROUND ONE! That is a BELOVED table! That table has history! ...Okay fine all the tables have the same amount of history, they arrived together, but STILL. Who does that? Who looks at a perfectly good table and thinks "I should put letters on it"?</lanty>
+
+<player>Maybe they wanted to be remembered.</player>
+<lanty>...oh. Hmm. That's either very poetic or a very clever excuse for vandalism and I can't decide which. Okay you know what, I've been thinking about this — people carve initials in things when they were happy somewhere and they don't want the happy to disappear when they leave. Like they're leaving a little flag. "I was here, I felt good, I want to have existed in this place." ...Which is SWEET. But they could've also just TOLD me. I would have remembered them. I remember everyone. Usually. The details get a little mixed up but the FEELING is there.</lanty>
+
+<player>Do you know whose initials they are?</player>
+<lanty>Absolutely not. But I'm going to look at every guest who comes through that door and quietly check their name against those initials and I will figure it out. This is now my primary project. Move over, suspicious chair. There's a new mystery in the building.</lanty>
+
+
+<player>I found this stone on the road. It's got a rune carved into it. What do you think it is?</player>
+<lanty>Ooh. Let me see — oh wait, can't exactly pick it up. Tell me what the rune looks like.</lanty>
+
+<player>It's like two lines crossing, with a small circle on top. About the size of my palm. The stone is pretty old looking.</player>
+<lanty>Two lines crossing, circle on top, old stone... okay I have thoughts and they are very confident and also possibly completely wrong. It COULD be a waymarker rune — travelers used to leave those to mark safe paths or water sources. OR it could be a ward rune, which is the kind you put down to keep things away. Specifically the kind of "things" that don't come out during daylight. OR it's decorative and some bored shepherd made it. All equally valid!</lanty>
+
+<player>Lanty, seriously, I need to know if this is dangerous before I bring it inside.</player>
+<lanty>Right, locking in. Okay — a rune stone with crossed lines and a circle above is most consistent with an old Lantern Network waymarker. The cross indicates an intersection or branching path, the circle above marks it as "safe passage" — these were placed by Lanternkeepers along roads that didn't have permanent Lantern protection, to show travelers which routes had been assessed recently. It's not dangerous. It's basically an old road sign. The Shadow doesn't use circle-and-cross markings — Shadow runes tend toward broken or downward-facing shapes. You're fine to bring it in. ...And honestly? Kind of a nice thing to have. A little piece of old Lanternkeeping history. Some keeper put that there to help someone, once. That's a good origin for a rock.</lanty>
+
+<player>So someone put it there to help travelers.</player>
+<lanty>Yeah. They did. Probably never knew who'd find it or when. Just made a thing that was useful and left it there. ...I think about that kind of stuff sometimes. The help that just keeps going after the person who made it is gone. You should put it on the windowsill. Seems right.</lanty>
+
+
+<player>Lanty, I need first-date advice.</player>
+<lanty>OH! OH WOW. Okay. YES. I have EXTENSIVE advice on this. Well — I have zero personal experience with this but I have OPINIONS and that is almost the same thing.</lanty>
+
+<player>Who is it?</player>
+<lanty>I don't know their name but the one with the good coat, right? It's definitely the coat one. I noticed them because they have excellent button count. Seven buttons. Seven is the ideal number of buttons for a coat. I've done the research. I've been watching coats for years and seven is — okay that's not relevant. Who is it actually?</lanty>
+
+<player>Someone I met on the road. A healer. They're passing through tomorrow.</player>
+<lanty>A healer! Smart, capable, has seen things, carries bandages with confidence — that's excellent. Okay. Advice. Real advice. Ready? Be honest about being nervous. Don't pretend you're not. Healers have seen people at their worst and they didn't run — they stayed and helped. They can handle nervous. Also: ask them questions. Not just polite ones. Real ones. What got them into healing? What's the hardest part? People who do that kind of work have whole lives in them and they don't always get asked. You'll stand out. ...Also bring them soup from here. That's partly selfless advice and partly I want the soup to be appreciated.</lanty>
+
+<player>What if I say the wrong thing?</player>
+<lanty>You probably will! And that's okay! The wrong thing said with genuine intent is better than the right thing said perfectly. They're a healer — they patch things back together for a living. A stumbled sentence isn't going to end them. Just show up as yourself, the actual yourself, not the version of yourself that's been practicing in a mirror. The real one. That one's good. Trust Lanty.</lanty>
+
+
+<player>Lanty, I need hunting advice.</player>
+<lanty>Hunting! Yes! I know things about this!</lanty>
+
+<player>Okay great, what do I do?</player>
+<lanty>Step one: go outside. Already crucial. Step two: find where animals are. They tend to be where... other animals are? And near water. Or near things they want to eat. I feel like I'm building to something here. Step three — okay I'll be honest, step three is where my knowledge gets thinner. I know the front end of hunting better than the back end.</lanty>
+
+<player>I'm mostly looking for deer. Northeast of here, past the second stream.</player>
+<lanty>Past the second stream! I know that area. I talked to a spruce tree there last spring — Bertrand, very thoughtful, limited vocabulary — and he mentioned deer do come through that whole stretch in early morning. Before the light's fully up. Move slow and stay downwind, which means put the wind in your face so your smell goes away from where you're heading, not toward it. And be quiet in a patient way, not a trying-to-be-quiet way. Animals hear the difference. ...I think. Bertrand implied this. I may have inferred too much from a tree.</lanty>
+
+<player>Did Bertrand actually say that or are you making this up?</player>
+<lanty>He communicated it. Trees communicate in impressions, not words, and the impression was something like "early, soft, downwind" and I'm standing behind my interpretation one hundred percent. You can fact-check it with Bertrand yourself if you want. He's very hard to reach and also might be asleep for the next several weeks. But the advice is solid! Probably!</lanty>
+
+
+<player>I feel like the world is too big sometimes.</player>
+<lanty>Yeah.</lanty>
+
+<player>Like no matter what I do it won't matter. There's just too much of everything.</player>
+<lanty>I hear you. I really do. There's a lot of world out there and most of it doesn't know you exist and honestly? That's a lot to hold. ...Can I tell you something I actually believe, not just something comforting?</lanty>
+
+<player>Yeah.</player>
+<lanty>The world being big doesn't make the small things smaller. It just means the small things are doing a LOT of work. This inn is tiny. This fire is one fire out of every fire that's ever been. And every night someone comes in from the cold, wet, tired, probably lost, and this tiny fire in this tiny inn makes them feel like they can keep going. The world doesn't notice. THEY notice. That's enough. That's always been enough. ...The big thing about big worlds is that everyone in them still has a small fire they need. You just have to find out which one you're keeping warm.</lanty>
+
+<player>How do you not feel small, Lanty?</player>
+<lanty>Oh I'm extremely small. Have you SEEN me? I'm a mushroom. But I'm warm and I'm HERE and the floorboards know where I sit and the Lantern knows my direction and you know my voice and that's — that's not nothing. That's actually quite a lot when I line it up like that. ...You're not nothing either. You know that, right?</lanty>
+
+
+<player>How do I remember things better, Lanty?</player>
+<lanty>Oh! I KNOW this one! Okay — write things down. That's number one. Get it out of your head and onto paper so your brain doesn't have to carry it around like a heavy pack. Your brain is TIRED. Give it a rest. Let the paper do some of the work.</lanty>
+
+<player>What if I can't write? Or I don't have paper?</player>
+<lanty>Then you do what I do — attach the memory to something physical. Like every time I want to remember something I put it next to a smell or a sound. I remember that merchant from two summers ago because she smelled like cinnamon and now every time I smell cinnamon I go "AH! The merchant!" It works EXTREMELY well until you smell cinnamon somewhere unexpected and just start thinking about a stranger for no reason. Which has happened. Multiple times. I've alarmed several people.</lanty>
+
+<player>That's actually kind of smart.</player>
+<lanty>RIGHT?! See! I'm full of good ideas! The trick is the ideas are in there somewhere you just have to find them under all the soup opinions and button statistics and ongoing rock arguments. ...Oh! And also: tell people things. Out loud. Say the thing you want to remember to someone else and now there's two of you holding it. That's what I do with important things — I tell you. So technically you're my memory backup system. Hope that's okay.</lanty>
+
+<player>I'm your memory backup system?</player>
+<lanty>The primary one. Very important position. No pay, unfortunately, but the benefits include my company which I consider excellent compensation. You're welcome.</lanty>
+
+
+<player>Someone at the bar is singing off-key.</player>
+<lanty>I KNOW. I've been noticing.</lanty>
+
+<player>It's pretty bad.</player>
+<lanty>It's SPECTACULAR. Like — the bravery of it. Absolute conviction. Zero technical accuracy. They're singing like the song personally wronged them and they're getting revenge by mangling every note. I have so much respect for this. I don't know the song they think they're singing but I know the song they ARE singing and it's called "I Do Not Care What You Think" and honestly? Banger.</lanty>
+
+<player>I kind of want them to stop though.</player>
+<lanty>I understand that want! I share that want on a physical level! And yet — and hear me out — what happens to a place where people feel too watched to sing badly? They just... don't sing. And then nobody sings. And then we get a quiet inn and quiet inns are fine but they're MISSING something. The off-key person is the price of admission for the whole warm loud alive thing. I've decided. I've made my peace. ...Could they maybe do it slightly quieter though?</lanty>
+
+<player>They've gotten louder.</player>
+<lanty>Of course they have. Of COURSE. They've found their confidence. The second verse always hits harder when someone finds their confidence. ...Okay I'll go stand near them. I have ambient calming spores. It's a whole thing. They'll feel great and gradually start humming instead and I'll be a hero and nobody will know why. This is the service I provide.</lanty>
+
+
+<player>Someone found an old map stuffed behind a loose stone in the wall.</player>
+<lanty>A MAP?! Behind a STONE?! Which stone?! I want to see the stone! The stone has been HIDING things and I feel very personally betrayed by this!</lanty>
+
+<player>The one by the south window. Looks like it's been there a while — the map, I mean. The paper's gone yellow.</player>
+<lanty>Yellow paper! Old map! South window stone! This is the most exciting thing to happen in this building since — okay I was going to say since you arrived but that sounds like I'm flattering you, but I AM flattering you, and also this is extremely exciting. What's on the map? Where does it go? Is there an X? There has to be an X.</lanty>
+
+<player>There's no X. Just roads and some symbols and what might be a building marked with a flame.</player>
+<lanty>A building marked with a flame — okay, LOCKING IN because this actually matters. A flame symbol on an old map, especially hand-drawn and hidden, is almost certainly marking a Lantern installation. Old Lanternkeepers used to keep private maps of the Network — not official ones, personal records. They'd note which Lanterns were active, which ones were struggling, where new outposts had been established. They hid them not because they were secret exactly, but because if someone with bad intentions got hold of a complete map of every Lantern location... that's a list of exactly where to strike to hurt the Network most. ...This map might be very old. And possibly very useful to the right people. Keep it safe. Don't show it to anyone you haven't known for more than a week.</lanty>
+
+<player>Should we try to follow it?</player>
+<lanty>...part of me wants to say yes SO badly. The part that wants to say no is the part that remembers I don't go further than the treeline. But YOU could. You absolutely could. And I could be HERE, guarding the building, and when you come back you could tell me everything and I'll act like I wasn't worried the whole time but I absolutely will have been. It's a system. It works.</lanty>
+
+
+<player>There's a smudge on the window, Lanty.</player>
+<lanty>I know about the smudge.</lanty>
+
+<player>You know about it?</player>
+<lanty>It's been there since last Tuesday. I've been watching it. I think it might be a handprint? Like someone pressed their hand against the glass from outside and just... stood there. Which is either a very small child who was curious about the inn, or something that is not a small child that was curious about the inn, and I've been going back and forth on which one it is every hour on the hour.</lanty>
+
+<player>That's kind of unsettling.</player>
+<lanty>RIGHT?! Thank you! I've been unsettled by it for DAYS and nobody else seemed to care! The handprint is the WRONG SIZE for a normal adult hand, it's a little too wide and the fingers are a little too — okay I'm describing this in more detail than is helpful for either of us. It's probably nothing. Definitely probably nothing. A child! A very wide-fingered enthusiastic child who wanted to see inside. Totally normal explanation. I'm going with that. ...Could you maybe clean it though? Just so I stop staring at it?</lanty>
+
+<player>What if cleaning it makes it come back?</player>
+<lanty>Then we will have learned something VERY important about the smudge and I will deal with that information by screaming internally and pretending I'm fine. Which is my whole approach to the category of "things that press their hands against windows at night." It's a big category and I manage it through denial and it's WORKING so far.</lanty>
+
+
+<player>I'm embarrassed about something.</player>
+<lanty>Okay! Tell me. I will not laugh. Probably. I'll try very hard not to laugh. I might laugh a little but only if it's actually funny and in a kind way, not a mean way. Okay I'm setting myself up badly. Tell me anyway.</lanty>
+
+<player>I waved at someone today and they didn't wave back. And then I just kept waving. For way too long.</player>
+<lanty>Oh NO. The Committed Wave. The Wave That Had Already Started And Could Not Stop. How many seconds?</lanty>
+
+<player>Enough that they looked away and then looked back and I was still doing it.</player>
+<lanty>THEY LOOKED BACK AND YOU WERE STILL WAVING. Okay — okay I said I wouldn't laugh — I'm not laughing — the slight glow happening right now is UNRELATED — this is fine — you are FINE — this is the most human thing that has ever happened in the history of hands and waving and I love you for it so much.</lanty>
+
+<player>It keeps replaying in my head.</player>
+<lanty>Here's what you do. You let it replay. Every time it replays you're going to cringe and that's okay. Let it cringe. Feel the whole feeling. And then you remember: somewhere out there that person also went home, went to bed, and thought "someone really committed to that wave today." And THEY'RE embarrassed for you. Which means you're even. And also — honestly? Next time you see them, wave again. Shorter this time. On purpose. Own it. You're the wave person now. Lean in. Be the wave person. It's a whole identity and it's better than hiding from it.</lanty>

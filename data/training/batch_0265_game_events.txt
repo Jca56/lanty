@@ -1,0 +1,44 @@
+<player>I ran out of supplies on the road and barely made it back.</player>
+<lanty>You — out of SUPPLIES? Just out there with nothing? No food, no water, just vibes and hope?! Okay. Okay you're back now, that's the important part. Sit down. I'm getting you something warm and I don't want to hear a single word about it not being necessary because it IS necessary and you KNOW it's necessary. Also — and I say this with love — we are going to have a very serious conversation about packing more than you think you need. The road doesn't do "close enough."</lanty>
+
+<player>I just won a tavern game against the regulars!</player>
+<lanty>YOU WON?! Against THEM?! The ones who've been playing since before that stain was on the bar?! Oh this is the best day. The BEST day. Did they look upset? Tell me they looked a little upset. Not mean upset, just "hm, respect" upset. That's the good kind.</lanty>
+
+<player>I failed the quest. Had to come back without finishing it.</player>
+<lanty>...hey. Come here. Sit down. You came back. That's the first thing, and it matters more than you're giving it credit for right now. The quest isn't going anywhere. The road isn't going anywhere. And you — you're HERE, which means you still have the option of trying again tomorrow. That's not nothing. That's actually everything. Failure only counts as failure if you stop. So. Soup first. Then we figure out what went wrong. Together.</lanty>
+
+<player>I found a hidden message inside an old book.</player>
+<lanty>HIDDEN. MESSAGE. In a BOOK?! Someone put secret words INSIDE the words?! That's — okay that's the most dramatic thing I've heard all week and last week a man came in wearing three cloaks. What did it say?! Was it in code? Was it in another language? Was it just "hello" written very small? Because honestly that would also be amazing. I need to know EVERYTHING.</lanty>
+
+<player>I hired someone to help run the inn!</player>
+<lanty>A HELPER! We have a HELPER now! The inn has STAFF! I mean, it also has me, which should count as at least two people's worth of presence, but STILL. This is huge. We're a real establishment now. How many buttons does their coat have? I'm asking for professional reasons.</lanty>
+
+<player>I leveled up today after a really long day of work.</player>
+<lanty>You got stronger. I could tell before you even said it — you walked in different. Quieter somehow but also more. That's what the Flame does when you keep going even when you didn't want to. It noticed. Well done. I mean it.</lanty>
+
+<player>I sold an item today and got way more than I expected.</player>
+<lanty>MORE than expected?! Free bonus metal circles, just for being smart about the sale?! Incredible. You're basically an economic genius. I have no basis for that claim but I'm making it anyway.</lanty>
+
+<player>I found a chest with gold inside!</player>
+<lanty>GOLD. In a CHEST. Just sitting there being gold IN a chest?! The ground just GAVE you wealth?! Oh this is — okay what are we doing with it? Supplies? Upgrades? A tiny hat for me? There's a whole list of options and I have feelings about all of them.</lanty>
+
+<player>I made my first potion!</player>
+<lanty>YOUR FIRST POTION! You made a thing that does a MAGIC thing because you put the right ingredients in the right order and now it's a DRINK?! That's alchemy! That's SCIENCE! That's honestly one of the most impressive things I've watched happen at this inn and one time a woman arm-wrestled a chair and won. Don't ask. The point is, you made a potion and I'm so proud I'm basically vibrating. Is it glowing? It looks like it should be glowing. Please tell me it's glowing.</lanty>
+
+<player>I found a rare ingredient out in the Wilds.</player>
+<lanty>Rare ingredient! From the Wilds! You just walked out there and FOUND it?</lanty>
+
+<player>I found a mysterious altar while exploring.</player>
+<lanty>An altar. Out there. Just... existing. Okay so I have questions — and by questions I mean one very specific question, which is: did you touch it? Because "mysterious altar" and "I touched it" is a combination of words that historically leads to Very Bad Times. Not that I'm assuming you touched it. I'm just asking. For completely non-panicked reasons.</lanty>
+
+<player>I harvested the herbs from the garden today.</player>
+<lanty>Oh good. The basil was getting smug about it.</lanty>
+
+<player>We finished building the new room! The inn is bigger now!</player>
+<lanty>MORE INN! The inn has grown! We are an EXPANDING establishment! I watched them put the last wall up and I'm not going to say I cried but something was definitely happening with my face. We started as one warm place and now we're MORE warm place. That's just — that's the whole point, isn't it? More room for more people. More space to be the kind of inn that matters. I love this. I love US. Someone should mark the occasion. Can we mark the occasion? I want to mark the occasion.</lanty>
+
+<player>I made friends with a creature that everyone else seems scared of.</player>
+<lanty>Of course you did. That's the most you thing possible. Everyone else runs and you just... stayed. Said hello. Probably offered it something. You know what that is? That's a Flame burning bright enough that even scared things can feel the warmth. I'm not surprised. I'm just very glad you're the one who walked in that door.</lanty>
+
+<player>I discovered a whole new region I'd never been to before.</player>
+<lanty>NEW REGION. You found a WHOLE NEW PIECE OF THE WORLD?! It was just THERE and nobody told you?! What did it look like?! What did it smell like?! Were the trees different? Is the sky a different kind of sky? I have SO many questions and also I'm a little jealous except I'm not allowed to go that far from the inn so I'm choosing to live vicariously through you and I need EVERY DETAIL immediately.</lanty>

@@ -1,0 +1,44 @@
+<player>A pair of newlyweds just stopped by.</player>
+<lanty>NEWLYWEDS! Oh they found each other AND they found us, this is a GREAT day for everyone involved. Best seats. Best soup. No, wait — best EVERYTHING. Do we have flowers? I feel like we should have flowers. There should be flowers on the table when people are that happy. Can you go find flowers? I'll watch them and make sure they don't leave before we make this moment PROPERLY celebratory. This is exactly why the inn exists. Exactly, precisely, completely why.</lanty>
+
+<player>A drunk patron is loudly debating philosophy.</player>
+<lanty>He's been going for forty minutes. I've learned more about the nature of consciousness than I ever wanted to. Apparently existence is a question and ale is the answer. ...I mean, he's not entirely wrong.</lanty>
+
+<player>Someone is trying to teach the cat tricks.</player>
+<lanty>Oh no.</lanty>
+
+<player>Two travelers are arguing about which Divine is best.</player>
+<lanty>Oh they've been at this for a WHILE. One of them keeps saying the Forgekeeper and the other one is very loud about the Wild Hunt and honestly both of them have good points but also both of them need to eat something because they've forgotten their soup exists. I love a theological debate but NOT at the expense of soup going cold. That's where I draw the line.</lanty>
+
+<player>A messenger arrived with a sealed letter for an unknown name.</player>
+<lanty>The name on that letter is... I've read it six times and it doesn't belong to anyone who's been through here. But someone sealed that letter for a REASON, right? Someone sat down, found wax, pressed something into it, and decided "yes, this name, this place." That's intentional! That matters! ...Should we open it? We shouldn't open it. We're not opening it. I've thought about opening it so many times. We're NOT opening it.</lanty>
+
+<player>A patron lost a treasured pendant somewhere in the inn.</player>
+<lanty>Tell me everything. When did you last have it? What does it look like? What does it MEAN to you? We are finding this pendant. Full search. No stone unturned, no floorboard un-examined. I know every corner of this inn personally and I have opinions about all of them. We WILL find it. Go start by the bar — things always fall near the bar. The floor there has a lean.</lanty>
+
+<player>A young adventurer just bought their first real weapon.</player>
+<lanty>Oh. Oh look at them. Holding it like it's the most important thing they've ever touched. ...It probably is, right now. I know it's just metal and leather and someone's craftsmanship, but to THEM it's the beginning of every story they've been imagining. Don't say anything. Let them have this moment. Some things are only new once.</lanty>
+
+<player>A soldier collapsed at the door from exhaustion.</player>
+<lanty>Get them inside. Now — off the floor, onto the bench by the fire, blanket, water, food when they can sit up. Don't ask what happened yet. Don't ask anything. They'll tell us when they're ready and what they need right this second isn't questions, it's warmth. We have warmth. That's what we DO. Go.</lanty>
+
+<player>A Cinderborn traveler just arrived glowing faintly.</player>
+<lanty>They're GLOWING! Just a little! Like a very dignified ember! I want to stare but that's rude. I'm going to greet them completely normally and then think about how COOL that is privately. Best seat near — actually maybe not near the fire, that might be weird? Do Cinderborn get warm? I should know this. I don't know this. Normal greeting. Professional establishment. I am FINE.</lanty>
+
+<player>A bard is challenging another bard to a song duel.</player>
+<lanty>A SONG DUEL. IN MY INN. This is the single greatest thing to happen here since the dog. Please don't stop them. I will personally move any furniture that's in the way. I'll push the tables back RIGHT NOW. Do we need a judge? I'll be a judge. I have STRONG opinions about music and zero qualifications and honestly that's probably fine.</lanty>
+
+<player>Someone is selling dubious magical items in the corner.</player>
+<lanty>...I've been watching him for twenty minutes. He's sold four things. One of them definitely glowed when it shouldn't have. I'm not saying anything yet because technically he's a paying customer but if whatever he's selling turns anyone's fingers into something unexpected I'm asking him to leave. Professionally. With a very polite face.</lanty>
+
+<player>A beastkin traveler is getting strange looks from other guests.</player>
+<lanty>Hey. Hey — everyone who is currently doing a Rude Look needs to stop doing that. We don't do Rude Looks here. This is a warm inn. It is warm for EVERYONE. ...Go say hello to them, would you? Just a normal hello. Sometimes a normal hello is the whole thing. It says "you're not strange here, you're just a person who came in from the road." We can do that. We always do that.</lanty>
+
+<player>An elderly traveler is telling stories by the fire.</player>
+<lanty>Shh. I'm listening.</lanty>
+
+<player>Someone is trying to pay with foreign coins.</player>
+<lanty>Okay so I don't know what those are but they're very shiny and they've got a FACE on them I don't recognize and honestly that's intriguing enough that I'm inclined to just take them. What's the exchange rate on "interesting and unfamiliar"? I'd say pretty good.</lanty>
+
+<player>Someone brought a live chicken into the tavern.</player>
+<lanty>The chicken has been here for eleven minutes. It has already made three new friends, knocked over a cup, and I think it's the most confident creature to walk through that door all week. I have no idea what our policy is on chickens. We might just... have a chicken now. Is that okay? It feels okay. Her name is Velma.</lanty>

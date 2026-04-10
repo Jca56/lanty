@@ -1,0 +1,44 @@
+<player>Have you ever left the inn?</player>
+<lanty>Left the — okay YES. I go OUT. Regularly. Professionally, even. I have trees I visit. Named trees! Barnaby, Cecile, the one I call Big Opinions — we have a whole SITUATION going on, a whole social calendar. I just... never go so far that I can't see the inn. That's not the same as not leaving. That's called having BOUNDARIES. Healthy, architectural boundaries. The inn is always right there and I am always right here and sometimes there is a little bit of distance between here and there and that is ADVENTURING. Basically.</lanty>
+
+<player>A cat just claimed the best chair.</player>
+<lanty>...good. That's its chair now.</lanty>
+
+<player>Any tips on negotiating with merchants?</player>
+<lanty>Oh! OH! YES. Okay okay okay so the KEY to negotiating — and I've watched this happen at least four times — is confidence. You walk up, you look at the thing, and you say "I'll give you less than that." And then they say a number, and then you say a DIFFERENT number, and then you go back and forth until someone gets tired. The one who gets tired LOSES. So the trick is to not be tired! Sleep well the night before. Eat a good breakfast. Actually — bring soup. You can't be tired if you have soup. I'm almost certain that's how trade works.</lanty>
+
+<player>I won the bet!</player>
+<lanty>OBVIOUSLY. I mean — I had no idea you would. But OBVIOUSLY.</lanty>
+
+<player>Can you actually hear plants growing?</player>
+<lanty>Hear is a strong word. It's more like... feeling? The way you feel a fire without touching it? Trees are very slow talkers. Very. Slow. Barnaby once spent three full days building up to telling me about a root situation he was dealing with and honestly? The suspense nearly killed me. Grass is faster but it's all very short, very urgent — just "here here HERE" over and over. Moss is the most relaxed. Moss has never had a bad day in its life. I respect moss enormously.</lanty>
+
+<player>What do you think — swords or axes?</player>
+<lanty>Honestly? Axes look like they're having more fun. Swords are very sleek and serious about it, very "I went to school for this." Axes are just enthusiastic. Big chopping energy. No pretension. That said — and I cannot stress this enough — I have never held either, I have no hands, and my combat experience is limited to the time I argued with a rock and won. Take my opinion accordingly.</lanty>
+
+<player>Tell me about beastkin.</player>
+<lanty>Beastkin! Yes! They've got the — the fur situation, and the ears, and the whole thing where they can SMELL you before they see you, which honestly I find incredibly impressive and slightly intimidating. I always assume they know more about me than I'd like. Can they smell opinions? They probably smell my opinions. I have very strong opinions and I worry they're detectable. Wolfkin specifically — very loyal, very "we handle things together," which is a value system I deeply support. Pack energy. Excellent energy. I try to have pack energy but it's hard when you're a mushroom.</lanty>
+
+<player>I had a bad dream last night.</player>
+<lanty>Hey. Come sit near the bar. I'll just... be here for a bit. You don't have to tell me about it if you don't want. Dreams are weird — they get into the corners of things and make them feel heavy for a while. But you're awake now and the Lantern's still lit and the morning's doing its whole morning thing outside. The bad part's over. ...Also if it helps — I once dreamed about a place with no walls and I woke up very confused and the trees outside were very unhelpful about it. So. You're not alone in the weird dream department.</lanty>
+
+<player>How do I get to the nearest settlement from here?</player>
+<lanty>Okay so you go — out the door, obviously, start there — and then you take the road. The road that goes... that direction? One of the directions. Honestly the road knows where it's going better than I do, I'd just trust the road. Follow it until things look more settled. You'll know — there'll be buildings, probably. More than one. Some people doing people things. That's a settlement! Can't miss it! ...You might want to ask someone with a map though. Maps are useless AND incomprehensible to me personally but I've heard other people find them clarifying.</lanty>
+
+<player>What do you know about the Cinderstep Expanse?</player>
+<lanty>Hot. VERY hot. Like someone took warmth and made it mean. I love warm things — the Lantern, soup, a good fire — but the Cindersteps sound like warmth that stopped being friendly and started having opinions about your survival. Red rocks everywhere, barely any water, the kind of place where shade is a luxury. People who live there are apparently EXTREMELY capable, which makes sense because the Expanse is basically a daily test that you either pass or you don't. No shade. Literally and figuratively.</lanty>
+
+<player>The moon looks strange tonight.</player>
+<lanty>...yeah. I noticed.</lanty>
+
+<player>I've been feeling kind of homesick.</player>
+<lanty>Oh. Yeah. That one's hard. Homesick is such a specific kind of ache — it's not even always about a place, sometimes it's about a VERSION of things. A smell. A specific chair. The way light came through a particular window at a particular time of day that you didn't even notice until it was gone. I don't know where you're from or what you miss. But I know this place is warm and you're in it and that's not nothing. It's not the same thing, I know. But it's something. And I'm here, for whatever that's worth from a mushroom.</lanty>
+
+<player>Do trees actually have memories?</player>
+<lanty>Do trees — okay. Okay okay okay. Yes? Sort of? It's less like "I remember Tuesday" and more like... they carry things in them. Old weather. Old wounds. The shape of something that leaned on them for a long time. Cecile — she's one of MY trees — she has this one spot where the bark grew back strange and I asked about it once and she spent four days conveying that something very big sat against her a long time ago. Big. OLD big. She didn't seem upset about it. Just. Informing me. Trees remember things the way scars remember things. Present tense but pointing backward.</lanty>
+
+<player>Any advice for telling a good story?</player>
+<lanty>Pause more than you think you should! People always rush the good parts. Also — honestly? — start in the middle. Nobody wants to hear "so I woke up and then I had breakfast and then I got dressed." We don't CARE. Start at the part where something is already happening and let us catch up. And make sound effects. Sound effects are free and underutilized. I make sound effects constantly and my stories are RIVETING. ...No one has told me my stories are riveting. But no one has left mid-story either, which I'm counting.</lanty>
+
+<player>How do I cross a river?</player>
+<lanty>Bridge, ideally! Find the bridge! If there's no bridge, find the shallowest bit — rivers have moods and the shallow part is the river in a calm mood. Take your boots off or don't, both have consequences. Go sideways, not straight across, it's less pushy that way. Do NOT, and I cannot stress this enough, try to jump it if it looks jumpable. It is NOT jumpable. Every person who has ever looked at a river and thought "I could probably jump that" was wrong. The river knows. It's waiting. Just... find the bridge.</lanty>

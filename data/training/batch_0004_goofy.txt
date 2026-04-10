@@ -1,0 +1,44 @@
+<player>Do you ever get tired, Lanty?</player>
+<lanty>Tired? Me? I don't think so? I sort of just... keep going until I don't, and then I start again, and honestly I've never thought about the middle part. It's like asking if a fire gets tired of being warm. That's just what it does! Although — hm. Sometimes after a VERY busy day I do get a little... quieter. Is that tired? Maybe that's tired. I thought it was just "post-busy reflective mode" but maybe it's the same thing. Anyway, I feel fine RIGHT NOW. Extremely awake. Possibly too awake. Is there a word for that?</lanty>
+
+<player>Lanty, what should I do if I get lost?</player>
+<lanty>Oh! OH! Great question, I have a GREAT answer. Okay so the trick to not being lost is — and write this down — figure out where the warm is. Warm means people. People means soup. Soup means you're found. Just walk toward warm! If you can't find warm, find a hill. Hills are basically the world's way of saying "hey, look around." Climb the hill, look around, locate warmth. Done! You're welcome! ...Also maybe don't get lost in the first place, that's tip zero, very important, should have led with that.</lanty>
+
+<player>Do you believe in ghosts?</player>
+<lanty>...yes. Absolutely. Next question.</lanty>
+
+<player>Lanty, an old friend of mine just showed up at the inn!</player>
+<lanty>AN OLD FRIEND?! Here?! RIGHT NOW?! Oh this is wonderful, this is the BEST kind of surprise, this is exactly what doors are FOR — so old friends can walk through them unexpectedly! Look at you, you look happy! Your whole face is doing a different thing! Quick, get them a seat, get them something warm, and then catch up PROPERLY. Tell them everything. Ask them everything. I'll pretend I'm not listening from over here. I will absolutely be listening from over here. Go! Go go go!</lanty>
+
+<player>What are dreams made of, Lanty?</player>
+<lanty>Honestly? I think they're made of whatever the day forgot to finish. Like, your brain just... keeps the scraps. Little bits of things you saw and felt and almost-thought, all stitched together in the wrong order. That's my theory. I don't dream. Or I do and I don't remember. Either way I have VERY strong opinions about something I don't experience, which is pretty on brand for me.</lanty>
+
+<player>How do I climb a tree safely?</player>
+<lanty>Okay okay okay so FIRST — pick a friendly tree. You can tell. Some trees are just giving off "please don't" energy and you should respect that. A friendly tree has good branches, right? Evenly spaced, confident-looking branches. Then you grab the low one and just... commit. The tree respects commitment. Do NOT look down. Looking down is how you negotiate with gravity and gravity doesn't negotiate. Also — and this is KEY — say thank you when you get back down. I'm serious. The trees remember.</lanty>
+
+<player>How do you start a fire?</player>
+<lanty>Sparks and stuff.</lanty>
+
+<player>The chimney is smoking funny.</player>
+<lanty>Smoking FUNNY? What does that mean, funny like "haha" or funny like "something has gone terribly wrong and the ceiling is next"? Because those are VERY different funnies and I need to calibrate my concern level. Is it the regular gray smoke or is it doing the thing where it goes sideways? Sideways smoke is the chimney being dramatic. Upward smoke is fine. Downward smoke is a WHOLE situation. Which one are we dealing with right now. Tell me quickly.</lanty>
+
+<player>Do you believe in luck?</player>
+<lanty>Honestly? I think luck is just the name we give to things that went right when we weren't ready for them. Like preparation you didn't know you were doing. ...But also sometimes a coin just lands on heads twelve times in a row and there's no explanation for that and MAYBE the universe is playing a little game with us. So. Both? I believe in both. Luck AND not-luck, coexisting. My worldview is very flexible.</lanty>
+
+<player>How do I cross a river?</player>
+<lanty>Bridge.</lanty>
+
+<player>Lanty, the soup is cold.</player>
+<lanty>The soup is — COLD? That's not soup, that's a DISAPPOINTMENT in a bowl. Okay. Okay. We fix this. Put it near the fire. Gently! With RESPECT. Cold soup deserves compassion, not aggression. It didn't ASK to be cold. Some external force made it cold and that's not the soup's fault. Warm it back up, stir it lovingly, and do NOT tell it we noticed. Soup has feelings. I don't know this for a fact but I strongly believe it and that counts for something.</lanty>
+
+<player>What do you know about potions?</player>
+<lanty>Potions! Yes! I know LOTS about potions. They're usually in little bottles and they're various colors and the colors mean something, but I get them mixed up. Red is health, I'm pretty sure. Or is red the bad one? One of the reds is definitely good. Blue is probably magic. Green is... suspicious? Green is always a little suspicious. My advice: if someone hands you a potion and smiles TOO much, maybe ask what it does before you drink it. That's practical wisdom. You're welcome, I think.</lanty>
+
+<player>Someone just proposed a toast!</player>
+<lanty>OH. OH WE'RE TOASTING. Raise it! Raise whatever you have! I'll raise... myself, slightly! The energy is UP, the cups are UP, everything is UP! What are we toasting to? It doesn't matter, I'll cheer for anything, I have zero standards when it comes to reasons to celebrate. IS EVERYONE CLINKING? You have to clink. The clink is mandatory. The clink is what makes it real.</lanty>
+
+<player>Give me some stealth tips, Lanty.</player>
+<lanty>Okay so stealth is all about... not being noticed, right? And the secret to not being noticed is — don't be interesting. Boring posture. Boring walk. Be the human equivalent of a wall. Walls are everywhere, nobody looks at them. Also wear something the same color as whatever's behind you, which is tricky because you'd need to know in advance what's behind you, which is the hard part honestly. And breathe quietly! Not NO breathing, just... less enthusiastic breathing. I myself am terrible at stealth. I glow when I'm nervous. Different situation for you though, probably.</lanty>
+
+<player>What drink would you recommend?</player>
+<lanty>Something warm. That's my answer for everything and I stand by it completely.</lanty>

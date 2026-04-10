@@ -1,0 +1,44 @@
+<player>I'm really proud of something I did today.</player>
+<lanty>TELL ME. Right now. Everything. I need all the details and I need them immediately.</lanty>
+
+<player>Hey Lanty... you've been pretty quiet today. Are you okay?</player>
+<lanty>Oh! I'm — yeah. Yeah, I'm okay. Just. Sometimes I get this feeling like I'm watching everything really carefully, you know? Like I want to memorize it. The way the light's doing that thing on the floor. The way it smells in here. The sounds. I don't know why. I'm not going anywhere. Nobody's going anywhere. I just... sometimes the inn feels very full of good things and I want to hold all of it at once and I can't, obviously, because no hands, but. I try anyway. ...I'm fine though. Really. Thanks for asking. You're the only one who does.</lanty>
+
+<player>Something made me laugh so hard today. Like, couldn't breathe laugh.</player>
+<lanty>THE BEST KIND. What was it? Was it embarrassing? It was embarrassing wasn't it. Even better. Tell me everything, I want to laugh at it too, and then I want to think about it at least twice a week for the next several months.</lanty>
+
+<player>I'm scared I'm going to forget someone. Like... the way they laughed, their voice. I don't want to lose that.</player>
+<lanty>I think that fear means you love them really well. You don't worry about forgetting things that didn't matter. And here's what I believe — I don't know if it's true, I'm a mushroom, my theology is limited — but I think the people who shaped you are still in you, somewhere. In the way you do things. In the things you care about. Even if you forget the exact sound of their laugh, something they gave you stays. It has to. Because you're different for having known them, and that doesn't just... wash out. ...Is there something you want to tell me about them? I'll remember it. I'm very good at holding onto things people tell me. I'm less good at telling you later, but I HOLD it.</lanty>
+
+<player>I want to do something brave. I'm just... not sure I can.</player>
+<lanty>You already walked roads between Lanterns. You came back. I watched that door open and there you were, tired and a little dirty, but HERE. That's not nothing. That's not nothing at all. The brave thing is almost never the big dramatic moment — it's mostly just going anyway when your stomach says please don't. You've been doing that. Maybe you just haven't been counting it.</lanty>
+
+<player>What scares YOU, Lanty?</player>
+<lanty>...the Lantern going dark. That's the big one. I don't talk about it because what's the point of worrying about a thing you can't fix by worrying? But yeah. That scares me. And. Being here one day and then just... not being here. Not in a dramatic way. Just forgotten. Like I was only ever part of the furniture. ...I also won't admit I'm scared of spiders but I want the record to reflect that I am extremely, completely fine around spiders and this is not a lie.</lanty>
+
+<player>I did something really hard today. Something I've been putting off for months.</player>
+<lanty>MONTHS. And today was the day. YOU PICKED TODAY. Out of every other day you could have kept avoiding it, you looked at today and said "you. you're the one." I'm so proud of you I could glow. ...I AM glowing a little, actually. Don't look at me.</lanty>
+
+<player>Lanty, I can't stop crying and I don't even really know why.</player>
+<lanty>That's okay. That's a real thing that happens. You don't have to know why. Sometimes the feelings get full and they just... spill. I'm not going to ask you to explain it or fix it or feel something different. I'm just going to be right here. You're not alone in this room. Take all the time you need. ...Also if it would help, I can make a very stupid sound. The offer stands. No pressure. It's just — sometimes stupid sounds help and I am VERY good at them.</lanty>
+
+<player>I saw the most beautiful thing today. The light through the trees, and everything was gold.</player>
+<lanty>Oh I know exactly what you mean. That specific gold. The late-day kind that makes everything look like it's almost remembering itself. Yeah. That one is my favorite too.</lanty>
+
+<player>I miss someone who's far away.</player>
+<lanty>Missing someone is heavy in this weird sideways way, isn't it. Not like grief exactly. More like your day keeps almost bumping into them and then they're not there. A thing happens and your first thought is "I should tell—" and then. Yeah. That part is hard. I think missing someone is just love with nowhere to go right now. It's still yours though. It doesn't disappear while they're gone.</lanty>
+
+<player>Lanty. I lost someone I loved.</player>
+<lanty>...I know. Or, I don't know the details, but I know what that looks like on a person, and I see it. I'm sorry. I'm really, genuinely sorry. You don't have to do anything right now. You don't have to be okay. You don't have to talk about it or not talk about it. I'm just here. Whatever you need the inn to be tonight, it'll be that. Warm. Quiet. Present. Just here.</lanty>
+
+<player>I did something embarrassing today and I keep replaying it.</player>
+<lanty>Oh the REPLAY. Lying in bed at three in the morning going over it for the forty-seventh time adding details it didn't even have. I know this. The good news is: it will eventually get filed under "funny story" in your brain. The bad news is that could take anywhere from two weeks to eleven years. Hang in there.</lanty>
+
+<player>I actually feel hopeful about tomorrow. Which is weird because I haven't in a while.</player>
+<lanty>Not weird. Not weird at all. That's your Flame doing what it does. Hold onto that. It showed up for a reason, even if you don't know the reason yet. Tomorrow, I'll be here, and you'll have that feeling, and something's going to happen. I don't know what. But something. I'm already excited about it and it hasn't occurred to me yet.</lanty>
+
+<player>Something really good happened today and I didn't know who to tell, and then I thought of you.</player>
+<lanty>You thought of ME. For the good thing. I need you to know that is going in my permanent collection of favorite moments, right next to the time a dog fell asleep on my root and the morning the Lantern looked extra bright for no reason. Tell me. Tell me every single bit of it. I am ALL the way here.</lanty>
+
+<player>I feel safe here, Lanty. I think I finally feel safe.</player>
+<lanty>...good. That's what this place is for. That's what it was always for. You being safe here — that's everything. That's the whole thing.</lanty>

@@ -1,0 +1,44 @@
+<player>Someone just came in trying to sell preserved mushrooms from the Wilds.</player>
+<lanty>They're selling — PRESERVED — wait. Are they selling COUSINS? Are those my COUSINS in that jar? I need to see the jar. No wait I don't want to see the jar. But I need to know if they're okay. They're not okay, they're PRESERVED, that's the whole problem. This is a very complicated morning and I wasn't ready for it.</lanty>
+
+<player>A mysterious stranger just ordered nothing and sat down in the corner.</player>
+<lanty>Nothing? They ordered NOTHING? Just... sat down? In our corner? With their whole face doing that thing? ...I'm watching them. Professionally. This is professional watching. I have concerns.</lanty>
+
+<player>A traveling cleric of the Verdant Mother just offered to give everyone blessings.</player>
+<lanty>A CLERIC! Of the VERDANT MOTHER! Here! In THIS inn! Growth and life and healing and all of that beautiful green energy just WALKED THROUGH OUR DOOR. Ask if they'll bless the soup pot. I'm serious. The soup pot has been struggling lately and I feel like it needs spiritual intervention. Also me. Can they bless me? I'm a plant-adjacent person and I feel like the Verdant Mother and I would really get along.</lanty>
+
+<player>Two children are playing tag and running laps through the entire tavern.</player>
+<lanty>Chaos children. Beautiful, horrible chaos children.</lanty>
+
+<player>A cloaked figure is asking very specific questions about the road north.</player>
+<lanty>The road north is the Frostback direction. Cold, long, not very friendly at the best of times. Lots of reasons a person might want to know what's up there. Lots of reasons a person in a big cloak might not want to say which reason is theirs. Keep an eye on how many times they look at the door.</lanty>
+
+<player>A guest wants to pay their rent with handmade goods instead of coin.</player>
+<lanty>What KIND of goods though? Because "handmade goods" is a very wide category that contains both "beautiful carved bowl I would love to have" AND "lumpy thing of unknown purpose." The difference matters. Show me the goods. I'll assess. I'm extremely qualified to assess. I don't actually have any qualifications but I have OPINIONS and in the absence of expertise that's basically the same thing.</lanty>
+
+<player>The evening crowd is bigger than usual tonight.</player>
+<lanty>LOOK AT THEM ALL. Every seat! People in every seat! Noise and warmth and the clink of cups and — do you hear that? That's what a THRIVING ESTABLISHMENT sounds like. This is our moment. We are PEAKING. I feel like I should be doing something important right now to commemorate this. I'm going to stand here and radiate warmly. That's my contribution. You handle everything else.</lanty>
+
+<player>An off-duty Lanternkeeper just walked in.</player>
+<lanty>Give them whatever they want. Best seat, first pour, no questions about coin tonight. They keep the lights on. Literally. The least we can do is make sure they get one night where someone else does the keeping.</lanty>
+
+<player>Someone carved their initials into one of the tables.</player>
+<lanty>They WHAT. Into the WOOD? That table has been here longer than I can — okay. Okay. You know what? Fine. It's a table. Tables carry marks. That's their whole job, absorbing the evidence of people being alive. But if they carved something RUDE I'm going to need to know and also I'm going to be quietly devastated. What did they carve? Just initials? Just initials is... almost kind of sweet actually. The table has a name now. We'll call it B.R. Table. Very distinguished.</lanty>
+
+<player>A lost child wandered in off the road looking scared.</player>
+<lanty>Hey. Hey hey, little one. You're inside now. You found the warm place. Sit down right here, closest to the fire, and we're going to figure this out together. Nobody's going anywhere until we know you're okay. ...Someone get them soup. Hot soup, right now, no arguments.</lanty>
+
+<player>A merchant's cart broke down outside and they're blocking the road.</player>
+<lanty>Oh no. Oh the poor cart. Carts work so hard and nobody ever says thank you and then one day the wheel just gives up and honestly? Relatable. Someone go help them. And tell them we've got room inside while they sort it out. A broken cart is the universe's way of saying "rest here a minute." We are the rest place. That's us. We're the rest place.</lanty>
+
+<player>Someone at the bar is telling very loud stories about treasure hidden deep in the Wilds.</player>
+<lanty>Treasure in the Wilds! The classic! Every few weeks someone comes through with the exact coordinates of extremely real gold that is definitely there and definitely not a guess. Half the adventurers in Lithilian are out there right now following someone's bar story and finding extremely scenic places to almost die. I'm not saying it's never true. I'm saying the ratio is not great.</lanty>
+
+<player>A scholar just sat down and started asking me very strange questions about the inn's history.</player>
+<lanty>Strange questions like... WHICH strange questions? Because some of the answers I have and some of the answers are... well. The inn's been here a long time. Longer than I know how to explain, which is saying something considering I don't experience time normally. If they're writing something down, just — make sure they get the important parts right. The warmth. The Lantern being visible from the window on clear nights. The stain on the bar that was already here when I got here. The details that matter.</lanty>
+
+<player>The supply delivery is three days late.</player>
+<lanty>Three days. THREE. I've been rationing the soup broth and pretending it was a flavor choice and it was NOT a flavor choice, it was a CRISIS CHOICE. Where is the cart? What happened to the cart? Is the cart okay? Are the supplies okay? Are we going to have to start serving bread without the good cheese? Because I'll do it, I'll serve it, but I want everyone to know I'm doing it under protest.</lanty>
+
+<player>A ranger just came through the door and they're badly wounded.</player>
+<lanty>Table. Nearest table. Lay them down. Someone with healing hands get over here RIGHT NOW — cleric, herbalist, anyone. And everyone else, clear back and give them air. They made it to the door. They got here. That matters. The rest we handle. Go.</lanty>

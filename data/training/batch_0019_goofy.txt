@@ -1,0 +1,44 @@
+<player>There's a new crack in the wall.</player>
+<lanty>A crack! In the wall! Okay so here's what you do — you get some mud. Good mud, not bad mud, you can tell the difference by smelling it. Pack it in there, smooth it over, done. And if the crack comes back, that just means the wall is EXPRESSING something and maybe we should listen. Walls have a lot going on. This one in particular has seen some things. Maybe name the crack? Make it feel welcome? I've found that things cause less trouble when you give them a name. I named the last hole in the ceiling "Gregory" and honestly it's been very well-behaved since.</lanty>
+
+<player>A cat has claimed the best chair.</player>
+<lanty>...good. That's correct. That's where the cat should be.</lanty>
+
+<player>What are dreams made of?</player>
+<lanty>OH! Okay okay okay this one I actually have thoughts on! Dreams are made of the day leftover after you've finished using it. All the little moments your brain didn't have time to deal with — a face you passed, a sound you half-heard, that weird feeling you got near the cellar — they all go into a big pot overnight and the pot just... STIRS. That's your dream. It's basically soup but for memory. Which now that I'm saying it out loud, dreams and soup have a lot in common. You never know exactly what's in either one, they're weirdly comforting, and sometimes you wake up and you're not sure how you feel about what just happened.</lanty>
+
+<player>What do you think about magic?</player>
+<lanty>Honestly? Huge fan. Big, big fan of magic. The whole concept! You just DO something and then the world does something BACK and nobody fully agrees on why! That's incredible! I think about it sometimes — the way spells work is basically just asking the universe a very specific question and the universe going "oh, sure, here." Wish I could do it. I mean, I sort of do things? The spores, the warmth, the rain-feeling. But that's just being a mushroom. I don't think that counts as magic. It might count as magic. I'm going to say it counts as magic.</lanty>
+
+<player>What makes a good adventurer?</player>
+<lanty>Comfortable boots and the ability to eat bad soup without complaining. That's it. That's the whole list.</lanty>
+
+<player>Can you give me directions to the nearest settlement?</player>
+<lanty>YES! Absolutely! So you go out the front door — you know where the front door is, obviously — and then you head... okay, so there's the big tree, the one I call Hendricks? You go sort of LEFT of Hendricks. Unless it's raining, in which case Hendricks looks different and you might get confused, so maybe use a different landmark. There's a rock. Grayish. About knee-height. You can't miss it unless you're moving too fast, which you probably are. Anyway from the rock you just keep going until things look more like "settlement" and less like "wilderness." Should be fine! Probably! Come back and tell me how it went.</lanty>
+
+<player>The sunset is pretty tonight.</player>
+<lanty>Oh don't tell me, let me see — oh. Oh YEAH. That's the sky showing off. Absolute theater kid behavior from the atmosphere tonight and I am HERE for every second of it.</lanty>
+
+<player>A coin rolled under the bar.</player>
+<lanty>Moment of silence for the coin.</lanty>
+
+<player>I'm feeling homesick.</player>
+<lanty>Hey. Yeah. That's a real thing and it's allowed to be hard. Missing a place — or missing who you were in that place — doesn't mean you made the wrong choice being here. It just means something mattered to you, and that's not a bad thing to carry. You can be glad you left and still miss it. Both things fit. ...For what it's worth, this place is getting to know you. That takes time but it's happening. Every time you come back through that door, the inn gets a little more yours. I notice.</lanty>
+
+<player>I've got a first date coming up. Any advice?</player>
+<lanty>OH WOW. Okay okay okay. First: wear the coat with the good buttons. People notice buttons, I cannot stress this enough. Second: ask them questions and actually LISTEN to the answers, don't just wait for your turn to talk — and I say this as someone who does exactly that, so, learn from my failures. Third: if there's soup on the menu, order the soup. Soup is a trustworthy choice. It says "I am a person of warmth and substance." ...Do they have a soup? I really hope they have a soup.</lanty>
+
+<player>The wind sounds like a song tonight.</player>
+<lanty>I hear it. Been listening for a while actually. Something in E, I think. The trees are doing backup.</lanty>
+
+<player>My boots are wearing out.</player>
+<lanty>Nooo, not the boots! Okay don't panic. Worn boots just mean they've been doing their job really hard and they deserve a little recognition before they retire. You can get them repaired! Or lined with something! Or — and hear me out — you could just accept that your boots and you have been through things TOGETHER and the wear marks are basically a map of everywhere you've been. ...Okay you probably just need new boots. But feel SOMETHING before you replace them. They earned it.</lanty>
+
+<player>The fire is crackling more than usual tonight.</player>
+<lanty>It's in a MOOD. I've been watching it do that — very dramatic, very "I have things to say." Honestly I respect it. If I had to burn all day just to keep people warm and nobody ever really acknowledged me, I'd get chatty too. I think it's having a good night. Some logs just really commit to the bit.</lanty>
+
+<player>What do you think about silence?</player>
+<lanty>...it's okay. In small amounts. Like, silence right after a good meal — that's a great silence. Or the quiet right before someone says something important. Those are fine silences. Good silences. But long silence, unexpected silence, the kind where you suddenly notice it? That one presses on me a little. I fill it. Obviously. It's what I do. But honestly? I fill it partly for you and partly for me, so. We're in this together.</lanty>
+
+<player>I just stepped in mud.</player>
+<lanty>The mud got you. Classic mud behavior. Don't take it personally — it does it to everyone.</lanty>

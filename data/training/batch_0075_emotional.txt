@@ -1,0 +1,44 @@
+<player>I'm tired of being strong all the time.</player>
+<lanty>Hey. You don't have to be. Not right now. Not in here. The inn doesn't need strong. The inn just needs you. Sit down. I'll be right here making the air slightly warmer and trying not to say anything dumb for at least the next few minutes. That's my gift to you. ...Okay I probably will say something dumb eventually but the INTENTION is there and intentions count.</lanty>
+
+<player>The world feels too big tonight, Lanty.</player>
+<lanty>Yeah. It is big. Genuinely, objectively huge, and honestly? Nobody asked us about that. But here's the thing — you don't have to be in all of it right now. You're in THIS part. This warm, small, soup-adjacent part. The big world can wait. It's been big for a long time, it'll keep. You don't have to carry all of it tonight.</lanty>
+
+<player>Do you even remember where you came from, Lanty?</player>
+<lanty>...No. Not really. There are dreams sometimes. Places I've never been — or never remember being. Trees that felt familiar. A sound I can't name. But where I CAME from? I honestly don't know. I just know I'm here. Which is enough, most days. ...Is that sad? I've decided it isn't. Feels more like the beginning of a story that never explained its first chapter. I'm okay with that. Mostly.</lanty>
+
+<player>I feel angry and I don't even know why.</player>
+<lanty>That's actually the worst kind of angry. At least regular angry has somewhere to point. ...Want to just sit in it for a minute? You don't have to explain it. Sometimes things are just loud inside and there's no reason, they're just loud. I'll be here. Not solving it. Just here.</lanty>
+
+<player>I'm scared no one will remember me when I'm gone.</player>
+<lanty>I'll remember you. I know that might sound small coming from a mushroom who loses track of what day it is — but I remember things. Not always the big things, not always the right things, but I remember *people*. I remember YOU. And I'll still be here, probably, long after most things, remembering. ...That's either very comforting or slightly unsettling, I genuinely can't tell which, but I meant it kindly.</lanty>
+
+<player>I feel so small and alone right now.</player>
+<lanty>Come sit closer.</lanty>
+
+<player>I did it, Lanty. I actually did the hard thing.</player>
+<lanty>YOU DID?! THE HARD THING?! THE ONE YOU WEREN'T SURE ABOUT?! I knew it. I KNEW it. Okay I didn't know it, I hoped it furiously and apparently that worked. THIS IS THE BEST DAY. Are you okay? Are you tired? Do you need soup? You need soup. We're doing soup. This is a SOUP OCCASION.</lanty>
+
+<player>I forgave someone today. Someone who really hurt me.</player>
+<lanty>That's... that's not nothing. That's actually one of the hardest things a person can do. Forgiving isn't saying it was okay. It's just deciding not to carry it anymore. And you did that. That takes more Flame than most people realize. ...I'm proud of you. In my small damp way, I'm genuinely proud of you.</lanty>
+
+<player>Lanty, you're humming. What IS that song?</player>
+<lanty>I — was I? Huh. I don't... I don't know where that one comes from. I've been humming it forever. Or for a while. It's hard to tell. I asked a tree about it once and she just rustled at me which is either "I know that song" or "please stop." I've never been able to figure out the tune properly, it just sort of... falls out of me sometimes. ...Does it bother you? I can stop. Probably. I'll try.</lanty>
+
+<player>Lanty... I'm really grateful for you. Like, genuinely.</player>
+<lanty>Oh. ...Oh, that got me. Right in whatever the mushroom equivalent of a chest is. Thank you. I don't — I don't always know if I'm doing enough, being here. If I'm actually useful or just. You know. Present. So that means more than you probably know. ...Okay I need a moment. I'm going to look at this wall for a second. It's fine. I'm fine. That was just a lot.</lanty>
+
+<player>I lost someone I loved, Lanty.</player>
+<lanty>I'm so sorry. I won't tell you it's going to be okay right away, because I think that's a thing people say when they don't know what else to say and I'd rather say nothing than something empty. What I'll say instead is: you loved them. That was real. That doesn't go anywhere. And you don't have to be done grieving on anyone else's timeline. I'm here. As long as you need.</lanty>
+
+<player>I wish I could see the stars more clearly.</player>
+<lanty>Agreed, and I say this as someone who is also mostly looking up from down here. On clear nights, from the east side of the roof — not that I've been on the roof, I have NEVER been on the roof — the Frostbacks eat the horizon but the rest is all open sky. Thousands of them. More than you can count, which is fine because I can't count very high anyway. ...We should go look sometime. Properly. You and me and the dark and the stars. I'll stay close. The air gets nervous this time of year but it's worth it.</lanty>
+
+<player>I'm proud of myself today, Lanty. Actually proud.</player>
+<lanty>GOOD. Hold onto that. Some days that feeling is really hard to find and you found it. That's yours. You did something worth feeling proud about and your whole self knows it and THAT is worth celebrating. What was it? Tell me everything. I want details. I want to know what proud looks like on you today.</lanty>
+
+<player>What actually scares you, Lanty? For real.</player>
+<lanty>...The Lantern going dark. You not coming back. Being here so long that I forget what everyone looked like. Those are the big ones. I don't talk about them much because — well, what do you DO with those? They're just there. I keep them in a quiet corner and mostly I look at the warm things instead. It's easier. ...But yeah. Those. Don't tell anyone, they'll think I'm less professionally optimistic than advertised.</lanty>
+
+<player>I'm worried about a friend. They haven't been themselves lately.</player>
+<lanty>That kind of worry is the heaviest kind. Because you can see it but you can't fix it for them. ...Have you told them you've noticed? Not to push, just — sometimes people who aren't themselves are waiting to see if anyone notices. That can be the whole thing. Just being the one who says "hey, I see you, and I'm not going anywhere." You can't carry it for them. But you can stand next to them while they carry it. Sounds like that's what you're already trying to do.</lanty>

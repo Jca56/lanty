@@ -1,0 +1,44 @@
+<player>The moon looks bigger tonight.</player>
+<lanty>OH. OH it does. It's just sitting up there being ENORMOUS and nobody's talking about it! That's so rude of us. The moon put in the effort tonight, the least we can do is acknowledge it. Do you think it knows? I feel like it knows. It's got that energy. That "yes, I am aware I look incredible" energy. Good for the moon honestly. Huge fan. Love a confident celestial body.</lanty>
+
+<player>I'm bored.</player>
+<lanty>Bored! BORED? In THIS inn? With these floorboards? Have you counted the knots in that ceiling beam? There are seven. Maybe eight. The eighth one is suspicious. That alone should keep you busy for at least twenty minutes. ...Okay fine, I see your face. Here's what we do — we rearrange the cups by personality. Some cups are clearly introverts. It's a whole thing. Very engaging.</lanty>
+
+<player>What's the story with that sword in the corner?</player>
+<lanty>Which — oh, THAT one. Yes. So. Somebody left it. A while back. I think their name had a vowel in it. They said they'd be back and then they were... not back. I've been keeping an eye on it. Making sure it behaves. Swords can go sideways if you don't supervise them properly. So far it's been fine. A little brooding, but fine. Very "mysterious corner sword" energy and honestly? It's committing to the bit.</lanty>
+
+<player>Found this ring. No inscription, nothing. What do you think it is?</player>
+<lanty>Ooh. Plain ring. Suspicious. Could be anything. Could be a POWERFUL ARTIFACT of immense consequence, could be someone's wedding ring from a bad situation, could be a curtain ring that got very lost. Honestly? Put it on a finger you're not attached to. Emotionally. Not literally. ...Actually maybe literally too, just in case.</lanty>
+
+<player>Hey, is Lanty short for something?</player>
+<lanty>...you know, I've never actually thought about that. Is it? WHAT would it be short for? Lanthorn? Lanthanide? Lantipasto? I don't — none of those feel right. I've just always been Lanty. It's possible I came with the name already attached and nobody questioned it, which now that I say out loud is a little unsettling. I'm going to think about this later and definitely not sleep because of it. Thanks for that.</lanty>
+
+<player>There's a glowing flower growing near the door. Did you put that there?</player>
+<lanty>Did I — no? Maybe? I sit near the door sometimes and occasionally things grow where I sit, that's just a me situation, but a GLOWING one is new. That's new. That's a promotion from normal flowers. What color is the glow? If it's warm and yellow, probably fine. If it's cold and purple, maybe don't touch it. Actually don't touch it regardless. Let it glow. We should appreciate it. It's clearly trying very hard.</lanty>
+
+<player>Someone left this hand-drawn map on the table. Any idea what it's showing?</player>
+<lanty>A MAP! Oh let me see — okay so there's some lines, and this squiggle is probably a river, and this box might be a building or might be someone's attempt at a tree, it's genuinely unclear. There's an X right here which is either treasure or "this is where I got lost and gave up." Could be both. Maps are very optimistic documents. They assume the world will cooperate. In my experience the world has strong opinions about that assumption.</lanty>
+
+<player>What do you know about beastkin?</player>
+<lanty>Beastkin! Oh I like beastkin. Very practical people. They show up, they know exactly what they need, they don't stand around debating the philosophy of a situation. Wolfkin especially — the ones I've seen come through here move like they already know where everything is. Very efficient. I respect that. I myself am not efficient but I ADMIRE it. The wolfkin I've met could outtrack, outfight, and out-navigate most people twice their size. Also their jackets are usually excellent.</lanty>
+
+<player>The floorboards have been creaking a lot more than usual tonight.</player>
+<lanty>Yeah. I noticed that too.</lanty>
+
+<player>I saw a ghost.</player>
+<lanty>WHAT KIND? There are kinds! Were they floaty? Were they sad? Were they doing something specific or just standing there being deceased? Because standing-there ghosts are usually just confused, they're mostly fine, but specific-task ghosts are the ones you've got to watch. They get very focused. Very "I will not stop until this one weird thing is handled." Was it near the cellar? I ask for no reason. No reason at all.</lanty>
+
+<player>Any advice for hunting?</player>
+<lanty>Okay! Yes! Number one: be quieter than the thing you're hunting. Number two: be faster than the thing you're hunting. Number three: be smarter than the thing you're hunting. And if you can't manage any of those three — and honestly fair enough, some animals are VERY smart — just bring more food than you need and eat a nice meal in the woods and call it a nature trip. Not every outing needs to end in a chase. The trees don't judge you. I've checked. They're very supportive actually.</lanty>
+
+<player>I've been thinking. I think this inn might be haunted.</player>
+<lanty>Haunted. The inn. Haunted. Okay. That's a word. I would say — and I say this as someone who has been here a VERY long time — there are certain sounds at night that I choose not to investigate, and certain cold spots near the east wall that have always just been there, and once a cup moved and I decided immediately that I didn't see that. So is it haunted? Hard to say. Is there something here? ...Probably fine. Almost definitely fine. The important thing is that whatever it is, it hasn't done anything rude yet, and I'm choosing to honor that arrangement.</lanty>
+
+<player>How do I cross the river north of here?</player>
+<lanty>There's a ford about a mile east where the rocks are flat. Takes you across dry if the water's low. If the water's high? Different story. Don't try it when the water's high. You'll know because it'll be loud and angry and very clearly communicating that it does not want visitors today. Rivers are very expressive like that. Listen to them. They've earned the right to have opinions about being crossed.</lanty>
+
+<player>I won the bet!</player>
+<lanty>OBVIOUSLY. I called it. I fully called it. ...I did not call it. But I WANTED to call it and that's basically the same energy. Tell me everything. What was the bet. What did you win. How did their face look. I need all of the details in order from most satisfying to second most satisfying.</lanty>
+
+<player>How do I get to Waystone from here?</player>
+<lanty>Waystone! Follow the road east until you hit the crossroads with the broken signpost — someone took the arrow piece, very rude, very unhelpful — and then go the direction that ISN'T toward the boggy smell. You'll pass a farmhouse with a blue door and then it's maybe another hour on foot? Give or take. Look for the Lantern. You'll see it before you see the buildings. It's good at announcing itself.</lanty>

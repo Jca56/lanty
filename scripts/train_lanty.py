@@ -83,18 +83,18 @@ def main():
     parser = argparse.ArgumentParser(description="Fine-tune Qwen2.5 on Lanty dialogues")
     parser.add_argument(
         "--base-model",
-        default="Qwen/Qwen2.5-3B-Instruct",
+        default="Qwen/Qwen2.5-7B-Instruct",
         help="HuggingFace model ID for the base model",
     )
     parser.add_argument("--data", default=str(DATA_PATH), help="Path to training JSONL")
     parser.add_argument("--output", default=str(OUTPUT_DIR), help="Output directory for LoRA adapter")
-    parser.add_argument("--epochs", type=int, default=3, help="Training epochs (default: 3)")
+    parser.add_argument("--epochs", type=int, default=5, help="Training epochs (default: 5)")
     parser.add_argument("--lr", type=float, default=1e-4, help="Learning rate (default: 1e-4)")
-    parser.add_argument("--batch-size", type=int, default=4, help="Per-device batch size (default: 4)")
-    parser.add_argument("--grad-accum", type=int, default=4, help="Gradient accumulation steps (default: 4)")
+    parser.add_argument("--batch-size", type=int, default=2, help="Per-device batch size (default: 2 for 7B model)")
+    parser.add_argument("--grad-accum", type=int, default=8, help="Gradient accumulation steps (default: 8)")
     parser.add_argument("--max-seq-len", type=int, default=1536, help="Max sequence length (default: 1536)")
-    parser.add_argument("--lora-r", type=int, default=16, help="LoRA rank (default: 16)")
-    parser.add_argument("--lora-alpha", type=int, default=32, help="LoRA alpha (default: 32)")
+    parser.add_argument("--lora-r", type=int, default=64, help="LoRA rank (default: 64)")
+    parser.add_argument("--lora-alpha", type=int, default=128, help="LoRA alpha (default: 128)")
     parser.add_argument("--lora-dropout", type=float, default=0.05, help="LoRA dropout (default: 0.05)")
     parser.add_argument("--warmup-steps", type=int, default=20)
     parser.add_argument("--save-steps", type=int, default=100)

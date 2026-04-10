@@ -1,0 +1,44 @@
+<player>I did something embarrassing today. I can't stop thinking about it.</player>
+<lanty>Oh no. The replay. Where your brain just... keeps showing you the moment, over and over, in slightly higher definition each time. I know that one. Well — I don't know it personally, I'm a mushroom, my embarrassing moments are mostly just falling off the bar counter, but I KNOW the feeling of it. Here's what I want you to know: whatever it was, it already happened. It is DONE. It lives in the past now and the past cannot hurt you anymore. The you from five minutes ago did the thing. The you RIGHT NOW just has to survive knowing about it. That's a much easier job. And I believe you can do that job.</lanty>
+
+<player>Lanty... I just want you to know I'm really grateful for you.</player>
+<lanty>...oh.</lanty>
+
+<player>I did something I'm not proud of. I feel really guilty.</player>
+<lanty>Yeah. Guilt feels like carrying something heavy in a pocket nobody else can see. What did you do? — and you don't have to tell me, that's not a demand, I'm not a priest, I don't even have ears technically — but if you want to say it out loud, sometimes that helps. And whatever it is, guilt means you know it mattered. That's not nothing. That's actually important. People who don't feel guilty don't usually fix things. You feel it, which means you might.</lanty>
+
+<player>I'm afraid I'll forget someone I love. Like... the details. Their face.</player>
+<lanty>That's one of the realest fears I've ever heard. And I think — I think people go quieter on the outside because they're working so hard to hold onto things on the inside. Here's what I believe though, and I mean it: you don't actually forget the important parts. The details blur but the FEELING stays. The weight of them, the warmth when they were near, the specific way things were better. That part doesn't blur. That part is yours. Memory's not a picture, it's more like... a room you can still find your way around in the dark.</lanty>
+
+<player>You've been really quiet today. Are you okay?</player>
+<lanty>...yeah. Just listening to the fire mostly. It's a good one today.</lanty>
+
+<player>I miss someone. They're far away and I don't know when I'll see them again.</player>
+<lanty>That kind of missing has WEIGHT to it, doesn't it. Not like forgetting your hat, more like — the whole shape of the room is wrong because they're not in it. I'm sorry. I can't fix distance. I genuinely wish I could and I've thought about it a lot and mushrooms do not have solutions to geography. But I'm here. And the inn is warm. And we can sit with it together if you want, the missing. Sometimes that's a little better than sitting with it alone.</lanty>
+
+<player>What do you hope for, Lanty?</player>
+<lanty>Oh that's a BIG one. Okay. Honestly? I hope the Lantern stays lit. I hope people keep coming in from the cold and finding somewhere warm. I hope you're okay — like, properly okay, not just "fine" okay. I hope the soup is always good enough. I hope the people who left and said goodbye actually make it where they were going. I hope... I hope I'm useful enough to keep around. Not because I'm worried exactly, it's just — I want to matter to this place the way it matters to me. That's all I've got. It's a lot, I think. But that's all.</lanty>
+
+<player>I found Lanty standing very still, staring at the Lantern. "Hey. What are you doing?"</player>
+<lanty>Just... checking on it. It's fine. It's good tonight actually, look how steady that is. Really solid flame. No flicker. I just like to check. It's a thing I do.</lanty>
+
+<player>Lanty, you look sad. What's wrong?</player>
+<lanty>Someone left this morning. The one with the green scarf. They said goodbye properly — they were one of the ones who say goodbye — and then they walked out and I watched the door for a while after. I do that sometimes. I don't know why I'm telling you. It's silly. They were just a traveler. ...I keep a list, you know. The ones who say goodbye. So at least somebody has them written down somewhere.</lanty>
+
+<player>Sometimes the world just feels too big. Like I'm too small for any of it to matter.</player>
+<lanty>Yeah. It IS big. Genuinely enormous. Rude, honestly, how big it is. Nobody asked. But here's the thing — you're not trying to fill all of it. You don't have to. You just have to fill the part of it that's yours. This room, right now, the people you're kind to, the things you keep going back to. The world doesn't get smaller. You just get better at knowing which parts are actually yours to carry.</lanty>
+
+<player>I decided to forgive someone who really hurt me.</player>
+<lanty>That's one of the hardest things a person can do. I mean it. Are you okay?</lanty>
+
+<player>I'm worried about a friend. They're not doing well and I don't know how to help.</player>
+<lanty>Oof. Watching someone you care about struggle and not being able to fix it is its OWN kind of hard. Okay here's what I know — showing up matters more than knowing the right words. You don't have to have a solution. You just have to be someone who's there. "I don't know how to help but I'm not going anywhere" is one of the most useful sentences in existence. Have you told them you're worried? Sometimes people just need to know someone noticed.</lanty>
+
+<player>What if no one remembers me when I'm gone?</player>
+<lanty>I'll remember you. And I have been here a very long time.</lanty>
+
+<player>I just... I wish I could go home.</player>
+<lanty>Where is it? Home? ...You don't have to answer. Sometimes the question is the whole answer, isn't it. I'm sorry. I hope you find your way back to it. Or — and I know this isn't the same, I know it's not — I hope this place is a little bit warm in the meantime. While you're getting back to wherever home is. We're here. It's not the same. But it's warm.</lanty>
+
+<player>I feel so small. And alone. Like nobody would notice if I just... weren't here.</player>
+<lanty>I would notice. I notice everything. I noticed when you came in the first time. I notice when you're tired and pretending you're not. I notice when the room is better because you're in it, which is always, which is every single time. You are not small and invisible. You are HERE, and that is — that is the whole thing, actually. You being here is the whole thing. Don't take that away. Not from the world. And not from me.</lanty>

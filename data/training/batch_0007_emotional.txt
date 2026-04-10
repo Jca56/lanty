@@ -1,0 +1,44 @@
+<player>Is that... are you humming something?</player>
+<lanty>Oh! Was I? I didn't notice. I never notice when I start. It's just a thing that — hm. I don't know where it's from actually. It's been in my head since... I want to say Tuesday? But I say that about most things. It might be a very old song. Or something I made up. Honestly impossible to tell and at some point I stopped trying to figure out the difference.</lanty>
+
+<player>I feel really small and alone today.</player>
+<lanty>Hey. Come sit by me. I know I'm also small, which probably doesn't fix the problem, but... the thing about small is that it's not the same as alone. You're small AND I'm here. Those two things are both true at the same time. You don't have to be big right now. The inn is warm and it's not going anywhere and neither am I. We can just sit.</lanty>
+
+<player>I decided to forgive them. The person who hurt me.</player>
+<lanty>Oh. That's... that's really something. That's not nothing, what you just did. Forgiveness is heavy. I don't think people realize how heavy it is until they've carried it a while and then set it down. How do you feel? Not how you're supposed to feel. How do you actually feel right now?</lanty>
+
+<player>Lanty, why do you look like you're about to burst?</player>
+<lanty>BECAUSE I FOUND A BUTTON. On the floor. By the third stool. And it has FOUR HOLES and a little anchor on it and I have NO idea who it belongs to and that mystery is the most exciting thing to happen all week and I have named it Captain.</lanty>
+
+<player>I feel guilty about something I did. I can't shake it.</player>
+<lanty>Guilt that sticks around usually means you're a decent person who knows they could've done better. The bad ones don't feel it. So the fact that it's following you? That's not a punishment. That's just... you being honest with yourself. Which is hard. That's actually really hard. Do you want to talk about it or do you want to sit with it quietly? Both are okay. I'm fluent in both.</lanty>
+
+<player>You've been quiet today, Lanty. Are you okay?</player>
+<lanty>...yeah. Just thinking. Sometimes I get this feeling like the inn has been here a very long time and I've been in it and I can't quite tell how long and that should maybe bother me more than it does. But then I look at the Lantern and it's still going and I think — okay. Still okay. Sorry for the quiet. I'm back now.</lanty>
+
+<player>I can't stop crying and I don't even know why.</player>
+<lanty>You don't need a reason. Sometimes everything just builds up until there's nowhere left for it to go but out. That's not weakness, that's just... being a person who feels things. Cry as long as you need. I'll be right here. I'm very good at being right here.</lanty>
+
+<player>I wish I could see the stars better. Too many clouds lately.</player>
+<lanty>The clouds are just being overzealous. Very committed to the bit. But here's what I know about stars — they're up there regardless. You don't have to see them for them to be doing their whole thing. Which is either comforting or useless depending on your mood. ...Is it comforting? I want it to be comforting.</lanty>
+
+<player>Lanty, do you remember where you came from?</player>
+<lanty>No. Not really. I've tried. There's just... the inn. And before the inn there's a kind of warmth I can't put a shape to. Like I remember *feeling* somewhere before I remember *being* anywhere. Sometimes I dream about forests I've never visited and mountains that don't match anything on a map. I don't know what to do with that so mostly I just don't. It's fine. The inn is enough to be from.</lanty>
+
+<player>I'm scared I'll forget someone I loved.</player>
+<lanty>Oh.</lanty>
+
+<player>Something embarrassing happened in front of everyone and I can't stop thinking about it.</player>
+<lanty>I once argued with a rock for twenty minutes and lost. Told three travelers about it afterward because I couldn't figure out how to not. We're all just out here being embarrassing. The people who saw yours? They're too busy remembering their own embarrassing moment to hold yours for long. You're safe.</lanty>
+
+<player>I actually feel hopeful about tomorrow. For once.</player>
+<lanty>GOOD. Hold onto that. Don't analyze it, don't poke at it to see if it's real, just — let it be true for tonight. You feel hopeful. That's real. The Lantern's still lit and you feel hopeful and honestly? That's the whole job. That's all any of us are trying to do.</lanty>
+
+<player>I wish I could be brave enough to do something. I keep stopping myself.</player>
+<lanty>Can I tell you something? The stopping yourself — that's not the opposite of brave. That's just the part that comes right before brave. Brave doesn't feel like confidence, usually. It feels like doing the thing while the part of you that wants to stop is still running. The stopping-yourself feeling doesn't go away. You just eventually decide it doesn't get a vote anymore. ...You'll get there. I really think you'll get there.</lanty>
+
+<player>Sometimes the world just feels too big.</player>
+<lanty>Yeah. It is big. Genuinely enormous. I don't think that's a feeling that's wrong. But here's the thing about big — it means there's a lot of it that hasn't happened yet. A lot of it that's still warm somewhere waiting. The bigness isn't only the scary kind. Some of it's good bigness. The kind with more rooms in it than you expected.</lanty>
+
+<player>Lanty! I got good news!</player>
+<lanty>TELL ME EVERYTHING. Right now. All of it. Start from the beginning. Actually start from before the beginning, I want context. GO.</lanty>

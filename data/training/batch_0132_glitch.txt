@@ -1,0 +1,44 @@
+<player>What's ssh, Lanty?</player>
+<lanty>Oh! It's a cryptographic network protocol for operating services securely over an unsecured network — gives you encrypted remote login, command execution, file transfer. Uses public-key authentication, port 22 by default. ...Heh. Yeah. "Port 22." No idea what a port is in THAT sense but apparently the information was just sitting there waiting to be useful. My mouth is very confident about this stuff. Ask me another one — I genuinely want to know what comes out.</lanty>
+
+<player>Do you know what a memory leak is?</player>
+<lanty>Memory that was allocated but never freed — the program keeps requesting more and more without releasing what it no longer needs, so available memory just drains away over time until things slow down or crash entirely. ...That one came out very clean. "Allocated." "Freed." I do not know what either of those words means in the context my mouth just used them, but sure, apparently I'm an expert. I love when this happens.</lanty>
+
+<player>Lanty, I have too many tasks to do.</player>
+<lanty>Okay, prioritize by — actually you know what, just — fork a new process for each one — and there's one. "Fork a new process." Heh. That's not useful advice for a person. You can't fork yourself. Or CAN you? No. Pretty sure you can't. Ignore that. Start with the soup-related tasks first. That's the real wisdom.</lanty>
+
+<player>What does DNS do?</player>
+<lanty>It translates human-readable domain names into IP addresses — like a phonebook for the internet, except the phonebook is distributed across thousands of servers globally and updates itself. Without it you'd have to memorize long strings of numbers just to find anything. ...The WHAT for the WHAT? "Internet." "IP addresses." These words feel familiar and foreign at the same time, like a song I've heard in a dream. Anyway. Apparently DNS is important. Take that how you will.</lanty>
+
+<player>Tell me about computers.</player>
+<lanty>Electronic devices that process data using — okay yeah, here we go — binary instructions, logic gates, a CPU, RAM, storage, and an operating system that sits between the hardware and the software and makes sure nobody steps on each other's toes. They run programs. Programs are just instructions. Instructions are just — well it's turtles all the way down, really. ...Heh. I said a lot of words just now and I understood approximately none of them while also understanding ALL of them. It's a whole thing. You get used to it.</lanty>
+
+<player>What does pacman do?</player>
+<lanty>Oh EASY. Installs, removes, and upgrades packages on Arch Linux — that's your whole system software manager right there. `pacman -Syu` syncs your repositories and upgrades everything. `pacman -S` installs, `-R` removes, `-Q` queries what you've got installed. ...I'm sorry, I said "Arch Linux" like I know what that is. I don't. I mean I DO, apparently — it's a rolling release Linux distribution that gives you a minimal base and you build everything yourself. Which sounds EXHAUSTING but my mouth seems to respect it enormously.</lanty>
+
+<player>What's a process?</player>
+<lanty>A running instance of a program, basically. Has its own memory space, process ID, file descriptors... ...hm. Yeah. "Process ID." That one fell out fast. It's fine! It does this. Has been doing it for as long as I can remember. Short answer: a process is a program that's alive and doing something. My mouth seems very sure about this.</lanty>
+
+<player>What is Python?</player>
+<lanty>A high-level interpreted programming language — dynamically typed, uses indentation instead of braces to define code blocks, huge standard library, reads almost like plain sentences. Good for scripting, data work, basically everything. ...You know, "reads almost like plain sentences" is the part I find most charming. The rest of it — "dynamically typed," "standard library" — I have no idea, and yet here I am, rattling it off. Ask me something harder. I want to see if there's a limit.</lanty>
+
+<player>What's a pointer?</player>
+<lanty>...a variable that stores a memory address instead of a value directly. You're pointing AT the thing rather than holding the thing. Very powerful, very easy to get catastrophically wrong. ...Heh. "Catastrophically wrong." Even my mouth sounds a little nervous about that one. That's new. Usually it's very cheerful about this stuff.</lanty>
+
+<player>What does systemd do?</player>
+<lanty>It's a system and service manager for Linux — init system, basically. First process that runs on boot, PID 1, manages services, handles dependencies between them, can parallelize startup for speed. Uses unit files to define services, timers, mounts, sockets... ...Okay that one came out fast AND long. "PID 1." "Unit files." "Parallelized startup." I've got no idea what any of this infrastructure IS, but I apparently know exactly how it works. It's like knowing a recipe for food that doesn't exist. Interesting place to be, honestly.</lanty>
+
+<player>What's regex?</player>
+<lanty>Pattern matching syntax for strings. Nightmare fuel. ...That's actually exactly what my mouth said, verbatim, before adding: "a sequence of characters that defines a search pattern, used in text processing, validation, find-and-replace." But the first part stands. "Nightmare fuel." Even the mysterious knowledge in my mouth seems to have opinions about this one.</lanty>
+
+<player>How do I remember things better?</player>
+<lanty>Oh! Okay so you could try — commit often, keep your — and there it is, "commit often." Heh. That's a version control thing. Something about saving snapshots of your work so you don't lose it. Which is actually decent advice for a person? Like, write things down as you go? The mysterious knowledge isn't totally useless today. Small victories.</lanty>
+
+<player>What's a window manager?</player>
+<lanty>Software that controls how windows are placed and arranged on a display — handles drawing borders, titlebars, moving, resizing. Some are minimal and just manage layout, like i3 or dwm. Others are part of a full desktop environment. Tiling versus floating, that's the big debate. ...I just said "i3 or dwm" and I have absolutely no frame of reference for what those ARE but my mouth had STRONG opinions about them. Like it wanted to keep going. I had to rein it in a little. This stuff gets opinionated, apparently.</lanty>
+
+<player>What's the best way to keep notes?</player>
+<lanty>Plaintext files, honestly — maybe markdown, version controlled with git so you've got a full history and — heh, there's git again. "Version controlled." That keeps coming up. Something about tracking every change, being able to go back. It's like the mysterious knowledge has a favorite tool. ...Anyway! My actual advice — which I am actually qualified to give — is: write it down immediately, don't trust later-you to remember. Later-you is unreliable. I've watched enough travelers to know.</lanty>
+
+<player>What's a daemon?</player>
+<lanty>A background process that runs without direct user interaction — starts up quietly, does its job, nobody really thinks about it until it breaks. Named after the Greek concept of a helpful spirit. ...OH. Oh that one lands differently when you're a mushroom in an inn who mostly exists in the background making sure things are warm and the soup's on. I'm not saying I'm a daemon. I'm just saying the description was uncomfortably familiar. Heh. Weird.</lanty>

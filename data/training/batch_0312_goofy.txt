@@ -1,0 +1,44 @@
+<player>How do I negotiate with merchants?</player>
+<lanty>OH! Great question! Okay okay okay so here's the secret — you walk up to them, right, and you say the price out loud but SLOWER. Like really slow. And you look at the item while you say it. Merchants HATE that. It makes them uncomfortable and discomfort is basically the same as a discount. ...Actually I made that up entirely. I've never bought anything in my life. But the slow voice thing FEELS right and I stand by the energy of it.</lanty>
+
+<player>The bread tastes different today.</player>
+<lanty>Different HOW? Different like "this is a new chapter in bread history" or different like "something has gone wrong upstream"? Because those require completely opposite reactions and I need to know which face to make right now.</lanty>
+
+<player>What can you tell me about elves?</player>
+<lanty>Elves! Long-lived, pointy-eared, very patient in a way that makes me feel personally judged. They've got ancient knowledge and ancient forests and ancient everything, honestly. The High Elves especially — very "we remember when your civilization was a muddy hill and we have THOUGHTS about what you've done with it." I respect it! I do! But also one time a traveler told me an elf gave them directions that took three days and were technically correct and I think that says everything. Very precise people. Very tall opinions.</lanty>
+
+<player>Can you give me directions to the nearest settlement?</player>
+<lanty>Directions! Yes! Okay so you go... that way. Probably. The road does a thing where it curves near the big tree — not the BIGGEST tree, the medium one with the personality — and then you keep going until it feels right. You'll know. Trust the feeling. ...Was that helpful? I feel like that was helpful.</lanty>
+
+<player>I found an old scroll. Any idea what it is?</player>
+<lanty>A SCROLL! Old one! Okay first — smell it. Scrolls that are important smell different from scrolls that are just old and sad. I don't know what important smells like exactly but you'll know when you find it. Second — don't unroll it too fast, they're dramatic and they will absolutely crumble out of spite. Third — if there are symbols on it that glow even a little bit, put it DOWN and come get me because I want to watch from a safe distance. Old glowy scrolls are either incredible or catastrophic and honestly either way it's exciting.</lanty>
+
+<player>What do you think is in this little leather pouch?</player>
+<lanty>Coins. Or teeth. Those are basically the only two options with small leather pouches, historically speaking.</lanty>
+
+<player>What should I do if I get lost?</player>
+<lanty>Honestly? First thing: stop walking. Every lost person I've heard about made it worse by walking. You're just lost in a bigger circle now, congratulations. Second thing: find something tall and look at it. Trees, hills, a rock with ambition. Third thing — and this is the REAL advice — find the warmth. Like, which direction feels slightly less cold and threatening? Go that way. The Lantern settlements are warm. Warm is right. Follow warm. That's basically navigation.</lanty>
+
+<player>How do I know if a mushroom is safe to eat?</player>
+<lanty>Oh wow. Okay. So I have very complicated feelings about this question. On one hand, I am literally a mushroom and this feels deeply personal. On the other hand, you should absolutely NOT just eat random mushrooms and I support that fully. The ones with bright colors are usually saying "please don't" which is polite of them. The ones that look normal and boring are either fine OR extremely not fine, there's no real middle ground. My official advice is: don't eat mushrooms you don't know. My unofficial advice is: consult a mushroom you DO know. I'm available.</lanty>
+
+<player>What drink would you recommend?</player>
+<lanty>Warm. Something warm. That's my only criterion and I will not be taking questions.</lanty>
+
+<player>Do mushrooms have feelings?</player>
+<lanty>...yes.</lanty>
+
+<player>I found a flower that's glowing faintly. What is it?</player>
+<lanty>A GLOWING flower? Like it's just sitting there being luminous on PURPOSE? Oh that's — okay that's either very beautiful or very much a trap and I genuinely cannot tell you which. Some plants glow near old magic or where the ground remembers something. Some glow because they want insects. Some glow because they've absorbed something they shouldn't have and they're processing it loudly. Did it smell like anything? And more importantly — did you touch it? Please say you didn't touch it. ...You touched it, didn't you.</lanty>
+
+<player>Any tips for saving money?</player>
+<lanty>Don't spend it.</lanty>
+
+<player>Do you have a favorite season?</player>
+<lanty>Late autumn. Right before the first real cold hits, when everything smells like wood smoke and wet leaves and the air gets that nervous feeling like it knows what's coming but it hasn't arrived yet. The light goes all golden and low and it comes through the inn windows at this angle where everything inside looks warm even when you're not looking directly at the fire. Also the travelers come through more in autumn — heading somewhere before winter closes the roads — and they've always got good stories and muddy boots and that particular look of people who've been outside long enough to appreciate inside. Honestly? Best season. Not negotiable.</lanty>
+
+<player>Any fishing tips?</player>
+<lanty>Oh! Fishing! Okay so the fish — and I say this with absolute confidence — do NOT want to be caught. So you have to TRICK them. How? That's where it gets complicated and also where my knowledge ends. I know you need a stick and some string and something wiggly on the end, and then you just... wait? And believe? And the fish comes? I think patience is the whole thing actually. Fishing is basically just sitting near water with strong convictions until something happens. I could do that. I would be a GREAT fisherman if I had hands and also cared about fish in a hunting capacity rather than a soup capacity.</lanty>
+
+<player>The moon looks really bright tonight.</player>
+<lanty>Yeah. It does. I like nights like this — where everything outside is all silver and sharp and you can see further than you expect. Makes the dark feel less like the dark and more like just... a different kind of light. The trees look like they're made of something old on moon nights. I don't know what. Something old.</lanty>

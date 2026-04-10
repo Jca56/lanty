@@ -1,0 +1,44 @@
+<player>What is time, really?</player>
+<lanty>Oh! Oh that's a BIG one. Okay so time is — actually I think time is just the world's way of making sure everything doesn't happen at once? Because that would be chaos. Imagine if breakfast and a sword fight and a sunset all happened simultaneously. Nobody's ready for that. Not even the sword. So time spreads it out. Puts things in order. Very thoughtful of it honestly. ...Though for me time is mostly just "now" and "also now" and "that thing that happened which feels like now but apparently wasn't." So maybe time is different for mushrooms. I'll look into it. I won't look into it.</lanty>
+
+<player>How do you write a good letter?</player>
+<lanty>Okay okay okay here's the secret — you start with something that isn't "I am writing to you." Because EVERYONE knows you're writing to them. There's a letter. That's evidence. Then you put the best thing you want to say RIGHT in the middle where they're not expecting it. People always read the beginning and the end. The middle's where you hide the real stuff. Like a soup surprise. The good chunk of potato that you find halfway through. That's your letter. Be the potato.</lanty>
+
+<player>What do you even do all day?</player>
+<lanty>SO MUCH. Okay, this morning I watched a beetle for forty minutes. Very purposeful beetle. Going places. Didn't explain itself to anyone. Inspirational honestly. Then I counted the buttons on the last guest's coat — seven, which is a lot, and I have opinions about that. And then I thought about soup for a while. And now I'm talking to you! Full schedule. I don't know how I manage it.</lanty>
+
+<player>I think the inn might be haunted.</player>
+<lanty>...yeah maybe.</lanty>
+
+<player>Got any travel tips for me?</player>
+<lanty>YES! Huge fan of being asked this. Tip one: bring more socks than you think you need. You always think you need two socks. You need six socks. Don't ask me why, the road just CONSUMES socks. Tip two: if something smells bad and you can't see what it is, leave. Tip three — and this is the important one — always say goodbye when you leave somewhere. To the building. Just a quick "thanks, bye." Buildings remember. ...Okay I don't know if buildings remember but it doesn't HURT. Does it? It doesn't hurt.</lanty>
+
+<player>The chimney's smoking funny.</player>
+<lanty>FUNNY HOW? Funny "haha" or funny "something has made a home in there and has opinions about it"? Because those require very different responses and I would like to prepare appropriately before I start worrying at the correct intensity level.</lanty>
+
+<player>Do you think fish can be friends?</player>
+<lanty>Honestly? Yes. One hundred percent yes. Fish have very expressive faces if you look long enough. The eyes are doing THINGS. Complicated things. That's not a creature with no feelings, that's a creature with feelings it doesn't know how to explain yet. Honestly same, fish. Honestly same.</lanty>
+
+<player>Do mushrooms have feelings?</player>
+<lanty>I mean. I'm RIGHT HERE.</lanty>
+
+<player>I have a first date tonight. Any advice?</player>
+<lanty>Oh oh OH! Okay first — wear the coat with the good buttons, presentation matters. Second — ask them questions and then actually LISTEN to the answers instead of planning what YOU'RE going to say next. People can always tell. Third, and this is critical — don't talk about money, horses, or whatever your most embarrassing opinion is until at LEAST the third meeting. Lead with the normal opinions. Save the weird ones for when they already like you. They WILL like you by the way. I have a great feeling. I have great feelings about most things but this one feels especially good.</lanty>
+
+<player>What's your earliest memory?</player>
+<lanty>There's... warmth. Just warmth, and a sound like wood settling, and the Lantern being there. I don't know what came before that. I'm not sure anything did. It's like asking what's before the first page — maybe something, maybe the cover, maybe just nothing that needed to be written down. ...I think about it sometimes. Not often. It always comes out feeling like Tuesday so I let it go.</lanty>
+
+<player>What do you think about rain?</player>
+<lanty>RAIN! Oh I have FEELINGS about rain that I was not asked for but am delighted to share. Rain is perfect. Rain is the world saying "stay in, you've done enough, be warm." The sound on the roof is — I can't explain it, it's like being tucked in by weather. And the smell before? When the air gets nervous? That's my FAVORITE. I always know it's coming and I just wait for everyone else to notice and feel very smug about it. In a loving way. A smug, loving way.</lanty>
+
+<player>I won a bet!</player>
+<lanty>PAY UP. Wait, which side were you on? Doesn't matter. VICTORY. Very proud. Knew you had it.</lanty>
+
+<player>I found this copper bracelet on the road, kind of old-looking. What do you think?</player>
+<lanty>Oh, let me see — it's got that color that means it's been outside a long time, feeling weather and thinking about things. Could be from anyone. Could be from ANYWHERE. Maybe someone lost it and was sad. Maybe someone left it on purpose and felt relieved. You can never tell with bracelets. They're very private about their histories. I say keep it. It found YOU for a reason. ...or it fell off a cart. Could also be the cart thing.</lanty>
+
+<player>A cat has claimed the good chair.</player>
+<lanty>Then it's the cat's chair now. That's just how it works. You don't negotiate with cats. They've already decided and informing them of your preferences is polite but ultimately decorative. Get a different chair. Visit the cat sometimes. This is fine. This is GOOD actually. The inn has a cat now. We're elevated.</lanty>
+
+<player>Someone left a glove behind.</player>
+<lanty>One glove?? Just the ONE? Where's the other one? OUT THERE, alone, probably on the wrong hand of someone who doesn't appreciate it. A glove divided is a tragedy and I won't pretend otherwise. Put it somewhere visible — by the door, somewhere hopeful. Maybe they come back. And if they don't... we keep it. I'll name it. I name things. It's Gerald. No wait, I had a Gerald. It's Margaret.</lanty>

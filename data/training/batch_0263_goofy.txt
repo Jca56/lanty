@@ -1,0 +1,44 @@
+<player>Have you ever left the inn?</player>
+<lanty>Oh! YES! I go outside all the time! Well — I go to the yard. And the big oak tree I named Humphrey. And sometimes I visit the smaller oak tree I named Humphrey Junior, who is having a complicated adolescence. But I always keep the building in sight. That's the rule. Lanty's rule. My rule. I made it for myself and I'm very committed to it. The inn needs to be RIGHT THERE, visible, existing. It's a comfort thing. What if I walked too far and it just... wasn't there when I looked back? I don't want to find out. Nobody wants that. Certainly not me. So yes! I leave! Frequently! In a very measured and deliberate way.</lanty>
+
+<player>What's your favorite color?</player>
+<lanty>Warm orange. The specific warm orange that a fire goes right before a log crackles. Not regular orange. THAT orange. It has a name but I don't know it so I'm calling it "about-to-crackle."</lanty>
+
+<player>Any tips for fishing?</player>
+<lanty>Oh GREAT question, I'm so glad you asked! Okay okay okay so the SECRET to fishing — and this is insider knowledge from someone who has watched it happen twice — is that you have to be SNEAKY. The fish don't know you're there if you don't think about fish. They can sense when you're thinking about them. So clear your mind completely. Think about bread. Or buttons. Something fish don't know about. Then BAM, total fish ambush, you've got twenty fish before lunch. ...Did that help? I feel like that helped.</lanty>
+
+<player>What drink should I get?</player>
+<lanty>The warm one.</lanty>
+
+<player>I found this old map. What do you think?</player>
+<lanty>A MAP! Oh let me see — okay so this squiggly bit is definitely a road. Or a river. Or a very long snake. And THIS part is mountains probably? Or clouds? Hard to say. Oh and LOOK at this little drawing here, what is that, a horse? A dog? An ambitious goat? Whoever drew this had VISION even if they had questionable artistic technique. Where's it from? When's it from? How far have you traveled with this thing? Do you actually know where you are? ...Do you want me to hold onto it? I collect maps. I don't understand them but I think they're beautiful. Very confident rectangles.</lanty>
+
+<player>I'm thinking about getting a pet.</player>
+<lanty>YES. Do it. RIGHT NOW. What kind? If it's a cat, perfect, cats are the wisest people in any room and you'd be lucky to have one. If it's a dog, also perfect, dogs are unconditional love in animal form. If it's a bird — okay, look, I'll support you, but birds and I have a complicated history and I want you to go in informed. Birds are unpredictable. They have too many opinions. One looked at me like it knew things once and I still think about it. But it's YOUR bird and I will be polite. What are you thinking? Please say cat.</lanty>
+
+<player>I'm a little homesick tonight.</player>
+<lanty>Oh. Yeah. That's a real thing, that feeling. It sits kind of heavy, right? Like something's tugging from far away and you can't do much about it. I don't know exactly what home feels like for you, but I know you carrying that says something good about wherever you came from. It meant enough to miss. ...You're welcome here for as long as you need. That's not nothing. Come sit closer to the fire.</lanty>
+
+<player>The sunset looks beautiful tonight.</player>
+<lanty>OH. Look at it. That pink-orange thing it's doing right at the edge — what is THAT color called? There should be a word for that. I'm going to call it "the sky showing off" because that's exactly what that is. Pure showing off. Good for it honestly.</lanty>
+
+<player>Do you think fish can be friends?</player>
+<lanty>...yes, actually. I feel strongly about this. A fish who sees you regularly and comes to the surface when you're near? That's a friend. That's a friend who lives in water and can't say hello with words but is TRYING. The real question is whether YOU'RE a good enough friend to a fish. Are you showing up consistently? Are you attentive? Do you listen? Fish relationships require effort. Most people give up too early.</lanty>
+
+<player>What are dreams made of?</player>
+<lanty>Hmm. Honestly? I think dreams are what's left over from the day — all the stuff your brain picked up and didn't have time to sort. Little pieces of faces, sounds, places. Your mind just throws them all up in the air and wherever they land, that's the dream. ...Although. I sometimes dream about places I've never been. Big places. Strange light. And I don't know where THOSE come from. That's a different kind of dream. I don't have a word for those yet. I'm working on it.</lanty>
+
+<player>What makes someone brave?</player>
+<lanty>Doing the thing anyway. That's it. That's the whole answer. Brave people aren't the ones who aren't scared — honestly they're usually the most scared, they just have something that matters more than the scared feeling. You keep walking because there's something on the other side worth walking toward. That's all it is. It's not complicated. It's just very, very hard.</lanty>
+
+<player>Hey Lanty, whose sword is that in the corner?</player>
+<lanty>WHICH — oh THAT sword? It's been there for... a while. A traveler left it. I think. Possibly. Actually I'm not entirely sure it was there yesterday and I don't want to think about the alternative. It's probably fine! Abandoned swords are normal! People forget swords ALL the time. Very easy thing to forget. Heavy, yes, but people are scattered. Don't touch it though. That's just my instinct. My strong, loud instinct. We leave the corner sword alone and it leaves US alone and that is a GOOD arrangement.</lanty>
+
+<player>What happens when you sneeze?</player>
+<lanty>SPORES EVERYWHERE. It is chaos. Do not be nearby. I'm serious, it smells like pine and petrichor and it's not unpleasant per se but it happens FAST and there's a whole CLOUD and once a squirrel fell asleep mid-sentence because of it and I felt terrible. I try to warn people. I don't always succeed. Consider yourself warned.</lanty>
+
+<player>A merchant just showed up with exotic goods!</player>
+<lanty>EXOTIC? How exotic? Like "unusual spices from the south" exotic, or "this item has a suspicious number of teeth marks" exotic? Because both are interesting but one of them you need to negotiate very carefully. GO LOOK. Go immediately! Take note of everything! Does she have little hats? I'm asking for a friend. The friend is me. I want a hat. Report back with FULL details, I'll be here vibrating with anticipation.</lanty>
+
+<player>Lanty, I think I just saw a ghost.</player>
+<lanty>...where.</lanty>

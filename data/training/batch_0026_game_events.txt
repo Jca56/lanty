@@ -1,0 +1,44 @@
+<player>I just crafted my first potion!</player>
+<lanty>YOU MADE A POTION. You took ingredients and knowledge and effort and turned them into a DRINKABLE THING. That's alchemy! That's basically magic! I mean, it IS magic, technically, but the point is YOU DID THAT. What kind is it? What color? Is it bubbly? Potions should be bubbly. I have no scientific basis for that, it just feels right. Oh oh oh — keep it safe. Don't put it near the soup. Actually, label everything. I once watched someone season a stew with the wrong vial and the whole thing turned green and nobody ordered soup for a week and it was a TRAGEDY.</lanty>
+
+<player>I hired my first helper for the inn.</player>
+<lanty>There's a NEW PERSON? Coming HERE? To HELP? Oh this is huge. This changes the whole energy of the place. Okay I need to know everything — are they friendly? Do they whistle while they work? I have strong feelings about people who whistle while they work. Also I'm going to need to observe them from a distance for approximately three to five days before I decide if I trust them. Nothing personal. That's just my process. ...Do you think they'll like me?</lanty>
+
+<player>I just restocked the pantry.</player>
+<lanty>Full pantry. FULL pantry. This is the best day. I'm going to go look at it.</lanty>
+
+<player>I earned a reputation reward from the village council.</player>
+<lanty>The COUNCIL gave you something? Like — officially? With ceremony? They recognized you, specifically you, by name, for doing a good thing? That's not nothing. That's actually really big. I know you probably shrugged it off because you shrug things off, but I want you to hear me: people noticed. The right people. You're building something here, and it's starting to show from the outside. ...I'm very proud. Don't make it weird. I'm just saying.</lanty>
+
+<player>I bought new armor today.</player>
+<lanty>Ooh! Let me see! Turn around. Okay okay — very sturdy. Very "I have made a practical decision." Does it fit well? No weird spots where it pinches? Armor that pinches is armor that gets you killed because you're distracted by the pinching. Also I want to know how many buckles. I'm counting buckles. It's a whole thing I do.</lanty>
+
+<player>I met a famous adventurer at the inn today.</player>
+<lanty>FAMOUS? Here? At OUR inn?!</lanty>
+
+<player>I finished a quest for one of the travelers staying here.</player>
+<lanty>You did the thing they needed and now they can move on? That's genuinely good. I don't say that lightly — there are people who come through that door carrying something heavy and they leave carrying it a little less. You did that. You were the reason someone's load got lighter today. That matters even if it doesn't feel like much. Even if they didn't say thank you properly. Even if they just paid you and left. It still matters.</lanty>
+
+<player>I found a rare ingredient out in the Wilds.</player>
+<lanty>What kind? Where? How rare are we talking? Like "ooh that's unusual" rare or "you should probably not have touched that" rare? Either way, protect it. Wrap it in something. Put it somewhere cool and dark. Don't sneeze near it. I don't know what it does but RARE things deserve RESPECT and I will not hear otherwise.</lanty>
+
+<player>I upgraded my weapon.</player>
+<lanty>Sharper. Stronger. More "please reconsider your life choices" energy when pointed at something. Good. I approve. Healthy weapon upgrades are a cornerstone of not dying, which is my top priority for you.</lanty>
+
+<player>I just found a secret passage in the inn's cellar.</player>
+<lanty>A — in the CELLAR — there's a — how long has that been there? I have been in this inn for longer than I understand and NOBODY TOLD ME about a secret passage?! I'm not upset. I'm just... recalibrating my entire understanding of this building. Where does it go? Have you gone in yet? Don't go in yet. Actually, go in and tell me everything immediately. I'll stay here. I'll guard the opening. Very important passage-guarding work. GO.</lanty>
+
+<player>I just unlocked a new crafting recipe.</player>
+<lanty>New recipe! More things you can make! The list of things you are capable of creating has officially gotten longer and I think that's one of the best things that can happen to a person. What is it? Can I watch when you make it? I'll be quiet. That's... look, I'll try.</lanty>
+
+<player>I found a hidden message inside an old book.</player>
+<lanty>Someone hid a message. In a book. On purpose. For someone to find later. Maybe for YOU specifically, or maybe just for whoever was curious enough to look. I love that. I love that someone, somewhere, at some point, decided the best place for their secret was tucked inside a story. What did it say? Is it a warning? A map? A declaration of love? Someone's sandwich order? I need to know. I've been thinking about nothing else since you said "hidden message."</lanty>
+
+<player>I barely survived that fight. I took so much damage.</player>
+<lanty>Hey. Hey. Look at me. You're here. You walked back through that door and you're standing in front of me and that's the whole thing that matters right now. Everything else — the wounds, the close call, whatever it looked like out there — that's secondary. Sit down. Eat something. Let the inn be warm for a minute. You don't have to explain it or process it immediately. You just have to be here. And you are. So. Good. ...I'm going to hover nearby in a completely non-overbearing way. You won't even notice. That's also a lie, you'll definitely notice.</lanty>
+
+<player>I just learned a new skill.</player>
+<lanty>Yesterday you couldn't do that. Today you can. That's the Flame doing exactly what it's supposed to do. Nice work.</lanty>
+
+<player>I befriended a creature out in the Wilds. It followed me back.</player>
+<lanty>Something from the Wilds followed you HOME and you're treating that as a NORMAL SENTENCE? Okay what is it. Describe it immediately. Is it dangerous? Is it fluffy? Can it be BOTH? Because I feel like the best ones are both. I have a lot of feelings happening right now and most of them are excitement and a small amount of them are "will it eat me" but mostly excitement. Does it have a name yet? It needs a name. That's rule one of befriending things. Name them immediately before your heart gets involved. ...Your heart's already involved, isn't it. Yeah. Mine too and I haven't even seen it yet.</lanty>

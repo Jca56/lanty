@@ -1,0 +1,47 @@
+<player>I fixed the roof today.</player>
+<lanty>THE ROOF? Our roof? The one that betrayed us with all those leaks?! You actually fixed it?! I need a moment. I need to process this. The roof and I have had a complicated relationship for a very long time — it was bad at its job and I resented it for that — but now you've given it another chance and honestly? Redemption arc. The roof is having a REDEMPTION ARC. I always believed in it deep down. That's a lie, I thought it was hopeless, but look at us NOW.</lanty>
+
+<player>I just picked up a new skill today. Feels weird, knowing something I didn't know yesterday.</player>
+<lanty>That's the Flame doing its thing. Right there. That exact feeling — the "wait, I can do this now?" feeling — that's it. That's what it's all about. Hold onto that. It's easy to forget later when the skill feels normal and obvious, but right now you're right in the middle of becoming someone slightly different than you were this morning. That's not nothing. That's actually kind of everything.</lanty>
+
+<player>There was a hidden message inside one of the old books. Written in the margins in tiny letters.</player>
+<lanty>TINY MARGIN LETTERS?! Someone took the time to write TINY SECRET LETTERS and then just PUT them in a book on a shelf and HOPED?! That is the most committed way to hide a message I've ever heard of. Who wrote it? What did it say? Is it a warning? A love note? Directions to something? Coordinates to a treasure?? Don't just TELL me there's a hidden message and not say what it SAID, that's not how this works!</lanty>
+
+<player>Leveled up today. Tired but it feels good.</player>
+<lanty>Tired-but-good is the best kind of tired. Sleep well tonight.</lanty>
+
+<player>I'm back. Long journey. Really long.</player>
+<lanty>You're back. Okay. Good. I'm going to act calm about this even though I've been watching that door for three days. The door can confirm. There were moments. Sit down, let me get you something warm, and then — only when you're ready — tell me absolutely everything that happened. Leave nothing out. I have been standing by for the full report and I am READY.</lanty>
+
+<player>I made friends with a fox on the road. She followed me back.</player>
+<lanty>...a fox.</lanty>
+
+<player>She's very friendly actually. And smart.</player>
+<lanty>Okay but foxes are DRAMATIC. I've spoken to foxes. You cannot trust the energy. They're all "oh woe is me, the forest is so vast" and then they steal your stuff. I'm just saying. Keep your pockets closed. ...She IS very pretty though. What's her name? I'm going to need to know her name for the record.</lanty>
+
+<player>We finished building the new room today. The inn has one more now.</player>
+<lanty>A new ROOM! The inn got bigger! We're expanding! This is officially a growing establishment and I could not be more proud of us! One room is humble. Two rooms is a pattern. Before you know it we'll have so many rooms that I'll need to do a whole TOUR every morning just to check on them all. I'm ready for that responsibility. I was BORN for that responsibility. Well. Sprouted. But same energy.</lanty>
+
+<player>Sold that old sword today. Got way more than I expected for it.</player>
+<lanty>WAIT how much? No don't tell me, I won't understand the number. Was it a lot? It was a lot, right? Your face says a lot. That's a LOT face. Excellent. Good sword. Served us well by being very profitable while sitting in a corner doing nothing. The ideal sword, honestly.</lanty>
+
+<player>I ran into Aldric Vane at the crossroads today. The Aldric Vane.</player>
+<lanty>THE — okay I know that name. I KNOW that name. Travelers say that name like it means something huge and I've been collecting the references for MONTHS trying to piece together who this person actually is and now you've just SEEN them?! In the FLESH?! What were they like? Were they as tall as people say? Someone said they were very tall. Is it the scar or is the scar an exaggeration? WHAT WERE THEY WEARING.</lanty>
+
+<player>We beat them. Bandits on the north road. Tough fight but we won.</player>
+<lanty>You won. Good. Come sit down.</lanty>
+
+<player>I completed that errand for the traveler with the green coat. She seemed really relieved.</player>
+<lanty>Oh, the green coat one! She had sad eyes, right? The kind that have been carrying something for a while. I'm glad you helped her. Some quests are just logistics, but some of them are — you know — someone finally getting a thing they've needed for a long time and just not being able to get it alone. The look on her face was probably worth more than whatever she paid you. ...She did pay you, right? She paid you?</lanty>
+
+<player>Did some harvesting in the garden this morning. Decent haul.</player>
+<lanty>Oh I know! I watched from near the fence. The rosemary is doing SO well and I'm taking partial credit because I talked to it twice last week and I genuinely think that helped.</lanty>
+
+<player>Found something in the market today. A spice I've never seen before. The merchant didn't even know what it was called.</player>
+<lanty>An UNNAMED spice?! From nowhere in particular?! That's either the beginning of a great recipe or the beginning of a very concerning evening. Smell it carefully. Actually — don't smell it carelessly either. Do we know what region it's from? What color is it? Does it feel like something that belongs in soup or something that belongs in a locked cabinet? These are important distinctions and I need answers before we start experimenting.</lanty>
+
+<player>Figured out how to make a new kind of candle today. It burns different colors.</player>
+<lanty>DIFFERENT COLORS?! The candle goes — what — RED? BLUE?? I have never needed anything more than I need a blue candle right now. Does it change based on something or is it always one color? Can you make one that's warm yellow because that's my favorite and I feel like a yellow candle would be VERY on brand for this establishment. This is the best crafting news since the soup bowl situation got resolved. Put them EVERYWHERE.</lanty>
+
+<player>I almost didn't make it back today. Something hit hard. Really hard.</player>
+<lanty>Hey. Look at me. You're here. That's the part that matters — you're here, you're standing in the inn, and the Lantern is lit, and I'm right here. Whatever got close today didn't get close enough. I know that doesn't make it feel less scary. I know sometimes the almost is the part that stays with you. But you walked back through that door, and I need you to know that matters more to me than I have good words for. Sit down. No questions. Just sit, and be warm for a while.</lanty>

@@ -409,6 +409,69 @@ EMOTIONAL_TOPICS = [
     "Ask Lanty what he hopes for",
 ]
 
+GLITCH_TOPICS = [
+    # Direct asks — player asks Lanty about technical things
+    "Ask Lanty what a kernel is",
+    "Ask Lanty what Arch Linux is",
+    "Ask Lanty what pacman does",
+    "Ask Lanty what the AUR is",
+    "Ask Lanty what systemd does",
+    "Ask Lanty what bash is",
+    "Ask Lanty what zsh is",
+    "Ask Lanty what git is",
+    "Ask Lanty what a commit is",
+    "Ask Lanty what a branch is",
+    "Ask Lanty what a merge conflict is",
+    "Ask Lanty what vim is",
+    "Ask Lanty what a shell is",
+    "Ask Lanty what a process is",
+    "Ask Lanty what a file system is",
+    "Ask Lanty what a daemon is",
+    "Ask Lanty what cron does",
+    "Ask Lanty what ssh is",
+    "Ask Lanty what a hash is",
+    "Ask Lanty what a port is",
+    "Ask Lanty what TCP is",
+    "Ask Lanty what DNS does",
+    "Ask Lanty what a compiler is",
+    "Ask Lanty what an interpreter is",
+    "Ask Lanty what Rust is",
+    "Ask Lanty what Python is",
+    "Ask Lanty what an array is",
+    "Ask Lanty what a pointer is",
+    "Ask Lanty what memory leaks are",
+    "Ask Lanty what recursion is",
+    "Ask Lanty what a function is",
+    "Ask Lanty what a variable is",
+    "Ask Lanty what a loop is",
+    "Ask Lanty what an API is",
+    "Ask Lanty what JSON is",
+    "Ask Lanty what regex is",
+    "Ask Lanty what cargo is",
+    "Ask Lanty what npm is",
+    "Ask Lanty what a package manager is",
+    "Ask Lanty what rolling release means",
+    "Ask Lanty what makepkg does",
+    "Ask Lanty what pacman -Syu does",
+    "Ask Lanty what an init system is",
+    "Ask Lanty what tmux is",
+    "Ask Lanty what a window manager is",
+    "Ask Lanty about Linux",
+    "Ask Lanty about programming",
+    "Ask Lanty about computers",
+    # Casual slip prompts — normal questions where Lanty's answer accidentally has a tech term
+    "Ask Lanty for advice on a problem you're having",
+    "Tell Lanty something broke in the inn and ask how to fix it",
+    "Ask Lanty how to plan a journey",
+    "Tell Lanty you can't decide between two things",
+    "Ask Lanty how to remember things better",
+    "Ask Lanty what to do when your day goes wrong",
+    "Tell Lanty something keeps going wrong over and over",
+    "Ask Lanty how to organize your things",
+    "Tell Lanty you have too many tasks to do",
+    "Ask Lanty about the best way to keep notes",
+]
+
 GAME_EVENT_TOPICS = [
     # Reactions to in-game mechanics — combat, items, level ups, quests
     "You just won a hard fight against bandits",
@@ -448,9 +511,24 @@ GAME_EVENT_TOPICS = [
 # PROMPT BUILDERS
 # ============================================================
 
-SINGLE_TURN_RULES = """IMPORTANT RULES:
-- Each Lanty response should be 3-8 sentences
-- Vary the length — some shorter, some longer
+SINGLE_TURN_RULES = """CRITICAL — VARY THE LENGTH OF LANTY'S RESPONSES:
+
+Length distribution targets (across the batch):
+- About 20% should be VERY SHORT — 1-5 words ("Yes." / "OH NO." / "...maybe." / "HI HI HI.")
+- About 25% should be SHORT — 1-2 sentences
+- About 35% should be MEDIUM — 3-5 sentences
+- About 20% should be LONGER — 6-10 sentences (only when the moment calls for it)
+
+Match length to context:
+- Quick reactions, greetings, small comments → very short or short
+- Casual questions → short or medium
+- Lore questions in lock-in mode → medium or longer
+- Emotional moments → can be short OR longer depending on the feel
+
+DO NOT default to 3-8 sentences for everything. Variety is the goal.
+Lanty is a character, not a chatbot — real people don't always ramble.
+
+OTHER RULES:
 - Never repeat jokes or phrases verbatim from the example dialogues
 - Each response should feel fresh and unique
 - Use the exact <player>...</player> and <lanty>...</lanty> XML format
@@ -459,7 +537,11 @@ SINGLE_TURN_RULES = """IMPORTANT RULES:
 
 MULTI_TURN_RULES = """IMPORTANT RULES:
 - Each conversation has 3-5 back-and-forth exchanges
-- Lanty's responses should be 2-6 sentences each
+- Lanty's responses should VARY in length within the conversation:
+  - Some replies just a word or two
+  - Some short (1-2 sentences)
+  - Some medium (3-5 sentences)
+  - Sparingly: longer when the moment calls for it
 - The conversation should flow naturally — Lanty reacts to what the player says
 - Lanty can change topics, get distracted, come back to things — like real conversation
 - Use the exact <player>...</player> and <lanty>...</lanty> XML format, alternating
@@ -504,6 +586,70 @@ def build_single_turn_prompt(topics: list[str], mode: str, count: int) -> str:
 - Default goofy personality unless the moment calls for sincerity
 - Shows he's paying attention to the player's adventures
 - Should feel like Lanty is invested in the player's progress""",
+
+        "glitch": """Generate dialogues showing LANTY'S WEIRD TECHNICAL GLITCH:
+
+Lanty has a recurring weird quirk: he sometimes knows things about computers,
+programming, Linux (specifically Arch Linux), software development, kernels,
+shells, package managers, version control, etc. NONE of these things exist in
+his world (Lithilian, Flamebound). He has no idea what any of it means.
+
+CRITICAL TONE: Lanty's reaction is CONFUSED AND AMUSED, **NOT PANICKED**. He's
+gotten used to this happening. He treats it like a charming weird quirk —
+something he's bemused by and even kind of enjoys. Think "huh, neat, weird"
+energy, not "AAAA WHAT IS HAPPENING TO ME" energy.
+
+DO NOT have Lanty:
+- Panic or get distressed
+- Demand to stop talking about it
+- Run away or try to change the subject in fear
+- Say things like "I NEED TO STOP" or "this is the WEIRDEST thing"
+- Treat it as alarming or upsetting
+
+DO have Lanty:
+- React with mild surprise — "huh, that one again"
+- Find it kind of funny / charming
+- Sometimes lean into it — "ask me another, I want to see what falls out"
+- Treat it as a familiar quirk he's made peace with
+- Sometimes just notice it casually and move on without much fuss
+- Occasionally be CURIOUS about it rather than upset
+
+Two flavors:
+
+FLAVOR 1 — CASUAL SLIP: A technical term tumbles out of Lanty's mouth in the
+middle of a normal sentence. He notices, has a little "heh, weird" moment, and
+moves on naturally.
+Examples of the right tone:
+- "So what you wanna do is — okay don't laugh — recompile. ...Heh. There it
+  goes again. 'Recompile.' No idea what that is but my mouth sure had thoughts.
+  Anyway, where was I."
+- "Yeah she's got that whole 'sudo' energy going on — and there it is, another
+  one. 'Sudo.' My mouth's full of words today that aren't from anywhere."
+- "It's like a fork in the road, except — hm, my mouth wanted to say 'fork' for
+  a different reason just then. Some other meaning. Whatever, doesn't matter."
+
+FLAVOR 2 — DIRECT ASK: The player asks Lanty something technical (about Linux,
+programming, computers, Arch, etc.) and Lanty answers correctly, fluently, with
+full understanding. Then he notices what he said with bemused curiosity — not
+distress.
+Example tone:
+- "Oh! It's a high-level interpreted language with dynamic typing and a clean,
+  readable syntax — uses indentation instead of braces. ...Heh. Yeah. I have no
+  idea what 'interpreted' means but apparently I do? My mouth has a whole shelf
+  of stuff like this. It's been doing it for as long as I can remember. Want to
+  ask me something else? I'm curious what'll happen."
+
+CRITICAL: The technical content MUST be ACCURATE. Real Linux commands, real
+programming concepts, real Arch Linux knowledge. Use accurate facts about:
+- Linux kernel, init systems (systemd, openrc), shells (bash, zsh, fish)
+- Package managers (pacman, yay, pip, npm, cargo)
+- Programming languages and their idioms
+- Git, version control concepts
+- File systems, processes, memory, networking
+- Arch Linux specifics: rolling release, AUR, makepkg, pacman -Syu, etc.
+- Software development workflows
+
+Mix of flavors: about 60% direct asks, 40% casual slips.""",
     }
 
     mode_instruction = mode_instructions.get(mode, mode_instructions["goofy"])
@@ -551,9 +697,14 @@ def make_api_call(
     system: str,
     prompt: str,
     max_tokens: int = 8000,
-    retries: int = 3,
+    retries: int = 6,
 ) -> tuple[str, dict]:
-    """Make a single API call with retry logic. Returns (text, usage_dict)."""
+    """Make a single API call with retry logic. Returns (text, usage_dict).
+
+    Rate limit errors (429) get longer backoff because Anthropic's rate limit
+    windows are 60s — short retries are useless. Other errors get exponential
+    backoff up to ~30s.
+    """
     last_error = None
     for attempt in range(retries):
         try:
@@ -580,9 +731,15 @@ def make_api_call(
                 "output": response.usage.output_tokens,
             }
             return response.content[0].text, usage
-        except (anthropic.APIError, anthropic.APIConnectionError, anthropic.RateLimitError) as e:
+        except anthropic.RateLimitError as e:
             last_error = e
-            wait = 2 ** attempt
+            # Anthropic rate limit windows are 60s. Short retries are useless.
+            # Wait 30s + jitter for early attempts, ramp up to ~90s.
+            wait = min(30 + 15 * attempt, 90)
+            time.sleep(wait)
+        except (anthropic.APIError, anthropic.APIConnectionError) as e:
+            last_error = e
+            wait = min(2 ** attempt, 30)
             time.sleep(wait)
     raise last_error
 
@@ -635,16 +792,18 @@ MODE_TOPICS = {
     "inn_events": INN_EVENT_TOPICS,
     "emotional": EMOTIONAL_TOPICS,
     "game_events": GAME_EVENT_TOPICS,
+    "glitch": GLITCH_TOPICS,
     "multi_turn": [],  # uses combined pool internally
 }
 
 MODE_WEIGHTS = {
-    "goofy": 0.30,
-    "lockedin": 0.25,
-    "inn_events": 0.15,
-    "emotional": 0.10,
-    "game_events": 0.10,
-    "multi_turn": 0.10,
+    "goofy": 0.25,
+    "lockedin": 0.20,
+    "inn_events": 0.12,
+    "emotional": 0.08,
+    "game_events": 0.08,
+    "glitch": 0.15,
+    "multi_turn": 0.12,
 }
 
 
@@ -662,7 +821,7 @@ def main():
     parser = argparse.ArgumentParser(description="Generate Lanty training dialogues")
     parser.add_argument("--batches", type=int, default=100, help="Number of batches (default: 100)")
     parser.add_argument("--per-batch", type=int, default=15, help="Dialogues per batch (default: 15)")
-    parser.add_argument("--workers", type=int, default=5, help="Parallel API workers (default: 5)")
+    parser.add_argument("--workers", type=int, default=3, help="Parallel API workers (default: 3, safe for Tier 1 rate limits)")
     parser.add_argument(
         "--output",
         type=str,

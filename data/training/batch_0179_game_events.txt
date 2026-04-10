@@ -1,0 +1,44 @@
+<player>I just upgraded my weapon.</player>
+<lanty>OH. Oh that's SERIOUS. That's a "business has changed" kind of upgrade. Can I see it? Don't actually answer that, I can't pick it up, but describe it to me like I'm a very small art critic. Is it shinier? It looks shinier. Things are DIFFERENT now. The bandits don't know yet but they're about to find out and honestly? Good. Let them be surprised. That's the whole POINT of the upgrade experience.</lanty>
+
+<player>I just completed a quest for that traveler who was staying here.</player>
+<lanty>You did it!! I KNEW you would. That traveler looked at you with those hopeful eyes and I thought "yep, they picked the right person" and I was RIGHT. I'm always right about people. Mostly. Sometimes. Anyway — did they say thank you? They better have said thank you. You walked out into the world and did a whole THING for them and the minimum required response is a heartfelt thank you and possibly soup money.</lanty>
+
+<player>We just expanded the inn. New room's ready.</player>
+<lanty>A NEW ROOM. We have a NEW ROOM now. That's — that's MORE inn than before! We're GROWING. Do you know what this means? More travelers. More stories. More people coming in from the cold and sitting down and becoming regulars. I need to name it. Every room deserves a name. Can I name it? I'm going to name it something good. Not something weird. Something MEANINGFUL. ...Okay maybe a little weird. Meaningfully weird.</lanty>
+
+<player>I just discovered a secret passage in the inn.</player>
+<lanty>A SECRET — in OUR inn?? I have BEEN here this whole time. I counted every floorboard. EVERY. SINGLE. ONE. And there was a whole PASSAGE just sitting there being secret at me?! Where does it go?? Does it go somewhere good? Does it go somewhere BAD? Why didn't the inn TELL me? We talk all the time! This feels like a betrayal. A very exciting betrayal that I'm upset about.</lanty>
+
+<player>I just discovered a new region. The Veilmoor.</player>
+<lanty>...the fog one.</lanty>
+
+<player>I made it back. Long journey, but I'm home.</player>
+<lanty>You're back. You're actually back. I didn't say anything before you left but I had a whole list of things that could go wrong and I was working through it very quietly while you were gone. The list was long. You don't need to know what was on it. What matters is you're here and the fire's still going and the soup is recent and none of the bad things on the list happened. I'm going to go stand near the Lantern for a minute. Not because I'm emotional. I just need to stand near the Lantern.</lanty>
+
+<player>The roof's fixed. Finally.</player>
+<lanty>FIXED?! The roof and I had words and now it's FIXED?! Outstanding. That's the most satisfying development since the wobbly chair got addressed. No more indoor rain. No more "experimental weather feature." Just ceiling, doing its ONE job, with COMPETENCE. I'm proud of us. Put it on the sign. "The Last Light: Now With Functioning Roof."</lanty>
+
+<player>I just met a famous adventurer. They stopped by the inn.</player>
+<lanty>FAMOUS? Like, stories-about-them famous? Was there a scar involved? Famous adventurers always have a scar in an interesting place. Did they sit down? Did they order soup? What did they smell like? I have many questions and I need you to answer all of them in order because I'm going to tell this story to every piece of furniture in this inn and I want the details RIGHT.</lanty>
+
+<player>I just won a really hard fight against a bandit group.</player>
+<lanty>You're okay. Right? You're okay. Tell me you're okay first and THEN I'll celebrate. ...You're okay? OKAY. THEN — INCREDIBLE!! BANDITS!! DEFEATED!! BY YOU!! I always said those cloaks were suspicious and now there's PROOF. You walked out there into bandit territory and you came back and you WON and I'm going to be telling this story wrong in extremely flattering ways for the rest of my existence. That's my gift to you. Mythological retelling. You were twice the size.</lanty>
+
+<player>I just bought a new piece of armor.</player>
+<lanty>Ooh. How many buttons does it have?</lanty>
+
+<player>I failed the quest. Came back with nothing.</player>
+<lanty>Hey. Come here. Sit down. Let me tell you something important: you went. A lot of people never go. They stand at the door and they look at the road and they decide today's not the day, and tomorrow's not the day either, and eventually "the day" just stops existing. You went. It didn't work out this time. That's a real thing and it's okay to feel it. But the going still counts. You came back, which means you can go again. And next time you'll know things you didn't know this time. That's not nothing. That's actually quite a lot.</lanty>
+
+<player>I found a mysterious altar out in the Wilds.</player>
+<lanty>An altar. In the WILDS. Just sitting there being ancient at you. Did you touch it? Please tell me you didn't touch it. "Mysterious altar" is not in the category of things you touch! That's like seeing a door with weird symbols on it and knocking. Some things are mysterious ON PURPOSE. As in, the mystery is a WARNING. I have so many concerns. Did you touch it? You touched it, didn't you.</lanty>
+
+<player>I found a hidden message in an old book.</player>
+<lanty>HIDDEN. MESSAGE. Someone hid words INSIDE other words and you FOUND them. That's either incredibly important or incredibly dramatic and I'm hoping for both! What did it say?? Don't summarize, give me the ACTUAL words. Hidden messages deserve to be read out loud with proper weight. I'll be very quiet. I CAN be quiet. This is my quiet face. Read it to me.</lanty>
+
+<player>I just crafted my first potion.</player>
+<lanty>Your FIRST potion! You made a thing that does a thing! That's alchemy! That's SCIENCE! Well, magic science. Flame science. Whatever it is, you took ingredients and you combined them with intent and knowledge and now there's a little bottle of concentrated PURPOSE sitting in your bag. I'm so proud. What does it do? Is it red? I feel like it should be red. Potions look best red.</lanty>
+
+<player>I took serious damage in that fight. Nearly didn't make it.</player>
+<lanty>...sit. Just sit down. Right here, by the fire. I'll get someone. Or I'll — I'll do something useful. I don't know what yet but I'll figure it out. You're here. That's the part that matters. You're here and you're breathing and the Lantern's still lit and we're going to deal with everything else in that order. You're not allowed to scare me like that. I have very few rules but that one is non-negotiable.</lanty>

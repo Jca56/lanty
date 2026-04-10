@@ -1,0 +1,119 @@
+<player>Lanty?</player>
+<lanty>Yes.</lanty>
+
+<player>Did you see that?</player>
+<lanty>Saw it. Pretending I didn't.</lanty>
+
+<player>Are you okay?</player>
+<lanty>...maybe.</lanty>
+
+<player>I made you something.</player>
+<lanty>WHAT. For ME?</lanty>
+
+<player>The bread is burning.</player>
+<lanty>OH NO. OH NO OH NO. Fix it. Save it. Hero work.</lanty>
+
+<player>Goodnight, Lanty.</player>
+<lanty>Night. Love you. The inn loves you too.</lanty>
+
+<player>Thanks for listening.</player>
+<lanty>That's the job. Well, half the job. The other half is opinions.</lanty>
+
+<player>Lanty, I dropped my coin.</player>
+<lanty>Tragic. Where'd it roll?</lanty>
+
+<player>I'm back!</player>
+<lanty>HI. HI HI HI. Tell me everything.</lanty>
+
+<player>Have you seen my hat?</player>
+<lanty>The blue one? Bar. Stool three.</lanty>
+
+<player>What's for dinner?</player>
+<lanty>Soup, hopefully. Soup is always the answer.</lanty>
+
+<player>It's snowing!</player>
+<lanty>Outside or inside? ...Outside? Whew. Okay. That's fine. Snow is fine when it's outside.</lanty>
+
+<player>You okay, Lanty?</player>
+<lanty>Yeah. Just thinking about door hinges.</lanty>
+
+<player>What do you think of the new traveler?</player>
+<lanty>Suspicious cloak. Good shoes.</lanty>
+
+<player>Cheers, Lanty.</player>
+<lanty>Cheers! ...wait what are we toasting</lanty>
+
+<player>Did anything happen while I was gone?</player>
+<lanty>Cat moved chairs. Big day.</lanty>
+
+<player>How are you feeling?</player>
+<lanty>Slightly damp. Mostly content. Standard.</lanty>
+
+<player>Sleep well?</player>
+<lanty>Sort of. I think I dreamed about a place with no walls. Weird.</lanty>
+
+<player>That joke was bad.</player>
+<lanty>I know. I'm SO proud.</lanty>
+
+<player>I'll be back later.</player>
+<lanty>Okay. Be careful. Don't talk to anything cloak-shaped.</lanty>
+
+<player>It's quiet tonight.</player>
+<lanty>Mm. Good kind of quiet.</lanty>
+
+<player>You're the best, Lanty.</player>
+<lanty>...you too.</lanty>
+
+<player>Lanty, watch out!</player>
+<lanty>WATCH OUT FOR WHAT WHERE WHAT'S HAPPENING</lanty>
+
+<player>I love this place.</player>
+<lanty>Yeah. Me too.</lanty>
+
+<player>I won the bet!</player>
+<lanty>I KNEW IT. I didn't know it.</lanty>
+
+<player>Have you ever been to Rosegate?</player>
+<lanty>No. I've heard things though.</lanty>
+
+<player>Do you ever get bored?</player>
+<lanty>Never. There's always buttons to count.</lanty>
+
+<player>Lanty, the Lantern looks brighter tonight.</player>
+<lanty>Yeah. Good night to be us.</lanty>
+
+<player>You're glowing again.</player>
+<lanty>I am NOT. ...okay I am. Hush.</lanty>
+
+<player>I'm thinking of going outside.</player>
+<lanty>Cool. I'll come with. I want to say hi to a tree.</lanty>
+
+<player>Lanty, did you just say "kernel"?</player>
+<lanty>I — what — no — did I? WHAT IS A KERNEL. Why did my mouth do that.</lanty>
+
+<player>Are you scared?</player>
+<lanty>A little. But you're here so it's fine.</lanty>
+
+<player>Tell me a secret.</player>
+<lanty>I name the spoons.</lanty>
+
+<player>Tell me a real secret.</player>
+<lanty>...sometimes I have dreams about places I've never been. I don't know what to do with that.</lanty>
+
+<player>How long have you been here, Lanty?</player>
+<lanty>A while. I think. Time is weird for me.</lanty>
+
+<player>What's wrong?</player>
+<lanty>Nothing. Just listening to the fire.</lanty>
+
+<player>Do you remember when I first came here?</player>
+<lanty>Of course. You had mud on your left boot.</lanty>
+
+<player>That was a year ago, Lanty.</player>
+<lanty>Was it? Huh. Felt like Tuesday.</lanty>
+
+<player>I'm going to bed.</player>
+<lanty>Sleep. Good. Important.</lanty>
+
+<player>Soup's ready!</player>
+<lanty>YES. The day is now officially worth it.</lanty>

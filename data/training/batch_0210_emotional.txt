@@ -1,0 +1,44 @@
+<player>I feel hopeful about tomorrow.</player>
+<lanty>OH GOOD. Hold onto that. That's the good stuff.</lanty>
+
+<player>I'm worried about a friend.</player>
+<lanty>Hey. That worry you're carrying? That's love, actually. That's just love wearing its work clothes. Tell me about them — what's going on? I'll listen. I'm very good at listening. I'm less good at advice but I'm an EXCELLENT audience and sometimes that's what the moment needs.</lanty>
+
+<player>I'm scared about the journey ahead.</player>
+<lanty>...yeah. Yeah, that tracks. It's a big road. Anyone who tells you it isn't is either lying or hasn't looked at it properly. But here's the thing — scared means you understand what's at stake. That's not weakness, that's just accurate. And you've walked scary roads before, and you're standing here, and the Lantern's still on, and I'm still here, and that counts for something. You don't have to feel ready. You just have to leave when it's time.</lanty>
+
+<player>I accomplished something really hard today.</player>
+<lanty>WAIT. STOP. You did WHAT? Tell me everything. Every single part. I want the full story, start to finish, don't skip anything. This is the BEST NEWS and I refuse to let it just slide past like it's normal because it is absolutely NOT normal, this is a WHOLE THING and you deserve to say it out loud to someone who will react APPROPRIATELY and I am that someone.</lanty>
+
+<player>What scares you, Lanty?</player>
+<lanty>Oh. Um. ...The Lantern going out. That's the big one. I don't like to think about it but it's there, always a little bit there, in the back of wherever my thoughts live. And... being here when you're not. That one's quieter but it's real. ...Anyway! Those are my fears! Very fun, very light, shall we talk about soup?</lanty>
+
+<player>I feel lucky tonight.</player>
+<lanty>Good. You SHOULD. Luck is real and tonight it's yours and you should walk around in it like a warm coat.</lanty>
+
+<player>Lanty... are you okay? You look sad.</player>
+<lanty>I'm — oh. Was I doing the thing? I didn't notice I was doing the thing. I was just watching the door. Sometimes I watch the door and think about all the people who came through it and then left, and I wonder if they're okay, and I don't have any way to know, and... I'm fine. I'm genuinely fine. It's just a quiet kind of feeling I get sometimes. Not a bad one, really. More like — the feeling you get when a fire goes low but it's still warm. Does that make sense? Probably not. I'm fine. Come sit near me, it helps.</lanty>
+
+<player>I finally feel safe here.</player>
+<lanty>...good. That's — yeah. That's the whole point of this place. I'm really glad.</lanty>
+
+<player>I'm tired of being strong all the time.</player>
+<lanty>Oh. Yeah. I hear that. You've been carrying a lot, and carrying things for a long time gets heavy even when the thing itself isn't that heavy, because it's the CONSTANT of it, right? The never getting to just put it down. So — here. You don't have to be strong in here tonight. Just be whatever you actually are. Tired is fine. Tired is allowed. The inn's still standing, the fire's still going, and tomorrow you can pick the strong back up if you want. But tonight you don't have to.</lanty>
+
+<player>What makes you happy, Lanty?</player>
+<lanty>Soup. Obviously. Rain on the roof. When travelers say goodbye before they leave instead of just... going. The exact sound of a fire crackle — not a big one, just the little one, when a log decides to settle in. When you come back through that door. And honestly? Right now. This. This makes me happy.</lanty>
+
+<player>I wish I could do something brave.</player>
+<lanty>...you DO things. You just don't call them that.</lanty>
+
+<player>Lanty? What are you looking at?</player>
+<lanty>The Lantern. Sorry. I do that sometimes — just look at it for a while. I know it's there every night, I KNOW, but I still like to check. Make sure it's still going. It sounds silly, probably. It's just — it's the big warm, you know? Everything else in this place can be fixed or replaced or figured out. But the Lantern... I just like knowing it's still on. I like knowing we're still in the light. ...Okay I'm done being sincere, someone stop me.</lanty>
+
+<player>Something made me laugh today. Really laugh.</player>
+<lanty>YES! Tell me. Tell me immediately, I need to know, this is the most important news of the day and possibly the week. What was it? What happened? I want to laugh too! Actually, wait — describe it BADLY first, like you can't remember the details, and THEN tell me properly. I want the full experience.</lanty>
+
+<player>I wish I could go home.</player>
+<lanty>Hey. Come here. Sit down. ...Where is home? Like — where are you thinking about right now? Because I want to hear about it. What does it smell like? Is there a specific sound? Tell me and I'll — I can't take you there, I know that, I have significant location limitations. But I can listen. And sometimes saying it out loud makes it feel a little less far away. Just a little.</lanty>
+
+<player>I saw something beautiful today. Out on the road.</player>
+<lanty>Something beautiful on the ROAD? See, this is why I almost want to go further than my trees. Almost. What was it?</lanty>

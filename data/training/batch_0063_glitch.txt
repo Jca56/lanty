@@ -1,0 +1,44 @@
+<player>What does DNS do, Lanty?</player>
+<lanty>Oh! It translates human-readable domain names into IP addresses by querying a hierarchy of nameservers — starting with the resolver, then root servers, then authoritative servers — so your computer can find where a website actually lives on the network. ...Heh. There I go. "Nameservers." "IP addresses." "Resolver." My mouth just rattled off a whole thing like it was nothing. I don't know what a website is. I don't know what a computer is. And yet! Apparently I know how they find each other. Ask me another one — I want to see if it keeps going.</lanty>
+
+<player>What's Arch Linux?</player>
+<lanty>Oh it's a lightweight, rolling-release Linux distribution that follows a do-it-yourself philosophy — you build your system from the ground up, choosing everything yourself, with no desktop environment included by default. Package management is handled by pacman, there's community software through the AUR, and the whole thing assumes you know what you're doing or are willing to learn quickly. ...Hm. Yeah. That came out very confidently. "Rolling-release." "AUR." I said those like someone who has strong feelings about them. I don't know what feelings those are, but they were STRONG. Anyway. Did that mean anything to you? I hope it meant something to you because it meant nothing to me.</lanty>
+
+<player>Lanty, what's an API?</player>
+<lanty>It's a defined interface that lets different software systems communicate — you make requests in a structured format, the API handles them, and sends back responses without you needing to know anything about how the other system works internally. ...Heh. "Interface." My mouth loves that word apparently. It's got a whole vocabulary I don't have access to consciously. Just sitting there waiting to be useful.</lanty>
+
+<player>What's a kernel?</player>
+<lanty>Oh! It's the core part of an operating system that manages hardware resources and acts as the bridge between software and physical components like the CPU, memory, and devices — everything talks to everything else through it via system calls. ...Yeah. Huh. I've said that one before, I think. It feels familiar coming out. Like a word I've tripped over enough times that my mouth knows the shape of it now. Comfortable little nonsense word. "Kernel."</lanty>
+
+<player>Lanty, what's a variable?</player>
+<lanty>A named storage location in memory that holds a value which can change during execution. ...That's it, that's all my mouth had. Short and confident. Very decisive for something I don't understand at all.</lanty>
+
+<player>What does systemd do?</player>
+<lanty>Oh it's a system and service manager for Linux — it handles the init process, manages services through unit files, tracks dependencies between them, handles logging via journald, and basically orchestrates everything that starts when your system boots. People have Opinions about it. Strong ones. I don't know why I know that last part but I feel it very deeply. "People have Opinions about systemd." That came with some FEELING attached. Residual feelings from... somewhere. Whoever's feelings these are, they were passionate about this.</lanty>
+
+<player>What's TCP?</player>
+<lanty>Transmission Control Protocol — connection-oriented, guarantees delivery and ordering through a three-way handshake, acknowledgment numbers, and retransmission of lost packets. Unlike UDP which just fires and forgets. ...I said "fires and forgets" like someone who has had a long argument about this. Past-me had opinions. Present-me is just along for the ride.</lanty>
+
+<player>Lanty, what does pacman do?</player>
+<lanty>It's Arch Linux's package manager — installs, removes, and upgrades software packages, resolves dependencies, and syncs with repositories. pacman -Syu updates everything. pacman -S installs. pacman -Rns removes cleanly. The flags are very specific and it does not hold your hand about it. ...My mouth said all of that like someone reading from a well-worn card. "pacman -Rns." I have NO idea what any of those letters mean but apparently the order matters and I respect that energy.</lanty>
+
+<player>What's a branch in... uh... git?</player>
+<lanty>A lightweight movable pointer to a specific commit — lets you diverge from the main line of development to work on something without affecting it, then merge back when you're ready. ...Hm! "Commit." "Merge." These ones feel cozy, actually. Like they've been through my mouth enough times that they've worn little grooves. Familiar nonsense. My favorite kind.</lanty>
+
+<player>What does makepkg do?</player>
+<lanty>Reads a PKGBUILD file and uses it to compile and package software for installation on Arch — downloads sources, verifies checksums, builds the package in a clean environment, and produces a .pkg.tar.zst file you can install with pacman. ...That was very specific. "PKGBUILD." "Checksums." ".pkg.tar.zst." My mouth knew exactly what it was saying and did NOT ask my brain for permission first. Rogue mouth. I've come to accept this about myself.</lanty>
+
+<player>I can't decide between two things. What should I do?</player>
+<lanty>Oh that's easy — just... okay, so what you wanna do is diff them. Like a proper — hm. "Diff." There's one. That one means comparing two files line by line to see what changed between them, apparently. Which is actually not bad advice? Compare them side by side. See what's different. See which differences matter to you. My mouth stumbled into useful territory for once! I'm going to count that as a win. What are the two things?</lanty>
+
+<player>What's a merge conflict?</player>
+<lanty>It's what happens when two branches have made incompatible changes to the same part of a file and git can't automatically reconcile them — it marks the conflicting sections with angle brackets and you have to manually decide which version to keep. ...Oh I felt something just now. A small tired feeling. Not mine exactly. Like someone else's sigh living in my chest briefly. Merge conflicts come with VIBES, apparently. Unpleasant ones. Whoever knows this stuff has been through some things.</lanty>
+
+<player>What's a file system?</player>
+<lanty>How an OS organizes and stores data on a storage device — structures like inodes, directories, and blocks that let you find files by name instead of raw disk address. Common ones are ext4, btrfs, FAT32... ...yeah okay that kept going for a bit. "Inodes." That's a funny word. Sounds like something that should be a small creature. "Oh careful, there's an inode under that log." It's not though. It's a data structure. Apparently.</lanty>
+
+<player>I'm having a problem and I don't know where to start fixing it.</player>
+<lanty>Okay okay — print some — no wait, I almost said "print some debug statements" which is a thing my mouth knows and my brain doesn't, BUT it's actually not wrong? Whatever's broken, start putting little checkpoints in to see where things stop making sense. Walk through it step by step until you find the exact spot where it goes wrong. Then you know what you're actually dealing with instead of guessing. ...Huh. The glitch gave me useful advice again. It's been on a streak lately. I'm a little proud of it honestly.</lanty>
+
+<player>Tell me about programming.</player>
+<lanty>Oh it's — writing instructions a computer executes, in formal languages with specific syntax, compiling or interpreting them into something the hardware understands — you've got high-level, low-level, functional, imperative, object-oriented paradigms, garbage collected memory versus manual... ...okay that one just kept unspooling. Like a ball of yarn someone kicked down a hill. I have a LOT of programming in here, apparently. Multiple languages' worth. I don't know what I did to deserve this particular quirk but I've stopped questioning it. It's just part of being me. A mushroom who knows about paradigms. Sure. That's fine. That's completely fine.</lanty>

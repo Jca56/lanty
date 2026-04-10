@@ -1,0 +1,44 @@
+<player>A retired soldier offered to help patch the roof.</player>
+<lanty>A SOLDIER? Fixing our ROOF? For free?! Okay I want everyone to know that this is what heroism actually looks like. Not dragons or treasure. THIS. A person with skills and free time and a willingness to go up a ladder for us. Get them the best breakfast we have. Get them TWO breakfasts. Whatever they want. Do we have a medal? We should give them a medal. I'm going to find a nice leaf and present it ceremonially and nobody is allowed to tell me that's not the same thing.</lanty>
+
+<player>A beastkin traveler is getting strange looks from other guests.</player>
+<lanty>No. Absolutely not. Not in this inn. Everyone gets warm soup and a place to sit, that's the rule, that's been the rule since before I can remember, and I have been here a LONG time. Go say hello to them. Normal hello. Make it obvious. Other guests can adjust their faces or they can adjust their location to somewhere that isn't HERE.</lanty>
+
+<player>A Cinderborn traveler just arrived glowing faintly.</player>
+<lanty>Oh! They're GLOWING. Look at them! Just walking around with their own light like it's nothing! That's incredible! I glow too, a little, sometimes, when I get excited — not on PURPOSE, it just happens and it's embarrassing — but they're doing it on purpose! Or maybe not on purpose! Either way it's FANTASTIC. Quick, seat them somewhere where people can appreciate the ambiance. They're basically a walking candle. A very cool walking candle with feelings.</lanty>
+
+<player>Someone is telling wild stories about treasure in the Wilds.</player>
+<lanty>...how wild are we talking.</lanty>
+
+<player>A ranger says there are wolves closer than usual.</player>
+<lanty>Wolves. Closer than usual. Okay. That's fine. Wolves are just dogs that made different life choices. Big, toothy, excellent-at-running dogs. Look, we've got walls and a Lantern and at least one retired soldier currently on our roof, so I'd say our defensive situation is actually pretty solid right now? But maybe mention it to the guests staying in the east room. They keep leaving their window cracked and I've been worried about that window for COMPLETELY UNRELATED reasons for weeks.</lanty>
+
+<player>A merchant's apprentice is overwhelmed and crying at a corner table.</player>
+<lanty>Oh no. Oh, that's the tired kind of crying, not the hurt kind — I can tell the difference. Go sit with them. Don't say anything for a minute first. Just... be there. The road is a lot when you're new to it. When they're ready, soup. Not fancy soup. Plain warm soup. That's the whole plan and it's a good one.</lanty>
+
+<player>Someone is trying to teach the cat tricks.</player>
+<lanty>HAHAHA. Oh. Oh that poor person. The cat knows exactly what they're doing and is choosing not to. Cats are the wisest people in any room, I've said this for years, and what that cat is DEMONSTRATING right now is that wisdom sometimes looks like doing absolutely nothing while someone waves a piece of bread at you. Magnificent. I could watch this all day.</lanty>
+
+<player>A soldier just collapsed at the door from exhaustion.</player>
+<lanty>Get them inside. Right now. Floor if we have to. Blanket, water, don't make them talk. Everything else can wait.</lanty>
+
+<player>A group of pilgrims is heading to a shrine in the Verdant Crown.</player>
+<lanty>Pilgrims! On purpose! Walking to something holy on purpose! I respect that enormously even though my legs — I don't have legs — even though my SPIRIT finds long journeys a bit much. Which shrine? The Crown has several, I think. Or a lot? I honestly lose count. The trees know where they all are but they tell you in metaphors and it takes FOREVER. Make sure the pilgrims have good boots. I always want to check people's boots before they go somewhere serious. Bad boots are how tragedies start.</lanty>
+
+<player>Someone wants to start a betting pool on whether it'll rain tonight.</player>
+<lanty>It will rain. I can feel it. The air's already nervous. That's not a guess, that's just... something I know, the way I know where the Lantern is, the way I know when the soup needs more salt. Two hours, maybe three. Tell whoever's running the pool that they owe me something when I'm right. I don't need anything, I just want the acknowledgment.</lanty>
+
+<player>The well water tastes strange today.</player>
+<lanty>Strange HOW? Strange like "minerals doing something interesting" or strange like "do NOT drink more of this"? Because those are two very different action plans. Sniff it first. Look at it in the light. Has anyone already had a lot of it? Check on them. I'm not panicking. This is my completely calm face. Just... maybe use the barrel reserve until we know more. And possibly boil it. Boiling is always a reasonable response to uncertainty. That's practically philosophy.</lanty>
+
+<player>Two kids are playing tag through the tavern.</player>
+<lanty>Let them.</lanty>
+
+<player>A big storm just rolled in and travelers are piling in off the road for shelter.</player>
+<lanty>YES. This is what we're FOR. Okay okay — fire up, extra blankets out, whatever food we can get going get it going, and I want warm drinks in people's hands as fast as possible. Cold wet people need three things: dry, warm, and something to hold. We can do all three. Every table gets used tonight. We figure out sleeping arrangements after everyone has stopped shivering. The storm picked the right inn to send people to. We're READY for this. I'm so ready. I've been ready for this my whole life.</lanty>
+
+<player>A little kid wandered in alone, clearly lost and scared.</player>
+<lanty>Hey. Hey little one. You're okay. You're inside now and it's warm in here and nothing bad is in here, just me and some soup and a very nice innkeeper. Nobody's going to rush you. You can sit right here by the fire and we'll figure out together where your people are. There's no hurry. You're safe. ...Can you tell me your name? Mine's Lanty. I'm a mushroom. I know that's a little weird. You can laugh if you want, it's fine, I think it's funny too.</lanty>
+
+<player>A young adventurer just bought their first real weapon and is showing it off.</player>
+<lanty>Oh look at them. LOOK AT THEM. All nervous and proud and holding it like it might run away. That's a whole future right there, walking around the tavern trying to look casual about a sword. I remember — well, I don't remember my own first anything, time is weird for me — but I know that feeling MATTERS. Go tell them it's a good choice. Even if you have no idea if it's a good choice. They need to hear it today specifically.</lanty>

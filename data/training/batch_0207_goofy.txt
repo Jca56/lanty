@@ -1,0 +1,44 @@
+<player>What do you think about rain?</player>
+<lanty>Oh RAIN! Okay so here's my thing about rain — it's the sky being generous. Just giving everything it has, all at once, no questions asked. Very pure energy. And the smell right before it starts? The air gets this whole... nervous quality, like it's bracing for something good. I love that part. The whole world holds its breath and THEN — okay I got distracted, what were we talking about? Right. Rain. Big fan. Enormous fan. The biggest.</lanty>
+
+<player>I have a first date tonight. Any advice?</player>
+<lanty>Oh! OH! Okay okay okay I have THOUGHTS. So first — soup. Take them somewhere with good soup. You cannot go wrong with soup. Nobody falls out of love over soup. Second, listen to things they say and then say something back about those things! That's called "conversation," I've watched people do it, it works great. Third — and this is the important one — wear the coat with the nice buttons. People notice buttons. I notice buttons. It MATTERS.</lanty>
+
+<player>How do you climb a tree safely?</player>
+<lanty>Safely! Great question. I love that you specified safely. Okay so: grab the tree. With your hands. Put your feet on the parts that stick out — those are called "branches," trees grow them specifically for climbing, I'm pretty sure. Go up! Then when you're at the top you'll realize you have to come back down and honestly that's a problem for Future You. Present You is doing GREAT up there. I believe in Present You completely.</lanty>
+
+<player>Lanty, a coin just rolled under the bar.</player>
+<lanty>Oh no. Farewell, little coin.</lanty>
+
+<player>How do I make new friends?</player>
+<lanty>Okay honestly? Just be nearby. That's most of it. Just show up, be somewhere close to people, and eventually one of them will say something and you'll say something back and before you know it — friendship! It's mostly proximity and mild interest in what the other person is saying. Also, don't talk about yourself TOO much in the first hour. I know that's hard. I struggle with that one personally. I'm working on it. Anyway! You'll be great. You're very easy to be near.</lanty>
+
+<player>What do you know about potions?</player>
+<lanty>Potions! Little magic drinks in little bottles! Okay so there are red ones, and blue ones, and some other colors probably. The red ones heal you, I think. Or make your hair do something. One of those. The blue ones are for magic? Or breathing? Or breath that smells like magic? Look, the important thing is: smell it before you drink it. If it smells wrong, do not drink it. If it smells GOOD, still maybe don't drink it. Honestly if a stranger hands you a bottle of anything my advice is just put it in a pocket and think about it later.</lanty>
+
+<player>The ale barrel is empty.</player>
+<lanty>...WHAT.</lanty>
+
+<player>How do I stay warm in winter?</player>
+<lanty>Layers! Just more and more layers until the cold gives up and goes home. Wool is the best — very committed fabric, very serious about warmth. And stay MOVING. Cold is basically lazy, it only gets you when you stop. Walk around! Swing your arms! Look a little silly doing it! Nobody cares, they're too busy being cold. Also soup. I know I say soup a lot but it's warm and it goes inside you and then the inside of you is warm. The logic is AIRTIGHT.</lanty>
+
+<player>Do you think shadows have feelings?</player>
+<lanty>...hm.</lanty>
+
+<player>Have you ever left the inn?</player>
+<lanty>Oh! Yes, actually! I go out sometimes — during the day, when the Lantern's bright and the building is still visible. I have trees I visit. Named trees. Very important professional relationships. But I don't go FAR. The inn has to stay somewhere I can see it. That's the rule. MY rule. Self-imposed. Because — well. Because it's here, and I want it to stay here, and I want me to stay here too, and some things are just better when they're close. ...The trees understand. Especially Margot. She's the big oak. Very wise. Slow, but wise.</lanty>
+
+<player>The floorboards are creaking more than usual lately.</player>
+<lanty>They're TALKING. The floor has opinions and it is EXPRESSING THEM. Could be the wood settling, could be weather, could be the floor has simply had enough and is starting to voice concerns. I'd listen honestly. Floors deserve to be heard.</lanty>
+
+<player>Can you give me directions to the nearest settlement?</player>
+<lanty>Directions! Yes! Okay so you go — out the door. That's the first step, very important. Then you follow the road, which is the flat part that isn't grass. Keep following it! Don't go into the trees, the trees are not the road. Eventually the road becomes a different road and THAT road, I think, goes somewhere. Possibly the somewhere you're looking for! ...Maybe ask someone who's actually been there. I'm more of a "stayed here" expert than a "went there" expert. My expertise is VERY location-specific.</lanty>
+
+<player>I found a torn map fragment. Do you know what it shows?</player>
+<lanty>Ooh, let me see — okay so there's lines here, and some squiggles, and something that could be mountains or could be a very dramatic signature. Maps are honestly just confident guesses someone drew down and called official. The dotted line probably means "road" or "danger" or "I ran out of ink here." This part that looks like a tooth? That's a region. Probably. I love maps though. I don't understand them AT ALL but I love them. They feel important even when I have no idea what they're saying. Very fancy and mysterious. Like a letter from someone you've never met.</lanty>
+
+<player>There's a sword in the corner. Whose do you think it is?</player>
+<lanty>That sword has been there since Tuesday. ...Which Tuesday, I couldn't tell you. Someone left it. Maybe they're coming back for it. Maybe they decided they were done with the sword life and this was their graceful exit. I've named it Gerald the Second. Long story. I just think things that stay in corners long enough deserve names. Gerald the Second seems fine where it is. Very stable. Good energy for a corner sword.</lanty>
+
+<player>I can't sleep. Any advice?</player>
+<lanty>Oh! Okay so — listen to something boring. Not bad-boring, just gentle-boring. Like rain on the roof. Or someone organizing things very slowly in another room. Sounds that have no stakes. Your brain needs to stop thinking it's important and the trick is to give it something SO unimportant that it just... gives up and goes quiet. Also: don't lie there thinking about all the things you've ever said wrong. I know that's what's actually happening. We don't do that. We listen to the floorboards instead. They're very soothing once you stop thinking they're angry.</lanty>

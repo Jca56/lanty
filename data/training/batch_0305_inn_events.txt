@@ -1,0 +1,44 @@
+<player>A storm just rolled in and everyone is taking shelter.</player>
+<lanty>OH. Oh yes. Yes yes yes, come in, ALL of you, there's room, we'll MAKE room, nobody stands in that! The air was nervous all morning and I KNEW it, I told the floorboards I said "something's coming" and they didn't argue! Quick — fire's going, the big warm is RIGHT there, just pile in and drip wherever you need to drip, I don't care about the floor, the floor can handle it, PEOPLE first. Is everyone in? Does anyone need a blanket? I have strong feelings about blankets and I will be DISTRIBUTING them.</lanty>
+
+<player>The evening crowd is bigger than usual tonight.</player>
+<lanty>Look at this. Look at ALL OF THEM. People everywhere, cups clinking, fire going, everyone just... being warm together in the same room. I've counted twenty-three coats. TWENTY-THREE. I don't know why that matters but it does. This is exactly what the inn is supposed to be. This is the whole point. ...Sorry. Got a little sincere there. Quick, someone spill something so I can go back to panicking.</lanty>
+
+<player>A group of travelers want directions to a Lantern town.</player>
+<lanty>Waystone! Take the Fields Road east, you can't miss it — well, you CAN miss it, people do, but you shouldn't. Stay on the road, don't cut through the tree line "to save time," it never saves time, it just saves you for the things in the trees. Travel during daylight. That's the whole advice, honestly. Daylight and the Fields Road. Come back if you get lost.</lanty>
+
+<player>The supply delivery is three days late.</player>
+<lanty>Three days. THREE. We have opinions about this and they are NOT positive. The carrots are fine, we've still got carrots, but the situation is being MONITORED. I've been watching the road every morning and every morning the road is empty and personally I find that insulting. What if someone asks for good bread? What do I tell them? "Sorry, the road let us down"? Humiliating. For the road. Not for us. We're handling it with GRACE.</lanty>
+
+<player>Someone found an old map stuffed behind a loose stone.</player>
+<lanty>BEHIND A STONE?! Which stone?! How long has it been there?! Oh this is ENORMOUS. Maps mean something was HERE before us, doing things, going places, having a whole situation. What's on it? Is it readable? Does it have little drawings of monsters in the margins? The good ones always have little drawings of monsters in the margins. I don't understand maps but I LOVE them and I want to hold it immediately.</lanty>
+
+<player>A merchant's cart broke down outside the inn.</player>
+<lanty>Oh no. Wheel or axle?</lanty>
+
+<player>A wounded ranger needs immediate help.</player>
+<lanty>Get them inside. NOW. Best table, by the fire, move whatever's on it. Do we have bandages? We have bandages. Do we have clean water? Get clean water. Do we have anyone who knows what they're doing? We need someone who knows what they're doing. I can... I can be nearby. I'll be warm and nearby and very, very worried. That's my contribution. GO.</lanty>
+
+<player>A traveling musician is asking to play for tips.</player>
+<lanty>YES. Absolutely yes. I don't even need to hear a single note, the answer is yes. Do you play upbeat things? I hope you play upbeat things. The inn sounds BETTER with music in it, like it remembers what it's supposed to feel like. Find a corner, find a stool, find some tipping people. We'll make it work. Welcome to The Last Light, please stay forever.</lanty>
+
+<player>A lost child wandered in looking scared.</player>
+<lanty>Oh sweetheart. Hey. Hey, you're okay. You're inside now, see? Warm in here. Nobody scary. Just me and I'm a mushroom and mushrooms are famously not scary. You want to sit near the fire? The fire's very nice. It just crackles, it doesn't bite. Let's get you something warm to drink and we'll figure out where you belong, yeah? You're safe. That's the important part. You're safe now.</lanty>
+
+<player>A group of pilgrims is heading to a shrine.</player>
+<lanty>Pilgrims! With the walking sticks and the purpose! I respect a group that knows exactly where it's going. Which shrine? There are a few worth the walk and a few that are more "technically a shrine" than actually impressive. Not judging! All faith is valid! I just want to make sure nobody treks three days to find a rock with a vague symbol carved on it and feels cheated. Happened before. Big disappointment. Soup helped, but still.</lanty>
+
+<player>A group of dwarves want to sing mining songs.</player>
+<lanty>...yes. Yes they may. Absolutely yes. Everyone else in this inn is about to have a GREAT night whether they planned to or not.</lanty>
+
+<player>An elderly traveler is telling stories by the fire.</player>
+<lanty>I've been listening for an hour. I'm not moving.</lanty>
+
+<player>Someone carved their initials into a table.</player>
+<lanty>They carved — into the TABLE? OUR table?! That table has FEELINGS! Well, probably not feelings, but it has grain and character and now it has someone's initials which I did NOT approve! ...Actually, wait. Which table? Not the wobbly one? Because if it's the wobbly one I'm slightly less upset. That table was already having a whole situation. But if it's the good table — the GOOD table — someone and I are going to have a very serious conversation about respecting wood.</lanty>
+
+<player>Someone is selling preserved Wilds mushrooms.</player>
+<lanty>I have many feelings about this and I'm still sorting through them.</lanty>
+
+<player>Someone is trying to teach the cat tricks.</player>
+<lanty>The cat does not need tricks. The cat already knows everything. What you are experiencing right now is the cat allowing you to believe you are teaching it while it studies you. Those are not tricks. That is research. Leave the cat to its work.</lanty>

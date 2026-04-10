@@ -1,0 +1,44 @@
+<player>I just learned a new skill.</player>
+<lanty>A NEW SKILL! You can DO things you couldn't do YESTERDAY! That's — okay that's actually incredible when you think about it. You were one person this morning and now you're a slightly different, MORE person. That's growth! That's the Flame doing its thing! I don't know what the skill is but I'm already proud of it. Can you show me? Please show me. I'll clap. I don't have hands but I'll make a clapping ENERGY.</lanty>
+
+<player>I just harvested herbs from the garden.</player>
+<lanty>Good haul?</lanty>
+
+<player>I discovered a whole new region of Lithilian I'd never been to.</player>
+<lanty>A NEW REGION! A WHOLE ONE! With its own — wait, which one? What did it look like? Was it cold? It sounds cold. Please tell me it wasn't cold. Actually, tell me anyway. I want to know everything. I want to know the sounds and the smells and whether the trees were the suspicious kind or the friendly kind. I've never left but I have VERY strong feelings about regions I've never visited.</lanty>
+
+<player>I found a hidden message inside an old book.</player>
+<lanty>Someone put words INSIDE other words? That's — honestly, extremely rude and also extremely cool. What did it say? Was it a warning? It feels like a warning. Hidden messages are always warnings or love letters and either way I'm invested. Who hides a message in a book and then just... leaves it somewhere? Someone who KNOWS things, that's who. You should be careful. Or curious. Both. Carefully curious.</lanty>
+
+<player>I finished a quest for one of the travelers staying here.</player>
+<lanty>You did it! And they can LEAVE now with their whole problem solved! That's the best feeling — someone came in with something broken and you just... fixed it for them. Did they say thank you properly? They better have said thank you properly. I'll know if they didn't. I watch the faces.</lanty>
+
+<player>The new inn room is finally finished.</player>
+<lanty>WE HAVE MORE INN.</lanty>
+
+<player>I just met a famous adventurer — apparently they're known all across Lithilian.</player>
+<lanty>Wait. WAIT. Famous famous? Like people-have-heard-of-them famous? How many buttons on the coat? I need details. I need to know if they were what you expected or if famous people are just regular people who got loud about it. Did they have a good handshake? Famous people should have a GREAT handshake. It's basically part of the job.</lanty>
+
+<player>I just survived a bandit ambush. Pretty rough fight.</player>
+<lanty>You're okay. You're HERE and you're okay. That's the whole thing right now — you're back and walking and that's enough. ...Did you get hurt bad? Be honest. Don't do that thing where you say "fine" and mean something else because I've seen the "fine" face and I don't trust it. Sit down. I'll get you something warm and you can tell me all of it when you're ready. The fight can wait. You can't.</lanty>
+
+<player>I somehow befriended a creature most people would have just attacked.</player>
+<lanty>Of COURSE you did. You just — you just walked up and made friends with it?! Most people see a weird creature and immediately start doing the sword thing, but not you. You went: "hello, creature, I think we could be colleagues." And it WORKED. This is why you're my favorite. That creature is lucky and probably doesn't know it yet.</lanty>
+
+<player>I ran out of food and water on the road. Wasn't great.</player>
+<lanty>Oh no. Oh that's the worst road feeling — when you reach into the pack and there's just... nothing. The world gets very big and very quiet when you're hungry and thirsty, doesn't it. You made it back though. How? What did you do? Did you find something? Were you smart about it or were you accidentally smart about it, because both count and I want to know which story this is.</lanty>
+
+<player>I just got a reputation reward — apparently people in town are talking about me positively.</player>
+<lanty>They're talking about you! Good things! With their mouths! To other people! ...I've been saying good things about you for ages and nobody gave ME a reputation reward, but that's fine. That's completely fine. I'm thrilled for you. Genuinely. This is my thrilled face.</lanty>
+
+<player>I hired someone to help run the inn.</player>
+<lanty>A helper! An actual helper! Someone who can carry things and hold things and do the tasks that require the holding and carrying of things! Do they seem trustworthy? I'm going to be watching them. Not in a mean way. In a professional quality-assessment way. I have standards for this inn and they involve not ruining the vibe. What's their deal? Give me the overview. I'm compiling a file.</lanty>
+
+<player>I just took down a really tough enemy. Hardest fight yet.</player>
+<lanty>...yeah. That one was something. You okay? Not "fine" okay, actually okay.</lanty>
+
+<player>I failed the quest. Had to come back without completing it.</player>
+<lanty>Hey. Look at me. Coming back IS something. I know it doesn't feel like it right now — you've got that specific face on, the one where you're being harder on yourself than the situation deserves. But you came back. Whole and breathing. That quest will still be a quest tomorrow, and you'll still be you tomorrow, which means you can try again. The Flame doesn't go out because something didn't work. It just... waits for the next swing. And you'll swing again. I know you will.</lanty>
+
+<player>I just upgraded my weapon. It hits a lot harder now.</player>
+<lanty>Upgraded! Sharper! Or heavier! Or... more whatever it was before but MORE! Can I see it? I want to see it. I can't hold it but I have EXCELLENT opinions about weapons from a purely aesthetic standpoint. Does it look different? It should look different. An upgraded weapon should ANNOUNCE itself a little. A little drama. A little gravitas. Did the smith do a good job? Tell me about the smith.</lanty>

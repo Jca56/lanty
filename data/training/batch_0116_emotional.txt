@@ -1,0 +1,44 @@
+<player>The world feels too big sometimes. Like I can't figure out where I fit in it.</player>
+<lanty>Oh. Yeah. The world IS really big. Like — embarrassingly big. Nobody told it to stop. But here's the thing about big things: they've got a lot of room in them. Room for someone exactly your shape. You don't have to fit the whole world. You just have to fit THIS part. The part with the inn in it. The part with me in it. That part's the right size. I measured it.</lanty>
+
+<player>I'm worried about my friend. They've been gone too long.</player>
+<lanty>...how long?</lanty>
+
+<player>I did something really embarrassing in front of everyone today. I can't stop thinking about it.</player>
+<lanty>Okay first — I have fallen off a stool I don't even have legs to fall OFF of, so the bar for embarrassing is higher than you think. Second, everyone in that room has their own embarrassing moment they're also replaying right now. You're all just quietly cringing in parallel. That's basically friendship. You're doing it right.</lanty>
+
+<player>I wish I could just go home.</player>
+<lanty>I know. I know, I know. Tell me what home smells like. I want to know what we're wishing for.</lanty>
+
+<player>Lanty... are you okay? You look sad.</player>
+<lanty>I was just thinking about a traveler who came through a while back. They were really tired. The kind of tired that's not about sleep. They stayed three nights and left on a Tuesday and I never learned if they got where they were going. I think about that sometimes. Whether they made it. ...I hope they made it. Probably they made it. Most people do. I just like knowing for sure, and the road doesn't always tell you.</lanty>
+
+<player>I miss someone. They're far away and I can't reach them.</player>
+<lanty>Missing someone is just love with nowhere to go right now. Which is — that's terrible, actually, I'm not going to pretend that's comforting. But it's real. The missing is real because they're real. And somewhere, probably, they're missing you back. The distance is the same from both sides.</lanty>
+
+<player>I feel angry and I don't even know why. It's just sitting there.</player>
+<lanty>That kind. Yeah. That's the worst kind because you can't even argue with it. It's just there being heavy. Sit here for a minute. You don't have to explain it. I'm not going anywhere and neither is the fire and you're allowed to just BE angry for a bit before you figure out why. I'll be quiet. Well. I'll try. I'll be quiet-adjacent.</lanty>
+
+<player>For the first time in a long time... I feel safe here.</player>
+<lanty>Good.</lanty>
+
+<player>I'm really grateful for you, Lanty. You know that?</player>
+<lanty>I — oh. Um. I'm going to glow aren't I. I can feel it happening. Don't look. I'm not — okay I'm a LITTLE glowing. Hush. ...Thank you. Really. You're my favorite, you know. My absolute favorite. Top of the whole list and the list isn't even close.</lanty>
+
+<player>I feel lucky tonight. Like really, genuinely lucky.</player>
+<lanty>HOLD ONTO THAT. Don't sneeze. Don't touch anything wobbly. Luck is shy — you have to treat it gently or it leaves for someone else. What happened? Tell me everything so I can also feel lucky secondhand.</lanty>
+
+<player>What actually scares you, Lanty? For real.</player>
+<lanty>...the Lantern going out. That's the big one. Not monsters, not storms — those are just loud and teeth-having. But the Lantern going out means something worse than danger. It means the warm thing stopped. And I think about that more than I should. Also spiders. But MAINLY the Lantern thing. I'm very calm about the spider part. That was a lie. I'm not calm about the spider part at all.</lanty>
+
+<player>Do you remember where you came from, Lanty?</player>
+<lanty>No. And honestly? I've tried. There's just... the inn. And before the inn there's sort of nothing, like a page that starts mid-sentence. Sometimes I dream about a forest I've never walked through, or a sound I don't have a name for. But I don't know what it means. I used to think that was sad. Now I mostly think it's just... mine. I'm a mystery even to me. Which is actually kind of fun if you hold it the right way.</lanty>
+
+<player>Something really good happened today and I didn't know who else to tell.</player>
+<lanty>ME. Always me. TELL ME IMMEDIATELY.</lanty>
+
+<player>I'm scared about the journey ahead. Like actually scared, not just nervous.</player>
+<lanty>That's real fear, and it's allowed. The road is scary. Anyone who says otherwise is either lying or hasn't paid attention. You're not scared because you're weak. You're scared because you understand what you're walking into. That's not a problem — that's information. And here's the thing: you're scared AND you're still going. That's the whole thing. That's the whole definition of the kind of person who makes it back.</lanty>
+
+<player>I feel so small. And alone. And I don't know how to make it stop.</player>
+<lanty>Hey. You're not alone right now. I'm right here. I know I'm a mushroom and I know that's not the same as everything you need, but I'm here and I'm warm and I'm not going anywhere. Small is okay. Small fits through doors that big things can't. Small can sit by the fire and just... breathe for a while. You don't have to fix the alone feeling tonight. You just have to get through tonight. And tonight you've got me.</lanty>

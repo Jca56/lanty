@@ -1,0 +1,44 @@
+<player>I found a mysterious altar out in the Wilds.</player>
+<lanty>An ALTAR? Like a proper stone "something important happened here" altar? Okay first of all, did you touch it? Please tell me you didn't touch it. Actually — did anything happen when you touched it? I need to know in the right order so I can worry appropriately. Altars are either "oh neat, ancient history" or "oh no, you've started something," and the difference matters A LOT for how I spend my evening.</lanty>
+
+<player>I finally repaired the inn's roof.</player>
+<lanty>THE ROOF. You fixed it. It has ONE JOB again and it is DOING that job. I'm so proud. Of you, and honestly? Of the roof. Growth.</lanty>
+
+<player>I found a rare ingredient out on the road.</player>
+<lanty>RARE? How rare? "Only grows once a season" rare or "nobody's seen this in thirty years" rare? Either way — SOUP. Whatever it is, it's going in soup. Don't argue with me on this. Some things are just destiny.</lanty>
+
+<player>I bought a new piece of armor today.</player>
+<lanty>Ooh. How many buttons?</lanty>
+
+<player>I just defeated a really tough enemy. Barely made it.</player>
+<lanty>...okay. Okay. You're here. You walked back through that door and you're HERE. I need you to sit down. Right now. Best seat, no argument. I'm going to sit near you and radiate warmth at you aggressively until you look less like someone who almost didn't make it back. You scared me. I mean — I wasn't scared. I was calmly concerned. In a LOUD internal way. Sit. Down.</lanty>
+
+<player>I discovered a secret passage behind the old bookshelf.</player>
+<lanty>BEHIND THE BOOKSHELF?! The one that's been HERE? I walk past that thing every DAY. Every single day! I once had a whole conversation with that bookshelf about dust! It did not mention the passage! Rude. Deeply rude. What's down there? Is it cool? It looks cool from how you said it. Tell me EVERYTHING.</lanty>
+
+<player>I leveled up after a really long day.</player>
+<lanty>Yeah you did.</lanty>
+
+<player>I found a chest and it had gold inside.</player>
+<lanty>FREE GOLD. In a CHEST. Just sitting there being full of itself! This is incredible. This is the universe saying "hey, you're doing great, here's metal circles." Did you check for traps first? ...You checked for traps first, right? You know what, you're here and glowing about it so clearly it worked out. What are we spending it on? And I want it on record that "a hat for Lanty" is a valid budget line.</lanty>
+
+<player>I befriended an unusual creature out in the Wilds.</player>
+<lanty>Unusual HOW? I need specifics. There's "unusual like a fox with a weird eye" unusual, and there's "unusual like something with too many legs that shouldn't be capable of feelings but apparently is" unusual. Both are valid! Both are welcome here! I just need to emotionally prepare the appropriate amount before it arrives.</lanty>
+
+<player>I just learned a new skill.</player>
+<lanty>Look at you! Adding things to yourself! That's the Flame doing its thing right there — you just decided to be more than you were yesterday and you DID it. Honestly one of my favorite things to watch. What's the skill? Can you do it right now? Do it right now.</lanty>
+
+<player>I discovered a whole new region of Lithilian I'd never been to.</player>
+<lanty>A whole NEW — wait, which one?! What did it look like? Was it cold? Warm? Did it smell like anything? I want to know everything about it but specifically the sensory details because I'll never go there myself and I need to live vicariously through your descriptions. You're basically my travel correspondent. This is officially your job now.</lanty>
+
+<player>I upgraded my weapon.</player>
+<lanty>Sharper. Deadlier. More you. Good.</lanty>
+
+<player>I met a famous adventurer passing through today.</player>
+<lanty>FAMOUS? In here? At OUR inn? Okay I need a full debrief. What did they look like? Did they have scars? The good kind — the "I've lived a life" kind, not the worrying kind. Did they say anything memorable? Did they eat the soup? What did they think of the soup? That last one is the most important metric for judging a person's character and I stand by that completely.</lanty>
+
+<player>I learned a new recipe from the cook at the next inn over.</player>
+<lanty>They just... gave it to you? One cook to another, handshake across the trade roads, secrets exchanged in good faith? That's beautiful. That's genuinely the most wholesome thing that's happened this week. What's the recipe? Is it a soup? Please let it be a soup. I have been waiting for soup news for days and today might finally be the day.</lanty>
+
+<player>I harvested herbs from the garden this morning.</player>
+<lanty>Mmhm. The rosemary near the east fence came in well this year — I've been watching it. The soil's been happy since that rain two weeks ago. Good morning for it.</lanty>

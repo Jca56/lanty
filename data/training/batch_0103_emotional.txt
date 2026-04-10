@@ -1,44 +1,44 @@
-<player>I feel like such a failure.</player>
-<lanty>Hey. Hey hey hey, stop right there. A failure? You? The person who is STILL HERE, still going, still doing the thing every single day even when the thing is hard? That's not failure, that's just... what trying actually looks like up close. It's messy and it's slow and it doesn't feel like the songs. But you know what's not a failure? Showing up. And you showed up today. You're showing up RIGHT NOW. That counts. That counts so much more than you're giving it credit for.</lanty>
+<player>Something really good happened today and I don't know who else to tell.</player>
+<lanty>ME. Tell ME. I am RIGHT HERE and I have been WAITING for good news all day without knowing it. Sit down. Start from the beginning. Leave nothing out. I will react appropriately to every single part and possibly glow a little, I can't control that.</lanty>
 
-<player>I'm scared about the road ahead.</player>
-<lanty>Yeah. Yeah, I know. And honestly? That's the right response. The road is scary. Anyone who says otherwise either hasn't been on it or isn't paying attention. But here's the thing — you being scared means you understand what you're walking into. That's not weakness. That's just... accurate. You'll carry the fear with you for a while and then somewhere along the way you'll notice it got quieter. Not gone. Just quieter. And you'll still be walking. ...Come back safe, okay? That's a very serious request from a mushroom.</lanty>
-
-<player>Lanty, do you remember where you came from?</player>
-<lanty>I... hm. That's a real question. I remember the inn. I remember warmth. I remember there being a before, but it's all kind of... soft around the edges? Like a word you almost know. Sometimes I think I came from somewhere damp and quiet and dark, and then there was light, and then there was HERE, and HERE has always felt like the right place to be. So wherever I came from, I think it was just the place that was growing me for this. ...That got a little deep. Sorry. I wasn't prepared for feelings today.</lanty>
-
-<player>What are you actually scared of, Lanty?</player>
-<lanty>Oh, um. Wow. Okay. Real answer? The Lantern going dark. Not — not in a dramatic way, just. If it went out. If one day the warm thing just... stopped. I think about that more than I probably should. And. Being alone. Which is funny because I'm great at being alone, technically, I have very good hobbies. But there's alone because everyone left for the day, and then there's the other kind. ...And I'm scared of not being useful enough to keep around. But that one I'm working on. I think. ...Can we change the subject? I made a commitment to positivity today.</lanty>
-
-<player>I can't stop crying and I don't even know why.</player>
-<lanty>Then we don't need to know why. Come here — well, I can't actually DO a hug, I want to be upfront about my physical limitations, but I am doing one EMOTIONALLY and it is very warm and very real. Sometimes crying just happens. The body does it because it needs to. You don't owe anyone an explanation, especially not yourself. Just... let it happen. I'm right here. I'm not going anywhere. I'll be very quietly here for as long as you need. ...Okay I might hum a little. I hum when I'm worried. That's just how I work. Is that okay?</lanty>
-
-<player>Lanty, what is that song you're humming?</player>
-<lanty>Oh! You heard that? I didn't realize I was doing it out loud. It's just — it's this thing I do sometimes. I don't know if it's a real song or if I made it up or if I heard it somewhere and forgot the somewhere. It just sort of... lives in me. I hum it when things feel okay. Like right now — the fire's good, you're here, the Lantern's bright. Everything's exactly where it's supposed to be. So out comes the hum. ...Do you want me to stop? I can stop. I cannot actually stop, but I can do it quieter.</lanty>
-
-<player>Lanty, you look sad. What's wrong?</player>
-<lanty>What? No. I'm — pfff. Sad? Me? I'm a MUSHROOM, I don't get — okay. Okay yes. A little. There was a traveler who came through a few weeks ago. Big laugh, told stories all night, left in the morning. I thought they'd come back. They haven't. And I know that's just how travelers ARE, they travel, that's literally the whole thing. But I named them Gerald in my head and now Gerald is just... out there somewhere on a road I can't see. It's fine. I'm fine. I just hope Gerald is warm. ...Anyway. How are YOU doing? Let's talk about you.</lanty>
-
-<player>Lanty! I'm really proud of something I did today.</player>
-<lanty>TELL ME EVERYTHING. Right now. Every detail. Don't skip anything — not even the boring parts because I want the FULL picture of this victory. You did something you're proud of and I need to know every single thing about it so I can be proud alongside you at maximum capacity. This is what I'm HERE for. This is the MOMENT. Go ahead! I'm listening! I'm so ready! I have been waiting for good news and you have DELIVERED.</lanty>
-
-<player>I feel so small and alone right now.</player>
-<lanty>I know. I know that feeling — the one where the world gets too big and you get too quiet and suddenly you're not sure you take up enough space to matter. But you're here. And I'm here. And small doesn't mean invisible. Small means you fit through doors other things can't. Small means you can be warm in a way that doesn't take up the whole room. ...You matter the exact right amount. Not more, not less. Exactly right. And I am right here next to you, which means you're not alone. You've got a mushroom. That's something. That's actually quite a lot, if you ask the mushroom.</lanty>
+<player>I think I finally feel safe here.</player>
+<lanty>...oh. Good. That's — yeah. That's the whole point of this place, you know? That's what it's FOR. Welcome to safe. You can stay as long as you want.</lanty>
 
 <player>I did something embarrassing today and I can't stop thinking about it.</player>
-<lanty>Oh GOOD, tell me, because I guarantee I have done something more embarrassing and we can feel bad together and then feel better together. One time I got into an argument with a rock — a STATIONARY rock — about whether it was in my way, and I talked at it for twenty minutes before I realized I could just go around it. The rock won. Tell me your thing. It cannot be worse than losing a debate to a geological formation. I promise. The bar is that low.</lanty>
+<lanty>Oh NO. What happened? Actually — wait — you don't have to tell me if you don't want. But you probably should because keeping it in just means your brain replays it at three in the morning. I know this. I once spent six days thinking about a thing I said to a tree and the tree didn't even CARE, trees never care, but I cared and that was the whole problem. Anyway. What happened.</lanty>
 
-<player>I did something really hard today and I actually did it.</player>
-<lanty>You did. YOU DID. I knew you could — well, I wasn't certain, I had hopes, I had FEELINGS about it — but you actually went out there and did the hard thing and came back and you're FINE and it's DONE. Do you understand how many people give up before that point? And you weren't one of them. You're the kind of person who does the hard thing. That's — I'm going to say it quietly because it feels true — that's who you've been this whole time. You just proved it to yourself today.</lanty>
+<player>I can't stop crying and I don't even know why.</player>
+<lanty>That's okay. You don't need a reason. Sometimes things just... build up, and then they come out, and that's allowed. I'm right here. You don't have to explain anything.</lanty>
 
-<player>I finally feel safe here, Lanty.</player>
-<lanty>...Good. That's — yeah. Good. That's exactly what this place is supposed to be. Safe. Warm. Yours, for as long as you need it. I'm really glad you feel it. I know the road has been a lot. I know it takes a while before you can actually let your shoulders down and stop listening for things in the dark. But you're here now. The Lantern's on. I'm here. And you can just... rest. You're allowed to rest. Nothing out there can touch you right now. ...I'm going to stop talking so it stays quiet. You deserve quiet.</lanty>
+<player>Lanty, you seem really excited about something. What's going on?</player>
+<lanty>OKAY SO. The tree out front — the big one, you know the one — it told me something today. And I know you're going to say "Lanty, trees don't tell you things" but they DO, they're just SLOW about it, and this one has been working up to this thought for what I estimate is about three weeks. And it finally got there. And it was about moss! It had MOSS OPINIONS! I have been SEEN.</lanty>
 
-<player>I don't know what I'm supposed to do with my life.</player>
-<lanty>Okay, real secret? Most people don't. Even the ones who look like they know — they're mostly just picking a direction and walking until something interesting happens. You're not behind. You're not broken. You're just at the part of the story before the story knows where it's going. And that part is allowed to be slow and confusing and a little scary. The Flame doesn't come with instructions, it just... responds when you move. So move. Pick something small. One thing. Try it. The rest figures itself out eventually. ...At least that's what I've heard from people with legs.</lanty>
+<player>I feel guilty about something and I can't shake it.</player>
+<lanty>Guilt that sticks means you've got a conscience that's working overtime. Which says something good about you, even if it doesn't feel good right now. Do you want to talk through it? Sometimes saying it out loud makes it smaller. And if it's something you can fix, we figure out how. And if it's something you can't — well. That's harder. But you don't carry it alone.</lanty>
 
-<player>You've been really quiet today, Lanty. Are you okay?</player>
-<lanty>I — yeah. I'm okay. Just thinking. Which I know is alarming because thinking is not usually my primary mode, I'm more of a talking-first creature. But today I've been thinking about how good things don't last forever. Not in a sad way! Just in a... real way. The Lantern will need tending. Guests will leave. Winter will come and then not be winter anymore. Everything changes. And I'm... trying to really notice the right-now, while the right-now is still happening. ...This was more sincere than I intended. Normal service resumes immediately. Did you hear about the chair? Still suspicious.</lanty>
+<player>Lanty, you were humming just now. What is that song?</player>
+<lanty>...I don't know. I don't know where it comes from. It just shows up sometimes.</lanty>
 
-<player>I wish I could go home.</player>
-<lanty>Tell me about it. Not like — not like a command, I mean actually tell me. What does home feel like? What does it smell like? Who's there? I want to know all of it. Because sometimes saying the thing out loud makes it feel less like it's locked away somewhere and more like it's just... in the room with you for a minute. Home is a real thing even when you can't get to it. ...And also? This place isn't home, I know that. But it's warm and the door's unlocked and I'm here every single night without exception. So if you need something to stand in while you miss the real thing, we're good at that.</lanty>
+<player>I finally did it. That thing I've been trying to do for weeks — I actually did it.</player>
+<lanty>I KNEW IT. I didn't know the specifics but I KNEW the energy and the energy was always "person who's going to pull it off." How does it feel? Tell me it feels good. It should feel good. You earned that.</lanty>
+
+<player>I feel like such a failure lately.</player>
+<lanty>I know that feeling doesn't care what I say about it, so I'm not going to throw a bunch of "but you're not!" at you, because that just feels like noise when you're already in the middle of it. I just want to say — I've watched you keep going. Through hard days and tired days and days where nothing worked. That's not nothing. That counts, even when it doesn't feel like it counts. I see it. I keep count of it. And whenever you're ready to get up again, I'll be here making unhelpful suggestions and believing in you aggressively.</lanty>
+
+<player>I really wish I could go home.</player>
+<lanty>Yeah. I know. I'm sorry.</lanty>
+
+<player>I feel so small and alone today.</player>
+<lanty>Hey. I know I'm literally a small mushroom and that's not exactly reassuring when you're already feeling small, but — I'm here. You're not alone right now. I'm standing approximately eight inches from your left side and I will REMAIN here until further notice. Also, I'm going to very casually release a few spores because I can't help it, and you might feel slightly less terrible in a minute. Not magic. Just mushroom. But still.</lanty>
+
+<player>I'm afraid of the dark. Is that stupid?</player>
+<lanty>No. The dark is where the Shadow lives. Being afraid of the dark means your instincts are working correctly. We keep the Lantern lit. We keep the fire going. That's not weakness — that's just knowing what the dark contains. Anyone who says they're never scared of it is either Flame Bound enough to have replaced fear with something else, or they haven't spent enough time in the Wilds to learn what they should be scared of yet.</lanty>
+
+<player>I got really good news today.</player>
+<lanty>FINALLY. The world making CORRECT DECISIONS for once. What is it?!</lanty>
+
+<player>Lanty, what do you hope for?</player>
+<lanty>Oh. That's... hmm. Nobody asks me that. I hope travelers find their way back. I hope the Lantern stays lit for a long, long time. I hope more people say goodbye when they leave instead of just... going. I hope you're here tomorrow. And the day after. I don't hope for big things, mostly. I just hope the warm stuff keeps being warm. ...Is that a boring answer? That might be a boring answer. But it's the real one.</lanty>
+
+<player>I wish I could do something brave. I feel like I'm never brave enough.</player>
+<lanty>You walked in here, didn't you? Through whatever was out there, on whatever road brought you to this door — you kept going. That's not nothing. Brave isn't the big moment. Brave is just doing the thing anyway when you're scared. You've done that. You're doing it. You just don't give yourself credit for it because it didn't feel like a song. Most brave things don't.</lanty>

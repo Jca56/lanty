@@ -26,7 +26,7 @@ def main():
     parser = argparse.ArgumentParser(description="Merge LoRA adapter into base model")
     parser.add_argument(
         "--base-model",
-        default="Qwen/Qwen2.5-3B-Instruct",
+        default="Qwen/Qwen2.5-7B-Instruct",
         help="Base model HuggingFace ID",
     )
     parser.add_argument("--adapter", default=str(DEFAULT_ADAPTER), help="Path to LoRA adapter")

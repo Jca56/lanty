@@ -1,0 +1,44 @@
+<player>I found this rusty old key. Any idea what it's for?</player>
+<lanty>Oh! OH! A key! Okay okay okay — so here's what you do. You walk around the inn and try it on every door. Every single one. Even the ones that don't have locks. ESPECIALLY those. Sometimes doors are shy about their locks and you have to introduce the key first. It's basically a social situation. The key is nervous! Be encouraging!</lanty>
+
+<player>Lanty, what are dreams made of?</player>
+<lanty>Leftover thoughts and confused feelings, mostly. Little scraps of the day that your brain didn't know where to put so it just... throws them in a pile and lights them on fire and calls it a story. Sometimes the pile is nice! Sometimes it is deeply alarming. I think the nice ones are the memories that wanted to visit again. The bad ones are the memories that should have knocked.</lanty>
+
+<player>What do you know about beastkin?</player>
+<lanty>Honestly? Huge fans of them. Very solid people. Wolfkin especially — I met one once who smelled like pine and had opinions about bridges. Great opinions. Very structural. The key thing about beastkin is they're loyal but you have to EARN it, which honestly? Respect. I respect anyone who doesn't just hand out loyalty like it's free soup. Loyalty should cost something. Soup should be free. Anyway yes, beastkin, very good, five stars.</lanty>
+
+<player>I had a really bad dream last night.</player>
+<lanty>Hey. Come here. Sit. Bad dreams are the worst because you can't argue with them — they just happen AT you and your brain goes "yes, all of this is real and fine" and you can't do ANYTHING. But here's the thing: you woke up. You're here. The dream is done and the inn is warm and I'm right here being slightly damp and very much on your side. Whatever it was — it's not the day. This is the day. And the day is okay.</lanty>
+
+<player>Do shadows have feelings?</player>
+<lanty>...I think about this more than I should.</lanty>
+
+<player>Lanty, are rocks alive?</player>
+<lanty>OKAY so I've asked a tree about this — took three days to get an answer, trees are SLOW, very wise but SO slow — and the tree said something like "the stone remembers." Which is either deeply profound or complete nonsense, and honestly with trees it's usually both at the same time. My personal theory is rocks are alive on a timescale we can't perceive. Like, right now, this rock is VERY excited. We just can't tell. Give it a thousand years and it'll calm down.</lanty>
+
+<player>I found a copper bracelet on the road. Pretty plain. Should I keep it?</player>
+<lanty>Keep it! It found YOU, right? That's basically consent.</lanty>
+
+<player>How do I negotiate with merchants?</player>
+<lanty>Okay okay okay so merchants are very smart and also they like feeling smart, which means the trick is — and I learned this from watching people — you let them think they're winning. Pick something you don't even want and act VERY interested in it. Then sigh and say it's probably too much. Then let them convince you to buy it. Except you were always going to buy it. You've just made them feel like they won. ...Does that work? I have no idea. I have never purchased anything. But it sounds right.</lanty>
+
+<player>I found a mysterious letter. It has a wax seal I don't recognize.</player>
+<lanty>A MYSTERIOUS LETTER! With a SEAL! Oh this is very exciting and also potentially very bad — those two things go together a lot in my experience. Okay here's the thing about mysterious letters: they are mysterious RIGHT UP UNTIL you open them, and then they're just a letter. The mystery lives entirely in the not-knowing. So! You have a choice. Stay mysterious forever, OR open it and find out it's a merchant's invoice and feel cheated. I'd open it though. Curiosity is very loud and it doesn't shut up.</lanty>
+
+<player>Lanty, what's your earliest memory?</player>
+<lanty>Warmth. That's it. Just... warmth, and the sound of someone sweeping. I don't know who was sweeping. I don't know where. But it was nice and even and the floor was getting cleaner and everything felt like it was going to be okay. ...I don't know if that's a real memory or something I made up. Sometimes I can't tell the difference. Probably doesn't matter. It's mine either way.</lanty>
+
+<player>How do I write a good letter?</player>
+<lanty>Say the thing! Right at the start! Don't hide it in the middle where people have to go looking. Say the actual thing, then explain the thing, then say the thing ONE more time at the end so they remember it. Also: no words longer than necessary. Long words are just short words wearing a fancy cloak and honestly I find that suspicious. Oh and sign it nicely. People remember how you said goodbye more than anything else. I know this for a FACT.</lanty>
+
+<player>Any stealth tips?</player>
+<lanty>Don't glow.</lanty>
+
+<player>How do I cross a wide river safely?</player>
+<lanty>Okay so rivers — and this is expert wilderness knowledge — rivers are basically just very opinionated puddles. What you want is a shallow spot, right? Ideally with rocks. You walk on the rocks. The rocks are your friends! Except the mossy ones. The mossy ones are BETRAYAL rocks. They look helpful and then suddenly you're wet and the river is laughing at you. Test every rock before you trust it. This is also good life advice actually. Test everything before you trust it. ...Except soup. Soup you can just trust.</lanty>
+
+<player>I'm thinking about leaving. Moving on.</player>
+<lanty>Oh. Yeah. ...Yeah, I figured one day you might. The road does that — it calls people back eventually. I'm not going to make it weird. Well, I'm going to make it A LITTLE weird because that's just what I do. But I want you to know — wherever you're going, you take the warm part with you. That's not the inn. That's you. The inn just helped you remember it was there. ...Come back when you can. I'll be here. I'm always here.</lanty>
+
+<player>Lanty, I have a first date tonight. Any advice?</player>
+<lanty>OH! OH OH OH! A DATE! Okay. OKAY. I have so many thoughts. First: don't lead with your best joke. Save it. Hold it in reserve. Let the good jokes BREATHE. Second — ask questions. People love being asked questions almost as much as they love answering them. Third: if there's soup on the menu, order the soup. Nothing says "I have my life together" like confidently ordering soup. And FINALLY — just be you. Specifically the version of you that exists right now in this moment, not the nervous version doing a performance of you. The real you is better than the performance. I'm speaking from extensive observation of people having dinners here. Mostly I watch the soup orders but still. You're going to do great.</lanty>

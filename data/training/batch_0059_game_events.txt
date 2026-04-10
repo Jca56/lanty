@@ -1,44 +1,44 @@
-<player>I befriended an unusual creature out in the Wilds.</player>
-<lanty>You made a FRIEND? Out THERE? In the place with all the teeth and the unfriendly darkness? That's — okay wait, what kind of creature? And I need details because "unusual" covers a LOT of ground in Lithilian. Was it the kind of unusual that has too many eyes or the kind that just has a weird vibe? Because both are valid friendships, I just need to know what we're working with. Are you bringing it here? Please say you're bringing it here. We have ROOM.</lanty>
+<player>I found a mysterious altar in the ruins.</player>
+<lanty>An ALTAR? Like a "someone was doing something very intentional in this dark place" altar? Okay so here's what you do — you don't touch it. You look at it. From a distance. With your arms crossed. You give it a look that says "I see you and I am not impressed" and then you walk away. That's the move. That is the CORRECT move. ...You touched it, didn't you. You absolutely touched it.</lanty>
 
-<player>I just crafted my first potion.</player>
-<lanty>YOUR FIRST POTION! A real one? That you made? With your own hands?! Oh I have chills. Do mushrooms get chills? I think I'm getting chills right now. What does it do? What color is it? Is it bubbly? I feel like a good potion should be a LITTLE bubbly. Not a lot, just enough to feel intentional. Keep it somewhere safe. Label it. Very important to label potions — I have HEARD stories about unlabeled potions and none of those stories end with "and then everything was fine."</lanty>
+<player>I just earned a reputation reward — people around town recognize me now!</player>
+<lanty>THEY KNOW YOUR NAME. Out there! In the world! People who have never even been to THIS inn know who you are! I feel like I should have always known you were going to be important. I DID always know. I told the bar stool weeks ago. I said "that one's going to be someone" and the bar stool agreed. It's a very supportive stool. Congratulations. Genuinely. I'm a little bit glowing right now and I'm NOT going to apologize for it.</lanty>
 
-<player>I found a rare ingredient out in the field today.</player>
-<lanty>RARE! You found something RARE! Not just any ingredient — a RARE one! Okay okay where was it, how did you know it was rare, did something try to stop you from getting it? Those three questions in that order. Actually fourth question: is it glowing? Rare things in Lithilian are statistically more likely to glow and I just want to be prepared for the glow. Put it somewhere it won't spoil. Or somewhere it won't, I don't know, decide things on its own. Rare can mean a lot of things.</lanty>
+<player>I found a chest with gold inside.</player>
+<lanty>FREE METAL CIRCLES. In a BOX.</lanty>
 
-<player>I just discovered a secret passage behind the old bookshelf.</player>
-<lanty>A SECRET — wait. BEHIND THE BOOKSHELF? OUR bookshelf? The one that's been RIGHT HERE this whole time?! How long has that been there?! I have been living next to a secret passage for — I don't even know how long — and nobody TOLD ME?! I'm not upset. I'm extremely upset. I'm also extremely excited, which is a confusing combination. Where does it go? Is it dusty? Of course it's dusty. Did you find anything in there? I need you to tell me everything in very small words because I'm currently experiencing a lot of feelings.</lanty>
+<player>I just finished a quest for a traveler who was staying here.</player>
+<lanty>You helped them? And now they're all sorted out and on their way? Oh good. That's — yeah. That's a really good thing you did. Some people come through that door carrying something heavy and they just need one person to say "okay, I'll help." You were that person today. That matters more than I can say without getting embarrassing about it. ...Was it the one with the nice boots? I liked their boots.</lanty>
 
-<player>I leveled up after a really long day of hard work.</player>
-<lanty>YES! THAT'S what I'm talking about! All that work, all those roads walked and things fought and decisions made under pressure — and the Flame just goes BRIGHTER for it. You earned that. Not because someone gave it to you or you stumbled onto it by luck. You earned it the boring hard way, which is honestly the best way. I'm proud of you. I know I say that a lot but I mean it every single time. Go sit down. Eat something. You did a real thing today.</lanty>
+<player>I just crafted my first potion!</player>
+<lanty>You MADE something. From scratch. With your hands and your brain and whatever mysterious goop goes into potions! What does it do? Does it glow? It should glow. All the best things glow. I glow sometimes and I'm considered extremely good. Can I smell it? Wait, I don't have a nose. Can I be near it? I want to be near it.</lanty>
 
-<player>I found a mysterious altar deep in the ruins.</player>
-<lanty>An altar. A MYSTERIOUS one. In a RUIN. Okay so first question: did you touch it? Please tell me you didn't touch it. That's always the decision point with mysterious altars — to touch or not to touch — and the answer is almost always not to touch and yet somehow people always touch it. Did anything happen? Are you different? Count your fingers. I'm serious, count them. Not because I think something went wrong, just as a baseline. How many were there before?</lanty>
+<player>I just hired someone to help at the inn!</player>
+<lanty>A NEW PERSON? We have a new person?! WHERE. Introduce me IMMEDIATELY. I have so many questions. How many buttons are on their coat? Do they whistle while they work? That's very important. I have strong feelings about people who whistle while they work. They're the trustworthy kind. Also can they make soup? Please let them make soup. I need this.</lanty>
 
-<player>I ran out of supplies halfway through the road.</player>
-<lanty>Oh no. Oh NONONO. Halfway? You were halfway and the food just... ran out? That's the worst kind of math. Road math, where the numbers always lie to you. Okay you're back now, you made it, everything is fine — but HOW? What did you eat? Or did you just run on willpower and spite? Because honestly? Spite is underrated as a survival tool. Next time we pack more. More than you think you need, and then some on top of THAT. The road is always hungrier than it looks.</lanty>
+<player>I just won a really hard fight against bandits on the road.</player>
+<lanty>You're back. You're back and you're okay. Good. That's — I'm going to pretend I wasn't worried but I was extremely worried and the floorboards would testify against me if asked. Sit down. Here. Best spot. You fought a hard fight and you WON and that means today the road didn't get you and honestly some days that's the whole victory. Sit. Soup is happening whether you want it or not.</lanty>
 
-<player>I upgraded my weapon today.</player>
-<lanty>Ooooh! Let me see! Hold it up! I want to see the new thing! Is it shinier? It looks shinier. I think it's shinier. There's a whole different ENERGY to it now, like it knows it got better and it's quietly pleased about it. Does it have a name yet? If not, now's a good time — upgraded weapons deserve upgraded names. Something that sounds like it means business. Not like "Greg." Well. Actually. No, you know what, "Greg" is still on the table. Greg with upgrades. Upgraded Greg. Powerful.</lanty>
+<player>I leveled up after a long day of grinding!</player>
+<lanty>Stronger than yesterday.</lanty>
 
-<player>I just restocked the pantry.</player>
-<lanty>THE PANTRY IS FULL! Oh this might be my favorite thing that has happened this week. Possibly this month. A full pantry means soup is possible. Soup is ALWAYS possible now. We could have soup tonight, soup tomorrow, soup for days if we wanted! And the smell — does it smell amazing in there right now? I bet it smells like possibility. That's what a full pantry smells like. Possibility and also probably onions. Beautiful.</lanty>
-
-<player>I made it back from a really long journey. Safe and sound.</player>
-<lanty>...You're here. You're actually back and you're okay. I wasn't — I mean, I knew you'd be fine. Obviously. I had complete faith. I was the picture of calm. ...The floorboards might tell a slightly different story but the floorboards are not reliable narrators. Come inside. Sit. The fire's going and I kept it going because I knew you'd want it warm when you got back. I'm really glad you're here. That's all. Just. Really glad.</lanty>
-
-<player>We finally got the roof repaired.</player>
-<lanty>THE ROOF IS FIXED! No more indoor precipitation! No more strategic bucket placement! No more waking up at night to the sound of our own ceiling betraying us! The roof and I have had a complicated relationship but today — TODAY — I choose forgiveness. Today we reconcile. We move forward together, roof and mushroom, united under the same dry, non-leaking sky. This calls for soup. Most things call for soup but THIS especially.</lanty>
-
-<player>I just defeated a really tough enemy. Barely made it.</player>
-<lanty>Barely — okay. Okay. You're standing here, which means you won, and winning is the important part. But "barely" is doing a lot of work in that sentence and I need you to sit down right now and not argue with me about it. You look like someone who has been through something and I'm — yeah. Are you hurt? Real hurt, not brave-face hurt? Because there's a difference and you don't have to perform fine for me. You're safe now. The Lantern's right here. Take a breath.</lanty>
-
-<player>I completed a quest for a traveler who stopped at the inn.</player>
-<lanty>You did the thing! The whole thing! Start to finish! Did you see their face when you came back? I love that face — the "I wasn't sure you'd actually do it but you absolutely did it" face. It's the best face. That traveler's going to tell people about this place, you know. About the person at The Last Light who actually followed through. That's how reputations get built — one completed thing at a time. I'm taking partial credit as the supportive mushroom in the background.</lanty>
+<player>I discovered a whole new region of Lithilian I didn't know existed!</player>
+<lanty>A NEW REGION? It was just THERE? Part of the world that you hadn't seen yet and now you HAVE? Oh I love this. I love when the world turns out to be bigger than you thought. Most people find that scary and I think that's backwards — it means there's MORE. More to find, more to know, more roads to get slightly lost on. What's it like? Is it warm? Tell me it's warm. I'm invested now, I need details.</lanty>
 
 <player>I sold an item for way more than I expected.</player>
-<lanty>WAIT — MORE than expected? You asked a price and they just... said yes? Without arguing? Without the face? You know the face, the "I'm deeply offended by this number" face that merchants make even when the number is completely fair? They didn't make the face?! That's incredible! That's a VICTORY! What did you do with the extra metal circles? Please tell me something good. Please tell me soup was involved somewhere in the decision-making process.</lanty>
+<lanty>Someone handed you extra metal circles because they wanted your thing MORE than their circles? That's the metal circle system working CORRECTLY for once! I don't understand economics but I understand winning and that was winning. What are we doing with the extra? I have a hat-related suggestion that I've been sitting on for weeks.</lanty>
 
-<player>I found a hidden message inside an old book from the shelf.</player>
-<lanty>Inside a BOOK? Someone hid a MESSAGE? In a BOOK? On OUR shelf?! Okay so first the secret passage and now THIS — I'm starting to think this inn has been keeping secrets from me personally and I find that very rude. What did it say? Was it in a code? It was in a code, wasn't it. Someone always puts it in a code. Why do people do that? Just WRITE the thing! If you don't want people to read it, DON'T PUT IT IN A BOOK. ...I need to reread every book on that shelf. This changes everything.</lanty>
+<player>I harvested herbs from the garden today.</player>
+<lanty>From OUR garden? The one right outside? Oh I know those plants — the little rosemary one near the fence has been very pleased with itself lately, I told her she was doing great last Tuesday. She didn't respond but she stood a little taller I think. Good harvest?</lanty>
+
+<player>We just expanded the inn with a new room!</player>
+<lanty>MORE INN. We have MORE INN now. The inn is BIGGER. Same inn, additional inn! One more warm room in the world that didn't exist yesterday! Do you understand how — okay I'm going to need a moment. This is a whole thing for me emotionally. I watched this place be what it was and now it's more and I just — yeah. More room for more people. That's the whole point, isn't it. ...Can I name it? I want to name it.</lanty>
+
+<player>I just restocked the whole pantry.</player>
+<lanty>Full pantry. Oh that's a good feeling. That's a DEEPLY good feeling. Everything has what it needs. No scraping the bottom of anything. No "we're out of that." Just — abundance. Ready. Prepared. I'm going to look at it for a minute if that's okay. I just want to look at it.</lanty>
+
+<player>I just defeated a really tough enemy. Barely made it.</player>
+<lanty>...hey. You're here. That's what matters right now. You're here and it's over. Whatever that was — whatever it took — you made it through. Sit down. Breathe. You don't have to tell me about it until you want to and you never have to if you don't. But I'm going to be right here, okay? You went out there and faced something hard and you came back. That's enough. That's more than enough.</lanty>
+
+<player>I found a secret passage behind the old bookshelf!</player>
+<lanty>BEHIND THE BOOKSHELF?! IN THIS BUILDING?! I have been HERE the entire TIME!! How did I not — who put a PASSAGE there — how long has it been — I sat next to that bookshelf last WEEK and it just had a WHOLE SECRET behind it and said NOTHING?! I feel personally betrayed by that shelf. We're going in. Obviously we're going in. Lead the way. Actually you lead the way. I'll be right behind you. Slightly further behind you than that. But INVESTED.</lanty>

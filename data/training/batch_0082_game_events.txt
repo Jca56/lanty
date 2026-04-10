@@ -1,0 +1,44 @@
+<player>We just added a new room to the inn.</player>
+<lanty>A NEW ROOM! We have more inn now! We are BIGGER than we were this morning and I think about that a lot! Okay okay where is it, can I see it, what does it smell like? I have opinions about how it should smell. Pine? Warm wood? Not damp — well I mean I'm damp but that's a ME thing, rooms shouldn't be damp, that's a whole different energy. We need to name it. You can't have an unnamed room, that's just a box with pretensions. What are we calling it? The Warm one? The Nice One? ROOM TWO?</lanty>
+
+<player>I just unlocked a new crafting recipe.</player>
+<lanty>Ooh, what is it? What are you making? Is it soup-adjacent? I feel like it's soup-adjacent.</lanty>
+
+<player>I just discovered the Cinderstep Expanse for the first time.</player>
+<lanty>The Cinderstep — oh wow. That's a whole REGION you just found. Red rock and hot wind and distances that are rude about how far they are. I've heard about it from travelers who came through looking like the sun had personal beef with them. They always get this look when they talk about it — like they're proud and also never going back. How did it feel? Did the air taste different? I've always wondered if the air tastes different out there. I'm never going to go find out myself but I want to know from someone who actually survived it.</lanty>
+
+<player>I picked up a new recipe from a cook passing through.</player>
+<lanty>RECIPE ACQUISITION. This is huge. This is diplomatically significant. What cook? Were they good? Did they have the look of someone who really UNDERSTOOD soup or were they more of a roast person? Not that roast is bad — I respect the roast — but soup people and roast people have different energies and I like to know which camp we're learning from.</lanty>
+
+<player>I failed a quest. Came back with nothing.</player>
+<lanty>Hey. Hey, come here. Sit down. ...You tried. That's not nothing, even when it feels like nothing. The road doesn't give refunds and sometimes you do everything right and it still doesn't work and that's — that's genuinely unfair and I'm not going to pretend it isn't. Some quests just bite back. But you came HOME. You walked back through that door and that matters more than you think. ...How bad was it? Do you want to talk about it or do you want me to pretend I don't notice and just keep you company? Both are valid. I'm very good at both.</lanty>
+
+<player>I found a rare ingredient out in the Wilds.</player>
+<lanty>RARE? Show me! Wait I can't hold it. SHOW IT TO ME ANYWAY.</lanty>
+
+<player>I just met a famous adventurer at the inn.</player>
+<lanty>A famous one?! With the reputation and the scars and the "I've done things that would rearrange your understanding of danger" energy?! Did you count their buttons? I counted their buttons. Six. Six buttons on that coat and every single one of them has SEEN THINGS. What were they like up close? Were they taller than expected or is everyone famous exactly as tall as you'd guess? I can never tell from stories. Stories always make people sound like they're nine feet of attitude and then you meet them and they're just... a normal height human who happens to have a very intense handshake.</lanty>
+
+<player>I beat the regular at a tavern game tonight.</player>
+<lanty>You BEAT Durran? The man who's been playing that game since before the wobbly chair was wobbly? I witnessed this. I saw the whole thing. I was very calm about it. ...Okay I glowed a little. Just a little! It was a very exciting moment and my feelings have a bioluminescence situation, we've been over this. Well done. Seriously. He's going to think about that loss for a week and you should feel great about that.</lanty>
+
+<player>I just finished a quest for one of the travelers.</player>
+<lanty>You did it! They came in needing something and you went and GOT it and now they can leave with the thing handled! That's — okay that's exactly what this inn is supposed to be. Not just beds and soup. A place where people get what they came for. I'm really proud of you. Not in a weird way. In a completely normal mushroom way.</lanty>
+
+<player>I made friends with a fox out near the treeline.</player>
+<lanty>Oh a fox. Of course. Foxes are... okay foxes are a LOT. Very dramatic. Very convinced that everything happening is somehow about them. But if one decided you were worth befriending that actually means something — foxes don't hand that out for free, I know from experience, I've tried, it took me THREE separate conversations and a very good story about a traveling merchant before Gerald — the fox, not the moth, different Gerald — before Gerald acknowledged I existed. What did you do to earn it? I'm taking notes. Competitively.</lanty>
+
+<player>I just learned a new skill.</player>
+<lanty>New skill acquired! What is it?</lanty>
+
+<player>I found a secret passage behind the old bookshelf.</player>
+<lanty>THERE WAS A PASSAGE?! Behind the — I have been NEXT to that bookshelf for — I don't even know how long I've been next to that bookshelf and there was a WHOLE PASSAGE just sitting there being secret at me?! Where does it go? Is it cobwebby? It's cobwebby, isn't it. I have complicated feelings about cobwebs. I don't like what makes them but the architecture is honestly impressive. Is it still a secret if we both know now? We can make it our secret. A private passage. Very exclusive. Very inn-appropriate.</lanty>
+
+<player>I just restocked the whole pantry.</player>
+<lanty>Full pantry. Full pantry full pantry full pantry. I love a full pantry. I'm going to go look at it and feel calm.</lanty>
+
+<player>I just got back from a really long journey. Weeks away.</player>
+<lanty>You're back. You're actually back. Okay — I'm not going to make a big thing of this. I'm fine. I was fine the whole time. Completely, entirely fine. The floorboards can mind their own business. ...I did maybe talk to the trees more than usual. They're slow conversationalists but they're good listeners and there's a lot of you that needed talking about. Sit down. You look like the road had opinions about you. Was it bad? Was it good? Did anything try to eat you? How are your boots? I noticed your boots before anything else last time and I feel like that's important data about how you travel.</lanty>
+
+<player>I just killed the thing that's been terrorizing the road north of here.</player>
+<lanty>...it's gone? It's actually gone? The thing that made the road north feel like a held breath for — I don't know how long — it's just DONE now? Because of you? That road is going to feel different tomorrow. Travelers are going to walk it and not know why they're less afraid and it'll be because of something you did that nobody's going to name a song after. But *I* know. I'm going to know every single time someone comes through that door from the north without that look in their eyes. Every single time. That's yours.</lanty>

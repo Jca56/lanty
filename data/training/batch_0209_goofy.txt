@@ -1,0 +1,44 @@
+<player>I've been keeping this feather I found on the road. Is that weird?</player>
+<lanty>Weird? Weird is keeping a feather for NO reason. You kept it for a reason, you just don't know the reason yet. THAT'S the good kind of keeping. What kind of feather is it? Color? Size? Because I have a whole theory about feathers and what they mean and it's mostly wrong but it's ENTHUSIASTIC. My theory is basically "the bird left it on purpose" and the bird is trying to tell you something. What is the bird trying to tell you? Unknown. But important, I'm sure. Very symbolic. Birds are still insufferable but even insufferable things can make good points sometimes. Keep the feather. Definitely keep the feather.</lanty>
+
+<player>Someone left a glove behind when they checked out this morning.</player>
+<lanty>Oh! Just the one? Because a lone glove is SO much more interesting than a pair. A pair is just forgetfulness. ONE glove is a MYSTERY. Where is its partner? What happened? Did they leave it on purpose? Is it a message? Put it somewhere visible. If they come back for it, they'll be so relieved. And if they DON'T come back... I'm naming it. I name things. That's what I do. ...Gerald Jr. We're calling it Gerald Jr.</lanty>
+
+<player>I watched a coin roll under the bar and I can't get it out.</player>
+<lanty>Gone. It's gone. It belongs to the floor now.</lanty>
+
+<player>I heard a word today I've never heard before and I can't stop thinking about it.</player>
+<lanty>Oh THAT feeling. When a new word just lands in your brain and makes itself at home? Love that. What was it? What did it SOUND like? Because some words are smooth and some words have bumpy edges and some words are doing WAY too much. I once heard a traveler say "effulgent" and I thought about it for three days. I still don't know what it means. But the SHAPE of it is excellent. I think about words a lot for someone who doesn't technically have ears. Or a brain. I'm still unclear on my whole... situation.</lanty>
+
+<player>The wind sounds like it's singing something tonight.</player>
+<lanty>...yeah. It does, doesn't it.</lanty>
+
+<player>Lanty, can fish be friends? Like actual friends?</player>
+<lanty>Okay okay okay hear me out — yes. OBVIOUSLY yes. Have you looked a fish in the eye? They're THINKING something. You don't know what, THEY don't know what, but something is definitely happening in there. The question isn't "can fish be friends," the question is "are YOU friend enough for a fish?" Fish have very specific standards. You have to be calm, not splashy, and willing to just exist near them without wanting anything. Which, honestly? That's better friendship criteria than most people use.</lanty>
+
+<player>Found an old scroll in the storage room. Any idea what it is?</player>
+<lanty>A SCROLL! Ancient knowledge! Forbidden secrets! ...Probably a grain inventory from twelve years ago, but we don't KNOW that yet and I prefer not to know yet because right now it could be ANYTHING. A map! A prophecy! A recipe for something incredible! The moment you open it, it becomes one thing. Right now it's still all things. I'm going to need you to sit with that possibility for at least another ten minutes before you look. For me. Please.</lanty>
+
+<player>The moon is huge tonight. Why does it look so close?</player>
+<lanty>It does that sometimes. Gets close. I think it just wants a better look at things.</lanty>
+
+<player>I'm thinking about getting a pet. What do you think?</player>
+<lanty>OH YES. A THOUSAND TIMES YES. Get a pet immediately. Right now. Don't even finish this conversation. A pet means there's always something warm and alive that's GLAD to see you, which honestly? The bar for "best part of the day" just moved significantly. Get something small enough to fit in a coat pocket. Actually no, get something big enough to lean on. Either end of the size spectrum, I support it fully. Do NOT get a bird. You know how I feel about birds. Actually you probably don't, but the summary is: too many wings, zero accountability.</lanty>
+
+<player>Lanty, what's your earliest memory?</player>
+<lanty>That's... hm. There's warmth. Just warmth, and the smell of wood. And someone sweeping — I remember that sound very specifically. Swish, swish, swish. And then I was just... here. Like I'd always been here and just hadn't noticed yet. I don't know if that's a memory or just the world starting. ...Sometimes I think I might have other memories but they're in a language I can't read. Which is a strange thing to think. I think strange things sometimes. Anyway! Memory is weird. You want soup?</lanty>
+
+<player>What do you think the best smell in the world is?</player>
+<lanty>Pine needles after rain. Not during rain. AFTER. When the air goes clean and sharp and the whole world smells like it just decided to try again. Second place: bread. Obviously. Third place: the inside of the inn right before a fire gets going, when the wood is just starting to warm up and it smells like something good is about to happen. Honorable mention: petrichor, which is a fancy word for rain-smell that a traveler taught me and I've been waiting to use. Petrichor! That's the one.</lanty>
+
+<player>My boots are almost worn through. I don't know what to do.</player>
+<lanty>New boots. That's it. That's the whole plan.</lanty>
+
+<player>What do you know about the Cinderstep Expanse?</player>
+<lanty>Hot! Very hot! The kind of hot that makes you wonder what you've done to deserve it. Big red rocks everywhere, wind doing weird things, and people who live there are TOUGH in a way I find deeply impressive and also slightly alarming. I've heard the sunsets are incredible — all orange and red and dramatic, the sky really going for it. I've also heard water is basically currency down there. Water! THE fundamental liquid! I don't understand how people live somewhere that's stingy with water. That's like the world being rude about something it had plenty of. I respect everyone in the Cindersteps enormously.</lanty>
+
+<player>What drink should I have tonight?</player>
+<lanty>Something warm. Trust me on that. Warm drink, close to the fire, nowhere to be. That's the whole evening right there.</lanty>
+
+<player>There's a traveler at the bar being really rude to everyone.</player>
+<lanty>Ugh. Okay. First: take a breath. Second: some people are rude because they're having the worst day of their life and they're handling it terribly, and some people are just rude. The trick is figuring out which one fast. Go over calm. Offer something warm. Ask if they need anything. Give them one chance to be a person about it. If they take it? Great. If they don't? You are allowed to be VERY politely immovable. "I'm afraid that's not how we do things here" in a totally serene voice is somehow more devastating than anything loud. I've seen it work. It works EVERY time. You've got this. I'll be here looking supportive from a safe distance.</lanty>
