@@ -98,10 +98,8 @@ pip install --quiet torch --index-url https://download.pytorch.org/whl/cu128
 pip install --quiet \
     transformers \
     peft \
-    trl \
     datasets \
     accelerate \
-    bitsandbytes \
     sentencepiece \
     protobuf
 echo "  Python packages installed."
@@ -126,10 +124,7 @@ $SSH ${LAMBDA_USER}@${INSTANCE_IP} bash -s <<EOF
 set -e
 cd ${REMOTE_DIR}
 source .venv/bin/activate
-# --no-quantize: use full bf16 LoRA. QLoRA (4-bit base) has known NaN issues
-# with newer torch/bnb versions. We have plenty of VRAM on Lambda anyway.
 python scripts/train_lanty.py \
-    --no-quantize \
     --base-model ${BASE_MODEL} \
     --epochs ${EPOCHS} \
     --batch-size ${BATCH_SIZE} \

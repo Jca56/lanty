@@ -24,6 +24,7 @@ Usage:
 import argparse
 import os
 import random
+import re
 import sys
 import time
 from concurrent.futures import ThreadPoolExecutor, as_completed
@@ -65,6 +66,45 @@ def pick_mode() -> str:
     return "goofy"
 
 
+BATCH_PATTERN = re.compile(r"^batch_(\d{4})_[a-z_]+\.txt$")
+
+
+def plan_batch_numbers(output_dir: Path, count: int, no_resume: bool) -> tuple[list[int], int, int]:
+    """Decide which batch numbers to use for `count` new batches.
+
+    Default: fill gaps in the existing 0000..max range first, then append
+    above the current max. Keeps numbering contiguous over time as crashed
+    or pruned batches get backfilled.
+
+    --no-resume: skip gap-filling and only append after max_existing. Never
+    overwrites existing files (would destroy training data).
+
+    Returns (batch_numbers, gaps_filled, new_appended).
+    """
+    existing = set()
+    if output_dir.exists():
+        for f in output_dir.glob("batch_*.txt"):
+            m = BATCH_PATTERN.match(f.name)
+            if m:
+                existing.add(int(m.group(1)))
+
+    if not existing:
+        return list(range(count)), 0, count
+
+    max_existing = max(existing)
+
+    if no_resume:
+        new = list(range(max_existing + 1, max_existing + 1 + count))
+        return new, 0, count
+
+    gaps = sorted(set(range(max_existing + 1)) - existing)
+    fill = gaps[:count]
+    remaining = count - len(fill)
+    new = list(range(max_existing + 1, max_existing + 1 + remaining))
+
+    return fill + new, len(fill), remaining
+
+
 def run_worker(client, system, job, output_dir):
     batch_num, mode, topics, count = job
     try:
@@ -94,6 +134,11 @@ def main():
         default="all",
         help="Which dialogue mode to generate (default: all)",
     )
+    parser.add_argument(
+        "--no-resume",
+        action="store_true",
+        help="Skip gap-filling, only append new batches after the highest existing number. Never overwrites.",
+    )
     args = parser.parse_args()
 
     api_key = os.environ.get("ANTHROPIC_API_KEY")
@@ -115,13 +160,18 @@ def main():
 
     system = build_system_prompt(personality, samples, lore)
 
+    batch_numbers, gaps_filled, new_appended = plan_batch_numbers(
+        output_dir, args.batches, args.no_resume
+    )
     jobs = []
-    for batch_num in range(args.batches):
+    for batch_num in batch_numbers:
         mode = pick_mode() if args.mode == "all" else args.mode
         topics = MODE_TOPICS[mode]
         jobs.append((batch_num, mode, topics, args.per_batch))
 
     print(f"\nGenerating {len(jobs)} batches with {args.workers} parallel workers...")
+    if not args.no_resume and gaps_filled > 0:
+        print(f"  Resume mode: filling {gaps_filled} gap(s), appending {new_appended} new")
     print(f"Estimated total: ~{args.batches * args.per_batch} dialogues")
     print(f"Output: {output_dir}/\n")
 
