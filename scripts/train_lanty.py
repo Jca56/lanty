@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-LoRA fine-tune Qwen2.5-3B-Instruct on Lanty dialogue data.
+LoRA fine-tune Qwen2.5-7B-Instruct on Lanty dialogue data.
 
 Uses HuggingFace transformers + peft directly (NOT trl's SFTTrainer, which
 has shown NaN gradient issues with newer torch/peft versions). We build the

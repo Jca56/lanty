@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Merge a trained LoRA adapter into the base Qwen2.5-3B-Instruct model
+Merge a trained LoRA adapter into the base Qwen2.5-7B-Instruct model
 and export the merged weights ready for GGUF conversion.
 
 The actual GGUF conversion happens via llama.cpp's convert_hf_to_gguf.py

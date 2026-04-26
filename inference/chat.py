@@ -2,7 +2,7 @@
 """
 Chat with Lanty locally using a quantized GGUF model via llama-cpp-python.
 
-Loads the trained Lanty model (Qwen2.5-3B-Instruct fine-tuned on Lanty data,
+Loads the trained Lanty model (Qwen2.5-7B-Instruct fine-tuned on Lanty data,
 quantized to Q4_K_M) and runs an interactive REPL with conversation history.
 
 Usage:

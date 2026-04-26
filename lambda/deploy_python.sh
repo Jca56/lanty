@@ -7,7 +7,7 @@ set -euo pipefail
 # Usage: ./deploy_python.sh <INSTANCE_IP>
 #
 # Uploads project, installs Python ML stack, runs LoRA fine-tuning
-# of Qwen2.5-3B-Instruct on Lanty data, builds llama.cpp, converts
+# of Qwen2.5-7B-Instruct on Lanty data, builds llama.cpp, converts
 # to GGUF, downloads everything back.
 # ============================================================
 
@@ -25,10 +25,10 @@ if [ $# -lt 1 ]; then
     echo "Usage: $0 <INSTANCE_IP>"
     echo ""
     echo "Environment variables:"
-    echo "  BASE_MODEL    HuggingFace model ID (default: Qwen/Qwen2.5-3B-Instruct)"
-    echo "  EPOCHS        Training epochs (default: 3)"
-    echo "  BATCH_SIZE    Per-device batch size (default: 4)"
-    echo "  GRAD_ACCUM    Gradient accumulation steps (default: 4)"
+    echo "  BASE_MODEL    HuggingFace model ID (default: Qwen/Qwen2.5-7B-Instruct)"
+    echo "  EPOCHS        Training epochs (default: 5)"
+    echo "  BATCH_SIZE    Per-device batch size (default: 2)"
+    echo "  GRAD_ACCUM    Gradient accumulation steps (default: 8)"
     echo "  LR            Learning rate (default: 2e-4)"
     echo "  QUANT         GGUF quantization type (default: Q4_K_M)"
     exit 1

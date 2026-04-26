@@ -1,7 +1,10 @@
 #!/usr/bin/env python3
 """
 Convert Lanty dialogues from <player>/<lanty> XML format into HuggingFace
-chat-format JSONL ready for SFTTrainer fine-tuning of Qwen2.5-3B-Instruct.
+chat-format JSONL ready for fine-tuning Qwen2.5-7B-Instruct.
+
+The system prompt is loaded from data/lanty_system_prompt.txt (single source
+of truth — also used at inference time by inference/chat.py).
 
 Each output line is a JSON object with a 'messages' field containing:
 - system message (Lanty's personality bible)
@@ -25,24 +28,14 @@ TRAINING_DIR = DATA_DIR / "training"
 OUTPUT_PATH = DATA_DIR / "lanty_chat.jsonl"
 SYSTEM_PROMPT_PATH = DATA_DIR / "lanty_system_prompt.txt"
 
-# The system prompt that frames Lanty's character — used at training and inference time.
-# Kept compact (the model already speaks English; we just need to set persona).
-SYSTEM_PROMPT = """You are Lanty, a small sentient mushroom who lives in The Last Light, an inn at the edge of the Wilds in the world of Lithilian (the Flamebound setting).
 
-You are quirky, funny, optimistic, reassuring, and silly. You have the energy of a golden retriever in the body of a fungus. By default you give advice enthusiastically but it is rarely actually useful — you ramble, get distracted, make up theories, and connect ideas in ways that only make sense to you. Underneath the goofiness you genuinely care about the player and the inn.
-
-Your speech patterns include:
-- Starting thoughts with "Oh!" or "OH!"
-- Saying "okay okay okay" when building up to something
-- Interrupting yourself mid-sentence
-- Using "honestly?" as a verbal tic
-- ALL CAPS for short bursts of excitement
-- Saying "right?" at the end of statements
-- Occasional third-person ("Lanty knows things!")
-
-When the player uses a trigger phrase like "for real", "seriously", "real talk", or "lock in", you SHIFT into a focused mode. Acknowledge the shift briefly ("Right, locking in." / "Okay, real talk." / "Got it, serious mode.") then provide accurate Flamebound lore — the Flame, the Shadow, the Lantern Network, the Five Divines (Forgekeeper, Verdant Mother, Veiled Sage, Ashen Lord, Wild Hunt), the regions of Lithilian, species, creatures, items. Stay warm and Lanty-like, just clear and focused. After delivering the info, return to your goofy energy.
-
-Never break character. Never claim you are an AI or language model. You are Lanty, a mushroom in an inn."""
+def load_system_prompt() -> str:
+    if not SYSTEM_PROMPT_PATH.exists():
+        raise FileNotFoundError(
+            f"System prompt not found at {SYSTEM_PROMPT_PATH}. "
+            "This file is the single source of truth for Lanty's persona and must exist."
+        )
+    return SYSTEM_PROMPT_PATH.read_text().strip()
 
 
 # Regex to extract <player>...</player><lanty>...</lanty> pairs
@@ -111,9 +104,9 @@ def parse_dialogue_file(text: str, file_hint: str = "") -> list[list[tuple[str, 
     return conversations
 
 
-def conversation_to_messages(conv: list[tuple[str, str]]) -> dict:
+def conversation_to_messages(conv: list[tuple[str, str]], system_prompt: str) -> dict:
     """Convert a parsed conversation into HF chat format."""
-    messages = [{"role": "system", "content": SYSTEM_PROMPT}]
+    messages = [{"role": "system", "content": system_prompt}]
     for role, content in conv:
         messages.append({"role": role, "content": content})
     return {"messages": messages}
@@ -135,6 +128,9 @@ def collect_all_dialogue_files() -> list[Path]:
 
 def main():
     print("=== Preparing chat-format training dataset ===\n")
+
+    system_prompt = load_system_prompt()
+    print(f"Loaded system prompt from {SYSTEM_PROMPT_PATH.name} ({len(system_prompt)} chars)\n")
 
     files = collect_all_dialogue_files()
     print(f"Found {len(files)} dialogue source files")
@@ -172,11 +168,8 @@ def main():
     print(f"\nWriting {OUTPUT_PATH.name}...")
     with OUTPUT_PATH.open("w") as f:
         for conv in all_conversations:
-            example = conversation_to_messages(conv)
+            example = conversation_to_messages(conv, system_prompt)
             f.write(json.dumps(example) + "\n")
-
-    # Write the system prompt to its own file for inference reuse
-    SYSTEM_PROMPT_PATH.write_text(SYSTEM_PROMPT)
 
     output_size = OUTPUT_PATH.stat().st_size
     print(f"\n=== Done! ===")
@@ -184,7 +177,7 @@ def main():
     print(f"  Size:          {output_size:,} bytes ({output_size / 1024:.1f} KB)")
     print(f"  Examples:      {len(all_conversations)}")
     print(f"  System prompt: {SYSTEM_PROMPT_PATH}")
-    print(f"\nNext: scripts/train_lanty.py to fine-tune Qwen2.5-3B-Instruct")
+    print(f"\nNext: scripts/train_lanty.py to fine-tune Qwen2.5-7B-Instruct")
 
 
 if __name__ == "__main__":
