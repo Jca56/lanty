@@ -106,9 +106,12 @@ def main():
         # Build messages for the API call
         messages = [{"role": "system", "content": system_prompt}] + history
 
-        # Generate response
+        # Generate response. Catch KeyboardInterrupt mid-stream so Ctrl-C
+        # stops Lanty mid-ramble; partial response is saved to history so
+        # the next turn has context for what was being said.
         print("Lanty: ", end="", flush=True)
         response_text = ""
+        interrupted = False
         try:
             stream = llm.create_chat_completion(
                 messages=messages,
@@ -118,21 +121,27 @@ def main():
                 max_tokens=args.max_tokens,
                 stream=True,
             )
-            for chunk in stream:
-                delta = chunk["choices"][0]["delta"]
-                if "content" in delta:
-                    text = delta["content"]
-                    print(text, end="", flush=True)
-                    response_text += text
-            print("\n")
-        except KeyboardInterrupt:
-            print("\n(interrupted)\n")
-            continue
+            try:
+                for chunk in stream:
+                    delta = chunk["choices"][0]["delta"]
+                    if "content" in delta:
+                        text = delta["content"]
+                        print(text, end="", flush=True)
+                        response_text += text
+            except KeyboardInterrupt:
+                interrupted = True
+                print("\n(interrupted — partial reply kept in history)")
+            print()
         except Exception as e:
             print(f"\nError: {e}\n")
             continue
 
-        history.append({"role": "assistant", "content": response_text})
+        if response_text:
+            history.append({"role": "assistant", "content": response_text})
+        elif interrupted:
+            # Nothing generated yet; drop the user turn so we don't poison context
+            history.pop()
+        print()
 
 
 if __name__ == "__main__":

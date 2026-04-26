@@ -34,6 +34,7 @@ from transformers import (
 
 PROJECT_ROOT = Path(__file__).parent.parent
 DATA_PATH = PROJECT_ROOT / "data" / "lanty_chat.jsonl"
+EVAL_PATH = PROJECT_ROOT / "data" / "lanty_chat_eval.jsonl"
 OUTPUT_DIR = PROJECT_ROOT / "models" / "lanty-qwen-lora"
 
 
@@ -118,6 +119,7 @@ def main():
         help="HuggingFace model ID for the base model",
     )
     parser.add_argument("--data", default=str(DATA_PATH), help="Path to training JSONL")
+    parser.add_argument("--eval-data", default=str(EVAL_PATH), help="Path to eval JSONL (optional)")
     parser.add_argument("--output", default=str(OUTPUT_DIR), help="Output directory for LoRA adapter")
     parser.add_argument("--epochs", type=int, default=5, help="Training epochs (default: 5)")
     parser.add_argument("--lr", type=float, default=1e-4, help="Learning rate (default: 1e-4)")
@@ -163,12 +165,21 @@ def main():
     print(f"  Vocab size: {tokenizer.vocab_size}")
     print(f"  Pad token id: {tokenizer.pad_token_id}")
 
-    # Dataset
+    # Datasets
     print("\nLoading dataset...")
     examples = load_examples(Path(args.data))
-    print(f"  {len(examples)} examples")
+    print(f"  Train: {len(examples)} examples")
     dataset = build_dataset(examples, tokenizer, args.max_seq_len)
     print(f"  Tokenized to {len(dataset)} sequences of {args.max_seq_len} tokens")
+
+    eval_dataset = None
+    eval_path = Path(args.eval_data)
+    if eval_path.exists():
+        eval_examples = load_examples(eval_path)
+        print(f"  Eval:  {len(eval_examples)} examples")
+        eval_dataset = build_dataset(eval_examples, tokenizer, args.max_seq_len)
+    else:
+        print(f"  Eval:  (no eval set at {eval_path}, skipping eval)")
 
     # Sanity check the first example
     first = dataset[0]
@@ -206,7 +217,7 @@ def main():
     print()
 
     # Standard HF TrainingArguments — no SFTTrainer, no surprises
-    training_args = TrainingArguments(
+    training_kwargs = dict(
         output_dir=args.output,
         num_train_epochs=args.epochs,
         per_device_train_batch_size=args.batch_size,
@@ -215,7 +226,7 @@ def main():
         warmup_steps=args.warmup_steps,
         logging_steps=args.logging_steps,
         save_steps=args.save_steps,
-        save_total_limit=2,
+        save_total_limit=3,
         bf16=True,
         max_grad_norm=1.0,
         lr_scheduler_type="cosine",
@@ -224,6 +235,16 @@ def main():
         remove_unused_columns=False,
         gradient_checkpointing=False,
     )
+    if eval_dataset is not None:
+        training_kwargs.update(
+            eval_strategy="steps",
+            eval_steps=args.save_steps,
+            per_device_eval_batch_size=args.batch_size,
+            load_best_model_at_end=True,
+            metric_for_best_model="eval_loss",
+            greater_is_better=False,
+        )
+    training_args = TrainingArguments(**training_kwargs)
 
     # Plain language modeling collator (we already padded + set labels manually,
     # so this just stacks the tensors)
@@ -236,6 +257,7 @@ def main():
         model=model,
         args=training_args,
         train_dataset=dataset,
+        eval_dataset=eval_dataset,
         data_collator=collator,
         callbacks=[NaNGuard()],
     )
