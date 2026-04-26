@@ -6,6 +6,9 @@ Uses HuggingFace transformers + peft directly (NOT trl's SFTTrainer, which
 has shown NaN gradient issues with newer torch/peft versions). We build the
 dataset manually with the chat template and use the standard Trainer.
 
+Full bf16 LoRA — no QLoRA. 4-bit base (bitsandbytes) has shown NaN issues
+with newer torch/bnb versions, and Lambda H100s have plenty of VRAM anyway.
+
 Designed to run on a Lambda Cloud GPU instance.
 
 Usage:
@@ -100,8 +103,6 @@ def main():
     parser.add_argument("--save-steps", type=int, default=100)
     parser.add_argument("--logging-steps", type=int, default=5)
     parser.add_argument("--seed", type=int, default=42)
-    # kept for compatibility with the deploy script — has no effect, full bf16 LoRA always
-    parser.add_argument("--no-quantize", action="store_true", help="(no-op, kept for compat)")
     args = parser.parse_args()
 
     print("=" * 60)
