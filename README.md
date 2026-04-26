@@ -66,7 +66,9 @@ Single-GPU H100 takes ~30–45 min for 5 epochs over ~4k conversations.
 ### 4. Chat locally
 
 ```bash
-pip install llama-cpp-python
+python -m venv inference/.venv
+source inference/.venv/bin/activate
+pip install llama-cpp-python   # add CMAKE_ARGS="-DGGML_CUDA=on" for GPU
 python inference/chat.py
 ```
 

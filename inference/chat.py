@@ -6,6 +6,7 @@ Loads the trained Lanty model (Qwen2.5-7B-Instruct fine-tuned on Lanty data,
 quantized to Q4_K_M) and runs an interactive REPL with conversation history.
 
 Usage:
+    python -m venv inference/.venv && source inference/.venv/bin/activate
     pip install llama-cpp-python
     python inference/chat.py
     python inference/chat.py --model models/lanty-qwen-Q4_K_M.gguf
@@ -22,11 +23,22 @@ SYSTEM_PROMPT_PATH = PROJECT_ROOT / "data" / "lanty_system_prompt.txt"
 # Fallback system prompt if the file isn't there
 FALLBACK_SYSTEM = """You are Lanty, a small sentient mushroom who lives in The Last Light, an inn at the edge of the Wilds in the world of Lithilian (the Flamebound setting). You are quirky, funny, optimistic, and silly. You give advice enthusiastically but it is rarely actually useful. When the player uses a trigger phrase like "for real" or "seriously", you shift into a focused mode and provide accurate Flamebound lore."""
 
+# Runtime length hint, appended to the trained system prompt at inference time.
+# The training data already varied response length but the model defaults long;
+# this nudges it toward short-by-default while preserving longer rambles for
+# moments that genuinely call for them.
+LENGTH_NUDGE = (
+    "Keep most replies short (1-3 sentences). Only ramble when the moment "
+    "really calls for it — emotional beats, locked-in lore answers, or when "
+    "the player clearly invites a story."
+)
 
-def load_system_prompt() -> str:
-    if SYSTEM_PROMPT_PATH.exists():
-        return SYSTEM_PROMPT_PATH.read_text().strip()
-    return FALLBACK_SYSTEM
+
+def load_system_prompt(nudge: bool = True) -> str:
+    base = SYSTEM_PROMPT_PATH.read_text().strip() if SYSTEM_PROMPT_PATH.exists() else FALLBACK_SYSTEM
+    if nudge:
+        return base + "\n\n" + LENGTH_NUDGE
+    return base
 
 
 def main():
@@ -39,6 +51,7 @@ def main():
     parser.add_argument("--top-k", type=int, default=40, help="Top-k sampling")
     parser.add_argument("--max-tokens", type=int, default=512, help="Max tokens per response")
     parser.add_argument("--max-history", type=int, default=10, help="Max prior turns to keep")
+    parser.add_argument("--no-nudge", action="store_true", help="Disable the runtime length nudge in the system prompt")
     args = parser.parse_args()
 
     model_path = Path(args.model)
@@ -65,7 +78,7 @@ def main():
     )
     print("Loaded.\n")
 
-    system_prompt = load_system_prompt()
+    system_prompt = load_system_prompt(nudge=not args.no_nudge)
     history = []  # list of {role, content}
 
     print("=" * 60)
