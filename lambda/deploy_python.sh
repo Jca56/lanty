@@ -74,9 +74,6 @@ eval $RSYNC \
     --exclude '__pycache__/' \
     --exclude '.git/' \
     --exclude 'lambda/' \
-    --exclude 'data/lore/' \
-    --exclude 'data/lanty_voice/' \
-    --exclude 'data/training/batch_*.txt' \
     --exclude 'scripts/.venv/' \
     --exclude 'models/*.gguf' \
     --exclude 'models/lanty-qwen-merged/' \
@@ -106,7 +103,7 @@ echo "  Python packages installed."
 python -c "import torch; print(f'  torch={torch.__version__} cuda={torch.version.cuda} avail={torch.cuda.is_available()}')"
 EOF
 
-# --- Step 5: Prepare chat dataset (if not already done) ---
+# --- Step 5: Build chat-format dataset (deterministic via seed=42) ---
 echo ""
 echo "[5/8] Building chat-format dataset..."
 $SSH ${LAMBDA_USER}@${INSTANCE_IP} bash -s <<EOF
