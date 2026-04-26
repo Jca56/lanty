@@ -28,12 +28,40 @@ from transformers import (
     AutoTokenizer,
     DataCollatorForLanguageModeling,
     Trainer,
+    TrainerCallback,
     TrainingArguments,
 )
 
 PROJECT_ROOT = Path(__file__).parent.parent
 DATA_PATH = PROJECT_ROOT / "data" / "lanty_chat.jsonl"
 OUTPUT_DIR = PROJECT_ROOT / "models" / "lanty-qwen-lora"
+
+
+class NaNGuard(TrainerCallback):
+    """Abort training if any LoRA gradient or parameter goes NaN.
+
+    Runs at the end of every logging step (cheap — only iterates trainable
+    params, which is 1-2% of total for LoRA). Catches NaN early so we don't
+    burn an H100 hour on a doomed run.
+    """
+
+    def on_step_end(self, args, state, control, **kwargs):
+        if state.global_step == 0 or state.global_step % args.logging_steps != 0:
+            return
+        model = kwargs.get("model")
+        if model is None:
+            return
+        for name, p in model.named_parameters():
+            if not p.requires_grad:
+                continue
+            if p.grad is not None and torch.isnan(p.grad).any():
+                print(f"\n!!! NaN gradient detected at step {state.global_step} in {name}. Aborting.")
+                control.should_training_stop = True
+                return
+            if torch.isnan(p).any():
+                print(f"\n!!! NaN parameter detected at step {state.global_step} in {name}. Aborting.")
+                control.should_training_stop = True
+                return
 
 
 def load_examples(path: Path) -> list[dict]:
@@ -209,6 +237,7 @@ def main():
         args=training_args,
         train_dataset=dataset,
         data_collator=collator,
+        callbacks=[NaNGuard()],
     )
 
     print("=" * 60)
