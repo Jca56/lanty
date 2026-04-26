@@ -114,4 +114,4 @@ Mode weights are set in `scripts/generate_training_data.py:MODE_WEIGHTS`.
 
 ## Version
 
-See `VERSION` for the current release. Tagged releases live on `master`.
+Current: **v0.4.0** — see `VERSION` for the live value. Tagged releases live on `master`.
