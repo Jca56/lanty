@@ -12,5 +12,8 @@ models/*.safetensors
 models/lanty-qwen-lora/
 models/lanty-qwen-merged/
 
+# Rust
+pet/target/
+
 # OS
 .DS_Store

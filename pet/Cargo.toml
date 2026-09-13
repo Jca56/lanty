@@ -1,0 +1,27 @@
+[package]
+name = "lanty-pet"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "lanty-pet"
+path = "src/main.rs"
+
+[dependencies]
+anyhow = "1"
+libc = "0.2"
+tracing = "0.1"
+tracing-subscriber = { version = "0.3", features = ["env-filter"] }
+
+wayland-client = "0.31"
+wayland-protocols = { version = "0.32", features = ["client", "staging"] }
+wayland-protocols-wlr = { version = "0.3", features = ["client"] }
+
+resvg = "0.45"
+tiny-skia = "0.11"
+usvg = "0.45"
+
+[profile.release]
+lto = true
+codegen-units = 1
+strip = true
